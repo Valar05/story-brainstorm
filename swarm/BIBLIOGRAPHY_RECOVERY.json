@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "parent_plan_hash": "sha256:60e75e8e7b10fa95a3998df51cc38ceddd43b3f759e873e1c68b6c700a5c6bf5",
+  "reason": "Packet B synthetic bibliography failed forensic provenance audit; replace acquisition method without changing product scope.",
+  "source_rule": "Accepted rows require an exact dated US edition <=1929 from a stable item record or title-page scan. Repository labels alone are supporting evidence, not clearance. Translation/editor layers must be identified.",
+  "shards": [
+    {
+      "id": "B1",
+      "strata": [
+        "adventure",
+        "fantasy",
+        "gothic",
+        "social"
+      ],
+      "works": 40,
+      "reserves": 8
+    },
+    {
+      "id": "B2",
+      "strata": [
+        "american",
+        "poetry",
+        "drama"
+      ],
+      "works": 30,
+      "reserves": 6
+    },
+    {
+      "id": "B3",
+      "strata": [
+        "world",
+        "modernist",
+        "theory"
+      ],
+      "works": 30,
+      "reserves": 6
+    }
+  ],
+  "merge": "B4 validates 100 accepted + 20 reserves, title/source uniqueness, exact 10x10 strata, breadth gates, and writes canonical works files.",
+  "forbidden": [
+    "No PG-search placeholders",
+    "No generated-summary publication years",
+    "No unidentified modern translations",
+    "No reuse of duplicate source URLs",
+    "No edits outside shard-owned files"
+  ],
+  "amendment_hash": "sha256:1ce3497c7089539c7cb9ee64b8f6391818bef2ab805cd3a6492759337f40c689"
+}
