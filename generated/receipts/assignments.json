@@ -1,0 +1,15 @@
+{
+  "plan_hash": "sha256:60e75e8e7b10fa95a3998df51cc38ceddd43b3f759e873e1c68b6c700a5c6bf5",
+  "status": "initialized",
+  "packets": {
+    "A": "pending",
+    "B": "pending",
+    "C": "pending",
+    "D": "pending",
+    "E": "pending",
+    "F": "pending",
+    "G": "pending",
+    "H": "pending",
+    "I": "pending"
+  }
+}

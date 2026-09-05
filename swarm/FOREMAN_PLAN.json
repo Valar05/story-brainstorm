@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "mission": "Build a standalone Thunder-style corpus engine for 100 pre-1930 written works and 1000 evidence-backed narrative primitive cards.",
+  "source_owner": {
+    "repo": "../thunder-brainstorm",
+    "commit": "3b739f0069e4fed5757f3874940ffb86a99c5929"
+  },
+  "hard_boundaries": [
+    "Do not modify Vernepunk or Thunder Brainstorm.",
+    "Do not copy Thunder Git history or project-specific payload.",
+    "Do not store full source texts.",
+    "Do not accept UNKNOWN rights or unresolved edition locators.",
+    "Do not create or push a remote."
+  ],
+  "targets": {
+    "accepted_works": 100,
+    "accepted_cards": 1000,
+    "max_excerpt_words": 25
+  },
+  "family_counts": {
+    "story": 300,
+    "speech": 200,
+    "character": 200,
+    "conflict": 100,
+    "structure": 100,
+    "contextual": 100
+  },
+  "packets": [
+    {
+      "id": "A",
+      "name": "scaffold",
+      "depends_on": [],
+      "unlocks": [
+        "core-ready"
+      ]
+    },
+    {
+      "id": "B",
+      "name": "bibliography",
+      "depends_on": [
+        "core-ready"
+      ],
+      "unlocks": [
+        "sources-ready"
+      ]
+    },
+    {
+      "id": "C",
+      "name": "engine",
+      "depends_on": [
+        "core-ready"
+      ],
+      "unlocks": [
+        "engine-ready"
+      ]
+    },
+    {
+      "id": "D",
+      "name": "extraction-contract",
+      "depends_on": [
+        "core-ready"
+      ],
+      "unlocks": [
+        "policy-ready"
+      ]
+    },
+    {
+      "id": "E",
+      "name": "extract-00-33",
+      "depends_on": [
+        "sources-ready",
+        "engine-ready",
+        "policy-ready"
+      ],
+      "unlocks": [
+        "shard-e-ready"
+      ]
+    },
+    {
+      "id": "F",
+      "name": "extract-34-66",
+      "depends_on": [
+        "sources-ready",
+        "engine-ready",
+        "policy-ready"
+      ],
+      "unlocks": [
+        "shard-f-ready"
+      ]
+    },
+    {
+      "id": "G",
+      "name": "extract-67-99",
+      "depends_on": [
+        "sources-ready",
+        "engine-ready",
+        "policy-ready"
+      ],
+      "unlocks": [
+        "shard-g-ready"
+      ]
+    },
+    {
+      "id": "H",
+      "name": "integration",
+      "depends_on": [
+        "shard-e-ready",
+        "shard-f-ready",
+        "shard-g-ready"
+      ],
+      "unlocks": [
+        "integration-ready"
+      ]
+    },
+    {
+      "id": "I",
+      "name": "independent-review",
+      "depends_on": [
+        "integration-ready"
+      ],
+      "unlocks": [
+        "acceptance-ready"
+      ]
+    }
+  ],
+  "receipt_required": [
+    "owner",
+    "status",
+    "commit",
+    "changed",
+    "checks",
+    "result",
+    "blockers",
+    "dependencies_unlocked",
+    "proposals"
+  ],
+  "plan_hash": "sha256:60e75e8e7b10fa95a3998df51cc38ceddd43b3f759e873e1c68b6c700a5c6bf5"
+}
