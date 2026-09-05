@@ -1,0 +1,34 @@
+{
+  "owner": "A-scaffold",
+  "status": "complete",
+  "commit": "PROSPECTIVE_HEAD_PACKET_A",
+  "changed": [
+    "README.md",
+    "PROJECT_ORIENTATION.md",
+    "story_brainstorm.py",
+    "schemas/work_record.json",
+    "schemas/evidence_ref.json",
+    "schemas/primitive_card.json",
+    "schemas/research_run.json",
+    "schemas/worker_receipt.json",
+    "data/works.json",
+    "data/primitive_cards.json",
+    "data/rights_policy.json",
+    "data/extraction_policy.json",
+    "tools/validate_schema.py",
+    "tools/doc_server.py",
+    "tests/test_scaffold.py",
+    "generated/receipts/A.json"
+  ],
+  "checks": [
+    "python -m unittest discover -s tests -v",
+    "python story_brainstorm.py --help",
+    "python story_brainstorm.py works validate"
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "core-ready"
+  ],
+  "proposals": []
+}

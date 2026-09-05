@@ -4,18 +4,15 @@
 
 Research 100 rights-verified written works first published by 1929 and produce exactly 1,000 accepted narrative primitive cards.
 
-## Source Architecture
+## Source architecture
 
-Reproduce only the deterministic corpus/index/report interfaces of `../thunder-brainstorm` at commit `3b739f0069e4fed5757f3874940ffb86a99c5929`. Do not copy its Git history or project payload.
+Standalone deterministic corpus/index/report engine derived from Thunder Brainstorm commit `3b739f0069e4fed5757f3874940ffb86a99c5929`. No Thunder history or game payload is copied.
 
 ## Boundaries
 
-- Never modify Vernepunk or Thunder Brainstorm.
-- Never store full source works.
-- Never accept unresolved rights, editions, evidence locations, or generated inference as observation.
-- Never create or push a remote without a new explicit user command.
-- Use controlled shared-storage writes with immediate readback.
+No full source texts; no unresolved rights, edition locators, or inferred evidence in accepted data; no engine/game-runtime coupling.
 
 ## Validation
 
-Worker artifacts are incomplete until their machine-readable receipt and commit pass the packet acceptance checks. Final acceptance requires a clean `main`, exact corpus counts, deterministic regeneration, and independent review.
+Empty scaffold commands must report `NOT_READY`, not pass. Acceptance requires 100 works, 1,000 cards, family quotas, deterministic regeneration, and independent review.
+
