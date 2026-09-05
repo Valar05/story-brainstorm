@@ -1,0 +1,27 @@
+{
+  "owner": "rights_sources",
+  "status": "complete",
+  "commit": "e9c2c8658ab5b47fdd5d56a346e9c16686764717",
+  "changed": [
+    "schemas/primitive_card.json",
+    "data/taxonomy.json",
+    "docs/EXTRACTION_METHOD.md",
+    "tests/test_primitive_schema.py",
+    "generated/receipts/C6.json"
+  ],
+  "checks": [
+    "python -m unittest tests.test_primitive_schema (9 passed)",
+    "restored complete extraction workflow/review/risk/synthesis/negative-control doctrine from base 7c26e21",
+    "schema-alignment clarification appended",
+    "invalid contextual subtype rejected",
+    "malformed primitive_id rejected",
+    "engine primitive_id hash compatibility proven",
+    "jsonschema required explicitly"
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "card-contract-ready"
+  ],
+  "proposals": []
+}

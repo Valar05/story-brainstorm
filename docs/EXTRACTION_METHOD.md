@@ -25,3 +25,6 @@ A synthesis card is allowed only after three distinct works independently suppor
 
 ## Negative controls
 The fixture file contains exactly 50 intentionally invalid examples in five groups of ten. Validators must reject each for its declared reason.
+
+## Schema alignment
+The schema requires observation and inference as separate nonempty fields, strict setup/pressure/turn/residue pattern keys, and a contextual subtype only for contextual cards. Primitive IDs must equal the engine's deterministic hash projection.

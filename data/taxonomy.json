@@ -64,6 +64,8 @@
       "family",
       "name",
       "summary",
+      "observation",
+      "inference",
       "pattern",
       "evidence",
       "rights_basis",
