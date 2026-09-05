@@ -1,0 +1,23 @@
+{
+  "owner": "rights_sources",
+  "status": "blocked",
+  "commit": null,
+  "changed": [
+    "generated/receipts/B1.json"
+  ],
+  "checks": [
+    "LOC JSON batch attempted with user-agent and stable item filtering",
+    "8 candidate queries returned before API IncompleteRead",
+    "no bibliography or audit rows written",
+    "no fallback or guessed metadata used"
+  ],
+  "result": "fail",
+  "blockers": [
+    "LOC API intermittently returned incomplete JSON payload during batch acquisition; 48 PASS rows cannot be established without reliable catalog retrieval.",
+    "Exact dated scan/title-page evidence and raw catalog comparisons remain incomplete."
+  ],
+  "dependencies_unlocked": [],
+  "proposals": [
+    "Retry B1 with resumable per-query cache and bounded response reads, then audit raw catalog fields before acceptance."
+  ]
+}
