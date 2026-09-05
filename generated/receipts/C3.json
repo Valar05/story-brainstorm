@@ -1,7 +1,7 @@
 {
   "owner": "rights_sources",
   "status": "complete",
-  "commit": "6b1d79a31c5275f2bdac1ef412af71ee36c6b5a6",
+  "commit": "c9139710b30ed2af7f6309f7df3518aebbf66dc3",
   "changed": [
     "tools/audit_bibliography.py",
     "schemas/bibliography_shard.json",
@@ -10,13 +10,13 @@
   ],
   "checks": [
     "python -m py_compile tools/audit_bibliography.py",
-    "python -m unittest tests/test_bibliography_audit.py (10 tests)",
-    "accepted_works and works plus reserves supported",
-    "ElementTree RDF raw title/creator/language/rights/issued parsing",
-    "raw-field and source item comparisons",
-    "exact publication evidence URL patterns",
-    "rights/work-record/duplicate/translation gates",
-    "atomic idempotent deterministic output"
+    "python -m unittest tests/test_bibliography_audit.py (14 tests)",
+    "wrong-language RDF rejects",
+    "stored raw title/creator mismatch rejects",
+    "historical translation with named translator and PD_US_CONFIRMED passes",
+    "duplicate ID/title/source row fails",
+    "atomic CLI output preserves mtime on identical rerun",
+    "deterministic sorted audit"
   ],
   "result": "pass",
   "blockers": [],
