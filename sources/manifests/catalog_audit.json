@@ -1,0 +1,3012 @@
+{
+  "schema_version": "1.0",
+  "audited_at": "2026-09-05",
+  "source": "Project Gutenberg RDF catalog/item metadata",
+  "records": 120,
+  "pass": 0,
+  "fail": 120,
+  "duplicate_urls": 4,
+  "acceptance": "BLOCKED unless every record passes exact title, author, first-publication-year, US-rights, and unique-source checks",
+  "rows": [
+    {
+      "work_id": "adventure-001",
+      "source_url": "https://www.gutenberg.org/ebooks/521",
+      "source_id": "gutenberg:521",
+      "expected": {
+        "title": "Robinson Crusoe",
+        "author": "Daniel Defoe",
+        "first_publication_year": 1719
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Life and Adventures of Robinson Crusoe",
+        "creator": "Defoe, Daniel",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1719,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/521/pg521.rdf"
+      }
+    },
+    {
+      "work_id": "adventure-002",
+      "source_url": "https://www.gutenberg.org/ebooks/829",
+      "source_id": "gutenberg:829",
+      "expected": {
+        "title": "Gulliver’s Travels",
+        "author": "Jonathan Swift",
+        "first_publication_year": 1726
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Gulliver's Travels into Several Remote Nations of the World",
+        "creator": "Swift, Jonathan",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1726,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/829/pg829.rdf"
+      }
+    },
+    {
+      "work_id": "adventure-003",
+      "source_url": "https://www.gutenberg.org/ebooks/120",
+      "source_id": "gutenberg:120",
+      "expected": {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "first_publication_year": 1883
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Treasure Island",
+        "creator": "Stevenson, Robert Louis",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1883,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/120/pg120.rdf"
+      }
+    },
+    {
+      "work_id": "adventure-004",
+      "source_url": "https://www.gutenberg.org/ebooks/1257",
+      "source_id": "gutenberg:1257",
+      "expected": {
+        "title": "The Three Musketeers",
+        "author": "Alexandre Dumas",
+        "first_publication_year": 1844
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The three musketeers",
+        "creator": "Dumas, Alexandre",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1844,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1257/pg1257.rdf"
+      }
+    },
+    {
+      "work_id": "adventure-005",
+      "source_url": "https://www.gutenberg.org/ebooks/95",
+      "source_id": "gutenberg:95",
+      "expected": {
+        "title": "The Prisoner of Zenda",
+        "author": "Anthony Hope",
+        "first_publication_year": 1894
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The prisoner of Zenda",
+        "creator": "Hope, Anthony",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1894,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/95/pg95.rdf"
+      }
+    },
+    {
+      "work_id": "adventure-006",
+      "source_url": "https://www.gutenberg.org/ebooks/2166",
+      "source_id": "gutenberg:2166",
+      "expected": {
+        "title": "King Solomon’s Mines",
+        "author": "H. Rider Haggard",
+        "first_publication_year": 1885
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "King Solomon's Mines",
+        "creator": "Haggard, H. Rider (Henry Rider)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1885,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2166/pg2166.rdf"
+      }
+    },
+    {
+      "work_id": "adventure-007",
+      "source_url": "https://www.gutenberg.org/ebooks/27681",
+      "source_id": "gutenberg:27681",
+      "expected": {
+        "title": "The Last of the Mohicans",
+        "author": "James Fenimore Cooper",
+        "first_publication_year": 1826
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Last of the Mohicans: A Narrative of 1757",
+        "creator": "Cooper, James Fenimore",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1826,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/27681/pg27681.rdf"
+      }
+    },
+    {
+      "work_id": "adventure-008",
+      "source_url": "https://www.gutenberg.org/ebooks/1727",
+      "source_id": "gutenberg:1727",
+      "expected": {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "first_publication_year": 700
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Odyssey\r\nRendered into English prose for the use of those who cannot read the original",
+        "creator": "Homer",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1727/pg1727.rdf"
+      }
+    },
+    {
+      "work_id": "adventure-009",
+      "source_url": "https://www.gutenberg.org/ebooks/1184",
+      "source_id": "gutenberg:1184",
+      "expected": {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "first_publication_year": 1844
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Count of Monte Cristo",
+        "creator": "Dumas, Alexandre",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1184/pg1184.rdf"
+      }
+    },
+    {
+      "work_id": "adventure-010",
+      "source_url": "https://www.gutenberg.org/ebooks/103",
+      "source_id": "gutenberg:103",
+      "expected": {
+        "title": "Around the World in Eighty Days",
+        "author": "Jules Verne",
+        "first_publication_year": 1872
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Around the World in Eighty Days",
+        "creator": "Verne, Jules",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1872,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/103/pg103.rdf"
+      }
+    },
+    {
+      "work_id": "fantasy-011",
+      "source_url": "https://www.gutenberg.org/ebooks/11",
+      "source_id": "gutenberg:11",
+      "expected": {
+        "title": "Alice’s Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "first_publication_year": 1800
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Alice's Adventures in Wonderland",
+        "creator": "Carroll, Lewis",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1865,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/11/pg11.rdf"
+      }
+    },
+    {
+      "work_id": "fantasy-012",
+      "source_url": "https://www.gutenberg.org/ebooks/12",
+      "source_id": "gutenberg:12",
+      "expected": {
+        "title": "Through the Looking-Glass",
+        "author": "Lewis Carroll",
+        "first_publication_year": 1813
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Through the Looking-Glass",
+        "creator": "Carroll, Lewis",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1871,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/12/pg12.rdf"
+      }
+    },
+    {
+      "work_id": "fantasy-013",
+      "source_url": "https://www.gutenberg.org/ebooks/55",
+      "source_id": "gutenberg:55",
+      "expected": {
+        "title": "The Wonderful Wizard of Oz",
+        "author": "L. Frank Baum",
+        "first_publication_year": 1826
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Wonderful Wizard of Oz",
+        "creator": "Baum, L. Frank (Lyman Frank)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/55/pg55.rdf"
+      }
+    },
+    {
+      "work_id": "fantasy-014",
+      "source_url": "https://www.gutenberg.org/ebooks/16",
+      "source_id": "gutenberg:16",
+      "expected": {
+        "title": "Peter Pan",
+        "author": "J. M. Barrie",
+        "first_publication_year": 1839
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Peter Pan : $b [Peter and Wendy]",
+        "creator": "Barrie, J. M. (James Matthew)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/16/pg16.rdf"
+      }
+    },
+    {
+      "work_id": "fantasy-015",
+      "source_url": "https://www.gutenberg.org/ebooks/778",
+      "source_id": "gutenberg:778",
+      "expected": {
+        "title": "Five Children and It",
+        "author": "E. Nesbit",
+        "first_publication_year": 1852
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Five Children and It",
+        "creator": "Nesbit, E. (Edith)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1902,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/778/pg778.rdf"
+      }
+    },
+    {
+      "work_id": "fantasy-016",
+      "source_url": "https://www.gutenberg.org/ebooks/101",
+      "source_id": "gutenberg:101",
+      "expected": {
+        "title": "The Water-Babies",
+        "author": "Charles Kingsley",
+        "first_publication_year": 1865
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": false,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Hacker Crackdown: Law and Disorder on the Electronic Frontier",
+        "creator": "Sterling, Bruce",
+        "rights": "Copyrighted. Read the copyright notice inside this book for details.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/101/pg101.rdf"
+      }
+    },
+    {
+      "work_id": "fantasy-017",
+      "source_url": "https://www.gutenberg.org/ebooks/175",
+      "source_id": "gutenberg:175",
+      "expected": {
+        "title": "The Phantom of the Opera",
+        "author": "Gaston Leroux",
+        "first_publication_year": 1878
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Phantom of the Opera",
+        "creator": "Leroux, Gaston",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1909,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/175/pg175.rdf"
+      }
+    },
+    {
+      "work_id": "fantasy-018",
+      "source_url": "https://www.gutenberg.org/ebooks/62",
+      "source_id": "gutenberg:62",
+      "expected": {
+        "title": "A Princess of Mars",
+        "author": "Edgar Rice Burroughs",
+        "first_publication_year": 1891
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "A princess of Mars",
+        "creator": "Burroughs, Edgar Rice",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/62/pg62.rdf"
+      }
+    },
+    {
+      "work_id": "fantasy-019",
+      "source_url": "https://www.gutenberg.org/ebooks/67979",
+      "source_id": "gutenberg:67979",
+      "expected": {
+        "title": "The Blue Castle",
+        "author": "L. M. Montgomery",
+        "first_publication_year": 1904
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Blue Castle: a novel",
+        "creator": "Montgomery, L. M. (Lucy Maud)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1926,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/67979/pg67979.rdf"
+      }
+    },
+    {
+      "work_id": "fantasy-020",
+      "source_url": "https://www.gutenberg.org/ebooks/17396",
+      "source_id": "gutenberg:17396",
+      "expected": {
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "first_publication_year": 1917
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Secret Garden",
+        "creator": "Burnett, Frances Hodgson",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1911,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/17396/pg17396.rdf"
+      }
+    },
+    {
+      "work_id": "gothic-021",
+      "source_url": "https://www.gutenberg.org/ebooks/84",
+      "source_id": "gutenberg:84",
+      "expected": {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "first_publication_year": 1800
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Frankenstein; or, the modern prometheus",
+        "creator": "Shelley, Mary Wollstonecraft",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1818,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/84/pg84.rdf"
+      }
+    },
+    {
+      "work_id": "gothic-022",
+      "source_url": "https://www.gutenberg.org/ebooks/345",
+      "source_id": "gutenberg:345",
+      "expected": {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "first_publication_year": 1813
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Dracula",
+        "creator": "Stoker, Bram",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1897,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/345/pg345.rdf"
+      }
+    },
+    {
+      "work_id": "gothic-023",
+      "source_url": "https://www.gutenberg.org/ebooks/1260",
+      "source_id": "gutenberg:1260",
+      "expected": {
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "first_publication_year": 1826
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Jane Eyre: An Autobiography",
+        "creator": "Brontë, Charlotte",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1847,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1260/pg1260.rdf"
+      }
+    },
+    {
+      "work_id": "gothic-024",
+      "source_url": "https://www.gutenberg.org/ebooks/768",
+      "source_id": "gutenberg:768",
+      "expected": {
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte",
+        "first_publication_year": 1839
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Wuthering Heights",
+        "creator": "Brontë, Emily",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1847,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/768/pg768.rdf"
+      }
+    },
+    {
+      "work_id": "gothic-025",
+      "source_url": "https://www.gutenberg.org/ebooks/583",
+      "source_id": "gutenberg:583",
+      "expected": {
+        "title": "The Woman in White",
+        "author": "Wilkie Collins",
+        "first_publication_year": 1852
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Woman in White",
+        "creator": "Collins, Wilkie",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/583/pg583.rdf"
+      }
+    },
+    {
+      "work_id": "gothic-026",
+      "source_url": "https://www.gutenberg.org/ebooks/209",
+      "source_id": "gutenberg:209",
+      "expected": {
+        "title": "The Turn of the Screw",
+        "author": "Henry James",
+        "first_publication_year": 1865
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Turn of the Screw",
+        "creator": "James, Henry",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1898,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/209/pg209.rdf"
+      }
+    },
+    {
+      "work_id": "gothic-027",
+      "source_url": "https://www.gutenberg.org/ebooks/696",
+      "source_id": "gutenberg:696",
+      "expected": {
+        "title": "The Castle of Otranto",
+        "author": "Horace Walpole",
+        "first_publication_year": 1878
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Castle of Otranto",
+        "creator": "Walpole, Horace",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1764,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/696/pg696.rdf"
+      }
+    },
+    {
+      "work_id": "gothic-028",
+      "source_url": "https://www.gutenberg.org/ebooks/1952",
+      "source_id": "gutenberg:1952",
+      "expected": {
+        "title": "The Yellow Wallpaper",
+        "author": "Charlotte Perkins Gilman",
+        "first_publication_year": 1891
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Yellow Wallpaper",
+        "creator": "Gilman, Charlotte Perkins",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1952/pg1952.rdf"
+      }
+    },
+    {
+      "work_id": "gothic-029",
+      "source_url": "https://www.gutenberg.org/ebooks/10007",
+      "source_id": "gutenberg:10007",
+      "expected": {
+        "title": "Carmilla",
+        "author": "J. Sheridan Le Fanu",
+        "first_publication_year": 1904
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Carmilla",
+        "creator": "Le Fanu, Joseph Sheridan",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1872,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/10007/pg10007.rdf"
+      }
+    },
+    {
+      "work_id": "gothic-030",
+      "source_url": "https://www.gutenberg.org/ebooks/687",
+      "source_id": "gutenberg:687",
+      "expected": {
+        "title": "Vathek",
+        "author": "William Beckford",
+        "first_publication_year": 1917
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "A Personal Record",
+        "creator": "Conrad, Joseph",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/687/pg687.rdf"
+      }
+    },
+    {
+      "work_id": "social-031",
+      "source_url": "https://www.gutenberg.org/ebooks/1342",
+      "source_id": "gutenberg:1342",
+      "expected": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "first_publication_year": 1800
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Pride and Prejudice",
+        "creator": "Austen, Jane",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1813,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1342/pg1342.rdf"
+      }
+    },
+    {
+      "work_id": "social-032",
+      "source_url": "https://www.gutenberg.org/ebooks/161",
+      "source_id": "gutenberg:161",
+      "expected": {
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "first_publication_year": 1813
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Sense and Sensibility",
+        "creator": "Austen, Jane",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1811,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/161/pg161.rdf"
+      }
+    },
+    {
+      "work_id": "social-033",
+      "source_url": "https://www.gutenberg.org/ebooks/145",
+      "source_id": "gutenberg:145",
+      "expected": {
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "first_publication_year": 1826
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Middlemarch",
+        "creator": "Eliot, George",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1871,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/145/pg145.rdf"
+      }
+    },
+    {
+      "work_id": "social-034",
+      "source_url": "https://www.gutenberg.org/ebooks/6688",
+      "source_id": "gutenberg:6688",
+      "expected": {
+        "title": "The Mill on the Floss",
+        "author": "George Eliot",
+        "first_publication_year": 1839
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Mill on the Floss",
+        "creator": "Eliot, George",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1860,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/6688/pg6688.rdf"
+      }
+    },
+    {
+      "work_id": "social-035",
+      "source_url": "https://www.gutenberg.org/ebooks/110",
+      "source_id": "gutenberg:110",
+      "expected": {
+        "title": "Tess of the d’Urbervilles",
+        "author": "Thomas Hardy",
+        "first_publication_year": 1852
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Tess of the d'Urbervilles: A Pure Woman",
+        "creator": "Hardy, Thomas",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1891,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/110/pg110.rdf"
+      }
+    },
+    {
+      "work_id": "social-036",
+      "source_url": "https://www.gutenberg.org/ebooks/2833",
+      "source_id": "gutenberg:2833",
+      "expected": {
+        "title": "The Portrait of a Lady",
+        "author": "Henry James",
+        "first_publication_year": 1865
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Portrait of a Lady — Volume 1",
+        "creator": "James, Henry",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1880,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2833/pg2833.rdf"
+      }
+    },
+    {
+      "work_id": "social-037",
+      "source_url": "https://www.gutenberg.org/ebooks/284",
+      "source_id": "gutenberg:284",
+      "expected": {
+        "title": "The House of Mirth",
+        "author": "Edith Wharton",
+        "first_publication_year": 1878
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The House of Mirth",
+        "creator": "Wharton, Edith",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1905,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/284/pg284.rdf"
+      }
+    },
+    {
+      "work_id": "social-038",
+      "source_url": "https://www.gutenberg.org/ebooks/541",
+      "source_id": "gutenberg:541",
+      "expected": {
+        "title": "The Age of Innocence",
+        "author": "Edith Wharton",
+        "first_publication_year": 1891
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Age of Innocence",
+        "creator": "Wharton, Edith",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1920,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/541/pg541.rdf"
+      }
+    },
+    {
+      "work_id": "social-039",
+      "source_url": "https://www.gutenberg.org/ebooks/4276",
+      "source_id": "gutenberg:4276",
+      "expected": {
+        "title": "North and South",
+        "author": "Elizabeth Gaskell",
+        "first_publication_year": 1904
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "North and South",
+        "creator": "Gaskell, Elizabeth Cleghorn",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1854,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/4276/pg4276.rdf"
+      }
+    },
+    {
+      "work_id": "social-040",
+      "source_url": "https://www.gutenberg.org/ebooks/394",
+      "source_id": "gutenberg:394",
+      "expected": {
+        "title": "Cranford",
+        "author": "Elizabeth Gaskell",
+        "first_publication_year": 1917
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Cranford",
+        "creator": "Gaskell, Elizabeth Cleghorn",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1853,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/394/pg394.rdf"
+      }
+    },
+    {
+      "work_id": "american-041",
+      "source_url": "https://www.gutenberg.org/ebooks/2701",
+      "source_id": "gutenberg:2701",
+      "expected": {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "first_publication_year": 1800
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Moby Dick; Or, The Whale",
+        "creator": "Melville, Herman",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1851,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2701/pg2701.rdf"
+      }
+    },
+    {
+      "work_id": "american-042",
+      "source_url": "https://www.gutenberg.org/ebooks/25344",
+      "source_id": "gutenberg:25344",
+      "expected": {
+        "title": "The Scarlet Letter",
+        "author": "Nathaniel Hawthorne",
+        "first_publication_year": 1813
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Scarlet Letter",
+        "creator": "Hawthorne, Nathaniel",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1850,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/25344/pg25344.rdf"
+      }
+    },
+    {
+      "work_id": "american-043",
+      "source_url": "https://www.gutenberg.org/ebooks/74",
+      "source_id": "gutenberg:74",
+      "expected": {
+        "title": "The Adventures of Tom Sawyer",
+        "author": "Mark Twain",
+        "first_publication_year": 1826
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Adventures of Tom Sawyer, Complete",
+        "creator": "Twain, Mark",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1876,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/74/pg74.rdf"
+      }
+    },
+    {
+      "work_id": "american-044",
+      "source_url": "https://www.gutenberg.org/ebooks/76",
+      "source_id": "gutenberg:76",
+      "expected": {
+        "title": "Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "first_publication_year": 1839
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Adventures of Huckleberry Finn",
+        "creator": "Twain, Mark",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1884,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/76/pg76.rdf"
+      }
+    },
+    {
+      "work_id": "american-045",
+      "source_url": "https://www.gutenberg.org/ebooks/64317",
+      "source_id": "gutenberg:64317",
+      "expected": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "first_publication_year": 1852
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Great Gatsby",
+        "creator": "Fitzgerald, F. Scott (Francis Scott)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1925,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/64317/pg64317.rdf"
+      }
+    },
+    {
+      "work_id": "american-046",
+      "source_url": "https://www.gutenberg.org/ebooks/543",
+      "source_id": "gutenberg:543",
+      "expected": {
+        "title": "Main Street",
+        "author": "Sinclair Lewis",
+        "first_publication_year": 1865
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Main Street",
+        "creator": "Lewis, Sinclair",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1920,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/543/pg543.rdf"
+      }
+    },
+    {
+      "work_id": "american-047",
+      "source_url": "https://www.gutenberg.org/ebooks/233",
+      "source_id": "gutenberg:233",
+      "expected": {
+        "title": "Sister Carrie",
+        "author": "Theodore Dreiser",
+        "first_publication_year": 1878
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Sister Carrie: A Novel",
+        "creator": "Dreiser, Theodore",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1900,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/233/pg233.rdf"
+      }
+    },
+    {
+      "work_id": "american-048",
+      "source_url": "https://www.gutenberg.org/ebooks/208",
+      "source_id": "gutenberg:208",
+      "expected": {
+        "title": "Daisy Miller",
+        "author": "Henry James",
+        "first_publication_year": 1891
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Daisy Miller: A Study",
+        "creator": "James, Henry",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1878,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/208/pg208.rdf"
+      }
+    },
+    {
+      "work_id": "american-049",
+      "source_url": "https://www.gutenberg.org/ebooks/11231",
+      "source_id": "gutenberg:11231",
+      "expected": {
+        "title": "Bartleby, the Scrivener",
+        "author": "Herman Melville",
+        "first_publication_year": 1904
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Bartleby, the Scrivener: A Story of Wall-Street",
+        "creator": "Melville, Herman",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1853,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/11231/pg11231.rdf"
+      }
+    },
+    {
+      "work_id": "american-050",
+      "source_url": "https://www.gutenberg.org/ebooks/1322",
+      "source_id": "gutenberg:1322",
+      "expected": {
+        "title": "Leaves of Grass",
+        "author": "Walt Whitman",
+        "first_publication_year": 1917
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Leaves of Grass",
+        "creator": "Whitman, Walt",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1855,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1322/pg1322.rdf"
+      }
+    },
+    {
+      "work_id": "world-051",
+      "source_url": "https://www.gutenberg.org/ebooks/8800",
+      "source_id": "gutenberg:8800",
+      "expected": {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "first_publication_year": 1800
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The divine comedy",
+        "creator": "Dante Alighieri",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/8800/pg8800.rdf"
+      }
+    },
+    {
+      "work_id": "world-052",
+      "source_url": "https://www.gutenberg.org/ebooks/23700",
+      "source_id": "gutenberg:23700",
+      "expected": {
+        "title": "The Decameron",
+        "author": "Giovanni Boccaccio",
+        "first_publication_year": 1812
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Decameron of Giovanni Boccaccio",
+        "creator": "Boccaccio, Giovanni",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/23700/pg23700.rdf"
+      }
+    },
+    {
+      "work_id": "world-053",
+      "source_url": "https://www.gutenberg.org/ebooks/996",
+      "source_id": "gutenberg:996",
+      "expected": {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "first_publication_year": 1824
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Don Quixote",
+        "creator": "Cervantes Saavedra, Miguel de",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/996/pg996.rdf"
+      }
+    },
+    {
+      "work_id": "world-054",
+      "source_url": "https://www.gutenberg.org/ebooks/11000",
+      "source_id": "gutenberg:11000",
+      "expected": {
+        "title": "Epic of Gilgamesh",
+        "author": "Anonymous",
+        "first_publication_year": 1836
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "An Old Babylonian Version of the Gilgamesh Epic",
+        "creator": "Jastrow, Morris",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/11000/pg11000.rdf"
+      }
+    },
+    {
+      "work_id": "world-055",
+      "source_url": "https://www.gutenberg.org/ebooks/56550",
+      "source_id": "gutenberg:56550",
+      "expected": {
+        "title": "Popol Vuh",
+        "author": "Anonymous",
+        "first_publication_year": 1848
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Popol Vuh: The Mythic and Heroic Sagas of the Kichés of Central America",
+        "creator": "Spence, Lewis",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/56550/pg56550.rdf"
+      }
+    },
+    {
+      "work_id": "world-056",
+      "source_url": "https://www.gutenberg.org/ebooks/128",
+      "source_id": "gutenberg:128",
+      "expected": {
+        "title": "The Arabian Nights",
+        "author": "Anonymous",
+        "first_publication_year": 1860
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Arabian Nights Entertainments",
+        "creator": "Lang, Andrew",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/128/pg128.rdf"
+      }
+    },
+    {
+      "work_id": "world-057",
+      "source_url": "https://www.gutenberg.org/ebooks/17701",
+      "source_id": "gutenberg:17701",
+      "expected": {
+        "title": "The Tale of Genji",
+        "author": "Murasaki Shikibu",
+        "first_publication_year": 1872
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Tales of the Heptameron, Vol. 1 (of 5)",
+        "creator": "Marguerite, Queen, consort of Henry II, King of Navarre",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/17701/pg17701.rdf"
+      }
+    },
+    {
+      "work_id": "world-058",
+      "source_url": "https://www.gutenberg.org/ebooks/13230",
+      "source_id": "gutenberg:13230",
+      "expected": {
+        "title": "The Book of Five Rings",
+        "author": "Miyamoto Musashi",
+        "first_publication_year": 1884
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Glossaire franco-canadien et vocabulaire de locutions vicieuses usitées au Canada",
+        "creator": "Dunn, Oscar",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/13230/pg13230.rdf"
+      }
+    },
+    {
+      "work_id": "world-059",
+      "source_url": "https://www.gutenberg.org/ebooks/5225",
+      "source_id": "gutenberg:5225",
+      "expected": {
+        "title": "The Satyricon",
+        "author": "Petronius",
+        "first_publication_year": 1896
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Satyricon — Complete",
+        "creator": "Petronius Arbiter",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/5225/pg5225.rdf"
+      }
+    },
+    {
+      "work_id": "world-060",
+      "source_url": "https://www.gutenberg.org/ebooks/1441",
+      "source_id": "gutenberg:1441",
+      "expected": {
+        "title": "The Story of an African Farm",
+        "author": "Olive Schreiner",
+        "first_publication_year": 1883
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Story of an African Farm",
+        "creator": "Schreiner, Olive",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1883,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1441/pg1441.rdf"
+      }
+    },
+    {
+      "work_id": "modernist-061",
+      "source_url": "https://www.gutenberg.org/ebooks/5200",
+      "source_id": "gutenberg:5200",
+      "expected": {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "first_publication_year": 1800
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": false,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Metamorphosis",
+        "creator": "Kafka, Franz",
+        "rights": "Copyrighted. Read the copyright notice inside this book for details.",
+        "published_year_from_catalog_description": 1915,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/5200/pg5200.rdf"
+      }
+    },
+    {
+      "work_id": "modernist-062",
+      "source_url": "https://www.gutenberg.org/ebooks/7849",
+      "source_id": "gutenberg:7849",
+      "expected": {
+        "title": "The Trial",
+        "author": "Franz Kafka",
+        "first_publication_year": 1813
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": false,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Trial",
+        "creator": "Kafka, Franz",
+        "rights": "Copyrighted. Read the copyright notice inside this book for details.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/7849/pg7849.rdf"
+      }
+    },
+    {
+      "work_id": "modernist-063",
+      "source_url": "https://www.gutenberg.org/ebooks/7178",
+      "source_id": "gutenberg:7178",
+      "expected": {
+        "title": "Swann’s Way",
+        "author": "Marcel Proust",
+        "first_publication_year": 1826
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Swann's Way",
+        "creator": "Proust, Marcel",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1913,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/7178/pg7178.rdf"
+      }
+    },
+    {
+      "work_id": "modernist-064",
+      "source_url": "https://www.gutenberg.org/ebooks/32513",
+      "source_id": "gutenberg:32513",
+      "expected": {
+        "title": "The Magic Mountain",
+        "author": "Thomas Mann",
+        "first_publication_year": 1839
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Third Little Pet Book, with the Tale of Mop and Frisk",
+        "creator": "Fanny, Aunt",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/32513/pg32513.rdf"
+      }
+    },
+    {
+      "work_id": "modernist-065",
+      "source_url": "https://www.gutenberg.org/ebooks/66073",
+      "source_id": "gutenberg:66073",
+      "expected": {
+        "title": "Death in Venice",
+        "author": "Thomas Mann",
+        "first_publication_year": 1852
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Death in Venice",
+        "creator": "Mann, Thomas",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1912,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/66073/pg66073.rdf"
+      }
+    },
+    {
+      "work_id": "modernist-066",
+      "source_url": "https://www.gutenberg.org/ebooks/34811",
+      "source_id": "gutenberg:34811",
+      "expected": {
+        "title": "Buddenbrooks",
+        "author": "Thomas Mann",
+        "first_publication_year": 1865
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Buddenbrooks: Verfall einer Familie",
+        "creator": "Mann, Thomas",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1901,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/34811/pg34811.rdf"
+      }
+    },
+    {
+      "work_id": "modernist-067",
+      "source_url": "https://www.gutenberg.org/ebooks/5230",
+      "source_id": "gutenberg:5230",
+      "expected": {
+        "title": "The Invisible Man",
+        "author": "H. G. Wells",
+        "first_publication_year": 1878
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Invisible Man: A Grotesque Romance",
+        "creator": "Wells, H. G. (Herbert George)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1897,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/5230/pg5230.rdf"
+      }
+    },
+    {
+      "work_id": "modernist-068",
+      "source_url": "https://www.gutenberg.org/ebooks/35",
+      "source_id": "gutenberg:35",
+      "expected": {
+        "title": "The Time Machine",
+        "author": "H. G. Wells",
+        "first_publication_year": 1891
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Time Machine",
+        "creator": "Wells, H. G. (Herbert George)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1895,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/35/pg35.rdf"
+      }
+    },
+    {
+      "work_id": "modernist-069",
+      "source_url": "https://www.gutenberg.org/ebooks/36",
+      "source_id": "gutenberg:36",
+      "expected": {
+        "title": "The War of the Worlds",
+        "author": "H. G. Wells",
+        "first_publication_year": 1904
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The war of the worlds",
+        "creator": "Wells, H. G. (Herbert George)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/36/pg36.rdf"
+      }
+    },
+    {
+      "work_id": "modernist-070",
+      "source_url": "https://www.gutenberg.org/ebooks/219",
+      "source_id": "gutenberg:219",
+      "expected": {
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "first_publication_year": 1917
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Heart of Darkness",
+        "creator": "Conrad, Joseph",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1899,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/219/pg219.rdf"
+      }
+    },
+    {
+      "work_id": "theory-071",
+      "source_url": "https://www.gutenberg.org/ebooks/1974",
+      "source_id": "gutenberg:1974",
+      "expected": {
+        "title": "Poetics",
+        "author": "Aristotle",
+        "first_publication_year": 1800
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Poetics of Aristotle",
+        "creator": "Aristotle",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1974/pg1974.rdf"
+      }
+    },
+    {
+      "work_id": "theory-072",
+      "source_url": "https://www.gutenberg.org/ebooks/1497",
+      "source_id": "gutenberg:1497",
+      "expected": {
+        "title": "The Republic",
+        "author": "Plato",
+        "first_publication_year": 1813
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Republic",
+        "creator": "Plato",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1497/pg1497.rdf"
+      }
+    },
+    {
+      "work_id": "theory-073",
+      "source_url": "https://www.gutenberg.org/ebooks/17405",
+      "source_id": "gutenberg:17405",
+      "expected": {
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "first_publication_year": 1826
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Art of War",
+        "creator": "Sunzi, active 6th century B.C.",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/17405/pg17405.rdf"
+      }
+    },
+    {
+      "work_id": "theory-074",
+      "source_url": "https://www.gutenberg.org/ebooks/3330",
+      "source_id": "gutenberg:3330",
+      "expected": {
+        "title": "The Analects",
+        "author": "Confucius",
+        "first_publication_year": 1839
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Analects of Confucius (from the Chinese Classics)",
+        "creator": "Confucius",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/3330/pg3330.rdf"
+      }
+    },
+    {
+      "work_id": "theory-075",
+      "source_url": "https://www.gutenberg.org/ebooks/216",
+      "source_id": "gutenberg:216",
+      "expected": {
+        "title": "Tao Te Ching",
+        "author": "Laozi",
+        "first_publication_year": 1852
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Tao Teh King, or the Tao and its Characteristics",
+        "creator": "Laozi",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/216/pg216.rdf"
+      }
+    },
+    {
+      "work_id": "theory-076",
+      "source_url": "https://www.gutenberg.org/ebooks/3283",
+      "source_id": "gutenberg:3283",
+      "expected": {
+        "title": "The Upanishads",
+        "author": "Anonymous",
+        "first_publication_year": 1865
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Upanishads",
+        "creator": "",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/3283/pg3283.rdf"
+      }
+    },
+    {
+      "work_id": "theory-077",
+      "source_url": "https://www.gutenberg.org/ebooks/2017",
+      "source_id": "gutenberg:2017",
+      "expected": {
+        "title": "The Dhammapada",
+        "author": "Anonymous (Pali canon)",
+        "first_publication_year": 1878
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Dhammapada, a Collection of Verses; Being One of the Canonical Books of the Buddhists",
+        "creator": "",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2017/pg2017.rdf"
+      }
+    },
+    {
+      "work_id": "theory-078",
+      "source_url": "https://www.gutenberg.org/ebooks/20203",
+      "source_id": "gutenberg:20203",
+      "expected": {
+        "title": "Autobiography of Benjamin Franklin",
+        "author": "Benjamin Franklin",
+        "first_publication_year": 1891
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Autobiography of Benjamin Franklin",
+        "creator": "Franklin, Benjamin",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/20203/pg20203.rdf"
+      }
+    },
+    {
+      "work_id": "theory-079",
+      "source_url": "https://www.gutenberg.org/ebooks/205",
+      "source_id": "gutenberg:205",
+      "expected": {
+        "title": "Walden",
+        "author": "Henry David Thoreau",
+        "first_publication_year": 1904
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Walden, and On The Duty Of Civil Disobedience",
+        "creator": "Thoreau, Henry David",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/205/pg205.rdf"
+      }
+    },
+    {
+      "work_id": "theory-080",
+      "source_url": "https://www.gutenberg.org/ebooks/147",
+      "source_id": "gutenberg:147",
+      "expected": {
+        "title": "Common Sense",
+        "author": "Thomas Paine",
+        "first_publication_year": 1917
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Common Sense",
+        "creator": "Paine, Thomas",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/147/pg147.rdf"
+      }
+    },
+    {
+      "work_id": "poetry-081",
+      "source_url": "https://www.gutenberg.org/ebooks/2678",
+      "source_id": "gutenberg:2678",
+      "expected": {
+        "title": "Poems by Emily Dickinson",
+        "author": "Emily Dickinson",
+        "first_publication_year": 1800
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Poems by Emily Dickinson, Series One",
+        "creator": "Dickinson, Emily",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2678/pg2678.rdf"
+      }
+    },
+    {
+      "work_id": "poetry-082",
+      "source_url": "https://www.gutenberg.org/ebooks/246",
+      "source_id": "gutenberg:246",
+      "expected": {
+        "title": "Poems by Christina Rossetti",
+        "author": "Christina Rossetti",
+        "first_publication_year": 1813
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Rubaiyat of Omar Khayyam",
+        "creator": "Omar Khayyam",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1859,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/246/pg246.rdf"
+      }
+    },
+    {
+      "work_id": "poetry-083",
+      "source_url": "https://www.gutenberg.org/ebooks/2002",
+      "source_id": "gutenberg:2002",
+      "expected": {
+        "title": "Poems by Elizabeth Barrett Browning",
+        "author": "Elizabeth Barrett Browning",
+        "first_publication_year": 1826
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Sonnets from the Portuguese",
+        "creator": "Browning, Elizabeth Barrett",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1850,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2002/pg2002.rdf"
+      }
+    },
+    {
+      "work_id": "poetry-084",
+      "source_url": "https://www.gutenberg.org/ebooks/246",
+      "source_id": "gutenberg:246",
+      "expected": {
+        "title": "Rubaiyat of Omar Khayyam",
+        "author": "Omar Khayyam",
+        "first_publication_year": 1839
+      },
+      "checks": {
+        "duplicate_source_url": true,
+        "title_match": true,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Rubaiyat of Omar Khayyam",
+        "creator": "Omar Khayyam",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1859,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/246/pg246.rdf"
+      }
+    },
+    {
+      "work_id": "poetry-085",
+      "source_url": "https://www.gutenberg.org/ebooks/609",
+      "source_id": "gutenberg:609",
+      "expected": {
+        "title": "The Flowers of Evil",
+        "author": "Charles Baudelaire",
+        "first_publication_year": 1852
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "America, Through the Spectacles of an Oriental Diplomat",
+        "creator": "Wu, Tingfang",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/609/pg609.rdf"
+      }
+    },
+    {
+      "work_id": "poetry-086",
+      "source_url": "https://www.gutenberg.org/ebooks/384",
+      "source_id": "gutenberg:384",
+      "expected": {
+        "title": "Poems of Victor Hugo",
+        "author": "Victor Hugo",
+        "first_publication_year": 1865
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Lost Prince",
+        "creator": "Burnett, Frances Hodgson",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1915,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/384/pg384.rdf"
+      }
+    },
+    {
+      "work_id": "poetry-087",
+      "source_url": "https://www.gutenberg.org/ebooks/1322",
+      "source_id": "gutenberg:1322",
+      "expected": {
+        "title": "Song of Myself",
+        "author": "Walt Whitman",
+        "first_publication_year": 1878
+      },
+      "checks": {
+        "duplicate_source_url": true,
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Leaves of Grass",
+        "creator": "Whitman, Walt",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1855,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1322/pg1322.rdf"
+      }
+    },
+    {
+      "work_id": "poetry-088",
+      "source_url": "https://www.gutenberg.org/ebooks/26",
+      "source_id": "gutenberg:26",
+      "expected": {
+        "title": "Paradise Lost",
+        "author": "John Milton",
+        "first_publication_year": 1891
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Paradise Lost",
+        "creator": "Milton, John",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1667,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/26/pg26.rdf"
+      }
+    },
+    {
+      "work_id": "poetry-089",
+      "source_url": "https://www.gutenberg.org/ebooks/2383",
+      "source_id": "gutenberg:2383",
+      "expected": {
+        "title": "The Canterbury Tales",
+        "author": "Geoffrey Chaucer",
+        "first_publication_year": 1904
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Canterbury Tales, and Other Poems",
+        "creator": "Chaucer, Geoffrey",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2383/pg2383.rdf"
+      }
+    },
+    {
+      "work_id": "poetry-090",
+      "source_url": "https://www.gutenberg.org/ebooks/5742",
+      "source_id": "gutenberg:5742",
+      "expected": {
+        "title": "Ballads of a Bohemian",
+        "author": "Robert W. Service",
+        "first_publication_year": 1917
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Bird-Woman of the Lewis and Clark Expedition",
+        "creator": "Chandler, Katherine",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/5742/pg5742.rdf"
+      }
+    },
+    {
+      "work_id": "drama-091",
+      "source_url": "https://www.gutenberg.org/ebooks/844",
+      "source_id": "gutenberg:844",
+      "expected": {
+        "title": "The Importance of Being Earnest",
+        "author": "Oscar Wilde",
+        "first_publication_year": 1800
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+        "creator": "Wilde, Oscar",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/844/pg844.rdf"
+      }
+    },
+    {
+      "work_id": "drama-092",
+      "source_url": "https://www.gutenberg.org/ebooks/1524",
+      "source_id": "gutenberg:1524",
+      "expected": {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "first_publication_year": 1813
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Hamlet",
+        "creator": "Shakespeare, William",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1524/pg1524.rdf"
+      }
+    },
+    {
+      "work_id": "drama-093",
+      "source_url": "https://www.gutenberg.org/ebooks/2264",
+      "source_id": "gutenberg:2264",
+      "expected": {
+        "title": "Macbeth",
+        "author": "William Shakespeare",
+        "first_publication_year": 1826
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Macbeth",
+        "creator": "Shakespeare, William",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2264/pg2264.rdf"
+      }
+    },
+    {
+      "work_id": "drama-094",
+      "source_url": "https://www.gutenberg.org/ebooks/2542",
+      "source_id": "gutenberg:2542",
+      "expected": {
+        "title": "A Doll’s House",
+        "author": "Henrik Ibsen",
+        "first_publication_year": 1839
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "A Doll's House : a play",
+        "creator": "Ibsen, Henrik",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2542/pg2542.rdf"
+      }
+    },
+    {
+      "work_id": "drama-095",
+      "source_url": "https://www.gutenberg.org/ebooks/66227",
+      "source_id": "gutenberg:66227",
+      "expected": {
+        "title": "Ghosts",
+        "author": "Henrik Ibsen",
+        "first_publication_year": 1852
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Delaware Tom; or, The Traitor Guide",
+        "creator": "Badger, Jos. E. (Joseph Edward)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/66227/pg66227.rdf"
+      }
+    },
+    {
+      "work_id": "drama-096",
+      "source_url": "https://www.gutenberg.org/ebooks/1754",
+      "source_id": "gutenberg:1754",
+      "expected": {
+        "title": "The Cherry Orchard",
+        "author": "Anton Chekhov",
+        "first_publication_year": 1865
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The sea-gull",
+        "creator": "Chekhov, Anton Pavlovich",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1754/pg1754.rdf"
+      }
+    },
+    {
+      "work_id": "drama-097",
+      "source_url": "https://www.gutenberg.org/ebooks/1755",
+      "source_id": "gutenberg:1755",
+      "expected": {
+        "title": "Uncle Vanya",
+        "author": "Anton Chekhov",
+        "first_publication_year": 1878
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Ivanoff: A Play",
+        "creator": "Chekhov, Anton Pavlovich",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1755/pg1755.rdf"
+      }
+    },
+    {
+      "work_id": "drama-098",
+      "source_url": "https://www.gutenberg.org/ebooks/66226",
+      "source_id": "gutenberg:66226",
+      "expected": {
+        "title": "The Master Builder",
+        "author": "Henrik Ibsen",
+        "first_publication_year": 1891
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Overweight and Underweight",
+        "creator": "Metropolitan Life Insurance Company",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/66226/pg66226.rdf"
+      }
+    },
+    {
+      "work_id": "drama-099",
+      "source_url": "https://www.gutenberg.org/ebooks/779",
+      "source_id": "gutenberg:779",
+      "expected": {
+        "title": "Everyman",
+        "author": "Anonymous",
+        "first_publication_year": 1904
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Tragical History of Doctor Faustus\r\nFrom the Quarto of 1604",
+        "creator": "Marlowe, Christopher",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/779/pg779.rdf"
+      }
+    },
+    {
+      "work_id": "drama-100",
+      "source_url": "https://www.gutenberg.org/ebooks/7791",
+      "source_id": "gutenberg:7791",
+      "expected": {
+        "title": "Doctor Faustus",
+        "author": "Christopher Marlowe",
+        "first_publication_year": 1917
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Pelle the Conqueror — Volume 01",
+        "creator": "Andersen Nexø, Martin",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1906,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/7791/pg7791.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-001",
+      "source_url": "https://www.gutenberg.org/ebooks/160",
+      "source_id": "gutenberg:160",
+      "expected": {
+        "title": "The Awakening",
+        "author": "Kate Chopin",
+        "first_publication_year": 1899
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Awakening, and Selected Short Stories",
+        "creator": "Chopin, Kate",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/160/pg160.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-002",
+      "source_url": "https://www.gutenberg.org/ebooks/1627",
+      "source_id": "gutenberg:1627",
+      "expected": {
+        "title": "The Wild Duck",
+        "author": "Henrik Ibsen",
+        "first_publication_year": 1884
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Evil Genius: A Domestic Story",
+        "creator": "Collins, Wilkie",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1627/pg1627.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-003",
+      "source_url": "https://www.gutenberg.org/ebooks/2814",
+      "source_id": "gutenberg:2814",
+      "expected": {
+        "title": "Dubliners",
+        "author": "James Joyce",
+        "first_publication_year": 1914
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Dubliners",
+        "creator": "Joyce, James",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1914,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2814/pg2814.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-004",
+      "source_url": "https://www.gutenberg.org/ebooks/8438",
+      "source_id": "gutenberg:8438",
+      "expected": {
+        "title": "Ethics",
+        "author": "Aristotle",
+        "first_publication_year": 340
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": true,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Nicomachean ethics of Aristotle",
+        "creator": "Aristotle",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/8438/pg8438.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-005",
+      "source_url": "https://www.gutenberg.org/ebooks/8492",
+      "source_id": "gutenberg:8492",
+      "expected": {
+        "title": "The King in Yellow",
+        "author": "Robert W. Chambers",
+        "first_publication_year": 1895
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The King in Yellow",
+        "creator": "Chambers, Robert W. (Robert William)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1895,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/8492/pg8492.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-006",
+      "source_url": "https://www.gutenberg.org/ebooks/131",
+      "source_id": "gutenberg:131",
+      "expected": {
+        "title": "The Pilgrim’s Progress",
+        "author": "John Bunyan",
+        "first_publication_year": 1678
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Pilgrim's Progress from this world to that which is to come\r\nDelivered under the similitude of a dream, by John Bunyan",
+        "creator": "Bunyan, John",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/131/pg131.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-007",
+      "source_url": "https://www.gutenberg.org/ebooks/4980",
+      "source_id": "gutenberg:4980",
+      "expected": {
+        "title": "The Wild Swans at Coole",
+        "author": "W. B. Yeats",
+        "first_publication_year": 1919
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Old Granny Fox",
+        "creator": "Burgess, Thornton W. (Thornton Waldo)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/4980/pg4980.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-008",
+      "source_url": "https://www.gutenberg.org/ebooks/144",
+      "source_id": "gutenberg:144",
+      "expected": {
+        "title": "The Voyage Out",
+        "author": "Virginia Woolf",
+        "first_publication_year": 1915
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Voyage Out",
+        "creator": "Woolf, Virginia",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1915,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/144/pg144.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-009",
+      "source_url": "https://www.gutenberg.org/ebooks/23042",
+      "source_id": "gutenberg:23042",
+      "expected": {
+        "title": "The Tempest",
+        "author": "William Shakespeare",
+        "first_publication_year": 1611
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Tempest\nThe Works of William Shakespeare [Cambridge Edition] [9 vols.]",
+        "creator": "Shakespeare, William",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/23042/pg23042.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-010",
+      "source_url": "https://www.gutenberg.org/ebooks/1661",
+      "source_id": "gutenberg:1661",
+      "expected": {
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "first_publication_year": 1892
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Adventures of Sherlock Holmes",
+        "creator": "Doyle, Arthur Conan",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1892,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1661/pg1661.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-011",
+      "source_url": "https://www.gutenberg.org/ebooks/394",
+      "source_id": "gutenberg:394",
+      "expected": {
+        "title": "Cranford",
+        "author": "Elizabeth Gaskell",
+        "first_publication_year": 1853
+      },
+      "checks": {
+        "duplicate_source_url": true,
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Cranford",
+        "creator": "Gaskell, Elizabeth Cleghorn",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1853,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/394/pg394.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-012",
+      "source_url": "https://www.gutenberg.org/ebooks/550",
+      "source_id": "gutenberg:550",
+      "expected": {
+        "title": "Silas Marner",
+        "author": "George Eliot",
+        "first_publication_year": 1861
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Silas Marner",
+        "creator": "Eliot, George",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1861,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/550/pg550.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-013",
+      "source_url": "https://www.gutenberg.org/ebooks/2147",
+      "source_id": "gutenberg:2147",
+      "expected": {
+        "title": "Tales of Mystery and Imagination",
+        "author": "Edgar Allan Poe",
+        "first_publication_year": 1845
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Works of Edgar Allan Poe — Volume 1",
+        "creator": "Poe, Edgar Allan",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2147/pg2147.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-014",
+      "source_url": "https://www.gutenberg.org/ebooks/902",
+      "source_id": "gutenberg:902",
+      "expected": {
+        "title": "The Happy Prince",
+        "author": "Oscar Wilde",
+        "first_publication_year": 1888
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Happy Prince, and Other Tales",
+        "creator": "Wilde, Oscar",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/902/pg902.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-015",
+      "source_url": "https://www.gutenberg.org/ebooks/2467",
+      "source_id": "gutenberg:2467",
+      "expected": {
+        "title": "Japanese Haiku",
+        "author": "Matsuo Basho",
+        "first_publication_year": 1700
+      },
+      "checks": {
+        "title_match": false,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Ghosts: A Domestic Tragedy in Three Acts",
+        "creator": "Ibsen, Henrik",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/2467/pg2467.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-016",
+      "source_url": "https://www.gutenberg.org/ebooks/18247",
+      "source_id": "gutenberg:18247",
+      "expected": {
+        "title": "The Last Man",
+        "author": "Mary Shelley",
+        "first_publication_year": 1826
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Last Man",
+        "creator": "Shelley, Mary Wollstonecraft",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1826,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/18247/pg18247.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-017",
+      "source_url": "https://www.gutenberg.org/ebooks/1597",
+      "source_id": "gutenberg:1597",
+      "expected": {
+        "title": "Fairy Tales",
+        "author": "Hans Christian Andersen",
+        "first_publication_year": 1835
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": false,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "Andersen's Fairy Tales",
+        "creator": "Andersen, H. C. (Hans Christian)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": null,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1597/pg1597.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-018",
+      "source_url": "https://www.gutenberg.org/ebooks/1441",
+      "source_id": "gutenberg:1441",
+      "expected": {
+        "title": "The Story of an African Farm",
+        "author": "Olive Schreiner",
+        "first_publication_year": 1883
+      },
+      "checks": {
+        "duplicate_source_url": true,
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Story of an African Farm",
+        "creator": "Schreiner, Olive",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1883,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/1441/pg1441.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-019",
+      "source_url": "https://www.gutenberg.org/ebooks/73",
+      "source_id": "gutenberg:73",
+      "expected": {
+        "title": "The Red Badge of Courage",
+        "author": "Stephen Crane",
+        "first_publication_year": 1895
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Red Badge of Courage: An Episode of the American Civil War",
+        "creator": "Crane, Stephen",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1895,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/73/pg73.rdf"
+      }
+    },
+    {
+      "work_id": "reserve-020",
+      "source_url": "https://www.gutenberg.org/ebooks/408",
+      "source_id": "gutenberg:408",
+      "expected": {
+        "title": "The Souls of Black Folk",
+        "author": "W. E. B. Du Bois",
+        "first_publication_year": 1903
+      },
+      "checks": {
+        "title_match": true,
+        "author_match": false,
+        "year_match": true,
+        "us_rights": true,
+        "duplicate_source_url": false
+      },
+      "status": "FAIL",
+      "catalog": {
+        "title": "The Souls of Black Folk",
+        "creator": "Du Bois, W. E. B. (William Edward Burghardt)",
+        "rights": "Public domain in the USA.",
+        "published_year_from_catalog_description": 1903,
+        "rdf_url": "https://www.gutenberg.org/cache/epub/408/pg408.rdf"
+      }
+    }
+  ]
+}

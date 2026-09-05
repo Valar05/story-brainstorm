@@ -1,0 +1,24 @@
+{
+  "owner": "rights_sources",
+  "status": "blocked",
+  "commit": "ebcdac6f7f85c14d2e9e6c130ea48a4754f2718c",
+  "changed": [
+    "data/works.json",
+    "data/reserve_works.json",
+    "sources/manifests/works_metadata.json",
+    "sources/manifests/reserve_metadata.json",
+    "generated/receipts/B.json",
+    "sources/manifests/catalog_audit.json"
+  ],
+  "checks": [
+    "batch-audited all 120 Gutenberg RDF records",
+    "recorded exact catalog title/creator/rights/year evidence",
+    "failed closed on mismatches and duplicate source URLs"
+  ],
+  "result": "fail",
+  "blockers": [
+    "Batch catalog audit found title/author/year mismatches and duplicate source URLs; exact edition/translation years are not available for all records."
+  ],
+  "dependencies_unlocked": [],
+  "proposals": []
+}

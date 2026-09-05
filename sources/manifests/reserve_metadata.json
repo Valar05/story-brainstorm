@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.0",
+  "policy": "PD_US_CONFIRMED only; <=1929; no full text",
+  "verification_sources": [
+    {
+      "name": "US Copyright Office Circular 15A",
+      "url": "https://www.copyright.gov/circs/circ15a.pdf",
+      "claim": "US works published before January 1, 1931 are public domain."
+    },
+    {
+      "name": "US Copyright Office records",
+      "url": "https://www.copyright.gov/records/search.html",
+      "claim": "CCE/pre-1978 registration and renewal records are the historical rights lane."
+    },
+    {
+      "name": "Project Gutenberg policy",
+      "url": "https://www.gutenberg.org/policy/permission",
+      "claim": "PG follows US law but repository status is supporting evidence, not sole clearance."
+    },
+    {
+      "name": "Fair Use Index",
+      "url": "https://www.copyright.gov/fair-use/",
+      "claim": "Fair use is case-specific and not rights clearance."
+    },
+    {
+      "name": "Derivative works",
+      "url": "https://www.copyright.gov/title17/92chap1.html",
+      "claim": "Translations/adaptations have independent new material."
+    }
+  ],
+  "works": [
+    {
+      "work_id": "reserve-001",
+      "reserve_order": 1,
+      "source_url": "https://www.gutenberg.org/ebooks/160"
+    },
+    {
+      "work_id": "reserve-002",
+      "reserve_order": 2,
+      "source_url": "https://www.gutenberg.org/ebooks/1627"
+    },
+    {
+      "work_id": "reserve-003",
+      "reserve_order": 3,
+      "source_url": "https://www.gutenberg.org/ebooks/2814"
+    },
+    {
+      "work_id": "reserve-004",
+      "reserve_order": 4,
+      "source_url": "https://www.gutenberg.org/ebooks/8438"
+    },
+    {
+      "work_id": "reserve-005",
+      "reserve_order": 5,
+      "source_url": "https://www.gutenberg.org/ebooks/8492"
+    },
+    {
+      "work_id": "reserve-006",
+      "reserve_order": 6,
+      "source_url": "https://www.gutenberg.org/ebooks/131"
+    },
+    {
+      "work_id": "reserve-007",
+      "reserve_order": 7,
+      "source_url": "https://www.gutenberg.org/ebooks/4980"
+    },
+    {
+      "work_id": "reserve-008",
+      "reserve_order": 8,
+      "source_url": "https://www.gutenberg.org/ebooks/144"
+    },
+    {
+      "work_id": "reserve-009",
+      "reserve_order": 9,
+      "source_url": "https://www.gutenberg.org/ebooks/23042"
+    },
+    {
+      "work_id": "reserve-010",
+      "reserve_order": 10,
+      "source_url": "https://www.gutenberg.org/ebooks/1661"
+    },
+    {
+      "work_id": "reserve-011",
+      "reserve_order": 11,
+      "source_url": "https://www.gutenberg.org/ebooks/394"
+    },
+    {
+      "work_id": "reserve-012",
+      "reserve_order": 12,
+      "source_url": "https://www.gutenberg.org/ebooks/550"
+    },
+    {
+      "work_id": "reserve-013",
+      "reserve_order": 13,
+      "source_url": "https://www.gutenberg.org/ebooks/2147"
+    },
+    {
+      "work_id": "reserve-014",
+      "reserve_order": 14,
+      "source_url": "https://www.gutenberg.org/ebooks/902"
+    },
+    {
+      "work_id": "reserve-015",
+      "reserve_order": 15,
+      "source_url": "https://www.gutenberg.org/ebooks/2467"
+    },
+    {
+      "work_id": "reserve-016",
+      "reserve_order": 16,
+      "source_url": "https://www.gutenberg.org/ebooks/18247"
+    },
+    {
+      "work_id": "reserve-017",
+      "reserve_order": 17,
+      "source_url": "https://www.gutenberg.org/ebooks/1597"
+    },
+    {
+      "work_id": "reserve-018",
+      "reserve_order": 18,
+      "source_url": "https://www.gutenberg.org/ebooks/1441"
+    },
+    {
+      "work_id": "reserve-019",
+      "reserve_order": 19,
+      "source_url": "https://www.gutenberg.org/ebooks/73"
+    },
+    {
+      "work_id": "reserve-020",
+      "reserve_order": 20,
+      "source_url": "https://www.gutenberg.org/ebooks/408"
+    }
+  ]
+}

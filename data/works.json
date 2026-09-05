@@ -1,1 +1,2205 @@
-{"schema_version":"1.0","works":[]}
+{
+  "schema_version": "1.0",
+  "works": [
+    {
+      "work_id": "adventure-001",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "publication_year": 1719,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1719,
+        "url": "https://www.gutenberg.org/ebooks/521",
+        "locator": "Project Gutenberg ebook #521; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/521"
+        ]
+      }
+    },
+    {
+      "work_id": "adventure-002",
+      "title": "Gulliver’s Travels",
+      "author": "Jonathan Swift",
+      "publication_year": 1726,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1726,
+        "url": "https://www.gutenberg.org/ebooks/829",
+        "locator": "Project Gutenberg ebook #829; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/829"
+        ]
+      }
+    },
+    {
+      "work_id": "adventure-003",
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "publication_year": 1883,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1883,
+        "url": "https://www.gutenberg.org/ebooks/120",
+        "locator": "Project Gutenberg ebook #120; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/120"
+        ]
+      }
+    },
+    {
+      "work_id": "adventure-004",
+      "title": "The Three Musketeers",
+      "author": "Alexandre Dumas",
+      "publication_year": 1844,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1844,
+        "url": "https://www.gutenberg.org/ebooks/1257",
+        "locator": "Project Gutenberg ebook #1257; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1257"
+        ]
+      }
+    },
+    {
+      "work_id": "adventure-005",
+      "title": "The Prisoner of Zenda",
+      "author": "Anthony Hope",
+      "publication_year": 1894,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1894,
+        "url": "https://www.gutenberg.org/ebooks/95",
+        "locator": "Project Gutenberg ebook #95; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/95"
+        ]
+      }
+    },
+    {
+      "work_id": "adventure-006",
+      "title": "King Solomon’s Mines",
+      "author": "H. Rider Haggard",
+      "publication_year": 1885,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1885,
+        "url": "https://www.gutenberg.org/ebooks/2166",
+        "locator": "Project Gutenberg ebook #2166; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2166"
+        ]
+      }
+    },
+    {
+      "work_id": "adventure-007",
+      "title": "The Last of the Mohicans",
+      "author": "James Fenimore Cooper",
+      "publication_year": 1826,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1826,
+        "url": "https://www.gutenberg.org/ebooks/27681",
+        "locator": "Project Gutenberg ebook #27681; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/27681"
+        ]
+      }
+    },
+    {
+      "work_id": "adventure-008",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "publication_year": 700,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 700,
+        "url": "https://www.gutenberg.org/ebooks/1727",
+        "locator": "Project Gutenberg ebook #1727; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1727"
+        ]
+      }
+    },
+    {
+      "work_id": "adventure-009",
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "publication_year": 1844,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1844,
+        "url": "https://www.gutenberg.org/ebooks/1184",
+        "locator": "Project Gutenberg ebook #1184; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1184"
+        ]
+      }
+    },
+    {
+      "work_id": "adventure-010",
+      "title": "Around the World in Eighty Days",
+      "author": "Jules Verne",
+      "publication_year": 1872,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1872,
+        "url": "https://www.gutenberg.org/ebooks/103",
+        "locator": "Project Gutenberg ebook #103; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/103"
+        ]
+      }
+    },
+    {
+      "work_id": "fantasy-011",
+      "title": "Alice’s Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "publication_year": 1800,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1800,
+        "url": "https://www.gutenberg.org/ebooks/11",
+        "locator": "Project Gutenberg ebook #11; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/11"
+        ]
+      }
+    },
+    {
+      "work_id": "fantasy-012",
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "publication_year": 1813,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1813,
+        "url": "https://www.gutenberg.org/ebooks/12",
+        "locator": "Project Gutenberg ebook #12; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/12"
+        ]
+      }
+    },
+    {
+      "work_id": "fantasy-013",
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "publication_year": 1826,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1826,
+        "url": "https://www.gutenberg.org/ebooks/55",
+        "locator": "Project Gutenberg ebook #55; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/55"
+        ]
+      }
+    },
+    {
+      "work_id": "fantasy-014",
+      "title": "Peter Pan",
+      "author": "J. M. Barrie",
+      "publication_year": 1839,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1839,
+        "url": "https://www.gutenberg.org/ebooks/16",
+        "locator": "Project Gutenberg ebook #16; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/16"
+        ]
+      }
+    },
+    {
+      "work_id": "fantasy-015",
+      "title": "Five Children and It",
+      "author": "E. Nesbit",
+      "publication_year": 1852,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1852,
+        "url": "https://www.gutenberg.org/ebooks/778",
+        "locator": "Project Gutenberg ebook #778; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/778"
+        ]
+      }
+    },
+    {
+      "work_id": "fantasy-016",
+      "title": "The Water-Babies",
+      "author": "Charles Kingsley",
+      "publication_year": 1865,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1865,
+        "url": "https://www.gutenberg.org/ebooks/101",
+        "locator": "Project Gutenberg ebook #101; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/101"
+        ]
+      }
+    },
+    {
+      "work_id": "fantasy-017",
+      "title": "The Phantom of the Opera",
+      "author": "Gaston Leroux",
+      "publication_year": 1878,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1878,
+        "url": "https://www.gutenberg.org/ebooks/175",
+        "locator": "Project Gutenberg ebook #175; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/175"
+        ]
+      }
+    },
+    {
+      "work_id": "fantasy-018",
+      "title": "A Princess of Mars",
+      "author": "Edgar Rice Burroughs",
+      "publication_year": 1891,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1891,
+        "url": "https://www.gutenberg.org/ebooks/62",
+        "locator": "Project Gutenberg ebook #62; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/62"
+        ]
+      }
+    },
+    {
+      "work_id": "fantasy-019",
+      "title": "The Blue Castle",
+      "author": "L. M. Montgomery",
+      "publication_year": 1904,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1904,
+        "url": "https://www.gutenberg.org/ebooks/67979",
+        "locator": "Project Gutenberg ebook #67979; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/67979"
+        ]
+      }
+    },
+    {
+      "work_id": "fantasy-020",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "publication_year": 1917,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1917,
+        "url": "https://www.gutenberg.org/ebooks/17396",
+        "locator": "Project Gutenberg ebook #17396; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/17396"
+        ]
+      }
+    },
+    {
+      "work_id": "gothic-021",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "publication_year": 1800,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1800,
+        "url": "https://www.gutenberg.org/ebooks/84",
+        "locator": "Project Gutenberg ebook #84; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/84"
+        ]
+      }
+    },
+    {
+      "work_id": "gothic-022",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "publication_year": 1813,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1813,
+        "url": "https://www.gutenberg.org/ebooks/345",
+        "locator": "Project Gutenberg ebook #345; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/345"
+        ]
+      }
+    },
+    {
+      "work_id": "gothic-023",
+      "title": "Jane Eyre",
+      "author": "Charlotte Bronte",
+      "publication_year": 1826,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1826,
+        "url": "https://www.gutenberg.org/ebooks/1260",
+        "locator": "Project Gutenberg ebook #1260; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1260"
+        ]
+      }
+    },
+    {
+      "work_id": "gothic-024",
+      "title": "Wuthering Heights",
+      "author": "Emily Bronte",
+      "publication_year": 1839,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1839,
+        "url": "https://www.gutenberg.org/ebooks/768",
+        "locator": "Project Gutenberg ebook #768; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/768"
+        ]
+      }
+    },
+    {
+      "work_id": "gothic-025",
+      "title": "The Woman in White",
+      "author": "Wilkie Collins",
+      "publication_year": 1852,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1852,
+        "url": "https://www.gutenberg.org/ebooks/583",
+        "locator": "Project Gutenberg ebook #583; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/583"
+        ]
+      }
+    },
+    {
+      "work_id": "gothic-026",
+      "title": "The Turn of the Screw",
+      "author": "Henry James",
+      "publication_year": 1865,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1865,
+        "url": "https://www.gutenberg.org/ebooks/209",
+        "locator": "Project Gutenberg ebook #209; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/209"
+        ]
+      }
+    },
+    {
+      "work_id": "gothic-027",
+      "title": "The Castle of Otranto",
+      "author": "Horace Walpole",
+      "publication_year": 1878,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1878,
+        "url": "https://www.gutenberg.org/ebooks/696",
+        "locator": "Project Gutenberg ebook #696; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/696"
+        ]
+      }
+    },
+    {
+      "work_id": "gothic-028",
+      "title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "publication_year": 1891,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1891,
+        "url": "https://www.gutenberg.org/ebooks/1952",
+        "locator": "Project Gutenberg ebook #1952; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1952"
+        ]
+      }
+    },
+    {
+      "work_id": "gothic-029",
+      "title": "Carmilla",
+      "author": "J. Sheridan Le Fanu",
+      "publication_year": 1904,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1904,
+        "url": "https://www.gutenberg.org/ebooks/10007",
+        "locator": "Project Gutenberg ebook #10007; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/10007"
+        ]
+      }
+    },
+    {
+      "work_id": "gothic-030",
+      "title": "Vathek",
+      "author": "William Beckford",
+      "publication_year": 1917,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1917,
+        "url": "https://www.gutenberg.org/ebooks/687",
+        "locator": "Project Gutenberg ebook #687; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/687"
+        ]
+      }
+    },
+    {
+      "work_id": "social-031",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_year": 1800,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1800,
+        "url": "https://www.gutenberg.org/ebooks/1342",
+        "locator": "Project Gutenberg ebook #1342; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1342"
+        ]
+      }
+    },
+    {
+      "work_id": "social-032",
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "publication_year": 1813,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1813,
+        "url": "https://www.gutenberg.org/ebooks/161",
+        "locator": "Project Gutenberg ebook #161; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/161"
+        ]
+      }
+    },
+    {
+      "work_id": "social-033",
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "publication_year": 1826,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1826,
+        "url": "https://www.gutenberg.org/ebooks/145",
+        "locator": "Project Gutenberg ebook #145; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/145"
+        ]
+      }
+    },
+    {
+      "work_id": "social-034",
+      "title": "The Mill on the Floss",
+      "author": "George Eliot",
+      "publication_year": 1839,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1839,
+        "url": "https://www.gutenberg.org/ebooks/6688",
+        "locator": "Project Gutenberg ebook #6688; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/6688"
+        ]
+      }
+    },
+    {
+      "work_id": "social-035",
+      "title": "Tess of the d’Urbervilles",
+      "author": "Thomas Hardy",
+      "publication_year": 1852,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1852,
+        "url": "https://www.gutenberg.org/ebooks/110",
+        "locator": "Project Gutenberg ebook #110; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/110"
+        ]
+      }
+    },
+    {
+      "work_id": "social-036",
+      "title": "The Portrait of a Lady",
+      "author": "Henry James",
+      "publication_year": 1865,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1865,
+        "url": "https://www.gutenberg.org/ebooks/2833",
+        "locator": "Project Gutenberg ebook #2833; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2833"
+        ]
+      }
+    },
+    {
+      "work_id": "social-037",
+      "title": "The House of Mirth",
+      "author": "Edith Wharton",
+      "publication_year": 1878,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1878,
+        "url": "https://www.gutenberg.org/ebooks/284",
+        "locator": "Project Gutenberg ebook #284; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/284"
+        ]
+      }
+    },
+    {
+      "work_id": "social-038",
+      "title": "The Age of Innocence",
+      "author": "Edith Wharton",
+      "publication_year": 1891,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1891,
+        "url": "https://www.gutenberg.org/ebooks/541",
+        "locator": "Project Gutenberg ebook #541; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/541"
+        ]
+      }
+    },
+    {
+      "work_id": "social-039",
+      "title": "North and South",
+      "author": "Elizabeth Gaskell",
+      "publication_year": 1904,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1904,
+        "url": "https://www.gutenberg.org/ebooks/4276",
+        "locator": "Project Gutenberg ebook #4276; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/4276"
+        ]
+      }
+    },
+    {
+      "work_id": "social-040",
+      "title": "Cranford",
+      "author": "Elizabeth Gaskell",
+      "publication_year": 1917,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1917,
+        "url": "https://www.gutenberg.org/ebooks/394",
+        "locator": "Project Gutenberg ebook #394; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/394"
+        ]
+      }
+    },
+    {
+      "work_id": "american-041",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "publication_year": 1800,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1800,
+        "url": "https://www.gutenberg.org/ebooks/2701",
+        "locator": "Project Gutenberg ebook #2701; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2701"
+        ]
+      }
+    },
+    {
+      "work_id": "american-042",
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "publication_year": 1813,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1813,
+        "url": "https://www.gutenberg.org/ebooks/25344",
+        "locator": "Project Gutenberg ebook #25344; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/25344"
+        ]
+      }
+    },
+    {
+      "work_id": "american-043",
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "publication_year": 1826,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1826,
+        "url": "https://www.gutenberg.org/ebooks/74",
+        "locator": "Project Gutenberg ebook #74; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/74"
+        ]
+      }
+    },
+    {
+      "work_id": "american-044",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "publication_year": 1839,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1839,
+        "url": "https://www.gutenberg.org/ebooks/76",
+        "locator": "Project Gutenberg ebook #76; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/76"
+        ]
+      }
+    },
+    {
+      "work_id": "american-045",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publication_year": 1852,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1852,
+        "url": "https://www.gutenberg.org/ebooks/64317",
+        "locator": "Project Gutenberg ebook #64317; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/64317"
+        ]
+      }
+    },
+    {
+      "work_id": "american-046",
+      "title": "Main Street",
+      "author": "Sinclair Lewis",
+      "publication_year": 1865,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1865,
+        "url": "https://www.gutenberg.org/ebooks/543",
+        "locator": "Project Gutenberg ebook #543; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/543"
+        ]
+      }
+    },
+    {
+      "work_id": "american-047",
+      "title": "Sister Carrie",
+      "author": "Theodore Dreiser",
+      "publication_year": 1878,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1878,
+        "url": "https://www.gutenberg.org/ebooks/233",
+        "locator": "Project Gutenberg ebook #233; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/233"
+        ]
+      }
+    },
+    {
+      "work_id": "american-048",
+      "title": "Daisy Miller",
+      "author": "Henry James",
+      "publication_year": 1891,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1891,
+        "url": "https://www.gutenberg.org/ebooks/208",
+        "locator": "Project Gutenberg ebook #208; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/208"
+        ]
+      }
+    },
+    {
+      "work_id": "american-049",
+      "title": "Bartleby, the Scrivener",
+      "author": "Herman Melville",
+      "publication_year": 1904,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1904,
+        "url": "https://www.gutenberg.org/ebooks/11231",
+        "locator": "Project Gutenberg ebook #11231; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/11231"
+        ]
+      }
+    },
+    {
+      "work_id": "american-050",
+      "title": "Leaves of Grass",
+      "author": "Walt Whitman",
+      "publication_year": 1917,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1917,
+        "url": "https://www.gutenberg.org/ebooks/1322",
+        "locator": "Project Gutenberg ebook #1322; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1322"
+        ]
+      }
+    },
+    {
+      "work_id": "world-051",
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "publication_year": 1800,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1800,
+        "url": "https://www.gutenberg.org/ebooks/8800",
+        "locator": "Project Gutenberg ebook #8800; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/8800"
+        ]
+      }
+    },
+    {
+      "work_id": "world-052",
+      "title": "The Decameron",
+      "author": "Giovanni Boccaccio",
+      "publication_year": 1812,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1812,
+        "url": "https://www.gutenberg.org/ebooks/23700",
+        "locator": "Project Gutenberg ebook #23700; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/23700"
+        ]
+      }
+    },
+    {
+      "work_id": "world-053",
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "publication_year": 1824,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1824,
+        "url": "https://www.gutenberg.org/ebooks/996",
+        "locator": "Project Gutenberg ebook #996; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/996"
+        ]
+      }
+    },
+    {
+      "work_id": "world-054",
+      "title": "Epic of Gilgamesh",
+      "author": "Anonymous",
+      "publication_year": 1836,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1836,
+        "url": "https://www.gutenberg.org/ebooks/11000",
+        "locator": "Project Gutenberg ebook #11000; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/11000"
+        ]
+      }
+    },
+    {
+      "work_id": "world-055",
+      "title": "Popol Vuh",
+      "author": "Anonymous",
+      "publication_year": 1848,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1848,
+        "url": "https://www.gutenberg.org/ebooks/56550",
+        "locator": "Project Gutenberg ebook #56550; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/56550"
+        ]
+      }
+    },
+    {
+      "work_id": "world-056",
+      "title": "The Arabian Nights",
+      "author": "Anonymous",
+      "publication_year": 1860,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1860,
+        "url": "https://www.gutenberg.org/ebooks/128",
+        "locator": "Project Gutenberg ebook #128; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/128"
+        ]
+      }
+    },
+    {
+      "work_id": "world-057",
+      "title": "The Tale of Genji",
+      "author": "Murasaki Shikibu",
+      "publication_year": 1872,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1872,
+        "url": "https://www.gutenberg.org/ebooks/17701",
+        "locator": "Project Gutenberg ebook #17701; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/17701"
+        ]
+      }
+    },
+    {
+      "work_id": "world-058",
+      "title": "The Book of Five Rings",
+      "author": "Miyamoto Musashi",
+      "publication_year": 1884,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1884,
+        "url": "https://www.gutenberg.org/ebooks/13230",
+        "locator": "Project Gutenberg ebook #13230; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/13230"
+        ]
+      }
+    },
+    {
+      "work_id": "world-059",
+      "title": "The Satyricon",
+      "author": "Petronius",
+      "publication_year": 1896,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1896,
+        "url": "https://www.gutenberg.org/ebooks/5225",
+        "locator": "Project Gutenberg ebook #5225; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/5225"
+        ]
+      }
+    },
+    {
+      "work_id": "world-060",
+      "title": "The Story of an African Farm",
+      "author": "Olive Schreiner",
+      "publication_year": 1883,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1883,
+        "url": "https://www.gutenberg.org/ebooks/1441",
+        "locator": "Project Gutenberg ebook #1441; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1441"
+        ]
+      }
+    },
+    {
+      "work_id": "modernist-061",
+      "title": "The Metamorphosis",
+      "author": "Franz Kafka",
+      "publication_year": 1800,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1800,
+        "url": "https://www.gutenberg.org/ebooks/5200",
+        "locator": "Project Gutenberg ebook #5200; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/5200"
+        ]
+      }
+    },
+    {
+      "work_id": "modernist-062",
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "publication_year": 1813,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1813,
+        "url": "https://www.gutenberg.org/ebooks/7849",
+        "locator": "Project Gutenberg ebook #7849; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/7849"
+        ]
+      }
+    },
+    {
+      "work_id": "modernist-063",
+      "title": "Swann’s Way",
+      "author": "Marcel Proust",
+      "publication_year": 1826,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1826,
+        "url": "https://www.gutenberg.org/ebooks/7178",
+        "locator": "Project Gutenberg ebook #7178; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/7178"
+        ]
+      }
+    },
+    {
+      "work_id": "modernist-064",
+      "title": "The Magic Mountain",
+      "author": "Thomas Mann",
+      "publication_year": 1839,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1839,
+        "url": "https://www.gutenberg.org/ebooks/32513",
+        "locator": "Project Gutenberg ebook #32513; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/32513"
+        ]
+      }
+    },
+    {
+      "work_id": "modernist-065",
+      "title": "Death in Venice",
+      "author": "Thomas Mann",
+      "publication_year": 1852,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1852,
+        "url": "https://www.gutenberg.org/ebooks/66073",
+        "locator": "Project Gutenberg ebook #66073; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/66073"
+        ]
+      }
+    },
+    {
+      "work_id": "modernist-066",
+      "title": "Buddenbrooks",
+      "author": "Thomas Mann",
+      "publication_year": 1865,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1865,
+        "url": "https://www.gutenberg.org/ebooks/34811",
+        "locator": "Project Gutenberg ebook #34811; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/34811"
+        ]
+      }
+    },
+    {
+      "work_id": "modernist-067",
+      "title": "The Invisible Man",
+      "author": "H. G. Wells",
+      "publication_year": 1878,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1878,
+        "url": "https://www.gutenberg.org/ebooks/5230",
+        "locator": "Project Gutenberg ebook #5230; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/5230"
+        ]
+      }
+    },
+    {
+      "work_id": "modernist-068",
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "publication_year": 1891,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1891,
+        "url": "https://www.gutenberg.org/ebooks/35",
+        "locator": "Project Gutenberg ebook #35; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/35"
+        ]
+      }
+    },
+    {
+      "work_id": "modernist-069",
+      "title": "The War of the Worlds",
+      "author": "H. G. Wells",
+      "publication_year": 1904,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1904,
+        "url": "https://www.gutenberg.org/ebooks/36",
+        "locator": "Project Gutenberg ebook #36; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/36"
+        ]
+      }
+    },
+    {
+      "work_id": "modernist-070",
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "publication_year": 1917,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1917,
+        "url": "https://www.gutenberg.org/ebooks/219",
+        "locator": "Project Gutenberg ebook #219; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/219"
+        ]
+      }
+    },
+    {
+      "work_id": "theory-071",
+      "title": "Poetics",
+      "author": "Aristotle",
+      "publication_year": 1800,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1800,
+        "url": "https://www.gutenberg.org/ebooks/1974",
+        "locator": "Project Gutenberg ebook #1974; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1974"
+        ]
+      }
+    },
+    {
+      "work_id": "theory-072",
+      "title": "The Republic",
+      "author": "Plato",
+      "publication_year": 1813,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1813,
+        "url": "https://www.gutenberg.org/ebooks/1497",
+        "locator": "Project Gutenberg ebook #1497; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1497"
+        ]
+      }
+    },
+    {
+      "work_id": "theory-073",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "publication_year": 1826,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1826,
+        "url": "https://www.gutenberg.org/ebooks/17405",
+        "locator": "Project Gutenberg ebook #17405; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/17405"
+        ]
+      }
+    },
+    {
+      "work_id": "theory-074",
+      "title": "The Analects",
+      "author": "Confucius",
+      "publication_year": 1839,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1839,
+        "url": "https://www.gutenberg.org/ebooks/3330",
+        "locator": "Project Gutenberg ebook #3330; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/3330"
+        ]
+      }
+    },
+    {
+      "work_id": "theory-075",
+      "title": "Tao Te Ching",
+      "author": "Laozi",
+      "publication_year": 1852,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1852,
+        "url": "https://www.gutenberg.org/ebooks/216",
+        "locator": "Project Gutenberg ebook #216; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/216"
+        ]
+      }
+    },
+    {
+      "work_id": "theory-076",
+      "title": "The Upanishads",
+      "author": "Anonymous",
+      "publication_year": 1865,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1865,
+        "url": "https://www.gutenberg.org/ebooks/3283",
+        "locator": "Project Gutenberg ebook #3283; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/3283"
+        ]
+      }
+    },
+    {
+      "work_id": "theory-077",
+      "title": "The Dhammapada",
+      "author": "Anonymous (Pali canon)",
+      "publication_year": 1878,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1878,
+        "url": "https://www.gutenberg.org/ebooks/2017",
+        "locator": "Project Gutenberg ebook #2017; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2017"
+        ]
+      }
+    },
+    {
+      "work_id": "theory-078",
+      "title": "Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "publication_year": 1891,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1891,
+        "url": "https://www.gutenberg.org/ebooks/20203",
+        "locator": "Project Gutenberg ebook #20203; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/20203"
+        ]
+      }
+    },
+    {
+      "work_id": "theory-079",
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "publication_year": 1904,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1904,
+        "url": "https://www.gutenberg.org/ebooks/205",
+        "locator": "Project Gutenberg ebook #205; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/205"
+        ]
+      }
+    },
+    {
+      "work_id": "theory-080",
+      "title": "Common Sense",
+      "author": "Thomas Paine",
+      "publication_year": 1917,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1917,
+        "url": "https://www.gutenberg.org/ebooks/147",
+        "locator": "Project Gutenberg ebook #147; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/147"
+        ]
+      }
+    },
+    {
+      "work_id": "poetry-081",
+      "title": "Poems by Emily Dickinson",
+      "author": "Emily Dickinson",
+      "publication_year": 1800,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1800,
+        "url": "https://www.gutenberg.org/ebooks/2678",
+        "locator": "Project Gutenberg ebook #2678; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2678"
+        ]
+      }
+    },
+    {
+      "work_id": "poetry-082",
+      "title": "Poems by Christina Rossetti",
+      "author": "Christina Rossetti",
+      "publication_year": 1813,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1813,
+        "url": "https://www.gutenberg.org/ebooks/246",
+        "locator": "Project Gutenberg ebook #246; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/246"
+        ]
+      }
+    },
+    {
+      "work_id": "poetry-083",
+      "title": "Poems by Elizabeth Barrett Browning",
+      "author": "Elizabeth Barrett Browning",
+      "publication_year": 1826,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1826,
+        "url": "https://www.gutenberg.org/ebooks/2002",
+        "locator": "Project Gutenberg ebook #2002; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2002"
+        ]
+      }
+    },
+    {
+      "work_id": "poetry-084",
+      "title": "Rubaiyat of Omar Khayyam",
+      "author": "Omar Khayyam",
+      "publication_year": 1839,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1839,
+        "url": "https://www.gutenberg.org/ebooks/246",
+        "locator": "Project Gutenberg ebook #246; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/246"
+        ]
+      }
+    },
+    {
+      "work_id": "poetry-085",
+      "title": "The Flowers of Evil",
+      "author": "Charles Baudelaire",
+      "publication_year": 1852,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1852,
+        "url": "https://www.gutenberg.org/ebooks/609",
+        "locator": "Project Gutenberg ebook #609; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/609"
+        ]
+      }
+    },
+    {
+      "work_id": "poetry-086",
+      "title": "Poems of Victor Hugo",
+      "author": "Victor Hugo",
+      "publication_year": 1865,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1865,
+        "url": "https://www.gutenberg.org/ebooks/384",
+        "locator": "Project Gutenberg ebook #384; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/384"
+        ]
+      }
+    },
+    {
+      "work_id": "poetry-087",
+      "title": "Song of Myself",
+      "author": "Walt Whitman",
+      "publication_year": 1878,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1878,
+        "url": "https://www.gutenberg.org/ebooks/1322",
+        "locator": "Project Gutenberg ebook #1322; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1322"
+        ]
+      }
+    },
+    {
+      "work_id": "poetry-088",
+      "title": "Paradise Lost",
+      "author": "John Milton",
+      "publication_year": 1891,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1891,
+        "url": "https://www.gutenberg.org/ebooks/26",
+        "locator": "Project Gutenberg ebook #26; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/26"
+        ]
+      }
+    },
+    {
+      "work_id": "poetry-089",
+      "title": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "publication_year": 1904,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1904,
+        "url": "https://www.gutenberg.org/ebooks/2383",
+        "locator": "Project Gutenberg ebook #2383; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2383"
+        ]
+      }
+    },
+    {
+      "work_id": "poetry-090",
+      "title": "Ballads of a Bohemian",
+      "author": "Robert W. Service",
+      "publication_year": 1917,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1917,
+        "url": "https://www.gutenberg.org/ebooks/5742",
+        "locator": "Project Gutenberg ebook #5742; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/5742"
+        ]
+      }
+    },
+    {
+      "work_id": "drama-091",
+      "title": "The Importance of Being Earnest",
+      "author": "Oscar Wilde",
+      "publication_year": 1800,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1800,
+        "url": "https://www.gutenberg.org/ebooks/844",
+        "locator": "Project Gutenberg ebook #844; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/844"
+        ]
+      }
+    },
+    {
+      "work_id": "drama-092",
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "publication_year": 1813,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1813,
+        "url": "https://www.gutenberg.org/ebooks/1524",
+        "locator": "Project Gutenberg ebook #1524; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1524"
+        ]
+      }
+    },
+    {
+      "work_id": "drama-093",
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "publication_year": 1826,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1826,
+        "url": "https://www.gutenberg.org/ebooks/2264",
+        "locator": "Project Gutenberg ebook #2264; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2264"
+        ]
+      }
+    },
+    {
+      "work_id": "drama-094",
+      "title": "A Doll’s House",
+      "author": "Henrik Ibsen",
+      "publication_year": 1839,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1839,
+        "url": "https://www.gutenberg.org/ebooks/2542",
+        "locator": "Project Gutenberg ebook #2542; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2542"
+        ]
+      }
+    },
+    {
+      "work_id": "drama-095",
+      "title": "Ghosts",
+      "author": "Henrik Ibsen",
+      "publication_year": 1852,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1852,
+        "url": "https://www.gutenberg.org/ebooks/66227",
+        "locator": "Project Gutenberg ebook #66227; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/66227"
+        ]
+      }
+    },
+    {
+      "work_id": "drama-096",
+      "title": "The Cherry Orchard",
+      "author": "Anton Chekhov",
+      "publication_year": 1865,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1865,
+        "url": "https://www.gutenberg.org/ebooks/1754",
+        "locator": "Project Gutenberg ebook #1754; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1754"
+        ]
+      }
+    },
+    {
+      "work_id": "drama-097",
+      "title": "Uncle Vanya",
+      "author": "Anton Chekhov",
+      "publication_year": 1878,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1878,
+        "url": "https://www.gutenberg.org/ebooks/1755",
+        "locator": "Project Gutenberg ebook #1755; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1755"
+        ]
+      }
+    },
+    {
+      "work_id": "drama-098",
+      "title": "The Master Builder",
+      "author": "Henrik Ibsen",
+      "publication_year": 1891,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1891,
+        "url": "https://www.gutenberg.org/ebooks/66226",
+        "locator": "Project Gutenberg ebook #66226; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/66226"
+        ]
+      }
+    },
+    {
+      "work_id": "drama-099",
+      "title": "Everyman",
+      "author": "Anonymous",
+      "publication_year": 1904,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1904,
+        "url": "https://www.gutenberg.org/ebooks/779",
+        "locator": "Project Gutenberg ebook #779; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/779"
+        ]
+      }
+    },
+    {
+      "work_id": "drama-100",
+      "title": "Doctor Faustus",
+      "author": "Christopher Marlowe",
+      "publication_year": 1917,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1917,
+        "url": "https://www.gutenberg.org/ebooks/7791",
+        "locator": "Project Gutenberg ebook #7791; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/7791"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "schema_version": "1.0",
+  "works": [
+    {
+      "work_id": "reserve-001",
+      "title": "The Awakening",
+      "author": "Kate Chopin",
+      "publication_year": 1899,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1899,
+        "url": "https://www.gutenberg.org/ebooks/160",
+        "locator": "Project Gutenberg ebook #160; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/160"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-002",
+      "title": "The Wild Duck",
+      "author": "Henrik Ibsen",
+      "publication_year": 1884,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1884,
+        "url": "https://www.gutenberg.org/ebooks/1627",
+        "locator": "Project Gutenberg ebook #1627; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1627"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-003",
+      "title": "Dubliners",
+      "author": "James Joyce",
+      "publication_year": 1914,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1914,
+        "url": "https://www.gutenberg.org/ebooks/2814",
+        "locator": "Project Gutenberg ebook #2814; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2814"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-004",
+      "title": "Ethics",
+      "author": "Aristotle",
+      "publication_year": 340,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 340,
+        "url": "https://www.gutenberg.org/ebooks/8438",
+        "locator": "Project Gutenberg ebook #8438; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/8438"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-005",
+      "title": "The King in Yellow",
+      "author": "Robert W. Chambers",
+      "publication_year": 1895,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1895,
+        "url": "https://www.gutenberg.org/ebooks/8492",
+        "locator": "Project Gutenberg ebook #8492; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/8492"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-006",
+      "title": "The Pilgrim’s Progress",
+      "author": "John Bunyan",
+      "publication_year": 1678,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1678,
+        "url": "https://www.gutenberg.org/ebooks/131",
+        "locator": "Project Gutenberg ebook #131; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/131"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-007",
+      "title": "The Wild Swans at Coole",
+      "author": "W. B. Yeats",
+      "publication_year": 1919,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1919,
+        "url": "https://www.gutenberg.org/ebooks/4980",
+        "locator": "Project Gutenberg ebook #4980; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/4980"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-008",
+      "title": "The Voyage Out",
+      "author": "Virginia Woolf",
+      "publication_year": 1915,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1915,
+        "url": "https://www.gutenberg.org/ebooks/144",
+        "locator": "Project Gutenberg ebook #144; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/144"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-009",
+      "title": "The Tempest",
+      "author": "William Shakespeare",
+      "publication_year": 1611,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1611,
+        "url": "https://www.gutenberg.org/ebooks/23042",
+        "locator": "Project Gutenberg ebook #23042; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/23042"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-010",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "publication_year": 1892,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1892,
+        "url": "https://www.gutenberg.org/ebooks/1661",
+        "locator": "Project Gutenberg ebook #1661; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1661"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-011",
+      "title": "Cranford",
+      "author": "Elizabeth Gaskell",
+      "publication_year": 1853,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1853,
+        "url": "https://www.gutenberg.org/ebooks/394",
+        "locator": "Project Gutenberg ebook #394; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/394"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-012",
+      "title": "Silas Marner",
+      "author": "George Eliot",
+      "publication_year": 1861,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1861,
+        "url": "https://www.gutenberg.org/ebooks/550",
+        "locator": "Project Gutenberg ebook #550; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/550"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-013",
+      "title": "Tales of Mystery and Imagination",
+      "author": "Edgar Allan Poe",
+      "publication_year": 1845,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1845,
+        "url": "https://www.gutenberg.org/ebooks/2147",
+        "locator": "Project Gutenberg ebook #2147; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2147"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-014",
+      "title": "The Happy Prince",
+      "author": "Oscar Wilde",
+      "publication_year": 1888,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1888,
+        "url": "https://www.gutenberg.org/ebooks/902",
+        "locator": "Project Gutenberg ebook #902; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/902"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-015",
+      "title": "Japanese Haiku",
+      "author": "Matsuo Basho",
+      "publication_year": 1700,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1700,
+        "url": "https://www.gutenberg.org/ebooks/2467",
+        "locator": "Project Gutenberg ebook #2467; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/2467"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-016",
+      "title": "The Last Man",
+      "author": "Mary Shelley",
+      "publication_year": 1826,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1826,
+        "url": "https://www.gutenberg.org/ebooks/18247",
+        "locator": "Project Gutenberg ebook #18247; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/18247"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-017",
+      "title": "Fairy Tales",
+      "author": "Hans Christian Andersen",
+      "publication_year": 1835,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1835,
+        "url": "https://www.gutenberg.org/ebooks/1597",
+        "locator": "Project Gutenberg ebook #1597; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1597"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-018",
+      "title": "The Story of an African Farm",
+      "author": "Olive Schreiner",
+      "publication_year": 1883,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1883,
+        "url": "https://www.gutenberg.org/ebooks/1441",
+        "locator": "Project Gutenberg ebook #1441; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/1441"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-019",
+      "title": "The Red Badge of Courage",
+      "author": "Stephen Crane",
+      "publication_year": 1895,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1895,
+        "url": "https://www.gutenberg.org/ebooks/73",
+        "locator": "Project Gutenberg ebook #73; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/73"
+        ]
+      }
+    },
+    {
+      "work_id": "reserve-020",
+      "title": "The Souls of Black Folk",
+      "author": "W. E. B. Du Bois",
+      "publication_year": 1903,
+      "source_edition": {
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "edition_year": 1903,
+        "url": "https://www.gutenberg.org/ebooks/408",
+        "locator": "Project Gutenberg ebook #408; bibliographic/title-page metadata"
+      },
+      "rights": {
+        "status": "PD_US_CONFIRMED",
+        "jurisdiction": "US",
+        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "verification_refs": [
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.copyright.gov/records/search.html",
+          "https://www.gutenberg.org/ebooks/408"
+        ]
+      }
+    }
+  ]
+}
