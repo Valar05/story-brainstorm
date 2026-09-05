@@ -1,0 +1,38 @@
+{
+  "blockers": [],
+  "changed": [
+    "tools/merge_bibliography.py",
+    "tests/test_merge_bibliography.py",
+    "data/works.json",
+    "data/reserve_works.json",
+    "sources/manifests/bibliography_union.json",
+    "generated/receipts/B4.json"
+  ],
+  "checks": [
+    "Production command python tools/merge_bibliography.py: READY; 100 accepted, 20 reserves, 120 unique.",
+    "Production command python story_brainstorm.py works validate: READY exactly 100; zero errors.",
+    "Full suite: 63 tests PASS (40 inherited plus 23 merge tests); C8 inherited dependency de818f73ee823e58bf7ab727744f578b0f7b11a9 is supplied main e80ecf0 and excluded from authored changed paths.",
+    "Exact decoded WorkRecord objects and canonical semantic hashes match all three input shards, including every nested source/rights field. All 120 canonical records pass C2 schema.",
+    "Every input shard requires a complete unblocked receipt, unlocked shard dependency, matching shard/audit/manifest hashes, READY audit with every row/check PASS, exact row joins, and committed-byte provenance. Input shards/manifests/audits/receipts remain byte-identical.",
+    "Global invariants: ten strata x10 accepted; 43 women; 58 conservative non-novel/hybrid works; 22 verified non-Anglo/diasporic/translated breadth works; max five per normalized author including all reserves. All 120 work IDs, normalized titles, item IDs and source URLs unique.",
+    "Negative controls reject all four duplicate keys, count/stratum/breadth ablations, author cap excess, unready audit/receipt, false-green summary, stale receipt hashes, dirty provenance, extra schema fields and missing jsonschema dependency.",
+    "Determinism: reversed input ordering preserves dataset bytes; production no-op rerun preserves bytes and mtimes for all three outputs.",
+    "Recovery: input race fails before publication; injected second-output failure rolls back and rerun succeeds; a concurrent user output edit is preserved; existing lock fails closed.",
+    "Native atomic writer reused; output root confinement and fixed explicit source paths; no recursive discovery, full text, input edits, remotes, or unrelated production boundaries.",
+    "All four authored JSON files parse and immediately read back; source/test files compile.",
+    "Bounded retrospective: the weakest inherited assumption was the empty-scaffold test coupled to real data; C8 isolated its fixture. One pre-dependency full-suite run reproduced that conflict. Improvement: check state-dependent inherited tests before publication. Exact local token counters unavailable; no three-axis par history updated (INVALID for exact-par registration only).",
+    "SHA256 tools/merge_bibliography.py: 745e54a720ee679604da8fe44632dd2b8d7fdc49786e29186e86a744188e5a76",
+    "SHA256 tests/test_merge_bibliography.py: 1451861b0536e2cfc2a58dc20935c9ad135a943646f0d50b496c7ede435b1afd",
+    "SHA256 data/works.json: ee4d10574355396dbee3c654688f53e0751d7e2c93dc689079be469b385cfd8e",
+    "SHA256 data/reserve_works.json: e06d530bf3a56bb09bad99b6b76ef4334ddd15a4a58191276df0a0df1ca8eb8c",
+    "SHA256 sources/manifests/bibliography_union.json: 74ac77e08f381efd6cd1f14674e7b7a2dc6f4aadfb5aeee3c65d6d27f5c9c154"
+  ],
+  "commit": "PROSPECTIVE_HEAD_PACKET_B4",
+  "dependencies_unlocked": [
+    "sources-ready"
+  ],
+  "owner": "B4",
+  "proposals": [],
+  "result": "Canonical bibliography sources-ready: deterministically merged 100 accepted works and 20 reserves with unchanged verified records, sealed provenance, global breadth and uniqueness gates, and no-op regeneration.",
+  "status": "complete"
+}
