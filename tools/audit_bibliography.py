@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import argparse,json,re,time,urllib.request,tempfile
+import argparse,json,re,time,urllib.parse,urllib.request,tempfile
 from pathlib import Path
 import xml.etree.ElementTree as ET
 D="http://purl.org/dc/terms/";P="http://www.gutenberg.org/2009/pgterms/";R="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -10,6 +10,19 @@ def eq(a,b):
  if ',' in str(b):
   z=[x.strip() for x in str(b).split(',',1)];return norm(' '.join(z[::-1]))==a
  return False
+def title_eq(a,b):
+ if norm(a)==norm(b):return True
+ primary=lambda value: norm(re.split(r"\s*(?::|;|\bor\b)\s*",str(value or ""),maxsplit=1,flags=re.I)[0])
+ pa,pb=primary(a),primary(b)
+ return len(pa)>=6 and pa==pb
+def fetch_json(url):
+ for n in range(3):
+  try:
+   req=urllib.request.Request(url,headers={"User-Agent":"story-brainstorm-auditor/1.0","Accept":"application/json"})
+   return json.loads(urllib.request.urlopen(req,timeout=15).read())
+  except Exception:
+   if n==2:raise
+   time.sleep(.2*(n+1))
 def rdf(item,cache,live):
  f=cache/f"{item}.rdf" if cache else None
  if f and f.exists(): raw=f.read_bytes()
@@ -38,12 +51,25 @@ def evidence(url,expected_title,expected_year,cache=None,live=False):
  try:
   if f and f.exists(): raw=json.loads(f.read_text())
   elif live:
-   req=urllib.request.Request(f"https://openlibrary.org/works/{item}.json",headers={"User-Agent":"story-brainstorm-auditor/1.0"});raw=json.loads(urllib.request.urlopen(req,timeout=10).read())
+   raw=fetch_json(f"https://openlibrary.org/works/{item}.json")
   else: raise FileNotFoundError(item)
  except Exception as ex: return {"error":"publication catalog fetch failed: "+type(ex).__name__,"checks":{"url_exact":True,"fetch":False}}
- title=str(raw.get("title", "")); date=raw.get("first_publish_date"); m2=re.search(r"(?:^|[^0-9])(\d{4})(?:[^0-9]|$)",str(date or "")); year=int(m2.group(1)) if m2 else None
- checks={"url_exact":True,"fetch":True,"title_match":eq(title,expected_title),"first_publish_date_present":year is not None,"catalog_pre_1930":year is not None and year<=1929,"claimed_not_after_catalog":isinstance(expected_year,int) and year is not None and expected_year<=year}
- return {"item_id":item,"title":title,"first_publish_date":date,"first_publication_year":year,"checks":checks,"error":None if all(checks.values()) else "publication metadata mismatch"}
+ title=str(raw.get("title", "")); date=None;year=None;source="exact_key_search";exact_key=False
+ sf=cache/f"{item}.search.json" if cache else None
+ try:
+  if sf and sf.exists(): search=json.loads(sf.read_text())
+  elif live:
+   query=urllib.parse.urlencode({"q":f"key:/works/{item}","fields":"key,title,first_publish_year","limit":"2"})
+   search=fetch_json("https://openlibrary.org/search.json?"+query)
+  else: raise FileNotFoundError(item+".search")
+  docs=search.get("docs",[])
+  exact_key=search.get("numFound")==1 and len(docs)==1 and docs[0].get("key")==f"/works/{item}" and title_eq(docs[0].get("title"),title)
+  if exact_key:
+   date=docs[0].get("first_publish_year");year=date if isinstance(date,int) else None
+ except Exception:
+  exact_key=False
+ checks={"url_exact":True,"fetch":True,"title_match":title_eq(title,expected_title),"catalog_date_source_exact":exact_key,"first_publish_date_present":year is not None,"catalog_pre_1930":year is not None and year<=1929,"claimed_not_after_catalog":isinstance(expected_year,int) and year is not None and expected_year<=year}
+ return {"item_id":item,"title":title,"first_publish_date":date,"first_publication_year":year,"date_source":source,"checks":checks,"error":None if all(checks.values()) else "publication metadata mismatch"}
 def audit(path,cache=None,live=False,evidence_cache=None):
  d=json.loads(Path(path).read_text()); rows=d.get('accepted_works',d.get('works',[]))+d.get('reserves',[]); seen={};out=[]
  for w in rows:

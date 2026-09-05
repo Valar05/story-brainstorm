@@ -41,4 +41,16 @@ class T(unittest.TestCase):
   e=self.rec(first_publication_year=1921);self.assertEqual(self.evaluate(e)['fail'],1)
  def test_missing_publication_date(self):
   self.assertEqual(self.evaluate(self.rec(first_publication_evidence_url='https://openlibrary.org/works/OL404W'))['fail'],1)
+ def test_exact_key_search_fallback(self):
+  result=self.evaluate(self.rec(first_publication_year=1920,first_publication_evidence_url='https://openlibrary.org/works/OL2W'))
+  self.assertEqual(result['pass'],1);self.assertEqual(result['rows'][0]['publication_catalog']['date_source'],'exact_key_search')
+ def test_exact_key_search_claimed_after_rejected(self):
+  self.assertEqual(self.evaluate(self.rec(first_publication_year=1926,first_publication_evidence_url='https://openlibrary.org/works/OL2W'))['fail'],1)
+ def test_ambiguous_exact_key_search_rejected(self):
+  self.assertEqual(self.evaluate(self.rec(first_publication_evidence_url='https://openlibrary.org/works/OL3W'))['fail'],1)
+ def test_edition_subtitle_matches_anchored_work_title(self):
+  self.assertEqual(self.evaluate(self.rec(title='Kwaidan: Stories and Studies of Strange Things',first_publication_year=1899,first_publication_evidence_url='https://openlibrary.org/works/OL4W',source_edition={'item_id':'1','url':'https://www.gutenberg.org/ebooks/1','language':'en','raw_title':'Alpha','raw_creator':'Doe, Jane'}))['fail'],1)
+  from tools.audit_bibliography import evidence
+  self.assertTrue(evidence('https://openlibrary.org/works/OL4W','Kwaidan: Stories and Studies of Strange Things',1899,PUB)['checks']['title_match'])
+  self.assertFalse(evidence('https://openlibrary.org/works/OL4W','Kwaito Music',1899,PUB)['checks']['title_match'])
 if __name__=='__main__':unittest.main()
