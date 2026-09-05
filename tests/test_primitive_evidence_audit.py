@@ -5,7 +5,7 @@ from unittest.mock import patch
 s=importlib.util.spec_from_file_location("a",Path("tools/audit_primitive_evidence.py")); m=importlib.util.module_from_spec(s);s.loader.exec_module(m)
 class EvidenceAuditTests(unittest.TestCase):
  def setUp(self):
-  self.t=tempfile.TemporaryDirectory(); self.d=Path(self.t.name); self.cache=self.d/"cache"; self.cache.mkdir(); (self.cache/"11.txt").write_text("CHAPTER I\nAlice was beginning to get very tired of sitting by her sister on the bank.\n")
+  self.t=tempfile.TemporaryDirectory(); self.d=Path(self.t.name); self.cache=self.d/"cache"; self.cache.mkdir(); (self.cache/"11.txt").write_text("*** START OF THE PROJECT GUTENBERG EBOOK ALICE ***\nCHAPTER I\nAlice was beginning to get very tired of sitting by her sister on the bank.\n*** END OF THE PROJECT GUTENBERG EBOOK ALICE ***\n")
   self.w=self.d/"w.json";self.w.write_text(json.dumps({"works":[{"work_id":"w1","source_edition":{"url":"https://www.gutenberg.org/ebooks/11"}}]})); self.c=self.d/"c.json";self.o=self.d/"o.json"
  def tearDown(self):self.t.cleanup()
  def do(self,evidence):self.c.write_text(json.dumps({"cards":[{"evidence":evidence}]}));return m.audit(self.w,self.c,self.cache,self.o)
@@ -25,7 +25,7 @@ class EvidenceAuditTests(unittest.TestCase):
  def test_missing_source(self):self.assertEqual(self.do([self.ev(edition_url="https://www.gutenberg.org/ebooks/999")])["state"],"NOT_READY")
  def test_fetch_retries_then_caches(self):
   (self.cache/"11.txt").unlink()
-  good=b"CHAPTER I\nAlice was beginning to get very tired of sitting by her sister on the bank.\n"
+  good=b"*** START OF THE PROJECT GUTENBERG EBOOK ALICE ***\nCHAPTER I\nAlice was beginning to get very tired of sitting by her sister on the bank.\n*** END OF THE PROJECT GUTENBERG EBOOK ALICE ***\n"
   class R:
    def read(self): return good
   with patch.object(m.urllib.request,"urlopen",side_effect=[OSError("temporary"),R()]):

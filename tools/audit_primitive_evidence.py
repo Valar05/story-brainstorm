@@ -10,8 +10,13 @@ def item_id(url):
 def valid_locator(s):
  s=str(s or "").strip(); low=s.casefold()
  if not s:return False
- if low in {"page","chapter","section","part","scene","stanza","paragraph"}:return False
- return bool(re.search(r"\d",s) or re.search(r"(?:chapter|page|section|part|scene|stanza|paragraph)\s+[a-z0-9]",low))
+ return bool(re.search(r"\b(?:chapter|act|scene|book|part|section|poem|stanza)\s+[a-z0-9][a-z0-9 .:_-]*",low) or re.search(r"\bpage\s+\d+",low))
+def body_only(text):
+ start=re.search(r"\*+\s*START OF (?:THE )?PROJECT GUTENBERG EBOOK[^\n]*",text,re.I); end=re.search(r"\*+\s*END OF (?:THE )?PROJECT GUTENBERG EBOOK[^\n]*",text,re.I)
+ if not start or not end or end.start()<=start.end(): raise ValueError("missing or reversed Gutenberg body markers")
+ body=text[start.end():end.start()]
+ if re.search(r"project gutenberg|license|credits:|produced by|transcrib",body,re.I): raise ValueError("boilerplate in body")
+ return body
 def atomic(path,data):
  path.parent.mkdir(parents=True,exist_ok=True)
  if path.exists() and path.read_bytes()==data:return False
@@ -62,7 +67,12 @@ def audit(works_path,cards_path,cache,out_path,live=False):
    if iid and not er:
     try: txt,source=load_text(iid,cache,live); 
     except Exception as x: er.append('source unavailable: '+type(x).__name__)
-   if txt is not None and norm(ex) not in norm(txt): er.append('excerpt not found in source')
+   if txt is not None:
+    try: body=body_only(txt)
+    except Exception as x: er.append(str(x)); body=''
+    if body and norm(ex) not in norm(body): er.append('excerpt not found in source')
+    if body and len(re.findall(re.escape(norm(ex)),norm(body)))!=1: er.append('excerpt occurrence is not unique')
+    if re.search(r'(project gutenberg|license|credits:|produced by|transcrib)',ex,re.I): er.append('boilerplate excerpt rejected')
    rows.append({'card_index':ci,'evidence_index':ei,'work_id':wid,'status':'PASS' if not er else 'FAIL','errors':sorted(set(er)),'source':source})
  result={'schema_version':'1.0','state':'READY' if not errors and rows and all(r['status']=='PASS' for r in rows) else 'NOT_READY','cards':len(crows),'refs':len(rows),'errors':errors,'rows':rows}
  atomic(Path(out_path),(json.dumps(result,indent=2,sort_keys=True)+'\n').encode()); return result

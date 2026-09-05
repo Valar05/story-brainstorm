@@ -1,0 +1,29 @@
+{
+  "owner": "rights_sources",
+  "status": "complete",
+  "commit": "b9ca0e66e8211d63049eabaf04a55550d67e3810",
+  "changed": [
+    "tools/audit_primitive_evidence.py",
+    "tests/test_primitive_evidence_audit.py",
+    "tests/fixtures/source_text/11.txt",
+    "docs/EXTRACTION_METHOD.md",
+    "generated/receipts/C7B.json"
+  ],
+  "checks": [
+    "python -m unittest tests.test_primitive_evidence_audit (13 passed)",
+    "body marker extraction and reversed/missing marker rejection",
+    "body-only excerpt matching",
+    "boilerplate rejection",
+    "unique normalized occurrence required",
+    "bare paragraph locator rejected; specific locators accepted",
+    "external cache and atomic/no-op preserved"
+  ],
+  "result": "pass",
+  "blockers": [
+    "Rejected E negative-control materialization deferred because E shard is not present in this worktree; preserved as a negative example and not modified."
+  ],
+  "dependencies_unlocked": [
+    "body-evidence-ready"
+  ],
+  "proposals": []
+}
