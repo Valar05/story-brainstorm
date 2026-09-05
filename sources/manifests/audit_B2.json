@@ -1,0 +1,1701 @@
+{
+  "fail": 0,
+  "pass": 36,
+  "records": 36,
+  "rows": [
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Hawthorne, Nathaniel",
+        "first_publication_year": 1850,
+        "source_item_id": "25344",
+        "title": "The Scarlet Letter"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1880,
+        "first_publish_date": 1880,
+        "item_id": "OL45097173W",
+        "title": "The Scarlet letter"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Hawthorne, Nathaniel",
+        "digital_release_date": "2008-05-05",
+        "item_id": "25344",
+        "language": "en",
+        "title": "The Scarlet Letter"
+      },
+      "status": "PASS",
+      "work_id": "b2r-american-01"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Melville, Herman",
+        "first_publication_year": 1851,
+        "source_item_id": "2701",
+        "title": "Moby Dick; Or, The Whale"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1851,
+        "first_publish_date": 1851,
+        "item_id": "OL102749W",
+        "title": "Moby Dick"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Melville, Herman",
+        "digital_release_date": "2001-07-01",
+        "item_id": "2701",
+        "language": "en",
+        "title": "Moby Dick; Or, The Whale"
+      },
+      "status": "PASS",
+      "work_id": "b2r-american-02"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Stowe, Harriet Beecher",
+        "first_publication_year": 1851,
+        "source_item_id": "203",
+        "title": "Uncle Tom's Cabin"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1852,
+        "first_publish_date": 1852,
+        "item_id": "OL45323531W",
+        "title": "Uncle Tom's cabin"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Stowe, Harriet Beecher",
+        "digital_release_date": "2006-01-13",
+        "item_id": "203",
+        "language": "en",
+        "title": "Uncle Tom's Cabin"
+      },
+      "status": "PASS",
+      "work_id": "b2r-american-03"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Alcott, Louisa May",
+        "first_publication_year": 1868,
+        "source_item_id": "514",
+        "title": "Little Women"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1868,
+        "first_publish_date": 1868,
+        "item_id": "OL43265041W",
+        "title": "little women"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Alcott, Louisa May",
+        "digital_release_date": "1996-05-01",
+        "item_id": "514",
+        "language": "en",
+        "title": "Little Women"
+      },
+      "status": "PASS",
+      "work_id": "b2r-american-04"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Chopin, Kate",
+        "first_publication_year": 1894,
+        "source_item_id": "46650",
+        "title": "Bayou Folk"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1894,
+        "first_publish_date": 1894,
+        "item_id": "OL65441W",
+        "title": "Bayou Folk"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Chopin, Kate",
+        "digital_release_date": "2014-08-22",
+        "item_id": "46650",
+        "language": "en",
+        "title": "Bayou Folk"
+      },
+      "status": "PASS",
+      "work_id": "b2r-american-05"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Gilman, Charlotte Perkins",
+        "first_publication_year": 1915,
+        "source_item_id": "32",
+        "title": "Herland"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1915,
+        "first_publish_date": 1915,
+        "item_id": "OL2771987W",
+        "title": "Herland"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Gilman, Charlotte Perkins",
+        "digital_release_date": "2008-06-27",
+        "item_id": "32",
+        "language": "en",
+        "title": "Herland"
+      },
+      "status": "PASS",
+      "work_id": "b2r-american-06"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Harper, Frances Ellen Watkins",
+        "first_publication_year": 1892,
+        "source_item_id": "12352",
+        "title": "Iola Leroy; Or, Shadows Uplifted"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1892,
+        "first_publish_date": 1892,
+        "item_id": "OL2019796W",
+        "title": "Iola Leroy, or, Shadows Uplifted"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Harper, Frances Ellen Watkins",
+        "digital_release_date": "2004-05-01",
+        "item_id": "12352",
+        "language": "en",
+        "title": "Iola Leroy; Or, Shadows Uplifted"
+      },
+      "status": "PASS",
+      "work_id": "b2r-american-07"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Cather, Willa",
+        "first_publication_year": 1913,
+        "source_item_id": "24",
+        "title": "O Pioneers!"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1913,
+        "first_publish_date": 1913,
+        "item_id": "OL12795W",
+        "title": "O Pioneers!"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Cather, Willa",
+        "digital_release_date": "2008-06-27",
+        "item_id": "24",
+        "language": "en",
+        "title": "O Pioneers!"
+      },
+      "status": "PASS",
+      "work_id": "b2r-american-08"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Jewett, Sarah Orne",
+        "first_publication_year": 1896,
+        "source_item_id": "367",
+        "title": "The Country of the Pointed Firs"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1896,
+        "first_publish_date": 1896,
+        "item_id": "OL67238W",
+        "title": "The country of the pointed firs"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Jewett, Sarah Orne",
+        "digital_release_date": "2008-07-11",
+        "item_id": "367",
+        "language": "en",
+        "title": "The Country of the Pointed Firs"
+      },
+      "status": "PASS",
+      "work_id": "b2r-american-09"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "London, Jack",
+        "first_publication_year": 1903,
+        "source_item_id": "215",
+        "title": "The call of the wild"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1903,
+        "first_publish_date": 1903,
+        "item_id": "OL14942956W",
+        "title": "The Call of the Wild"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "London, Jack",
+        "digital_release_date": "2008-07-02",
+        "item_id": "215",
+        "language": "en",
+        "title": "The call of the wild"
+      },
+      "status": "PASS",
+      "work_id": "b2r-american-10"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Whitman, Walt",
+        "first_publication_year": 1855,
+        "source_item_id": "1322",
+        "title": "Leaves of Grass"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1855,
+        "first_publish_date": 1855,
+        "item_id": "OL16333W",
+        "title": "Leaves of Grass"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Whitman, Walt",
+        "digital_release_date": "1998-05-01",
+        "item_id": "1322",
+        "language": "en",
+        "title": "Leaves of Grass"
+      },
+      "status": "PASS",
+      "work_id": "b2r-poetry-01"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Frost, Robert",
+        "first_publication_year": 1914,
+        "source_item_id": "21437",
+        "title": "North of Boston"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1915,
+        "first_publish_date": 1915,
+        "item_id": "OL44185294W",
+        "title": "North of Boston"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Frost, Robert",
+        "digital_release_date": "2007-05-18",
+        "item_id": "21437",
+        "language": "en",
+        "title": "North of Boston"
+      },
+      "status": "PASS",
+      "work_id": "b2r-poetry-02"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Longfellow, Henry Wadsworth",
+        "first_publication_year": 1855,
+        "source_item_id": "19",
+        "title": "The Song of Hiawatha"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1856,
+        "first_publish_date": 1856,
+        "item_id": "OL31589527W",
+        "title": "The Song of Hiawatha"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Longfellow, Henry Wadsworth",
+        "digital_release_date": "2004-06-01",
+        "item_id": "19",
+        "language": "en",
+        "title": "The Song of Hiawatha"
+      },
+      "status": "PASS",
+      "work_id": "b2r-poetry-03"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Millay, Edna St. Vincent",
+        "first_publication_year": 1917,
+        "source_item_id": "109",
+        "title": "Renascence, and Other Poems"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1917,
+        "first_publish_date": 1917,
+        "item_id": "OL482390W",
+        "title": "Renascence, and other poems"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Millay, Edna St. Vincent",
+        "digital_release_date": "1994-02-01",
+        "item_id": "109",
+        "language": "en",
+        "title": "Renascence, and Other Poems"
+      },
+      "status": "PASS",
+      "work_id": "b2r-poetry-04"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Teasdale, Sara",
+        "first_publication_year": 1915,
+        "source_item_id": "596",
+        "title": "Rivers to the Sea"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1915,
+        "first_publish_date": 1915,
+        "item_id": "OL15515028W",
+        "title": "Rivers to the sea"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Teasdale, Sara",
+        "digital_release_date": "1996-07-01",
+        "item_id": "596",
+        "language": "en",
+        "title": "Rivers to the Sea"
+      },
+      "status": "PASS",
+      "work_id": "b2r-poetry-05"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Teasdale, Sara",
+        "first_publication_year": 1917,
+        "source_item_id": "442",
+        "title": "Love Songs"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1917,
+        "first_publish_date": 1917,
+        "item_id": "OL1516275W",
+        "title": "Love songs"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Teasdale, Sara",
+        "digital_release_date": "1996-02-01",
+        "item_id": "442",
+        "language": "en",
+        "title": "Love Songs"
+      },
+      "status": "PASS",
+      "work_id": "b2r-poetry-06"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Lowell, Amy",
+        "first_publication_year": 1916,
+        "source_item_id": "841",
+        "title": "Men, Women and Ghosts"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1916,
+        "first_publish_date": 1916,
+        "item_id": "OL2249097W",
+        "title": "Men, Women and Ghosts"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Lowell, Amy",
+        "digital_release_date": "1997-03-01",
+        "item_id": "841",
+        "language": "en",
+        "title": "Men, Women and Ghosts"
+      },
+      "status": "PASS",
+      "work_id": "b2r-poetry-07"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "H. D. (Hilda Doolittle)",
+        "first_publication_year": 1916,
+        "source_item_id": "28665",
+        "title": "Sea Garden"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1916,
+        "first_publish_date": 1916,
+        "item_id": "OL52820W",
+        "title": "Sea garden"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "H. D. (Hilda Doolittle)",
+        "digital_release_date": "2009-05-02",
+        "item_id": "28665",
+        "language": "en",
+        "title": "Sea Garden"
+      },
+      "status": "PASS",
+      "work_id": "b2r-poetry-08"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Browning, Elizabeth Barrett",
+        "first_publication_year": 1850,
+        "source_item_id": "2002",
+        "title": "Sonnets from the Portuguese"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1896,
+        "first_publish_date": 1896,
+        "item_id": "OL1198482W",
+        "title": "Sonnets from the Portuguese"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Browning, Elizabeth Barrett",
+        "digital_release_date": "1999-12-01",
+        "item_id": "2002",
+        "language": "en",
+        "title": "Sonnets from the Portuguese"
+      },
+      "status": "PASS",
+      "work_id": "b2r-poetry-09"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Frost, Robert",
+        "first_publication_year": 1913,
+        "source_item_id": "3021",
+        "title": "A Boy's Will"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1913,
+        "first_publish_date": 1913,
+        "item_id": "OL42480804W",
+        "title": "A boy's will"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Frost, Robert",
+        "digital_release_date": "2002-01-01",
+        "item_id": "3021",
+        "language": "en",
+        "title": "A Boy's Will"
+      },
+      "status": "PASS",
+      "work_id": "b2r-poetry-10"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Shakespeare, William",
+        "first_publication_year": 1603,
+        "source_item_id": "1524",
+        "title": "Hamlet"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1603,
+        "first_publish_date": 1603,
+        "item_id": "OL9170454W",
+        "title": "Hamlet"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Shakespeare, William",
+        "digital_release_date": "1998-11-01",
+        "item_id": "1524",
+        "language": "en",
+        "title": "Hamlet"
+      },
+      "status": "PASS",
+      "work_id": "b2r-drama-01"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Shakespeare, William",
+        "first_publication_year": 1623,
+        "source_item_id": "1533",
+        "title": "Macbeth"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1770,
+        "first_publish_date": 1770,
+        "item_id": "OL25927868W",
+        "title": "Macbeth"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Shakespeare, William",
+        "digital_release_date": "1998-11-01",
+        "item_id": "1533",
+        "language": "en",
+        "title": "Macbeth"
+      },
+      "status": "PASS",
+      "work_id": "b2r-drama-02"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Shakespeare, William",
+        "first_publication_year": 1597,
+        "source_item_id": "1513",
+        "title": "Romeo and Juliet"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1597,
+        "first_publish_date": 1597,
+        "item_id": "OL362427W",
+        "title": "Romeo and Juliet"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Shakespeare, William",
+        "digital_release_date": "1998-11-01",
+        "item_id": "1513",
+        "language": "en",
+        "title": "Romeo and Juliet"
+      },
+      "status": "PASS",
+      "work_id": "b2r-drama-03"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wilde, Oscar",
+        "first_publication_year": 1899,
+        "source_item_id": "844",
+        "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1920,
+        "first_publish_date": 1920,
+        "item_id": "OL44233629W",
+        "title": "The importance of being earnest"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wilde, Oscar",
+        "digital_release_date": "1997-03-01",
+        "item_id": "844",
+        "language": "en",
+        "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People"
+      },
+      "status": "PASS",
+      "work_id": "b2r-drama-04"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wilde, Oscar",
+        "first_publication_year": 1894,
+        "source_item_id": "854",
+        "title": "A Woman of No Importance"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1894,
+        "first_publish_date": 1894,
+        "item_id": "OL44397849W",
+        "title": "A woman of no importance"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wilde, Oscar",
+        "digital_release_date": "1997-03-01",
+        "item_id": "854",
+        "language": "en",
+        "title": "A Woman of No Importance"
+      },
+      "status": "PASS",
+      "work_id": "b2r-drama-05"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Synge, J. M. (John Millington)",
+        "first_publication_year": 1907,
+        "source_item_id": "1240",
+        "title": "The Playboy of the Western World: A Comedy in Three Acts"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1907,
+        "first_publish_date": 1907,
+        "item_id": "OL27933W",
+        "title": "The playboy of the western world"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Synge, J. M. (John Millington)",
+        "digital_release_date": "1998-03-01",
+        "item_id": "1240",
+        "language": "en",
+        "title": "The Playboy of the Western World: A Comedy in Three Acts"
+      },
+      "status": "PASS",
+      "work_id": "b2r-drama-06"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Yeats, W. B. (William Butler)",
+        "first_publication_year": 1894,
+        "source_item_id": "15153",
+        "title": "The Land of Heart's Desire"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1894,
+        "first_publish_date": 1894,
+        "item_id": "OL38840W",
+        "title": "The land of heart's desire"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Yeats, W. B. (William Butler)",
+        "digital_release_date": "2005-02-23",
+        "item_id": "15153",
+        "language": "en",
+        "title": "The Land of Heart's Desire"
+      },
+      "status": "PASS",
+      "work_id": "b2r-drama-07"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Shaw, Bernard",
+        "first_publication_year": 1913,
+        "source_item_id": "3825",
+        "title": "Pygmalion"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1914,
+        "first_publish_date": 1914,
+        "item_id": "OL32055344W",
+        "title": "Pygmalion"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Shaw, Bernard",
+        "digital_release_date": "2003-03-01",
+        "item_id": "3825",
+        "language": "en",
+        "title": "Pygmalion"
+      },
+      "status": "PASS",
+      "work_id": "b2r-drama-08"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Millay, Edna St. Vincent",
+        "first_publication_year": 1920,
+        "source_item_id": "5790",
+        "title": "Aria da Capo"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1920,
+        "first_publish_date": 1920,
+        "item_id": "OL482387W",
+        "title": "Aria da capo"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Millay, Edna St. Vincent",
+        "digital_release_date": "2004-05-01",
+        "item_id": "5790",
+        "language": "en",
+        "title": "Aria da Capo"
+      },
+      "status": "PASS",
+      "work_id": "b2r-drama-09"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Shakespeare, William",
+        "first_publication_year": 1608,
+        "source_item_id": "1532",
+        "title": "King Lear"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1608,
+        "first_publish_date": 1608,
+        "item_id": "OL259026W",
+        "title": "King Lear"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Shakespeare, William",
+        "digital_release_date": "1998-11-01",
+        "item_id": "1532",
+        "language": "en",
+        "title": "King Lear"
+      },
+      "status": "PASS",
+      "work_id": "b2r-drama-10"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Cather, Willa",
+        "first_publication_year": 1915,
+        "source_item_id": "44",
+        "title": "The Song of the Lark"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1915,
+        "first_publish_date": 1915,
+        "item_id": "OL12831W",
+        "title": "The Song of the Lark"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Cather, Willa",
+        "digital_release_date": "2008-06-27",
+        "item_id": "44",
+        "language": "en",
+        "title": "The Song of the Lark"
+      },
+      "status": "PASS",
+      "work_id": "b2r-reserve-01"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Frost, Robert",
+        "first_publication_year": 1916,
+        "source_item_id": "29345",
+        "title": "Mountain Interval"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1916,
+        "first_publish_date": 1916,
+        "item_id": "OL1108078W",
+        "title": "Mountain interval"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Frost, Robert",
+        "digital_release_date": "2009-07-07",
+        "item_id": "29345",
+        "language": "en",
+        "title": "Mountain Interval"
+      },
+      "status": "PASS",
+      "work_id": "b2r-reserve-02"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Carroll, Lewis",
+        "first_publication_year": 1876,
+        "source_item_id": "13",
+        "title": "The Hunting of the Snark: An Agony in Eight Fits"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1876,
+        "first_publish_date": 1876,
+        "item_id": "OL151447W",
+        "title": "The Hunting of the Snark"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Carroll, Lewis",
+        "digital_release_date": "2008-06-25",
+        "item_id": "13",
+        "language": "en",
+        "title": "The Hunting of the Snark: An Agony in Eight Fits"
+      },
+      "status": "PASS",
+      "work_id": "b2r-reserve-03"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Shakespeare, William",
+        "first_publication_year": 1600,
+        "source_item_id": "1520",
+        "title": "Much Ado about Nothing"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1600,
+        "first_publish_date": 1600,
+        "item_id": "OL362691W",
+        "title": "Much Ado About Nothing"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Shakespeare, William",
+        "digital_release_date": "1998-11-01",
+        "item_id": "1520",
+        "language": "en",
+        "title": "Much Ado about Nothing"
+      },
+      "status": "PASS",
+      "work_id": "b2r-reserve-04"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wharton, Edith",
+        "first_publication_year": 1917,
+        "source_item_id": "166",
+        "title": "Summer"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1917,
+        "first_publish_date": 1917,
+        "item_id": "OL98586W",
+        "title": "Summer"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wharton, Edith",
+        "digital_release_date": "2006-03-12",
+        "item_id": "166",
+        "language": "en",
+        "title": "Summer"
+      },
+      "status": "PASS",
+      "work_id": "b2r-reserve-05"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wharton, Edith",
+        "first_publication_year": 1911,
+        "source_item_id": "4517",
+        "title": "Ethan Frome"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1911,
+        "first_publish_date": 1911,
+        "item_id": "OL43195139W",
+        "title": "ethan frome"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wharton, Edith",
+        "digital_release_date": "2003-10-01",
+        "item_id": "4517",
+        "language": "en",
+        "title": "Ethan Frome"
+      },
+      "status": "PASS",
+      "work_id": "b2r-reserve-06"
+    }
+  ],
+  "schema_version": "1.0",
+  "state": "READY"
+}
