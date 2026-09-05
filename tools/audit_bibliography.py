@@ -23,7 +23,9 @@ def rdf(item,cache,live):
  root=ET.fromstring(raw); q=lambda tag: root.findtext('.//{'+D+'}'+tag) or ''
  lang=''
  for e in root.findall('.//{'+D+'}language'):
-  lang=e.get('{'+R+'}resource','').rsplit('/',1)[-1];
+  resource=e.get('{'+R+'}resource','')
+  nested=e.findtext('.//{'+R+'}value') or ''
+  lang=(resource.rsplit('/',1)[-1] if resource else nested).strip()
   if lang:break
  c=root.find('.//{'+D+'}creator//{'+P+'}name'); creator=c.text.strip() if c is not None and c.text else q('creator').strip()
  return {'title':q('title').strip(),'creator':creator,'language':lang,'copyright':q('rights').strip(),'digital_release_date':q('issued').strip(),'item_id':str(item)}
