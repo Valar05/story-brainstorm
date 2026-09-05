@@ -437,18 +437,18 @@
         "jurisdiction": "US",
         "status": "PD_US_CONFIRMED",
         "verification_refs": [
-          "https://www.gutenberg.org/ebooks/21437",
-          "https://www.gutenberg.org/cache/epub/21437/pg21437.rdf"
+          "https://www.gutenberg.org/ebooks/3026",
+          "https://www.gutenberg.org/cache/epub/3026/pg3026.rdf"
         ]
       },
       "source_edition": {
-        "digital_release_date": "2007-05-18",
-        "edition_year": 2007,
-        "item_id": "21437",
+        "digital_release_date": "2002-01-01",
+        "edition_year": 2002,
+        "item_id": "3026",
         "language": "en",
         "raw_creator": "Frost, Robert",
         "raw_title": "North of Boston",
-        "url": "https://www.gutenberg.org/ebooks/21437"
+        "url": "https://www.gutenberg.org/ebooks/3026"
       },
       "title": "North of Boston",
       "work_id": "b2r-poetry-02"

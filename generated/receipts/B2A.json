@@ -7,24 +7,20 @@
     "generated/receipts/B2A.json"
   ],
   "checks": [
-    "Canonical C5 persistent-cache live audit: READY, 36/36 PASS, 0 FAIL; unchanged bytes and mtime replay PASS.",
-    "Exact C2 WorkRecord schema: 36/36 PASS; shard schema PASS; core required=30 READY and six reserves valid.",
-    "Full inherited suite: 40 tests PASS.",
-    "Six production-path negative controls rejected: wrong title, UNKNOWN rights, post-1929 year, duplicate source, uncleared editor, fabricated Open Library key. Cache-only replay 36 PASS with network calls forbidden.",
-    "Breadth recomputed: 30 accepted +6 reserves; ten each american/poetry/drama; 14 women accepted.",
-    "Global uniqueness: 120 distinct IDs, normalized titles, PG items, and source URLs across integrated B1/B3 plus B2; no collision. Max five per author including all reserves globally.",
-    "Exact PG raw creator/title/language/PD fields and exact OL work/key raw metadata retained. Named editorial layers and later carrier dates explicit. Independent historical witnesses and all old-to-new substitutions preserved; no full texts or generated-summary years.",
-    "All four JSON artifacts parse and immediately read back.",
-    "SHA256 data/bibliography_shards/B2.json: 314f2914a7536b93f32e2ddf6a9ff65e2bcf3e4afef4b1baa8274d6686bc0e88",
-    "SHA256 sources/manifests/bibliography_B2.json: 2cd40dbe791cfac9f73b157236b65c7c34f26fed55c7d3b5f22c0c2905d55bf8",
-    "SHA256 sources/manifests/audit_B2.json: ae5844105d00bdeb2c0810702ca464fc68af1c9f9e0adc04b05ecf206b46056e"
+    "C5 auditor cache-only replay: 36/36 PASS, 0 FAIL",
+    "fresh PG3026 RDF fetched and parsed: title North of Boston, creator Frost, Robert, language en, rights Public domain in the USA.",
+    "PG3026 plain-text endpoint HTTP 200, UTF-8 decode, nonempty, SHA256 recorded in manifest",
+    "30 accepted + 6 reserves and 36 unique IDs/source URLs preserved",
+    "target-only source edition repair from PG21437 to PG3026",
+    "bibliography audit tests: 23 passed",
+    "no full text or non-authorized files changed"
   ],
-  "commit": "PROSPECTIVE_HEAD_PACKET_B2R",
+  "commit": "HEAD",
   "dependencies_unlocked": [
-    "B2-ready"
+    "B2-text-ready"
   ],
-  "owner": "B2R-specialist",
+  "owner": "B2T",
   "proposals": [],
-  "result": "B2 bibliography source-ready: 30 accepted plus 6 reserves, uniquely completing the 120-record union with integrated B1 and B3. Foreman may integrate this authored four-artifact commit; canonical merged validation remains the integration gate.",
+  "result": "B2 text-bearing edition repair green",
   "status": "complete"
 }

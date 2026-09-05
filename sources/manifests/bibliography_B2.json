@@ -9642,5 +9642,24 @@
     },
     "tests": "40 tests PASS",
     "women_accepted": 14
+  },
+  "text_edition_repair": {
+    "work_id": "b2r-poetry-02",
+    "old_pg_item": "21437",
+    "new_pg_item": "3026",
+    "cause": "PG21437 audio-only; plain-text endpoints return 404",
+    "new_item_url": "https://www.gutenberg.org/ebooks/3026",
+    "rdf_url": "https://www.gutenberg.org/cache/epub/3026/pg3026.rdf",
+    "text_url": "https://www.gutenberg.org/cache/epub/3026/pg3026.txt",
+    "rdf_claims": {
+      "title": "North of Boston",
+      "creator": "Frost, Robert",
+      "language": "en",
+      "issued": "2002-01-01",
+      "copyright": "Public domain in the USA."
+    },
+    "text_http_status": 200,
+    "text_utf8_nonempty": true,
+    "text_sha256": "2f0f08e9ef98b8d341dbfd78fc3542f0876b5ef8b20d9213caeb2e2d738cfae6"
   }
 }

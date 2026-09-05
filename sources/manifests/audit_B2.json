@@ -536,7 +536,7 @@
       "expected": {
         "author": "Frost, Robert",
         "first_publication_year": 1914,
-        "source_item_id": "21437",
+        "source_item_id": "3026",
         "title": "North of Boston"
       },
       "publication_catalog": {
@@ -559,8 +559,8 @@
       "raw_catalog": {
         "copyright": "Public domain in the USA.",
         "creator": "Frost, Robert",
-        "digital_release_date": "2007-05-18",
-        "item_id": "21437",
+        "digital_release_date": "2002-01-01",
+        "item_id": "3026",
         "language": "en",
         "title": "North of Boston"
       },
