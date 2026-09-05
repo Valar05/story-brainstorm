@@ -1,0 +1,25 @@
+{
+  "owner": "rights_sources",
+  "status": "complete",
+  "commit": null,
+  "changed": [
+    "tools/audit_bibliography.py",
+    "schemas/bibliography_shard.json",
+    "tests/test_bibliography_audit.py",
+    "generated/receipts/C3.json"
+  ],
+  "checks": [
+    "python -m py_compile tools/audit_bibliography.py",
+    "python -m unittest tests/test_bibliography_audit.py",
+    "CLI supports --shard --out --rdf-cache/--live",
+    "fail-closed exact item/title/creator/language/rights/year/evidence/duplicate gates",
+    "deterministic sorted JSON audit output",
+    "no full-text reads"
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "bibliography-auditor-ready"
+  ],
+  "proposals": []
+}
