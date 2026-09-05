@@ -5,8 +5,6 @@
   "changed": [
     "schemas/work_record.json",
     "story_brainstorm.py",
-    "tools/validate_rights.py",
-    "tools/validate_refs.py",
     "tests/test_engine.py",
     "generated/receipts/C2.json"
   ],
