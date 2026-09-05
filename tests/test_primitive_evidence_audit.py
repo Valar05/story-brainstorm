@@ -39,3 +39,25 @@ class EvidenceAuditTests(unittest.TestCase):
   self.assertEqual(r["state"],"NOT_READY");self.assertEqual(list(target.glob("*.txt")),[])
 
 if __name__=="__main__":unittest.main()
+
+class BodyGateTests(EvidenceAuditTests):
+ def test_missing_markers(self):
+  (self.cache/'11.txt').write_text('CHAPTER I\nAlice was beginning to get very tired')
+  self.assertEqual(self.do([self.ev()])['state'],'NOT_READY')
+ def test_reversed_markers(self):
+  (self.cache/'11.txt').write_text('*** END OF THE PROJECT GUTENBERG EBOOK X ***\n*** START OF THE PROJECT GUTENBERG EBOOK X ***')
+  self.assertEqual(self.do([self.ev()])['state'],'NOT_READY')
+ def test_header_license_credits_footer_excerpt_red(self):
+  for phrase in ['Project Gutenberg license','Credits: Someone','Produced by Someone']:
+   (self.cache/'11.txt').write_text('*** START OF THE PROJECT GUTENBERG EBOOK X ***\n'+phrase+'\n*** END OF THE PROJECT GUTENBERG EBOOK X ***')
+   self.assertEqual(self.do([self.ev(short_excerpt=phrase,excerpt_words=len(phrase.split()))])['state'],'NOT_READY')
+ def test_repeated_body_excerpt_red(self):
+  (self.cache/'11.txt').write_text('*** START OF THE PROJECT GUTENBERG EBOOK X ***\nAlice was beginning to get very tired\nAlice was beginning to get very tired\n*** END OF THE PROJECT GUTENBERG EBOOK X ***')
+  self.assertEqual(self.do([self.ev()])['state'],'NOT_READY')
+ def test_bare_paragraph_red(self): self.assertEqual(self.do([self.ev(location='paragraph 1')])['state'],'NOT_READY')
+ def test_named_poem_stanza_green(self):
+  (self.cache/'11.txt').write_text('*** START OF THE PROJECT GUTENBERG EBOOK X ***\nAlice was beginning to get very tired\n*** END OF THE PROJECT GUTENBERG EBOOK X ***')
+  self.assertEqual(self.do([self.ev(location='Poem Jabberwocky stanza 1')])['state'],'READY')
+ def test_ordinary_license_in_body_allowed(self):
+  (self.cache/'11.txt').write_text('*** START OF THE PROJECT GUTENBERG EBOOK X ***\nThe license was signed.\nAlice was beginning to get very tired\n*** END OF THE PROJECT GUTENBERG EBOOK X ***')
+  self.assertEqual(self.do([self.ev()])['state'],'READY')

@@ -15,7 +15,6 @@ def body_only(text):
  start=re.search(r"\*+\s*START OF (?:THE )?PROJECT GUTENBERG EBOOK[^\n]*",text,re.I); end=re.search(r"\*+\s*END OF (?:THE )?PROJECT GUTENBERG EBOOK[^\n]*",text,re.I)
  if not start or not end or end.start()<=start.end(): raise ValueError("missing or reversed Gutenberg body markers")
  body=text[start.end():end.start()]
- if re.search(r"project gutenberg|license|credits:|produced by|transcrib",body,re.I): raise ValueError("boilerplate in body")
  return body
 def atomic(path,data):
  path.parent.mkdir(parents=True,exist_ok=True)
