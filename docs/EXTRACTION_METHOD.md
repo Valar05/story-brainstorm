@@ -28,3 +28,9 @@ The fixture file contains exactly 50 intentionally invalid examples in five grou
 
 ## Schema alignment
 The schema requires observation and inference as separate nonempty fields, strict setup/pressure/turn/residue pattern keys, and a contextual subtype only for contextual cards. Primitive IDs must equal the engine's deterministic hash projection.
+
+## Evidence entailment audit
+
+`tools/audit_primitive_evidence.py` checks source-entailment prerequisites without storing source text in the repository. Invoke it with `--works`, `--cards`, `--out`, and a caller-supplied `--text-cache`; add `--live` to fetch missing Gutenberg plain-text items into that external cache.
+
+An evidence reference passes only when its work is known, its edition URL exactly equals the WorkRecord edition URL, its stored word count recomputes to 1–25 words, its locator is specific (for example `Chapter 1`, `page 4`, or `scene 2`), and normalized excerpt text occurs in the exact cached/fetched source. Duplicate references, missing evidence, vague locations, wrong editions, malformed/unavailable UTF-8 sources, and cache paths inside the repository fail closed. Cache writes are atomic and repeat runs are no-ops. This proves entailment prerequisites only; it does not judge semantic inference correctness.
