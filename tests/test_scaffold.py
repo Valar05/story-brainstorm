@@ -4,7 +4,10 @@ sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
 from story_brainstorm import atomic_write,stable_hash,validate_works,validate_cards
 class ScaffoldTests(unittest.TestCase):
  def test_empty_data_is_honestly_not_ready(self):
-  self.assertEqual(validate_works()['state'],'NOT_READY'); self.assertEqual(validate_cards()['state'],'NOT_READY')
+  with tempfile.TemporaryDirectory() as d:
+   works=Path(d)/'works.json';cards=Path(d)/'cards.json'
+   works.write_text(json.dumps({'works':[]}));cards.write_text(json.dumps({'cards':[]}))
+   self.assertEqual(validate_works(works)['state'],'NOT_READY'); self.assertEqual(validate_cards(cards)['state'],'NOT_READY')
  def test_candidate_rights_fail_closed(self):
   import tempfile
   with tempfile.TemporaryDirectory() as d:
