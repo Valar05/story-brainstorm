@@ -1,0 +1,1701 @@
+{
+  "fail": 0,
+  "pass": 36,
+  "records": 36,
+  "rows": [
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Tagore, Rabindranath",
+        "first_publication_year": 1912,
+        "source_item_id": "7164",
+        "title": "Gitanjali"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1912,
+        "first_publish_date": 1912,
+        "item_id": "OL19666208W",
+        "title": "Gitanjali"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Tagore, Rabindranath",
+        "digital_release_date": "2004-12-01",
+        "item_id": "7164",
+        "language": "en",
+        "title": "Gitanjali"
+      },
+      "status": "PASS",
+      "work_id": "b3-world-001"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Tagore, Rabindranath",
+        "first_publication_year": 1913,
+        "source_item_id": "6686",
+        "title": "The gardener"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1913,
+        "first_publish_date": 1913,
+        "item_id": "OL308957W",
+        "title": "The gardener"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Tagore, Rabindranath",
+        "digital_release_date": "2004-10-01",
+        "item_id": "6686",
+        "language": "en",
+        "title": "The gardener"
+      },
+      "status": "PASS",
+      "work_id": "b3-world-002"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Tagore, Rabindranath",
+        "first_publication_year": 1916,
+        "source_item_id": "6522",
+        "title": "Fruit-Gathering"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1916,
+        "first_publish_date": 1916,
+        "item_id": "OL308951W",
+        "title": "Fruit-gathering"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Tagore, Rabindranath",
+        "digital_release_date": "2004-09-01",
+        "item_id": "6522",
+        "language": "en",
+        "title": "Fruit-Gathering"
+      },
+      "status": "PASS",
+      "work_id": "b3-world-003"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Hearn, Lafcadio",
+        "first_publication_year": 1904,
+        "source_item_id": "1210",
+        "title": "Kwaidan: Stories and Studies of Strange Things"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1904,
+        "first_publish_date": 1904,
+        "item_id": "OL859613W",
+        "title": "Kwaidan"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Hearn, Lafcadio",
+        "digital_release_date": "1998-02-01",
+        "item_id": "1210",
+        "language": "en",
+        "title": "Kwaidan: Stories and Studies of Strange Things"
+      },
+      "status": "PASS",
+      "work_id": "b3-world-004"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Hearn, Lafcadio",
+        "first_publication_year": 1896,
+        "source_item_id": "8882",
+        "title": "Kokoro: Hints and Echoes of Japanese Inner Life"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1896,
+        "first_publish_date": 1896,
+        "item_id": "OL859566W",
+        "title": "Kokoro, hints and echoes of Japanese inner life"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Hearn, Lafcadio",
+        "digital_release_date": "2005-09-01",
+        "item_id": "8882",
+        "language": "en",
+        "title": "Kokoro: Hints and Echoes of Japanese Inner Life"
+      },
+      "status": "PASS",
+      "work_id": "b3-world-005"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Hearn, Lafcadio",
+        "first_publication_year": 1899,
+        "source_item_id": "8128",
+        "title": "In Ghostly Japan"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1899,
+        "first_publish_date": 1899,
+        "item_id": "OL859451W",
+        "title": "In Ghostly Japan"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Hearn, Lafcadio",
+        "digital_release_date": "2005-05-01",
+        "item_id": "8128",
+        "language": "en",
+        "title": "In Ghostly Japan"
+      },
+      "status": "PASS",
+      "work_id": "b3-world-006"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Ozaki, Yei Theodora",
+        "first_publication_year": 1903,
+        "source_item_id": "4018",
+        "title": "Japanese Fairy Tales"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1905,
+        "first_publish_date": 1905,
+        "item_id": "OL7305984W",
+        "title": "Japanese Fairy Tales"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Ozaki, Yei Theodora",
+        "digital_release_date": "2003-05-01",
+        "item_id": "4018",
+        "language": "en",
+        "title": "Japanese Fairy Tales"
+      },
+      "status": "PASS",
+      "work_id": "b3-world-007"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Schreiner, Olive",
+        "first_publication_year": 1883,
+        "source_item_id": "1441",
+        "title": "The Story of an African Farm"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1883,
+        "first_publish_date": 1883,
+        "item_id": "OL890573W",
+        "title": "The Story of an African Farm"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Schreiner, Olive",
+        "digital_release_date": "1998-09-01",
+        "item_id": "1441",
+        "language": "en",
+        "title": "The Story of an African Farm"
+      },
+      "status": "PASS",
+      "work_id": "b3-world-008"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Griffis, William Elliot",
+        "first_publication_year": 1880,
+        "source_item_id": "29337",
+        "title": "Japanese Fairy World: Stories from the Wonder-Lore of Japan"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1880,
+        "first_publish_date": 1880,
+        "item_id": "OL1501066W",
+        "title": "Japanese fairy world"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Griffis, William Elliot",
+        "digital_release_date": "2009-07-06",
+        "item_id": "29337",
+        "language": "en",
+        "title": "Japanese Fairy World\nStories from the Wonder-Lore of Japan"
+      },
+      "status": "PASS",
+      "work_id": "b3-world-009"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Tagore, Rabindranath",
+        "first_publication_year": 1916,
+        "source_item_id": "6524",
+        "title": "Stray Birds"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1916,
+        "first_publish_date": 1916,
+        "item_id": "OL308656W",
+        "title": "Stray Birds"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Tagore, Rabindranath",
+        "digital_release_date": "2004-09-01",
+        "item_id": "6524",
+        "language": "en",
+        "title": "Stray Birds"
+      },
+      "status": "PASS",
+      "work_id": "b3-world-010"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Toomer, Jean",
+        "first_publication_year": 1923,
+        "source_item_id": "60093",
+        "title": "Cane"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1923,
+        "first_publish_date": 1923,
+        "item_id": "OL49843W",
+        "title": "Cane"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Toomer, Jean",
+        "digital_release_date": "2019-08-12",
+        "item_id": "60093",
+        "language": "en",
+        "title": "Cane"
+      },
+      "status": "PASS",
+      "work_id": "b3-modernist-011"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Du Bois, W. E. B. (William Edward Burghardt)",
+        "first_publication_year": 1920,
+        "source_item_id": "15210",
+        "title": "Darkwater: Voices from Within the Veil"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1920,
+        "first_publish_date": 1920,
+        "item_id": "OL28571W",
+        "title": "Darkwater; voices from within the veil"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Du Bois, W. E. B. (William Edward Burghardt)",
+        "digital_release_date": "2005-02-28",
+        "item_id": "15210",
+        "language": "en",
+        "title": "Darkwater: Voices from Within the Veil"
+      },
+      "status": "PASS",
+      "work_id": "b3-modernist-012"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Gibran, Kahlil",
+        "first_publication_year": 1918,
+        "source_item_id": "5616",
+        "title": "The Madman: His Parables and Poems"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1918,
+        "first_publish_date": 1918,
+        "item_id": "OL318863W",
+        "title": "The madman, his parables and poems"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Gibran, Kahlil",
+        "digital_release_date": "2004-05-01",
+        "item_id": "5616",
+        "language": "en",
+        "title": "The Madman: His Parables and Poems"
+      },
+      "status": "PASS",
+      "work_id": "b3-modernist-013"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Gibran, Kahlil",
+        "first_publication_year": 1923,
+        "source_item_id": "58585",
+        "title": "The Prophet"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1923,
+        "first_publish_date": 1923,
+        "item_id": "OL43081250W",
+        "title": "The Prophet"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Gibran, Kahlil",
+        "digital_release_date": "2019-01-01",
+        "item_id": "58585",
+        "language": "en",
+        "title": "The Prophet"
+      },
+      "status": "PASS",
+      "work_id": "b3-modernist-014"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Mansfield, Katherine",
+        "first_publication_year": 1922,
+        "source_item_id": "1429",
+        "title": "The Garden Party, and Other Stories"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1922,
+        "first_publish_date": 1922,
+        "item_id": "OL788054W",
+        "title": "The Garden Party and other stories"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Mansfield, Katherine",
+        "digital_release_date": "1998-08-01",
+        "item_id": "1429",
+        "language": "en",
+        "title": "The Garden Party, and Other Stories"
+      },
+      "status": "PASS",
+      "work_id": "b3-modernist-015"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Conrad, Joseph",
+        "first_publication_year": 1916,
+        "source_item_id": "451",
+        "title": "The Shadow Line: A Confession"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1917,
+        "first_publish_date": 1917,
+        "item_id": "OL38827W",
+        "title": "The shadow-line"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Conrad, Joseph",
+        "digital_release_date": "2006-01-09",
+        "item_id": "451",
+        "language": "en",
+        "title": "The Shadow Line: A Confession"
+      },
+      "status": "PASS",
+      "work_id": "b3-modernist-016"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Mann, Thomas",
+        "first_publication_year": 1912,
+        "source_item_id": "66073",
+        "title": "Death in Venice"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1924,
+        "first_publish_date": 1924,
+        "item_id": "OL43171605W",
+        "title": "Death In Venice"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Mann, Thomas",
+        "digital_release_date": "2021-08-16",
+        "item_id": "66073",
+        "language": "en",
+        "title": "Death in Venice"
+      },
+      "status": "PASS",
+      "work_id": "b3-modernist-017"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Joyce, James",
+        "first_publication_year": 1914,
+        "source_item_id": "4217",
+        "title": "A Portrait of the Artist as a Young Man"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1916,
+        "first_publish_date": 1916,
+        "item_id": "OL33122325W",
+        "title": "A portrait of the artist as a young man"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Joyce, James",
+        "digital_release_date": "2003-07-01",
+        "item_id": "4217",
+        "language": "en",
+        "title": "A Portrait of the Artist as a Young Man"
+      },
+      "status": "PASS",
+      "work_id": "b3-modernist-018"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Joyce, James",
+        "first_publication_year": 1914,
+        "source_item_id": "2814",
+        "title": "Dubliners"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1914,
+        "first_publish_date": 1914,
+        "item_id": "OL86320W",
+        "title": "Dubliners"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Joyce, James",
+        "digital_release_date": "2001-09-01",
+        "item_id": "2814",
+        "language": "en",
+        "title": "Dubliners"
+      },
+      "status": "PASS",
+      "work_id": "b3-modernist-019"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Woolf, Virginia",
+        "first_publication_year": 1925,
+        "source_item_id": "71865",
+        "title": "Mrs. Dalloway"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1925,
+        "first_publish_date": 1925,
+        "item_id": "OL39349W",
+        "title": "Mrs. Dalloway"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Woolf, Virginia",
+        "digital_release_date": "2023-10-13",
+        "item_id": "71865",
+        "language": "en",
+        "title": "Mrs. Dalloway"
+      },
+      "status": "PASS",
+      "work_id": "b3-modernist-020"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Washington, Booker T.",
+        "first_publication_year": 1900,
+        "source_item_id": "2376",
+        "title": "Up from Slavery: An Autobiography"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1900,
+        "first_publish_date": 1900,
+        "item_id": "OL357501W",
+        "title": "Up from Slavery"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Washington, Booker T.",
+        "digital_release_date": "2000-10-01",
+        "item_id": "2376",
+        "language": "en",
+        "title": "Up from Slavery: An Autobiography"
+      },
+      "status": "PASS",
+      "work_id": "b3-theory-021"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Douglass, Frederick",
+        "first_publication_year": 1845,
+        "source_item_id": "23",
+        "title": "Narrative of the Life of Frederick Douglass: an American Slave"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1845,
+        "first_publish_date": 1845,
+        "item_id": "OL69178W",
+        "title": "Narrative of the life of Frederick Douglass"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Douglass, Frederick",
+        "digital_release_date": "2006-01-12",
+        "item_id": "23",
+        "language": "en",
+        "title": "Narrative of the Life of Frederick Douglass, an American Slave"
+      },
+      "status": "PASS",
+      "work_id": "b3-theory-022"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Douglass, Frederick",
+        "first_publication_year": 1881,
+        "source_item_id": "71893",
+        "title": "Life and times of Frederick Douglass : $b His early life as a slave, his escape from bondage, and his complete history"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1881,
+        "first_publish_date": 1881,
+        "item_id": "OL69176W",
+        "title": "Life and times of Frederick Douglass"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Douglass, Frederick",
+        "digital_release_date": "2023-10-16",
+        "item_id": "71893",
+        "language": "en",
+        "title": "Life and times of Frederick Douglass : $b His early life as a slave, his escape from bondage, and his complete history"
+      },
+      "status": "PASS",
+      "work_id": "b3-theory-023"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Jacobs, Harriet A. (Harriet Ann)",
+        "first_publication_year": 1861,
+        "source_item_id": "11030",
+        "title": "Incidents in the Life of a Slave Girl: Written by Herself"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1861,
+        "first_publish_date": 1861,
+        "item_id": "OL28623W",
+        "title": "Incidents in the Life of a Slave Girl"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Jacobs, Harriet A. (Harriet Ann)",
+        "digital_release_date": "2004-02-01",
+        "item_id": "11030",
+        "language": "en",
+        "title": "Incidents in the Life of a Slave Girl, Written by Herself"
+      },
+      "status": "PASS",
+      "work_id": "b3-theory-024"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Gilbert, Olive",
+        "first_publication_year": 1850,
+        "source_item_id": "1674",
+        "title": "The Narrative of Sojourner Truth"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1850,
+        "first_publish_date": 1850,
+        "item_id": "OL20577473W",
+        "title": "The Narrative of Sojourner Truth"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Gilbert, Olive",
+        "digital_release_date": "1999-03-01",
+        "item_id": "1674",
+        "language": "en",
+        "title": "The Narrative of Sojourner Truth"
+      },
+      "status": "PASS",
+      "work_id": "b3-theory-025"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wells-Barnett, Ida B.",
+        "first_publication_year": 1899,
+        "source_item_id": "64426",
+        "title": "Lynch Law in Georgia"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1899,
+        "first_publish_date": 1899,
+        "item_id": "OL2481244W",
+        "title": "Lynch law in Georgia"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wells-Barnett, Ida B.",
+        "digital_release_date": "2021-01-31",
+        "item_id": "64426",
+        "language": "en",
+        "title": "Lynch Law in Georgia"
+      },
+      "status": "PASS",
+      "work_id": "b3-theory-026"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wells-Barnett, Ida B.",
+        "first_publication_year": 1892,
+        "source_item_id": "14975",
+        "title": "Southern Horrors: Lynch Law in All Its Phases"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1892,
+        "first_publish_date": 1892,
+        "item_id": "OL21963355W",
+        "title": "Southern Horrors"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wells-Barnett, Ida B.",
+        "digital_release_date": "2005-02-08",
+        "item_id": "14975",
+        "language": "en",
+        "title": "Southern Horrors: Lynch Law in All Its Phases"
+      },
+      "status": "PASS",
+      "work_id": "b3-theory-027"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Cooper, Anna J. (Anna Julia)",
+        "first_publication_year": 1892,
+        "source_item_id": "61741",
+        "title": "A Voice from the South: By a Black Woman of the South"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1892,
+        "first_publish_date": 1892,
+        "item_id": "OL2721707W",
+        "title": "A voice from the South"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Cooper, Anna J. (Anna Julia)",
+        "digital_release_date": "2020-04-02",
+        "item_id": "61741",
+        "language": "en",
+        "title": "A Voice from the South\r\nBy a Black Woman of the South"
+      },
+      "status": "PASS",
+      "work_id": "b3-theory-028"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Zitkala-Sa",
+        "first_publication_year": 1921,
+        "source_item_id": "10376",
+        "title": "American Indian Stories"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1921,
+        "first_publish_date": 1921,
+        "item_id": "OL5478557W",
+        "title": "American Indian Stories"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Zitkala-Sa",
+        "digital_release_date": "2003-12-01",
+        "item_id": "10376",
+        "language": "en",
+        "title": "American Indian Stories"
+      },
+      "status": "PASS",
+      "work_id": "b3-theory-029"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Addams, Jane",
+        "first_publication_year": 1910,
+        "source_item_id": "1325",
+        "title": "Twenty Years at Hull House; with Autobiographical Notes"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1910,
+        "first_publish_date": 1910,
+        "item_id": "OL36956502W",
+        "title": "Twenty years at Hull-House, with autobiographical notes"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Addams, Jane",
+        "digital_release_date": "1998-05-01",
+        "item_id": "1325",
+        "language": "en",
+        "title": "Twenty Years at Hull House; with Autobiographical Notes"
+      },
+      "status": "PASS",
+      "work_id": "b3-theory-030"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Hearn, Lafcadio",
+        "first_publication_year": 1894,
+        "source_item_id": "8130",
+        "title": "Glimpses of Unfamiliar Japan: First Series"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1894,
+        "first_publish_date": 1894,
+        "item_id": "OL859604W",
+        "title": "Glimpses of unfamiliar Japan"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Hearn, Lafcadio",
+        "digital_release_date": "2005-05-01",
+        "item_id": "8130",
+        "language": "en",
+        "title": "Glimpses of Unfamiliar Japan: First Series"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b3-031"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Hearn, Lafcadio",
+        "first_publication_year": 1897,
+        "source_item_id": "55681",
+        "title": "Gleanings in Buddha-Fields: Studies of Hand and Soul in the Far East"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1897,
+        "first_publish_date": 1897,
+        "item_id": "OL13095215W",
+        "title": "Gleanings in Buddha-fields: Studies of Hand and Soul in the Far East"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Hearn, Lafcadio",
+        "digital_release_date": "2017-10-05",
+        "item_id": "55681",
+        "language": "en",
+        "title": "Gleanings in Buddha-Fields: Studies of Hand and Soul in the Far East"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b3-032"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Ford, Ford Madox",
+        "first_publication_year": 1915,
+        "source_item_id": "2775",
+        "title": "The Good Soldier"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1915,
+        "first_publish_date": 1915,
+        "item_id": "OL509889W",
+        "title": "The Good Soldier"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Ford, Ford Madox",
+        "digital_release_date": "2001-08-01",
+        "item_id": "2775",
+        "language": "en",
+        "title": "The Good Soldier"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b3-033"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Woolf, Virginia",
+        "first_publication_year": 1921,
+        "source_item_id": "29220",
+        "title": "Monday or Tuesday"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1921,
+        "first_publish_date": 1921,
+        "item_id": "OL39520W",
+        "title": "Monday or Tuesday"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Woolf, Virginia",
+        "digital_release_date": "2009-06-25",
+        "item_id": "29220",
+        "language": "en",
+        "title": "Monday or Tuesday"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b3-034"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Eastman, Charles A.",
+        "first_publication_year": 1902,
+        "source_item_id": "337",
+        "title": "Indian Boyhood"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1902,
+        "first_publish_date": 1902,
+        "item_id": "OL544783W",
+        "title": "Indian boyhood"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Eastman, Charles A.",
+        "digital_release_date": "2008-07-05",
+        "item_id": "337",
+        "language": "en",
+        "title": "Indian Boyhood"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b3-035"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Eastman, Charles A.",
+        "first_publication_year": 1911,
+        "source_item_id": "340",
+        "title": "The Soul of the Indian: An Interpretation"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1911,
+        "first_publish_date": 1911,
+        "item_id": "OL544782W",
+        "title": "The soul of the Indian"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Eastman, Charles A.",
+        "digital_release_date": "2008-07-05",
+        "item_id": "340",
+        "language": "en",
+        "title": "The Soul of the Indian: An Interpretation"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b3-036"
+    }
+  ],
+  "schema_version": "1.0",
+  "state": "READY"
+}
