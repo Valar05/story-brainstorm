@@ -1,133 +1,215 @@
 {
+  "acceptance": "BLOCKED",
+  "accepted_works": 0,
+  "policy": "REVIEW_REQUIRED forensic candidates only; no accepted rights-ready source set.",
   "schema_version": "1.0",
-  "policy": "PD_US_CONFIRMED only; <=1929; no full text",
   "verification_sources": [
     {
+      "claim": "US works published before January 1, 1931 are public domain.",
       "name": "US Copyright Office Circular 15A",
-      "url": "https://www.copyright.gov/circs/circ15a.pdf",
-      "claim": "US works published before January 1, 1931 are public domain."
+      "url": "https://www.copyright.gov/circs/circ15a.pdf"
     },
     {
+      "claim": "CCE/pre-1978 registration and renewal records are the historical rights lane.",
       "name": "US Copyright Office records",
-      "url": "https://www.copyright.gov/records/search.html",
-      "claim": "CCE/pre-1978 registration and renewal records are the historical rights lane."
+      "url": "https://www.copyright.gov/records/search.html"
     },
     {
+      "claim": "PG follows US law but repository status is supporting evidence, not sole clearance.",
       "name": "Project Gutenberg policy",
-      "url": "https://www.gutenberg.org/policy/permission",
-      "claim": "PG follows US law but repository status is supporting evidence, not sole clearance."
+      "url": "https://www.gutenberg.org/policy/permission"
     },
     {
+      "claim": "Fair use is case-specific and not rights clearance.",
       "name": "Fair Use Index",
-      "url": "https://www.copyright.gov/fair-use/",
-      "claim": "Fair use is case-specific and not rights clearance."
+      "url": "https://www.copyright.gov/fair-use/"
     },
     {
+      "claim": "Translations/adaptations have independent new material.",
       "name": "Derivative works",
-      "url": "https://www.copyright.gov/title17/92chap1.html",
-      "claim": "Translations/adaptations have independent new material."
+      "url": "https://www.copyright.gov/title17/92chap1.html"
     }
   ],
   "works": [
     {
-      "work_id": "reserve-001",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 1,
-      "source_url": "https://www.gutenberg.org/ebooks/160"
+      "source_url": "https://www.gutenberg.org/ebooks/160",
+      "work_id": "reserve-001"
     },
     {
-      "work_id": "reserve-002",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": false,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 2,
-      "source_url": "https://www.gutenberg.org/ebooks/1627"
+      "source_url": "https://www.gutenberg.org/ebooks/1627",
+      "work_id": "reserve-002"
     },
     {
-      "work_id": "reserve-003",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 3,
-      "source_url": "https://www.gutenberg.org/ebooks/2814"
+      "source_url": "https://www.gutenberg.org/ebooks/2814",
+      "work_id": "reserve-003"
     },
     {
-      "work_id": "reserve-004",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": false,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 4,
-      "source_url": "https://www.gutenberg.org/ebooks/8438"
+      "source_url": "https://www.gutenberg.org/ebooks/8438",
+      "work_id": "reserve-004"
     },
     {
-      "work_id": "reserve-005",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 5,
-      "source_url": "https://www.gutenberg.org/ebooks/8492"
+      "source_url": "https://www.gutenberg.org/ebooks/8492",
+      "work_id": "reserve-005"
     },
     {
-      "work_id": "reserve-006",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 6,
-      "source_url": "https://www.gutenberg.org/ebooks/131"
+      "source_url": "https://www.gutenberg.org/ebooks/131",
+      "work_id": "reserve-006"
     },
     {
-      "work_id": "reserve-007",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": false,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 7,
-      "source_url": "https://www.gutenberg.org/ebooks/4980"
+      "source_url": "https://www.gutenberg.org/ebooks/4980",
+      "work_id": "reserve-007"
     },
     {
-      "work_id": "reserve-008",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 8,
-      "source_url": "https://www.gutenberg.org/ebooks/144"
+      "source_url": "https://www.gutenberg.org/ebooks/144",
+      "work_id": "reserve-008"
     },
     {
-      "work_id": "reserve-009",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 9,
-      "source_url": "https://www.gutenberg.org/ebooks/23042"
+      "source_url": "https://www.gutenberg.org/ebooks/23042",
+      "work_id": "reserve-009"
     },
     {
-      "work_id": "reserve-010",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 10,
-      "source_url": "https://www.gutenberg.org/ebooks/1661"
+      "source_url": "https://www.gutenberg.org/ebooks/1661",
+      "work_id": "reserve-010"
     },
     {
-      "work_id": "reserve-011",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 11,
-      "source_url": "https://www.gutenberg.org/ebooks/394"
+      "source_url": "https://www.gutenberg.org/ebooks/394",
+      "work_id": "reserve-011"
     },
     {
-      "work_id": "reserve-012",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 12,
-      "source_url": "https://www.gutenberg.org/ebooks/550"
+      "source_url": "https://www.gutenberg.org/ebooks/550",
+      "work_id": "reserve-012"
     },
     {
-      "work_id": "reserve-013",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": false,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 13,
-      "source_url": "https://www.gutenberg.org/ebooks/2147"
+      "source_url": "https://www.gutenberg.org/ebooks/2147",
+      "work_id": "reserve-013"
     },
     {
-      "work_id": "reserve-014",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 14,
-      "source_url": "https://www.gutenberg.org/ebooks/902"
+      "source_url": "https://www.gutenberg.org/ebooks/902",
+      "work_id": "reserve-014"
     },
     {
-      "work_id": "reserve-015",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": false,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 15,
-      "source_url": "https://www.gutenberg.org/ebooks/2467"
+      "source_url": "https://www.gutenberg.org/ebooks/2467",
+      "work_id": "reserve-015"
     },
     {
-      "work_id": "reserve-016",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 16,
-      "source_url": "https://www.gutenberg.org/ebooks/18247"
+      "source_url": "https://www.gutenberg.org/ebooks/18247",
+      "work_id": "reserve-016"
     },
     {
-      "work_id": "reserve-017",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 17,
-      "source_url": "https://www.gutenberg.org/ebooks/1597"
+      "source_url": "https://www.gutenberg.org/ebooks/1597",
+      "work_id": "reserve-017"
     },
     {
-      "work_id": "reserve-018",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 18,
-      "source_url": "https://www.gutenberg.org/ebooks/1441"
+      "source_url": "https://www.gutenberg.org/ebooks/1441",
+      "work_id": "reserve-018"
     },
     {
-      "work_id": "reserve-019",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 19,
-      "source_url": "https://www.gutenberg.org/ebooks/73"
+      "source_url": "https://www.gutenberg.org/ebooks/73",
+      "work_id": "reserve-019"
     },
     {
-      "work_id": "reserve-020",
+      "acceptance": "REVIEW_REQUIRED",
+      "catalog_identity_verified": true,
+      "edition_rights": "REVIEW_REQUIRED",
+      "metadata_verification": "UNVERIFIED: original breadth labels and years retained for forensic review, not acceptance.",
       "reserve_order": 20,
-      "source_url": "https://www.gutenberg.org/ebooks/408"
+      "source_url": "https://www.gutenberg.org/ebooks/408",
+      "work_id": "reserve-020"
     }
   ]
 }

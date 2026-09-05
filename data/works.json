@@ -2,2204 +2,2404 @@
   "schema_version": "1.0",
   "works": [
     {
-      "work_id": "adventure-001",
-      "title": "Robinson Crusoe",
       "author": "Daniel Defoe",
       "publication_year": 1719,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1719,
-        "url": "https://www.gutenberg.org/ebooks/521",
-        "locator": "Project Gutenberg ebook #521; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/521"
+          "https://www.gutenberg.org/ebooks/521",
+          "https://www.gutenberg.org/cache/epub/521/pg521.rdf",
+          "sources/manifests/catalog_audit.json#adventure-001"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1719,
+        "locator": "Project Gutenberg ebook #521; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/521"
+      },
+      "title": "Robinson Crusoe",
+      "work_id": "adventure-001"
     },
     {
-      "work_id": "adventure-002",
-      "title": "Gulliver’s Travels",
       "author": "Jonathan Swift",
       "publication_year": 1726,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1726,
-        "url": "https://www.gutenberg.org/ebooks/829",
-        "locator": "Project Gutenberg ebook #829; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/829"
+          "https://www.gutenberg.org/ebooks/829",
+          "https://www.gutenberg.org/cache/epub/829/pg829.rdf",
+          "sources/manifests/catalog_audit.json#adventure-002"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1726,
+        "locator": "Project Gutenberg ebook #829; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/829"
+      },
+      "title": "Gulliver’s Travels",
+      "work_id": "adventure-002"
     },
     {
-      "work_id": "adventure-003",
-      "title": "Treasure Island",
       "author": "Robert Louis Stevenson",
       "publication_year": 1883,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1883,
-        "url": "https://www.gutenberg.org/ebooks/120",
-        "locator": "Project Gutenberg ebook #120; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/120"
+          "https://www.gutenberg.org/ebooks/120",
+          "https://www.gutenberg.org/cache/epub/120/pg120.rdf",
+          "sources/manifests/catalog_audit.json#adventure-003"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1883,
+        "locator": "Project Gutenberg ebook #120; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/120"
+      },
+      "title": "Treasure Island",
+      "work_id": "adventure-003"
     },
     {
-      "work_id": "adventure-004",
-      "title": "The Three Musketeers",
       "author": "Alexandre Dumas",
       "publication_year": 1844,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1844,
-        "url": "https://www.gutenberg.org/ebooks/1257",
-        "locator": "Project Gutenberg ebook #1257; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1257"
+          "https://www.gutenberg.org/ebooks/1257",
+          "https://www.gutenberg.org/cache/epub/1257/pg1257.rdf",
+          "sources/manifests/catalog_audit.json#adventure-004"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1844,
+        "locator": "Project Gutenberg ebook #1257; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1257"
+      },
+      "title": "The Three Musketeers",
+      "work_id": "adventure-004"
     },
     {
-      "work_id": "adventure-005",
-      "title": "The Prisoner of Zenda",
       "author": "Anthony Hope",
       "publication_year": 1894,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1894,
-        "url": "https://www.gutenberg.org/ebooks/95",
-        "locator": "Project Gutenberg ebook #95; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/95"
+          "https://www.gutenberg.org/ebooks/95",
+          "https://www.gutenberg.org/cache/epub/95/pg95.rdf",
+          "sources/manifests/catalog_audit.json#adventure-005"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1894,
+        "locator": "Project Gutenberg ebook #95; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/95"
+      },
+      "title": "The Prisoner of Zenda",
+      "work_id": "adventure-005"
     },
     {
-      "work_id": "adventure-006",
-      "title": "King Solomon’s Mines",
       "author": "H. Rider Haggard",
       "publication_year": 1885,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1885,
-        "url": "https://www.gutenberg.org/ebooks/2166",
-        "locator": "Project Gutenberg ebook #2166; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/2166"
+          "https://www.gutenberg.org/ebooks/2166",
+          "https://www.gutenberg.org/cache/epub/2166/pg2166.rdf",
+          "sources/manifests/catalog_audit.json#adventure-006"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1885,
+        "locator": "Project Gutenberg ebook #2166; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/2166"
+      },
+      "title": "King Solomon’s Mines",
+      "work_id": "adventure-006"
     },
     {
-      "work_id": "adventure-007",
-      "title": "The Last of the Mohicans",
       "author": "James Fenimore Cooper",
       "publication_year": 1826,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1826,
-        "url": "https://www.gutenberg.org/ebooks/27681",
-        "locator": "Project Gutenberg ebook #27681; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/27681"
+          "https://www.gutenberg.org/ebooks/27681",
+          "https://www.gutenberg.org/cache/epub/27681/pg27681.rdf",
+          "sources/manifests/catalog_audit.json#adventure-007"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1826,
+        "locator": "Project Gutenberg ebook #27681; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/27681"
+      },
+      "title": "The Last of the Mohicans",
+      "work_id": "adventure-007"
     },
     {
-      "work_id": "adventure-008",
-      "title": "The Odyssey",
       "author": "Homer",
       "publication_year": 700,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 700,
-        "url": "https://www.gutenberg.org/ebooks/1727",
-        "locator": "Project Gutenberg ebook #1727; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1727"
+          "https://www.gutenberg.org/ebooks/1727",
+          "https://www.gutenberg.org/cache/epub/1727/pg1727.rdf",
+          "sources/manifests/catalog_audit.json#adventure-008"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 700,
+        "locator": "Project Gutenberg ebook #1727; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1727"
+      },
+      "title": "The Odyssey",
+      "work_id": "adventure-008"
     },
     {
-      "work_id": "adventure-009",
-      "title": "The Count of Monte Cristo",
       "author": "Alexandre Dumas",
       "publication_year": 1844,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1844,
-        "url": "https://www.gutenberg.org/ebooks/1184",
-        "locator": "Project Gutenberg ebook #1184; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1184"
+          "https://www.gutenberg.org/ebooks/1184",
+          "https://www.gutenberg.org/cache/epub/1184/pg1184.rdf",
+          "sources/manifests/catalog_audit.json#adventure-009"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1844,
+        "locator": "Project Gutenberg ebook #1184; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1184"
+      },
+      "title": "The Count of Monte Cristo",
+      "work_id": "adventure-009"
     },
     {
-      "work_id": "adventure-010",
-      "title": "Around the World in Eighty Days",
       "author": "Jules Verne",
       "publication_year": 1872,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1872,
-        "url": "https://www.gutenberg.org/ebooks/103",
-        "locator": "Project Gutenberg ebook #103; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/103"
+          "https://www.gutenberg.org/ebooks/103",
+          "https://www.gutenberg.org/cache/epub/103/pg103.rdf",
+          "sources/manifests/catalog_audit.json#adventure-010"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1872,
+        "locator": "Project Gutenberg ebook #103; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/103"
+      },
+      "title": "Around the World in Eighty Days",
+      "work_id": "adventure-010"
     },
     {
-      "work_id": "fantasy-011",
-      "title": "Alice’s Adventures in Wonderland",
       "author": "Lewis Carroll",
       "publication_year": 1800,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1800,
-        "url": "https://www.gutenberg.org/ebooks/11",
-        "locator": "Project Gutenberg ebook #11; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/11"
+          "https://www.gutenberg.org/ebooks/11",
+          "https://www.gutenberg.org/cache/epub/11/pg11.rdf",
+          "sources/manifests/catalog_audit.json#fantasy-011"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1800,
+        "locator": "Project Gutenberg ebook #11; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/11"
+      },
+      "title": "Alice’s Adventures in Wonderland",
+      "work_id": "fantasy-011"
     },
     {
-      "work_id": "fantasy-012",
-      "title": "Through the Looking-Glass",
       "author": "Lewis Carroll",
       "publication_year": 1813,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1813,
-        "url": "https://www.gutenberg.org/ebooks/12",
-        "locator": "Project Gutenberg ebook #12; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/12"
+          "https://www.gutenberg.org/ebooks/12",
+          "https://www.gutenberg.org/cache/epub/12/pg12.rdf",
+          "sources/manifests/catalog_audit.json#fantasy-012"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1813,
+        "locator": "Project Gutenberg ebook #12; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/12"
+      },
+      "title": "Through the Looking-Glass",
+      "work_id": "fantasy-012"
     },
     {
-      "work_id": "fantasy-013",
-      "title": "The Wonderful Wizard of Oz",
       "author": "L. Frank Baum",
       "publication_year": 1826,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1826,
-        "url": "https://www.gutenberg.org/ebooks/55",
-        "locator": "Project Gutenberg ebook #55; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/55"
+          "https://www.gutenberg.org/ebooks/55",
+          "https://www.gutenberg.org/cache/epub/55/pg55.rdf",
+          "sources/manifests/catalog_audit.json#fantasy-013"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1826,
+        "locator": "Project Gutenberg ebook #55; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/55"
+      },
+      "title": "The Wonderful Wizard of Oz",
+      "work_id": "fantasy-013"
     },
     {
-      "work_id": "fantasy-014",
-      "title": "Peter Pan",
       "author": "J. M. Barrie",
       "publication_year": 1839,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1839,
-        "url": "https://www.gutenberg.org/ebooks/16",
-        "locator": "Project Gutenberg ebook #16; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/16"
+          "https://www.gutenberg.org/ebooks/16",
+          "https://www.gutenberg.org/cache/epub/16/pg16.rdf",
+          "sources/manifests/catalog_audit.json#fantasy-014"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1839,
+        "locator": "Project Gutenberg ebook #16; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/16"
+      },
+      "title": "Peter Pan",
+      "work_id": "fantasy-014"
     },
     {
-      "work_id": "fantasy-015",
-      "title": "Five Children and It",
       "author": "E. Nesbit",
       "publication_year": 1852,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1852,
-        "url": "https://www.gutenberg.org/ebooks/778",
-        "locator": "Project Gutenberg ebook #778; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/778"
+          "https://www.gutenberg.org/ebooks/778",
+          "https://www.gutenberg.org/cache/epub/778/pg778.rdf",
+          "sources/manifests/catalog_audit.json#fantasy-015"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1852,
+        "locator": "Project Gutenberg ebook #778; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/778"
+      },
+      "title": "Five Children and It",
+      "work_id": "fantasy-015"
     },
     {
-      "work_id": "fantasy-016",
-      "title": "The Water-Babies",
       "author": "Charles Kingsley",
       "publication_year": 1865,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1865,
-        "url": "https://www.gutenberg.org/ebooks/101",
-        "locator": "Project Gutenberg ebook #101; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/101"
+          "https://www.gutenberg.org/ebooks/101",
+          "https://www.gutenberg.org/cache/epub/101/pg101.rdf",
+          "sources/manifests/catalog_audit.json#fantasy-016"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1865,
+        "locator": "Project Gutenberg ebook #101; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/101"
+      },
+      "title": "The Water-Babies",
+      "work_id": "fantasy-016"
     },
     {
-      "work_id": "fantasy-017",
-      "title": "The Phantom of the Opera",
       "author": "Gaston Leroux",
       "publication_year": 1878,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1878,
-        "url": "https://www.gutenberg.org/ebooks/175",
-        "locator": "Project Gutenberg ebook #175; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/175"
+          "https://www.gutenberg.org/ebooks/175",
+          "https://www.gutenberg.org/cache/epub/175/pg175.rdf",
+          "sources/manifests/catalog_audit.json#fantasy-017"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1878,
+        "locator": "Project Gutenberg ebook #175; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/175"
+      },
+      "title": "The Phantom of the Opera",
+      "work_id": "fantasy-017"
     },
     {
-      "work_id": "fantasy-018",
-      "title": "A Princess of Mars",
       "author": "Edgar Rice Burroughs",
       "publication_year": 1891,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1891,
-        "url": "https://www.gutenberg.org/ebooks/62",
-        "locator": "Project Gutenberg ebook #62; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/62"
+          "https://www.gutenberg.org/ebooks/62",
+          "https://www.gutenberg.org/cache/epub/62/pg62.rdf",
+          "sources/manifests/catalog_audit.json#fantasy-018"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1891,
+        "locator": "Project Gutenberg ebook #62; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/62"
+      },
+      "title": "A Princess of Mars",
+      "work_id": "fantasy-018"
     },
     {
-      "work_id": "fantasy-019",
-      "title": "The Blue Castle",
       "author": "L. M. Montgomery",
       "publication_year": 1904,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1904,
-        "url": "https://www.gutenberg.org/ebooks/67979",
-        "locator": "Project Gutenberg ebook #67979; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/67979"
+          "https://www.gutenberg.org/ebooks/67979",
+          "https://www.gutenberg.org/cache/epub/67979/pg67979.rdf",
+          "sources/manifests/catalog_audit.json#fantasy-019"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1904,
+        "locator": "Project Gutenberg ebook #67979; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/67979"
+      },
+      "title": "The Blue Castle",
+      "work_id": "fantasy-019"
     },
     {
-      "work_id": "fantasy-020",
-      "title": "The Secret Garden",
       "author": "Frances Hodgson Burnett",
       "publication_year": 1917,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1917,
-        "url": "https://www.gutenberg.org/ebooks/17396",
-        "locator": "Project Gutenberg ebook #17396; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/17396"
+          "https://www.gutenberg.org/ebooks/17396",
+          "https://www.gutenberg.org/cache/epub/17396/pg17396.rdf",
+          "sources/manifests/catalog_audit.json#fantasy-020"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1917,
+        "locator": "Project Gutenberg ebook #17396; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/17396"
+      },
+      "title": "The Secret Garden",
+      "work_id": "fantasy-020"
     },
     {
-      "work_id": "gothic-021",
-      "title": "Frankenstein",
       "author": "Mary Shelley",
       "publication_year": 1800,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1800,
-        "url": "https://www.gutenberg.org/ebooks/84",
-        "locator": "Project Gutenberg ebook #84; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/84"
+          "https://www.gutenberg.org/ebooks/84",
+          "https://www.gutenberg.org/cache/epub/84/pg84.rdf",
+          "sources/manifests/catalog_audit.json#gothic-021"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1800,
+        "locator": "Project Gutenberg ebook #84; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/84"
+      },
+      "title": "Frankenstein",
+      "work_id": "gothic-021"
     },
     {
-      "work_id": "gothic-022",
-      "title": "Dracula",
       "author": "Bram Stoker",
       "publication_year": 1813,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1813,
-        "url": "https://www.gutenberg.org/ebooks/345",
-        "locator": "Project Gutenberg ebook #345; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/345"
+          "https://www.gutenberg.org/ebooks/345",
+          "https://www.gutenberg.org/cache/epub/345/pg345.rdf",
+          "sources/manifests/catalog_audit.json#gothic-022"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1813,
+        "locator": "Project Gutenberg ebook #345; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/345"
+      },
+      "title": "Dracula",
+      "work_id": "gothic-022"
     },
     {
-      "work_id": "gothic-023",
-      "title": "Jane Eyre",
       "author": "Charlotte Bronte",
       "publication_year": 1826,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1826,
-        "url": "https://www.gutenberg.org/ebooks/1260",
-        "locator": "Project Gutenberg ebook #1260; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1260"
+          "https://www.gutenberg.org/ebooks/1260",
+          "https://www.gutenberg.org/cache/epub/1260/pg1260.rdf",
+          "sources/manifests/catalog_audit.json#gothic-023"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1826,
+        "locator": "Project Gutenberg ebook #1260; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1260"
+      },
+      "title": "Jane Eyre",
+      "work_id": "gothic-023"
     },
     {
-      "work_id": "gothic-024",
-      "title": "Wuthering Heights",
       "author": "Emily Bronte",
       "publication_year": 1839,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1839,
-        "url": "https://www.gutenberg.org/ebooks/768",
-        "locator": "Project Gutenberg ebook #768; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/768"
+          "https://www.gutenberg.org/ebooks/768",
+          "https://www.gutenberg.org/cache/epub/768/pg768.rdf",
+          "sources/manifests/catalog_audit.json#gothic-024"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1839,
+        "locator": "Project Gutenberg ebook #768; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/768"
+      },
+      "title": "Wuthering Heights",
+      "work_id": "gothic-024"
     },
     {
-      "work_id": "gothic-025",
-      "title": "The Woman in White",
       "author": "Wilkie Collins",
       "publication_year": 1852,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1852,
-        "url": "https://www.gutenberg.org/ebooks/583",
-        "locator": "Project Gutenberg ebook #583; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/583"
+          "https://www.gutenberg.org/ebooks/583",
+          "https://www.gutenberg.org/cache/epub/583/pg583.rdf",
+          "sources/manifests/catalog_audit.json#gothic-025"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1852,
+        "locator": "Project Gutenberg ebook #583; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/583"
+      },
+      "title": "The Woman in White",
+      "work_id": "gothic-025"
     },
     {
-      "work_id": "gothic-026",
-      "title": "The Turn of the Screw",
       "author": "Henry James",
       "publication_year": 1865,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1865,
-        "url": "https://www.gutenberg.org/ebooks/209",
-        "locator": "Project Gutenberg ebook #209; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/209"
+          "https://www.gutenberg.org/ebooks/209",
+          "https://www.gutenberg.org/cache/epub/209/pg209.rdf",
+          "sources/manifests/catalog_audit.json#gothic-026"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1865,
+        "locator": "Project Gutenberg ebook #209; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/209"
+      },
+      "title": "The Turn of the Screw",
+      "work_id": "gothic-026"
     },
     {
-      "work_id": "gothic-027",
-      "title": "The Castle of Otranto",
       "author": "Horace Walpole",
       "publication_year": 1878,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1878,
-        "url": "https://www.gutenberg.org/ebooks/696",
-        "locator": "Project Gutenberg ebook #696; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/696"
+          "https://www.gutenberg.org/ebooks/696",
+          "https://www.gutenberg.org/cache/epub/696/pg696.rdf",
+          "sources/manifests/catalog_audit.json#gothic-027"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1878,
+        "locator": "Project Gutenberg ebook #696; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/696"
+      },
+      "title": "The Castle of Otranto",
+      "work_id": "gothic-027"
     },
     {
-      "work_id": "gothic-028",
-      "title": "The Yellow Wallpaper",
       "author": "Charlotte Perkins Gilman",
       "publication_year": 1891,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1891,
-        "url": "https://www.gutenberg.org/ebooks/1952",
-        "locator": "Project Gutenberg ebook #1952; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1952"
+          "https://www.gutenberg.org/ebooks/1952",
+          "https://www.gutenberg.org/cache/epub/1952/pg1952.rdf",
+          "sources/manifests/catalog_audit.json#gothic-028"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1891,
+        "locator": "Project Gutenberg ebook #1952; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1952"
+      },
+      "title": "The Yellow Wallpaper",
+      "work_id": "gothic-028"
     },
     {
-      "work_id": "gothic-029",
-      "title": "Carmilla",
       "author": "J. Sheridan Le Fanu",
       "publication_year": 1904,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1904,
-        "url": "https://www.gutenberg.org/ebooks/10007",
-        "locator": "Project Gutenberg ebook #10007; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/10007"
+          "https://www.gutenberg.org/ebooks/10007",
+          "https://www.gutenberg.org/cache/epub/10007/pg10007.rdf",
+          "sources/manifests/catalog_audit.json#gothic-029"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1904,
+        "locator": "Project Gutenberg ebook #10007; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/10007"
+      },
+      "title": "Carmilla",
+      "work_id": "gothic-029"
     },
     {
-      "work_id": "gothic-030",
-      "title": "Vathek",
       "author": "William Beckford",
       "publication_year": 1917,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1917,
-        "url": "https://www.gutenberg.org/ebooks/687",
-        "locator": "Project Gutenberg ebook #687; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/687"
+          "https://www.gutenberg.org/ebooks/687",
+          "https://www.gutenberg.org/cache/epub/687/pg687.rdf",
+          "sources/manifests/catalog_audit.json#gothic-030"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1917,
+        "locator": "Project Gutenberg ebook #687; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/687"
+      },
+      "title": "Vathek",
+      "work_id": "gothic-030"
     },
     {
-      "work_id": "social-031",
-      "title": "Pride and Prejudice",
       "author": "Jane Austen",
       "publication_year": 1800,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1800,
-        "url": "https://www.gutenberg.org/ebooks/1342",
-        "locator": "Project Gutenberg ebook #1342; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1342"
+          "https://www.gutenberg.org/ebooks/1342",
+          "https://www.gutenberg.org/cache/epub/1342/pg1342.rdf",
+          "sources/manifests/catalog_audit.json#social-031"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1800,
+        "locator": "Project Gutenberg ebook #1342; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1342"
+      },
+      "title": "Pride and Prejudice",
+      "work_id": "social-031"
     },
     {
-      "work_id": "social-032",
-      "title": "Sense and Sensibility",
       "author": "Jane Austen",
       "publication_year": 1813,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1813,
-        "url": "https://www.gutenberg.org/ebooks/161",
-        "locator": "Project Gutenberg ebook #161; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/161"
+          "https://www.gutenberg.org/ebooks/161",
+          "https://www.gutenberg.org/cache/epub/161/pg161.rdf",
+          "sources/manifests/catalog_audit.json#social-032"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1813,
+        "locator": "Project Gutenberg ebook #161; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/161"
+      },
+      "title": "Sense and Sensibility",
+      "work_id": "social-032"
     },
     {
-      "work_id": "social-033",
-      "title": "Middlemarch",
       "author": "George Eliot",
       "publication_year": 1826,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1826,
-        "url": "https://www.gutenberg.org/ebooks/145",
-        "locator": "Project Gutenberg ebook #145; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/145"
+          "https://www.gutenberg.org/ebooks/145",
+          "https://www.gutenberg.org/cache/epub/145/pg145.rdf",
+          "sources/manifests/catalog_audit.json#social-033"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1826,
+        "locator": "Project Gutenberg ebook #145; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/145"
+      },
+      "title": "Middlemarch",
+      "work_id": "social-033"
     },
     {
-      "work_id": "social-034",
-      "title": "The Mill on the Floss",
       "author": "George Eliot",
       "publication_year": 1839,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1839,
-        "url": "https://www.gutenberg.org/ebooks/6688",
-        "locator": "Project Gutenberg ebook #6688; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/6688"
+          "https://www.gutenberg.org/ebooks/6688",
+          "https://www.gutenberg.org/cache/epub/6688/pg6688.rdf",
+          "sources/manifests/catalog_audit.json#social-034"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1839,
+        "locator": "Project Gutenberg ebook #6688; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/6688"
+      },
+      "title": "The Mill on the Floss",
+      "work_id": "social-034"
     },
     {
-      "work_id": "social-035",
-      "title": "Tess of the d’Urbervilles",
       "author": "Thomas Hardy",
       "publication_year": 1852,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1852,
-        "url": "https://www.gutenberg.org/ebooks/110",
-        "locator": "Project Gutenberg ebook #110; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/110"
+          "https://www.gutenberg.org/ebooks/110",
+          "https://www.gutenberg.org/cache/epub/110/pg110.rdf",
+          "sources/manifests/catalog_audit.json#social-035"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1852,
+        "locator": "Project Gutenberg ebook #110; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/110"
+      },
+      "title": "Tess of the d’Urbervilles",
+      "work_id": "social-035"
     },
     {
-      "work_id": "social-036",
-      "title": "The Portrait of a Lady",
       "author": "Henry James",
       "publication_year": 1865,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1865,
-        "url": "https://www.gutenberg.org/ebooks/2833",
-        "locator": "Project Gutenberg ebook #2833; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/2833"
+          "https://www.gutenberg.org/ebooks/2833",
+          "https://www.gutenberg.org/cache/epub/2833/pg2833.rdf",
+          "sources/manifests/catalog_audit.json#social-036"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1865,
+        "locator": "Project Gutenberg ebook #2833; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/2833"
+      },
+      "title": "The Portrait of a Lady",
+      "work_id": "social-036"
     },
     {
-      "work_id": "social-037",
-      "title": "The House of Mirth",
       "author": "Edith Wharton",
       "publication_year": 1878,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1878,
-        "url": "https://www.gutenberg.org/ebooks/284",
-        "locator": "Project Gutenberg ebook #284; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/284"
+          "https://www.gutenberg.org/ebooks/284",
+          "https://www.gutenberg.org/cache/epub/284/pg284.rdf",
+          "sources/manifests/catalog_audit.json#social-037"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1878,
+        "locator": "Project Gutenberg ebook #284; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/284"
+      },
+      "title": "The House of Mirth",
+      "work_id": "social-037"
     },
     {
-      "work_id": "social-038",
-      "title": "The Age of Innocence",
       "author": "Edith Wharton",
       "publication_year": 1891,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1891,
-        "url": "https://www.gutenberg.org/ebooks/541",
-        "locator": "Project Gutenberg ebook #541; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/541"
+          "https://www.gutenberg.org/ebooks/541",
+          "https://www.gutenberg.org/cache/epub/541/pg541.rdf",
+          "sources/manifests/catalog_audit.json#social-038"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1891,
+        "locator": "Project Gutenberg ebook #541; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/541"
+      },
+      "title": "The Age of Innocence",
+      "work_id": "social-038"
     },
     {
-      "work_id": "social-039",
-      "title": "North and South",
       "author": "Elizabeth Gaskell",
       "publication_year": 1904,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1904,
-        "url": "https://www.gutenberg.org/ebooks/4276",
-        "locator": "Project Gutenberg ebook #4276; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/4276"
+          "https://www.gutenberg.org/ebooks/4276",
+          "https://www.gutenberg.org/cache/epub/4276/pg4276.rdf",
+          "sources/manifests/catalog_audit.json#social-039"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1904,
+        "locator": "Project Gutenberg ebook #4276; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/4276"
+      },
+      "title": "North and South",
+      "work_id": "social-039"
     },
     {
-      "work_id": "social-040",
-      "title": "Cranford",
       "author": "Elizabeth Gaskell",
       "publication_year": 1917,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1917,
-        "url": "https://www.gutenberg.org/ebooks/394",
-        "locator": "Project Gutenberg ebook #394; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/394"
+          "https://www.gutenberg.org/ebooks/394",
+          "https://www.gutenberg.org/cache/epub/394/pg394.rdf",
+          "sources/manifests/catalog_audit.json#social-040"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1917,
+        "locator": "Project Gutenberg ebook #394; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/394"
+      },
+      "title": "Cranford",
+      "work_id": "social-040"
     },
     {
-      "work_id": "american-041",
-      "title": "Moby-Dick",
       "author": "Herman Melville",
       "publication_year": 1800,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1800,
-        "url": "https://www.gutenberg.org/ebooks/2701",
-        "locator": "Project Gutenberg ebook #2701; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/2701"
+          "https://www.gutenberg.org/ebooks/2701",
+          "https://www.gutenberg.org/cache/epub/2701/pg2701.rdf",
+          "sources/manifests/catalog_audit.json#american-041"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1800,
+        "locator": "Project Gutenberg ebook #2701; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/2701"
+      },
+      "title": "Moby-Dick",
+      "work_id": "american-041"
     },
     {
-      "work_id": "american-042",
-      "title": "The Scarlet Letter",
       "author": "Nathaniel Hawthorne",
       "publication_year": 1813,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1813,
-        "url": "https://www.gutenberg.org/ebooks/25344",
-        "locator": "Project Gutenberg ebook #25344; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/25344"
+          "https://www.gutenberg.org/ebooks/25344",
+          "https://www.gutenberg.org/cache/epub/25344/pg25344.rdf",
+          "sources/manifests/catalog_audit.json#american-042"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1813,
+        "locator": "Project Gutenberg ebook #25344; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/25344"
+      },
+      "title": "The Scarlet Letter",
+      "work_id": "american-042"
     },
     {
-      "work_id": "american-043",
-      "title": "The Adventures of Tom Sawyer",
       "author": "Mark Twain",
       "publication_year": 1826,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1826,
-        "url": "https://www.gutenberg.org/ebooks/74",
-        "locator": "Project Gutenberg ebook #74; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/74"
+          "https://www.gutenberg.org/ebooks/74",
+          "https://www.gutenberg.org/cache/epub/74/pg74.rdf",
+          "sources/manifests/catalog_audit.json#american-043"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1826,
+        "locator": "Project Gutenberg ebook #74; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/74"
+      },
+      "title": "The Adventures of Tom Sawyer",
+      "work_id": "american-043"
     },
     {
-      "work_id": "american-044",
-      "title": "Adventures of Huckleberry Finn",
       "author": "Mark Twain",
       "publication_year": 1839,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1839,
-        "url": "https://www.gutenberg.org/ebooks/76",
-        "locator": "Project Gutenberg ebook #76; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/76"
+          "https://www.gutenberg.org/ebooks/76",
+          "https://www.gutenberg.org/cache/epub/76/pg76.rdf",
+          "sources/manifests/catalog_audit.json#american-044"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1839,
+        "locator": "Project Gutenberg ebook #76; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/76"
+      },
+      "title": "Adventures of Huckleberry Finn",
+      "work_id": "american-044"
     },
     {
-      "work_id": "american-045",
-      "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "publication_year": 1852,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1852,
-        "url": "https://www.gutenberg.org/ebooks/64317",
-        "locator": "Project Gutenberg ebook #64317; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/64317"
+          "https://www.gutenberg.org/ebooks/64317",
+          "https://www.gutenberg.org/cache/epub/64317/pg64317.rdf",
+          "sources/manifests/catalog_audit.json#american-045"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1852,
+        "locator": "Project Gutenberg ebook #64317; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/64317"
+      },
+      "title": "The Great Gatsby",
+      "work_id": "american-045"
     },
     {
-      "work_id": "american-046",
-      "title": "Main Street",
       "author": "Sinclair Lewis",
       "publication_year": 1865,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1865,
-        "url": "https://www.gutenberg.org/ebooks/543",
-        "locator": "Project Gutenberg ebook #543; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/543"
+          "https://www.gutenberg.org/ebooks/543",
+          "https://www.gutenberg.org/cache/epub/543/pg543.rdf",
+          "sources/manifests/catalog_audit.json#american-046"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1865,
+        "locator": "Project Gutenberg ebook #543; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/543"
+      },
+      "title": "Main Street",
+      "work_id": "american-046"
     },
     {
-      "work_id": "american-047",
-      "title": "Sister Carrie",
       "author": "Theodore Dreiser",
       "publication_year": 1878,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1878,
-        "url": "https://www.gutenberg.org/ebooks/233",
-        "locator": "Project Gutenberg ebook #233; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/233"
+          "https://www.gutenberg.org/ebooks/233",
+          "https://www.gutenberg.org/cache/epub/233/pg233.rdf",
+          "sources/manifests/catalog_audit.json#american-047"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1878,
+        "locator": "Project Gutenberg ebook #233; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/233"
+      },
+      "title": "Sister Carrie",
+      "work_id": "american-047"
     },
     {
-      "work_id": "american-048",
-      "title": "Daisy Miller",
       "author": "Henry James",
       "publication_year": 1891,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1891,
-        "url": "https://www.gutenberg.org/ebooks/208",
-        "locator": "Project Gutenberg ebook #208; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/208"
+          "https://www.gutenberg.org/ebooks/208",
+          "https://www.gutenberg.org/cache/epub/208/pg208.rdf",
+          "sources/manifests/catalog_audit.json#american-048"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1891,
+        "locator": "Project Gutenberg ebook #208; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/208"
+      },
+      "title": "Daisy Miller",
+      "work_id": "american-048"
     },
     {
-      "work_id": "american-049",
-      "title": "Bartleby, the Scrivener",
       "author": "Herman Melville",
       "publication_year": 1904,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1904,
-        "url": "https://www.gutenberg.org/ebooks/11231",
-        "locator": "Project Gutenberg ebook #11231; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/11231"
+          "https://www.gutenberg.org/ebooks/11231",
+          "https://www.gutenberg.org/cache/epub/11231/pg11231.rdf",
+          "sources/manifests/catalog_audit.json#american-049"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1904,
+        "locator": "Project Gutenberg ebook #11231; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/11231"
+      },
+      "title": "Bartleby, the Scrivener",
+      "work_id": "american-049"
     },
     {
-      "work_id": "american-050",
-      "title": "Leaves of Grass",
       "author": "Walt Whitman",
       "publication_year": 1917,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1917,
-        "url": "https://www.gutenberg.org/ebooks/1322",
-        "locator": "Project Gutenberg ebook #1322; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1322"
+          "https://www.gutenberg.org/ebooks/1322",
+          "https://www.gutenberg.org/cache/epub/1322/pg1322.rdf",
+          "sources/manifests/catalog_audit.json#american-050"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1917,
+        "locator": "Project Gutenberg ebook #1322; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1322"
+      },
+      "title": "Leaves of Grass",
+      "work_id": "american-050"
     },
     {
-      "work_id": "world-051",
-      "title": "The Divine Comedy",
       "author": "Dante Alighieri",
       "publication_year": 1800,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1800,
-        "url": "https://www.gutenberg.org/ebooks/8800",
-        "locator": "Project Gutenberg ebook #8800; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/8800"
+          "https://www.gutenberg.org/ebooks/8800",
+          "https://www.gutenberg.org/cache/epub/8800/pg8800.rdf",
+          "sources/manifests/catalog_audit.json#world-051"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1800,
+        "locator": "Project Gutenberg ebook #8800; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/8800"
+      },
+      "title": "The Divine Comedy",
+      "work_id": "world-051"
     },
     {
-      "work_id": "world-052",
-      "title": "The Decameron",
       "author": "Giovanni Boccaccio",
       "publication_year": 1812,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1812,
-        "url": "https://www.gutenberg.org/ebooks/23700",
-        "locator": "Project Gutenberg ebook #23700; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/23700"
+          "https://www.gutenberg.org/ebooks/23700",
+          "https://www.gutenberg.org/cache/epub/23700/pg23700.rdf",
+          "sources/manifests/catalog_audit.json#world-052"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1812,
+        "locator": "Project Gutenberg ebook #23700; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/23700"
+      },
+      "title": "The Decameron",
+      "work_id": "world-052"
     },
     {
-      "work_id": "world-053",
-      "title": "Don Quixote",
       "author": "Miguel de Cervantes",
       "publication_year": 1824,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1824,
-        "url": "https://www.gutenberg.org/ebooks/996",
-        "locator": "Project Gutenberg ebook #996; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/996"
+          "https://www.gutenberg.org/ebooks/996",
+          "https://www.gutenberg.org/cache/epub/996/pg996.rdf",
+          "sources/manifests/catalog_audit.json#world-053"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1824,
+        "locator": "Project Gutenberg ebook #996; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/996"
+      },
+      "title": "Don Quixote",
+      "work_id": "world-053"
     },
     {
-      "work_id": "world-054",
-      "title": "Epic of Gilgamesh",
       "author": "Anonymous",
       "publication_year": 1836,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1836,
-        "url": "https://www.gutenberg.org/ebooks/11000",
-        "locator": "Project Gutenberg ebook #11000; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/11000"
+          "https://www.gutenberg.org/ebooks/11000",
+          "https://www.gutenberg.org/cache/epub/11000/pg11000.rdf",
+          "sources/manifests/catalog_audit.json#world-054"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1836,
+        "locator": "Project Gutenberg ebook #11000; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/11000"
+      },
+      "title": "Epic of Gilgamesh",
+      "work_id": "world-054"
     },
     {
-      "work_id": "world-055",
-      "title": "Popol Vuh",
       "author": "Anonymous",
       "publication_year": 1848,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1848,
-        "url": "https://www.gutenberg.org/ebooks/56550",
-        "locator": "Project Gutenberg ebook #56550; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/56550"
+          "https://www.gutenberg.org/ebooks/56550",
+          "https://www.gutenberg.org/cache/epub/56550/pg56550.rdf",
+          "sources/manifests/catalog_audit.json#world-055"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1848,
+        "locator": "Project Gutenberg ebook #56550; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/56550"
+      },
+      "title": "Popol Vuh",
+      "work_id": "world-055"
     },
     {
-      "work_id": "world-056",
-      "title": "The Arabian Nights",
       "author": "Anonymous",
       "publication_year": 1860,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1860,
-        "url": "https://www.gutenberg.org/ebooks/128",
-        "locator": "Project Gutenberg ebook #128; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/128"
+          "https://www.gutenberg.org/ebooks/128",
+          "https://www.gutenberg.org/cache/epub/128/pg128.rdf",
+          "sources/manifests/catalog_audit.json#world-056"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1860,
+        "locator": "Project Gutenberg ebook #128; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/128"
+      },
+      "title": "The Arabian Nights",
+      "work_id": "world-056"
     },
     {
-      "work_id": "world-057",
-      "title": "The Tale of Genji",
       "author": "Murasaki Shikibu",
       "publication_year": 1872,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1872,
-        "url": "https://www.gutenberg.org/ebooks/17701",
-        "locator": "Project Gutenberg ebook #17701; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/17701"
+          "https://www.gutenberg.org/ebooks/17701",
+          "https://www.gutenberg.org/cache/epub/17701/pg17701.rdf",
+          "sources/manifests/catalog_audit.json#world-057"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1872,
+        "locator": "Project Gutenberg ebook #17701; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/17701"
+      },
+      "title": "The Tale of Genji",
+      "work_id": "world-057"
     },
     {
-      "work_id": "world-058",
-      "title": "The Book of Five Rings",
       "author": "Miyamoto Musashi",
       "publication_year": 1884,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1884,
-        "url": "https://www.gutenberg.org/ebooks/13230",
-        "locator": "Project Gutenberg ebook #13230; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/13230"
+          "https://www.gutenberg.org/ebooks/13230",
+          "https://www.gutenberg.org/cache/epub/13230/pg13230.rdf",
+          "sources/manifests/catalog_audit.json#world-058"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1884,
+        "locator": "Project Gutenberg ebook #13230; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/13230"
+      },
+      "title": "The Book of Five Rings",
+      "work_id": "world-058"
     },
     {
-      "work_id": "world-059",
-      "title": "The Satyricon",
       "author": "Petronius",
       "publication_year": 1896,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1896,
-        "url": "https://www.gutenberg.org/ebooks/5225",
-        "locator": "Project Gutenberg ebook #5225; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/5225"
+          "https://www.gutenberg.org/ebooks/5225",
+          "https://www.gutenberg.org/cache/epub/5225/pg5225.rdf",
+          "sources/manifests/catalog_audit.json#world-059"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1896,
+        "locator": "Project Gutenberg ebook #5225; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/5225"
+      },
+      "title": "The Satyricon",
+      "work_id": "world-059"
     },
     {
-      "work_id": "world-060",
-      "title": "The Story of an African Farm",
       "author": "Olive Schreiner",
       "publication_year": 1883,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1883,
-        "url": "https://www.gutenberg.org/ebooks/1441",
-        "locator": "Project Gutenberg ebook #1441; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1441"
+          "https://www.gutenberg.org/ebooks/1441",
+          "https://www.gutenberg.org/cache/epub/1441/pg1441.rdf",
+          "sources/manifests/catalog_audit.json#world-060"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1883,
+        "locator": "Project Gutenberg ebook #1441; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1441"
+      },
+      "title": "The Story of an African Farm",
+      "work_id": "world-060"
     },
     {
-      "work_id": "modernist-061",
-      "title": "The Metamorphosis",
       "author": "Franz Kafka",
       "publication_year": 1800,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1800,
-        "url": "https://www.gutenberg.org/ebooks/5200",
-        "locator": "Project Gutenberg ebook #5200; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/5200"
+          "https://www.gutenberg.org/ebooks/5200",
+          "https://www.gutenberg.org/cache/epub/5200/pg5200.rdf",
+          "sources/manifests/catalog_audit.json#modernist-061"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1800,
+        "locator": "Project Gutenberg ebook #5200; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/5200"
+      },
+      "title": "The Metamorphosis",
+      "work_id": "modernist-061"
     },
     {
-      "work_id": "modernist-062",
-      "title": "The Trial",
       "author": "Franz Kafka",
       "publication_year": 1813,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1813,
-        "url": "https://www.gutenberg.org/ebooks/7849",
-        "locator": "Project Gutenberg ebook #7849; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/7849"
+          "https://www.gutenberg.org/ebooks/7849",
+          "https://www.gutenberg.org/cache/epub/7849/pg7849.rdf",
+          "sources/manifests/catalog_audit.json#modernist-062"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1813,
+        "locator": "Project Gutenberg ebook #7849; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/7849"
+      },
+      "title": "The Trial",
+      "work_id": "modernist-062"
     },
     {
-      "work_id": "modernist-063",
-      "title": "Swann’s Way",
       "author": "Marcel Proust",
       "publication_year": 1826,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1826,
-        "url": "https://www.gutenberg.org/ebooks/7178",
-        "locator": "Project Gutenberg ebook #7178; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/7178"
+          "https://www.gutenberg.org/ebooks/7178",
+          "https://www.gutenberg.org/cache/epub/7178/pg7178.rdf",
+          "sources/manifests/catalog_audit.json#modernist-063"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1826,
+        "locator": "Project Gutenberg ebook #7178; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/7178"
+      },
+      "title": "Swann’s Way",
+      "work_id": "modernist-063"
     },
     {
-      "work_id": "modernist-064",
-      "title": "The Magic Mountain",
       "author": "Thomas Mann",
       "publication_year": 1839,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1839,
-        "url": "https://www.gutenberg.org/ebooks/32513",
-        "locator": "Project Gutenberg ebook #32513; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/32513"
+          "https://www.gutenberg.org/ebooks/32513",
+          "https://www.gutenberg.org/cache/epub/32513/pg32513.rdf",
+          "sources/manifests/catalog_audit.json#modernist-064"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1839,
+        "locator": "Project Gutenberg ebook #32513; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/32513"
+      },
+      "title": "The Magic Mountain",
+      "work_id": "modernist-064"
     },
     {
-      "work_id": "modernist-065",
-      "title": "Death in Venice",
       "author": "Thomas Mann",
       "publication_year": 1852,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1852,
-        "url": "https://www.gutenberg.org/ebooks/66073",
-        "locator": "Project Gutenberg ebook #66073; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/66073"
+          "https://www.gutenberg.org/ebooks/66073",
+          "https://www.gutenberg.org/cache/epub/66073/pg66073.rdf",
+          "sources/manifests/catalog_audit.json#modernist-065"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1852,
+        "locator": "Project Gutenberg ebook #66073; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/66073"
+      },
+      "title": "Death in Venice",
+      "work_id": "modernist-065"
     },
     {
-      "work_id": "modernist-066",
-      "title": "Buddenbrooks",
       "author": "Thomas Mann",
       "publication_year": 1865,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1865,
-        "url": "https://www.gutenberg.org/ebooks/34811",
-        "locator": "Project Gutenberg ebook #34811; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/34811"
+          "https://www.gutenberg.org/ebooks/34811",
+          "https://www.gutenberg.org/cache/epub/34811/pg34811.rdf",
+          "sources/manifests/catalog_audit.json#modernist-066"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1865,
+        "locator": "Project Gutenberg ebook #34811; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/34811"
+      },
+      "title": "Buddenbrooks",
+      "work_id": "modernist-066"
     },
     {
-      "work_id": "modernist-067",
-      "title": "The Invisible Man",
       "author": "H. G. Wells",
       "publication_year": 1878,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1878,
-        "url": "https://www.gutenberg.org/ebooks/5230",
-        "locator": "Project Gutenberg ebook #5230; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/5230"
+          "https://www.gutenberg.org/ebooks/5230",
+          "https://www.gutenberg.org/cache/epub/5230/pg5230.rdf",
+          "sources/manifests/catalog_audit.json#modernist-067"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1878,
+        "locator": "Project Gutenberg ebook #5230; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/5230"
+      },
+      "title": "The Invisible Man",
+      "work_id": "modernist-067"
     },
     {
-      "work_id": "modernist-068",
-      "title": "The Time Machine",
       "author": "H. G. Wells",
       "publication_year": 1891,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1891,
-        "url": "https://www.gutenberg.org/ebooks/35",
-        "locator": "Project Gutenberg ebook #35; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/35"
+          "https://www.gutenberg.org/ebooks/35",
+          "https://www.gutenberg.org/cache/epub/35/pg35.rdf",
+          "sources/manifests/catalog_audit.json#modernist-068"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1891,
+        "locator": "Project Gutenberg ebook #35; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/35"
+      },
+      "title": "The Time Machine",
+      "work_id": "modernist-068"
     },
     {
-      "work_id": "modernist-069",
-      "title": "The War of the Worlds",
       "author": "H. G. Wells",
       "publication_year": 1904,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1904,
-        "url": "https://www.gutenberg.org/ebooks/36",
-        "locator": "Project Gutenberg ebook #36; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/36"
+          "https://www.gutenberg.org/ebooks/36",
+          "https://www.gutenberg.org/cache/epub/36/pg36.rdf",
+          "sources/manifests/catalog_audit.json#modernist-069"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1904,
+        "locator": "Project Gutenberg ebook #36; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/36"
+      },
+      "title": "The War of the Worlds",
+      "work_id": "modernist-069"
     },
     {
-      "work_id": "modernist-070",
-      "title": "Heart of Darkness",
       "author": "Joseph Conrad",
       "publication_year": 1917,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1917,
-        "url": "https://www.gutenberg.org/ebooks/219",
-        "locator": "Project Gutenberg ebook #219; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/219"
+          "https://www.gutenberg.org/ebooks/219",
+          "https://www.gutenberg.org/cache/epub/219/pg219.rdf",
+          "sources/manifests/catalog_audit.json#modernist-070"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1917,
+        "locator": "Project Gutenberg ebook #219; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/219"
+      },
+      "title": "Heart of Darkness",
+      "work_id": "modernist-070"
     },
     {
-      "work_id": "theory-071",
-      "title": "Poetics",
       "author": "Aristotle",
       "publication_year": 1800,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1800,
-        "url": "https://www.gutenberg.org/ebooks/1974",
-        "locator": "Project Gutenberg ebook #1974; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1974"
+          "https://www.gutenberg.org/ebooks/1974",
+          "https://www.gutenberg.org/cache/epub/1974/pg1974.rdf",
+          "sources/manifests/catalog_audit.json#theory-071"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1800,
+        "locator": "Project Gutenberg ebook #1974; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1974"
+      },
+      "title": "Poetics",
+      "work_id": "theory-071"
     },
     {
-      "work_id": "theory-072",
-      "title": "The Republic",
       "author": "Plato",
       "publication_year": 1813,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1813,
-        "url": "https://www.gutenberg.org/ebooks/1497",
-        "locator": "Project Gutenberg ebook #1497; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1497"
+          "https://www.gutenberg.org/ebooks/1497",
+          "https://www.gutenberg.org/cache/epub/1497/pg1497.rdf",
+          "sources/manifests/catalog_audit.json#theory-072"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1813,
+        "locator": "Project Gutenberg ebook #1497; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1497"
+      },
+      "title": "The Republic",
+      "work_id": "theory-072"
     },
     {
-      "work_id": "theory-073",
-      "title": "The Art of War",
       "author": "Sun Tzu",
       "publication_year": 1826,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1826,
-        "url": "https://www.gutenberg.org/ebooks/17405",
-        "locator": "Project Gutenberg ebook #17405; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/17405"
+          "https://www.gutenberg.org/ebooks/17405",
+          "https://www.gutenberg.org/cache/epub/17405/pg17405.rdf",
+          "sources/manifests/catalog_audit.json#theory-073"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1826,
+        "locator": "Project Gutenberg ebook #17405; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/17405"
+      },
+      "title": "The Art of War",
+      "work_id": "theory-073"
     },
     {
-      "work_id": "theory-074",
-      "title": "The Analects",
       "author": "Confucius",
       "publication_year": 1839,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1839,
-        "url": "https://www.gutenberg.org/ebooks/3330",
-        "locator": "Project Gutenberg ebook #3330; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/3330"
+          "https://www.gutenberg.org/ebooks/3330",
+          "https://www.gutenberg.org/cache/epub/3330/pg3330.rdf",
+          "sources/manifests/catalog_audit.json#theory-074"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1839,
+        "locator": "Project Gutenberg ebook #3330; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/3330"
+      },
+      "title": "The Analects",
+      "work_id": "theory-074"
     },
     {
-      "work_id": "theory-075",
-      "title": "Tao Te Ching",
       "author": "Laozi",
       "publication_year": 1852,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1852,
-        "url": "https://www.gutenberg.org/ebooks/216",
-        "locator": "Project Gutenberg ebook #216; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/216"
+          "https://www.gutenberg.org/ebooks/216",
+          "https://www.gutenberg.org/cache/epub/216/pg216.rdf",
+          "sources/manifests/catalog_audit.json#theory-075"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1852,
+        "locator": "Project Gutenberg ebook #216; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/216"
+      },
+      "title": "Tao Te Ching",
+      "work_id": "theory-075"
     },
     {
-      "work_id": "theory-076",
-      "title": "The Upanishads",
       "author": "Anonymous",
       "publication_year": 1865,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1865,
-        "url": "https://www.gutenberg.org/ebooks/3283",
-        "locator": "Project Gutenberg ebook #3283; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/3283"
+          "https://www.gutenberg.org/ebooks/3283",
+          "https://www.gutenberg.org/cache/epub/3283/pg3283.rdf",
+          "sources/manifests/catalog_audit.json#theory-076"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1865,
+        "locator": "Project Gutenberg ebook #3283; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/3283"
+      },
+      "title": "The Upanishads",
+      "work_id": "theory-076"
     },
     {
-      "work_id": "theory-077",
-      "title": "The Dhammapada",
       "author": "Anonymous (Pali canon)",
       "publication_year": 1878,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1878,
-        "url": "https://www.gutenberg.org/ebooks/2017",
-        "locator": "Project Gutenberg ebook #2017; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/2017"
+          "https://www.gutenberg.org/ebooks/2017",
+          "https://www.gutenberg.org/cache/epub/2017/pg2017.rdf",
+          "sources/manifests/catalog_audit.json#theory-077"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1878,
+        "locator": "Project Gutenberg ebook #2017; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/2017"
+      },
+      "title": "The Dhammapada",
+      "work_id": "theory-077"
     },
     {
-      "work_id": "theory-078",
-      "title": "Autobiography of Benjamin Franklin",
       "author": "Benjamin Franklin",
       "publication_year": 1891,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1891,
-        "url": "https://www.gutenberg.org/ebooks/20203",
-        "locator": "Project Gutenberg ebook #20203; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/20203"
+          "https://www.gutenberg.org/ebooks/20203",
+          "https://www.gutenberg.org/cache/epub/20203/pg20203.rdf",
+          "sources/manifests/catalog_audit.json#theory-078"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1891,
+        "locator": "Project Gutenberg ebook #20203; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/20203"
+      },
+      "title": "Autobiography of Benjamin Franklin",
+      "work_id": "theory-078"
     },
     {
-      "work_id": "theory-079",
-      "title": "Walden",
       "author": "Henry David Thoreau",
       "publication_year": 1904,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1904,
-        "url": "https://www.gutenberg.org/ebooks/205",
-        "locator": "Project Gutenberg ebook #205; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/205"
+          "https://www.gutenberg.org/ebooks/205",
+          "https://www.gutenberg.org/cache/epub/205/pg205.rdf",
+          "sources/manifests/catalog_audit.json#theory-079"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1904,
+        "locator": "Project Gutenberg ebook #205; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/205"
+      },
+      "title": "Walden",
+      "work_id": "theory-079"
     },
     {
-      "work_id": "theory-080",
-      "title": "Common Sense",
       "author": "Thomas Paine",
       "publication_year": 1917,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1917,
-        "url": "https://www.gutenberg.org/ebooks/147",
-        "locator": "Project Gutenberg ebook #147; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/147"
+          "https://www.gutenberg.org/ebooks/147",
+          "https://www.gutenberg.org/cache/epub/147/pg147.rdf",
+          "sources/manifests/catalog_audit.json#theory-080"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1917,
+        "locator": "Project Gutenberg ebook #147; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/147"
+      },
+      "title": "Common Sense",
+      "work_id": "theory-080"
     },
     {
-      "work_id": "poetry-081",
-      "title": "Poems by Emily Dickinson",
       "author": "Emily Dickinson",
       "publication_year": 1800,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1800,
-        "url": "https://www.gutenberg.org/ebooks/2678",
-        "locator": "Project Gutenberg ebook #2678; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/2678"
+          "https://www.gutenberg.org/ebooks/2678",
+          "https://www.gutenberg.org/cache/epub/2678/pg2678.rdf",
+          "sources/manifests/catalog_audit.json#poetry-081"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1800,
+        "locator": "Project Gutenberg ebook #2678; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/2678"
+      },
+      "title": "Poems by Emily Dickinson",
+      "work_id": "poetry-081"
     },
     {
-      "work_id": "poetry-082",
-      "title": "Poems by Christina Rossetti",
       "author": "Christina Rossetti",
       "publication_year": 1813,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1813,
-        "url": "https://www.gutenberg.org/ebooks/246",
-        "locator": "Project Gutenberg ebook #246; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/246"
+          "https://www.gutenberg.org/ebooks/246",
+          "https://www.gutenberg.org/cache/epub/246/pg246.rdf",
+          "sources/manifests/catalog_audit.json#poetry-082"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1813,
+        "locator": "Project Gutenberg ebook #246; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/246"
+      },
+      "title": "Poems by Christina Rossetti",
+      "work_id": "poetry-082"
     },
     {
-      "work_id": "poetry-083",
-      "title": "Poems by Elizabeth Barrett Browning",
       "author": "Elizabeth Barrett Browning",
       "publication_year": 1826,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1826,
-        "url": "https://www.gutenberg.org/ebooks/2002",
-        "locator": "Project Gutenberg ebook #2002; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/2002"
+          "https://www.gutenberg.org/ebooks/2002",
+          "https://www.gutenberg.org/cache/epub/2002/pg2002.rdf",
+          "sources/manifests/catalog_audit.json#poetry-083"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1826,
+        "locator": "Project Gutenberg ebook #2002; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/2002"
+      },
+      "title": "Poems by Elizabeth Barrett Browning",
+      "work_id": "poetry-083"
     },
     {
-      "work_id": "poetry-084",
-      "title": "Rubaiyat of Omar Khayyam",
       "author": "Omar Khayyam",
       "publication_year": 1839,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1839,
-        "url": "https://www.gutenberg.org/ebooks/246",
-        "locator": "Project Gutenberg ebook #246; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/246"
+          "https://www.gutenberg.org/ebooks/246",
+          "https://www.gutenberg.org/cache/epub/246/pg246.rdf",
+          "sources/manifests/catalog_audit.json#poetry-084"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1839,
+        "locator": "Project Gutenberg ebook #246; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/246"
+      },
+      "title": "Rubaiyat of Omar Khayyam",
+      "work_id": "poetry-084"
     },
     {
-      "work_id": "poetry-085",
-      "title": "The Flowers of Evil",
       "author": "Charles Baudelaire",
       "publication_year": 1852,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1852,
-        "url": "https://www.gutenberg.org/ebooks/609",
-        "locator": "Project Gutenberg ebook #609; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/609"
+          "https://www.gutenberg.org/ebooks/609",
+          "https://www.gutenberg.org/cache/epub/609/pg609.rdf",
+          "sources/manifests/catalog_audit.json#poetry-085"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1852,
+        "locator": "Project Gutenberg ebook #609; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/609"
+      },
+      "title": "The Flowers of Evil",
+      "work_id": "poetry-085"
     },
     {
-      "work_id": "poetry-086",
-      "title": "Poems of Victor Hugo",
       "author": "Victor Hugo",
       "publication_year": 1865,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1865,
-        "url": "https://www.gutenberg.org/ebooks/384",
-        "locator": "Project Gutenberg ebook #384; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/384"
+          "https://www.gutenberg.org/ebooks/384",
+          "https://www.gutenberg.org/cache/epub/384/pg384.rdf",
+          "sources/manifests/catalog_audit.json#poetry-086"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1865,
+        "locator": "Project Gutenberg ebook #384; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/384"
+      },
+      "title": "Poems of Victor Hugo",
+      "work_id": "poetry-086"
     },
     {
-      "work_id": "poetry-087",
-      "title": "Song of Myself",
       "author": "Walt Whitman",
       "publication_year": 1878,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1878,
-        "url": "https://www.gutenberg.org/ebooks/1322",
-        "locator": "Project Gutenberg ebook #1322; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1322"
+          "https://www.gutenberg.org/ebooks/1322",
+          "https://www.gutenberg.org/cache/epub/1322/pg1322.rdf",
+          "sources/manifests/catalog_audit.json#poetry-087"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1878,
+        "locator": "Project Gutenberg ebook #1322; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1322"
+      },
+      "title": "Song of Myself",
+      "work_id": "poetry-087"
     },
     {
-      "work_id": "poetry-088",
-      "title": "Paradise Lost",
       "author": "John Milton",
       "publication_year": 1891,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1891,
-        "url": "https://www.gutenberg.org/ebooks/26",
-        "locator": "Project Gutenberg ebook #26; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/26"
+          "https://www.gutenberg.org/ebooks/26",
+          "https://www.gutenberg.org/cache/epub/26/pg26.rdf",
+          "sources/manifests/catalog_audit.json#poetry-088"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1891,
+        "locator": "Project Gutenberg ebook #26; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/26"
+      },
+      "title": "Paradise Lost",
+      "work_id": "poetry-088"
     },
     {
-      "work_id": "poetry-089",
-      "title": "The Canterbury Tales",
       "author": "Geoffrey Chaucer",
       "publication_year": 1904,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1904,
-        "url": "https://www.gutenberg.org/ebooks/2383",
-        "locator": "Project Gutenberg ebook #2383; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/2383"
+          "https://www.gutenberg.org/ebooks/2383",
+          "https://www.gutenberg.org/cache/epub/2383/pg2383.rdf",
+          "sources/manifests/catalog_audit.json#poetry-089"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1904,
+        "locator": "Project Gutenberg ebook #2383; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/2383"
+      },
+      "title": "The Canterbury Tales",
+      "work_id": "poetry-089"
     },
     {
-      "work_id": "poetry-090",
-      "title": "Ballads of a Bohemian",
       "author": "Robert W. Service",
       "publication_year": 1917,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1917,
-        "url": "https://www.gutenberg.org/ebooks/5742",
-        "locator": "Project Gutenberg ebook #5742; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/5742"
+          "https://www.gutenberg.org/ebooks/5742",
+          "https://www.gutenberg.org/cache/epub/5742/pg5742.rdf",
+          "sources/manifests/catalog_audit.json#poetry-090"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1917,
+        "locator": "Project Gutenberg ebook #5742; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/5742"
+      },
+      "title": "Ballads of a Bohemian",
+      "work_id": "poetry-090"
     },
     {
-      "work_id": "drama-091",
-      "title": "The Importance of Being Earnest",
       "author": "Oscar Wilde",
       "publication_year": 1800,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1800,
-        "url": "https://www.gutenberg.org/ebooks/844",
-        "locator": "Project Gutenberg ebook #844; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/844"
+          "https://www.gutenberg.org/ebooks/844",
+          "https://www.gutenberg.org/cache/epub/844/pg844.rdf",
+          "sources/manifests/catalog_audit.json#drama-091"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1800,
+        "locator": "Project Gutenberg ebook #844; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/844"
+      },
+      "title": "The Importance of Being Earnest",
+      "work_id": "drama-091"
     },
     {
-      "work_id": "drama-092",
-      "title": "Hamlet",
       "author": "William Shakespeare",
       "publication_year": 1813,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1813,
-        "url": "https://www.gutenberg.org/ebooks/1524",
-        "locator": "Project Gutenberg ebook #1524; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1524"
+          "https://www.gutenberg.org/ebooks/1524",
+          "https://www.gutenberg.org/cache/epub/1524/pg1524.rdf",
+          "sources/manifests/catalog_audit.json#drama-092"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1813,
+        "locator": "Project Gutenberg ebook #1524; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1524"
+      },
+      "title": "Hamlet",
+      "work_id": "drama-092"
     },
     {
-      "work_id": "drama-093",
-      "title": "Macbeth",
       "author": "William Shakespeare",
       "publication_year": 1826,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1826,
-        "url": "https://www.gutenberg.org/ebooks/2264",
-        "locator": "Project Gutenberg ebook #2264; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/2264"
+          "https://www.gutenberg.org/ebooks/2264",
+          "https://www.gutenberg.org/cache/epub/2264/pg2264.rdf",
+          "sources/manifests/catalog_audit.json#drama-093"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1826,
+        "locator": "Project Gutenberg ebook #2264; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/2264"
+      },
+      "title": "Macbeth",
+      "work_id": "drama-093"
     },
     {
-      "work_id": "drama-094",
-      "title": "A Doll’s House",
       "author": "Henrik Ibsen",
       "publication_year": 1839,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1839,
-        "url": "https://www.gutenberg.org/ebooks/2542",
-        "locator": "Project Gutenberg ebook #2542; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/2542"
+          "https://www.gutenberg.org/ebooks/2542",
+          "https://www.gutenberg.org/cache/epub/2542/pg2542.rdf",
+          "sources/manifests/catalog_audit.json#drama-094"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1839,
+        "locator": "Project Gutenberg ebook #2542; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/2542"
+      },
+      "title": "A Doll’s House",
+      "work_id": "drama-094"
     },
     {
-      "work_id": "drama-095",
-      "title": "Ghosts",
       "author": "Henrik Ibsen",
       "publication_year": 1852,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1852,
-        "url": "https://www.gutenberg.org/ebooks/66227",
-        "locator": "Project Gutenberg ebook #66227; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/66227"
+          "https://www.gutenberg.org/ebooks/66227",
+          "https://www.gutenberg.org/cache/epub/66227/pg66227.rdf",
+          "sources/manifests/catalog_audit.json#drama-095"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1852,
+        "locator": "Project Gutenberg ebook #66227; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/66227"
+      },
+      "title": "Ghosts",
+      "work_id": "drama-095"
     },
     {
-      "work_id": "drama-096",
-      "title": "The Cherry Orchard",
       "author": "Anton Chekhov",
       "publication_year": 1865,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1865,
-        "url": "https://www.gutenberg.org/ebooks/1754",
-        "locator": "Project Gutenberg ebook #1754; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1754"
+          "https://www.gutenberg.org/ebooks/1754",
+          "https://www.gutenberg.org/cache/epub/1754/pg1754.rdf",
+          "sources/manifests/catalog_audit.json#drama-096"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1865,
+        "locator": "Project Gutenberg ebook #1754; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1754"
+      },
+      "title": "The Cherry Orchard",
+      "work_id": "drama-096"
     },
     {
-      "work_id": "drama-097",
-      "title": "Uncle Vanya",
       "author": "Anton Chekhov",
       "publication_year": 1878,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1878,
-        "url": "https://www.gutenberg.org/ebooks/1755",
-        "locator": "Project Gutenberg ebook #1755; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/1755"
+          "https://www.gutenberg.org/ebooks/1755",
+          "https://www.gutenberg.org/cache/epub/1755/pg1755.rdf",
+          "sources/manifests/catalog_audit.json#drama-097"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1878,
+        "locator": "Project Gutenberg ebook #1755; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/1755"
+      },
+      "title": "Uncle Vanya",
+      "work_id": "drama-097"
     },
     {
-      "work_id": "drama-098",
-      "title": "The Master Builder",
       "author": "Henrik Ibsen",
       "publication_year": 1891,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1891,
-        "url": "https://www.gutenberg.org/ebooks/66226",
-        "locator": "Project Gutenberg ebook #66226; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/66226"
+          "https://www.gutenberg.org/ebooks/66226",
+          "https://www.gutenberg.org/cache/epub/66226/pg66226.rdf",
+          "sources/manifests/catalog_audit.json#drama-098"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1891,
+        "locator": "Project Gutenberg ebook #66226; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/66226"
+      },
+      "title": "The Master Builder",
+      "work_id": "drama-098"
     },
     {
-      "work_id": "drama-099",
-      "title": "Everyman",
       "author": "Anonymous",
       "publication_year": 1904,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1904,
-        "url": "https://www.gutenberg.org/ebooks/779",
-        "locator": "Project Gutenberg ebook #779; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/779"
+          "https://www.gutenberg.org/ebooks/779",
+          "https://www.gutenberg.org/cache/epub/779/pg779.rdf",
+          "sources/manifests/catalog_audit.json#drama-099"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1904,
+        "locator": "Project Gutenberg ebook #779; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/779"
+      },
+      "title": "Everyman",
+      "work_id": "drama-099"
     },
     {
-      "work_id": "drama-100",
-      "title": "Doctor Faustus",
       "author": "Christopher Marlowe",
       "publication_year": 1917,
-      "source_edition": {
-        "publisher": "Project Gutenberg; pinned ebook item",
-        "edition_year": 1917,
-        "url": "https://www.gutenberg.org/ebooks/7791",
-        "locator": "Project Gutenberg ebook #7791; bibliographic/title-page metadata"
-      },
       "rights": {
-        "status": "PD_US_CONFIRMED",
+        "basis": "FORENSIC HOLD: prior unsupported publication/edition years. Consult sources/manifests/catalog_audit.json by work_id. Catalog rights labels alone do not clear this edition. No extraction authorized.",
         "jurisdiction": "US",
-        "basis": "First publication <=1929; US Copyright Office Circular 15A; edition/translation separately tracked.",
+        "status": "REVIEW_REQUIRED",
         "verification_refs": [
           "https://www.copyright.gov/circs/circ15a.pdf",
           "https://www.copyright.gov/records/search.html",
-          "https://www.gutenberg.org/ebooks/7791"
+          "https://www.gutenberg.org/ebooks/7791",
+          "https://www.gutenberg.org/cache/epub/7791/pg7791.rdf",
+          "sources/manifests/catalog_audit.json#drama-100"
         ]
-      }
+      },
+      "source_edition": {
+        "edition_year": 1917,
+        "locator": "Project Gutenberg ebook #7791; bibliographic/title-page metadata",
+        "publisher": "Project Gutenberg; pinned ebook item",
+        "url": "https://www.gutenberg.org/ebooks/7791"
+      },
+      "title": "Doctor Faustus",
+      "work_id": "drama-100"
     }
   ]
 }

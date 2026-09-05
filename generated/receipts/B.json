@@ -1,24 +1,34 @@
 {
-  "owner": "rights_sources",
-  "status": "blocked",
-  "commit": "ebcdac6f7f85c14d2e9e6c130ea48a4754f2718c",
+  "blockers": [
+    "120/120 rows fail historical-edition and first-publication verification.",
+    "27 title mismatches; 25 creator mismatches after normalization.",
+    "4 duplicate source URLs affect 8 rows.",
+    "Original chronology and breadth claims were synthetic/unsupported; catalog release and automated-summary dates cannot repair them.",
+    "Modern translations and non-English sources require verified replacement."
+  ],
   "changed": [
     "data/works.json",
     "data/reserve_works.json",
     "sources/manifests/works_metadata.json",
     "sources/manifests/reserve_metadata.json",
-    "generated/receipts/B.json",
-    "sources/manifests/catalog_audit.json"
+    "sources/manifests/catalog_audit.json",
+    "generated/receipts/B.json"
   ],
   "checks": [
-    "batch-audited all 120 Gutenberg RDF records",
-    "recorded exact catalog title/creator/rights/year evidence",
-    "failed closed on mismatches and duplicate source URLs"
+    "Live GET and parsing attempted for 137 unique pinned RDF items; 137 parsed.",
+    "All ten strata covered by current-source audit; 116 distinct current sources.",
+    "Normalized 120 title/creator comparisons; retained exact catalog fields.",
+    "Withdrew 120 unsupported rights confirmations; preserved 100 + 20 candidates and 120 unique IDs.",
+    "Recorded 23 REVIEW_REQUIRED replacement candidates; none substituted.",
+    "All six authorized JSON files parsed and read back; production python story_brainstorm.py works validate returned NOT_READY, exit 2, with 100 unaccepted-rights errors.",
+    "120 candidate rights statuses and all 23 replacement-candidate statuses verified REVIEW_REQUIRED; audit has 120 FAIL and zero PASS."
+  ],
+  "commit": "PROSPECTIVE_HEAD_PACKET_B_RECOVERY",
+  "dependencies_unlocked": [],
+  "owner": "bibliography_recovery",
+  "proposals": [
+    "PROPOSAL NOT_IMPLEMENTED: Re-curate a fresh 100-work + 20-reserve cohort from dated title pages or authoritative library edition metadata; verify translator/editor dates before acceptance. Do not relabel the synthetic cohort green."
   ],
   "result": "fail",
-  "blockers": [
-    "Batch catalog audit found title/author/year mismatches and duplicate source URLs; exact edition/translation years are not available for all records."
-  ],
-  "dependencies_unlocked": [],
-  "proposals": []
+  "status": "blocked"
 }
