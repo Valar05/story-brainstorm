@@ -1,0 +1,7 @@
+{
+  "schema_version": "1.0",
+  "accepted_evidence": "Exact Open Library work record URL https://openlibrary.org/works/OL...W with fetched JSON.",
+  "checks": ["normalized title match", "catalog first_publish_date has a four-digit year", "catalog year <= 1929", "claimed first publication year <= catalog year"],
+  "limitation": "Open Library provides an indexed first_publish_date ceiling, not certification of the exact historical first-publication year. Claimed years remain curated and independently sampled against authoritative bibliographic evidence.",
+  "forbidden": ["search/root/edition URLs", "Gutenberg generated summaries as dates", "whole raw Open Library objects in audit output"]
+}

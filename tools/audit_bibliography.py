@@ -42,8 +42,8 @@ def evidence(url,expected_title,expected_year,cache=None,live=False):
   else: raise FileNotFoundError(item)
  except Exception as ex: return {"error":"publication catalog fetch failed: "+type(ex).__name__,"checks":{"url_exact":True,"fetch":False}}
  title=str(raw.get("title", "")); date=raw.get("first_publish_date"); m2=re.search(r"(?:^|[^0-9])(\d{4})(?:[^0-9]|$)",str(date or "")); year=int(m2.group(1)) if m2 else None
- checks={"url_exact":True,"fetch":True,"title_match":eq(title,expected_title),"first_publish_date_present":year is not None,"first_publication_year_match":year==expected_year}
- return {"item_id":item,"title":title,"first_publish_date":date,"first_publication_year":year,"raw":raw,"checks":checks,"error":None if all(checks.values()) else "publication metadata mismatch"}
+ checks={"url_exact":True,"fetch":True,"title_match":eq(title,expected_title),"first_publish_date_present":year is not None,"catalog_pre_1930":year is not None and year<=1929,"claimed_not_after_catalog":isinstance(expected_year,int) and year is not None and expected_year<=year}
+ return {"item_id":item,"title":title,"first_publish_date":date,"first_publication_year":year,"checks":checks,"error":None if all(checks.values()) else "publication metadata mismatch"}
 def audit(path,cache=None,live=False,evidence_cache=None):
  d=json.loads(Path(path).read_text()); rows=d.get('accepted_works',d.get('works',[]))+d.get('reserves',[]); seen={};out=[]
  for w in rows:
