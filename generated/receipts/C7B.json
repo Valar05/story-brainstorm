@@ -1,7 +1,7 @@
 {
   "owner": "rights_sources",
   "status": "complete",
-  "commit": "c482bec1cb1ed7e6671501091ffa44f4edd5d711",
+  "commit": "PROSPECTIVE_HEAD_PACKET_C7B",
   "changed": [
     "tools/audit_primitive_evidence.py",
     "tests/test_primitive_evidence_audit.py",
@@ -17,7 +17,8 @@
     "normalized excerpt occurrence must be exactly one; repeated body excerpt rejects",
     "bare paragraph locator rejects; Chapter 1 paragraph 2 and named poem stanza 1 accept",
     "rejected E materialized from git commit f520847 and audited cache-only: NOT_READY, cards=340, refs=340, rows with vague or missing location=340",
-    "external cache and atomic/no-op behavior preserved"
+    "external cache and atomic/no-op behavior preserved",
+    "Foreman integration replay: python -m unittest tests.test_primitive_evidence_audit, 33 tests PASS."
   ],
   "result": "pass",
   "blockers": [],
