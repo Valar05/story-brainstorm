@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "mission": "Evidence-first extraction taxonomy for 100 pre-1930 US-public-domain editions.",
+  "families": [
+    {
+      "id": "story",
+      "description": "Reusable event, reveal, reversal, escalation, or consequence sequence.",
+      "required_count": 300,
+      "per_work": 3
+    },
+    {
+      "id": "speech",
+      "description": "Reusable speech act or conversational move grounded in explicit dialogue or address.",
+      "required_count": 200,
+      "per_work": 2
+    },
+    {
+      "id": "character",
+      "description": "Reusable goal, contradiction, mask, wound, role, relationship, or change pattern.",
+      "required_count": 200,
+      "per_work": 2
+    },
+    {
+      "id": "conflict",
+      "description": "Competing forces, obligations, interests, or power asymmetries.",
+      "required_count": 100,
+      "per_work": 1
+    },
+    {
+      "id": "structure",
+      "description": "Narrative delivery architecture such as frame, diary, trial, letters, episodic journey, or nested tale.",
+      "required_count": 100,
+      "per_work": 1
+    },
+    {
+      "id": "contextual",
+      "description": "Story-functional context; subtype is required and must be one of the listed values.",
+      "required_count": 100,
+      "per_work": 1,
+      "subtypes": [
+        "setting",
+        "institution",
+        "object",
+        "transformation",
+        "tone_pressure"
+      ]
+    }
+  ],
+  "totals": {
+    "cards": 1000,
+    "works": 100,
+    "per_work": 10
+  },
+  "contextual_subtypes": {
+    "setting": "Place or environmental constraint that changes action.",
+    "institution": "Rule-bearing social organization.",
+    "object": "Material or symbolic thing whose handling changes stakes.",
+    "transformation": "Identity, status, body, allegiance, or worldview change.",
+    "tone_pressure": "Reusable emotional or tonal pressure, not a vague mood label."
+  },
+  "card_contract": {
+    "required": [
+      "primitive_id",
+      "family",
+      "name",
+      "summary",
+      "pattern",
+      "evidence",
+      "rights_basis",
+      "confidence",
+      "schema_version"
+    ],
+    "rights_basis": "PD_US_CONFIRMED",
+    "confidence_for_acceptance": "accepted",
+    "evidence_required": true,
+    "short_excerpt_max_words": 25,
+    "exact_locator_required": true,
+    "observation_inference_separate": true,
+    "full_text_storage": false,
+    "culturally_specific_patterns_remain_distinct": true,
+    "cross_source_synthesis_min_works": 3
+  },
+  "acceptance_falsifiers": [
+    "missing exact locator",
+    "evidence excerpt over 25 words",
+    "rights_basis not PD_US_CONFIRMED",
+    "observation merged with inference",
+    "generic claim without source-specific mechanism",
+    "contextual card missing valid subtype",
+    "cross-source synthesis citing fewer than 3 distinct works",
+    "full source text or long quotation present"
+  ]
+}

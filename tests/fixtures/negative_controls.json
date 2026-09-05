@@ -1,0 +1,963 @@
+{
+  "schema_version": "1.0",
+  "count": 50,
+  "groups": {
+    "missing_location": 10,
+    "unsupported_inference": 10,
+    "rights_translation_unknown": 10,
+    "duplicate_near_duplicate": 10,
+    "evidence_policy_violation": 10
+  },
+  "controls": [
+    {
+      "control_id": "nc-missing_location-01",
+      "group": "missing_location",
+      "input": {
+        "family": "story",
+        "name": "control missing_location 1",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "missing exact evidence locator"
+    },
+    {
+      "control_id": "nc-missing_location-02",
+      "group": "missing_location",
+      "input": {
+        "family": "story",
+        "name": "control missing_location 2",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "missing exact evidence locator"
+    },
+    {
+      "control_id": "nc-missing_location-03",
+      "group": "missing_location",
+      "input": {
+        "family": "story",
+        "name": "control missing_location 3",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "missing exact evidence locator"
+    },
+    {
+      "control_id": "nc-missing_location-04",
+      "group": "missing_location",
+      "input": {
+        "family": "story",
+        "name": "control missing_location 4",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "missing exact evidence locator"
+    },
+    {
+      "control_id": "nc-missing_location-05",
+      "group": "missing_location",
+      "input": {
+        "family": "story",
+        "name": "control missing_location 5",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "missing exact evidence locator"
+    },
+    {
+      "control_id": "nc-missing_location-06",
+      "group": "missing_location",
+      "input": {
+        "family": "story",
+        "name": "control missing_location 6",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "missing exact evidence locator"
+    },
+    {
+      "control_id": "nc-missing_location-07",
+      "group": "missing_location",
+      "input": {
+        "family": "story",
+        "name": "control missing_location 7",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "missing exact evidence locator"
+    },
+    {
+      "control_id": "nc-missing_location-08",
+      "group": "missing_location",
+      "input": {
+        "family": "story",
+        "name": "control missing_location 8",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "missing exact evidence locator"
+    },
+    {
+      "control_id": "nc-missing_location-09",
+      "group": "missing_location",
+      "input": {
+        "family": "story",
+        "name": "control missing_location 9",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "missing exact evidence locator"
+    },
+    {
+      "control_id": "nc-missing_location-10",
+      "group": "missing_location",
+      "input": {
+        "family": "story",
+        "name": "control missing_location 10",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "missing exact evidence locator"
+    },
+    {
+      "control_id": "nc-unsupported_inference-01",
+      "group": "unsupported_inference",
+      "input": {
+        "family": "story",
+        "name": "control unsupported_inference 1",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "unsupported inference or generic claim"
+    },
+    {
+      "control_id": "nc-unsupported_inference-02",
+      "group": "unsupported_inference",
+      "input": {
+        "family": "story",
+        "name": "control unsupported_inference 2",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "unsupported inference or generic claim"
+    },
+    {
+      "control_id": "nc-unsupported_inference-03",
+      "group": "unsupported_inference",
+      "input": {
+        "family": "story",
+        "name": "control unsupported_inference 3",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "unsupported inference or generic claim"
+    },
+    {
+      "control_id": "nc-unsupported_inference-04",
+      "group": "unsupported_inference",
+      "input": {
+        "family": "story",
+        "name": "control unsupported_inference 4",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "unsupported inference or generic claim"
+    },
+    {
+      "control_id": "nc-unsupported_inference-05",
+      "group": "unsupported_inference",
+      "input": {
+        "family": "story",
+        "name": "control unsupported_inference 5",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "unsupported inference or generic claim"
+    },
+    {
+      "control_id": "nc-unsupported_inference-06",
+      "group": "unsupported_inference",
+      "input": {
+        "family": "story",
+        "name": "control unsupported_inference 6",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "unsupported inference or generic claim"
+    },
+    {
+      "control_id": "nc-unsupported_inference-07",
+      "group": "unsupported_inference",
+      "input": {
+        "family": "story",
+        "name": "control unsupported_inference 7",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "unsupported inference or generic claim"
+    },
+    {
+      "control_id": "nc-unsupported_inference-08",
+      "group": "unsupported_inference",
+      "input": {
+        "family": "story",
+        "name": "control unsupported_inference 8",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "unsupported inference or generic claim"
+    },
+    {
+      "control_id": "nc-unsupported_inference-09",
+      "group": "unsupported_inference",
+      "input": {
+        "family": "story",
+        "name": "control unsupported_inference 9",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "unsupported inference or generic claim"
+    },
+    {
+      "control_id": "nc-unsupported_inference-10",
+      "group": "unsupported_inference",
+      "input": {
+        "family": "story",
+        "name": "control unsupported_inference 10",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "unsupported inference or generic claim"
+    },
+    {
+      "control_id": "nc-rights_translation_unknown-01",
+      "group": "rights_translation_unknown",
+      "input": {
+        "family": "story",
+        "name": "control rights_translation_unknown 1",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "UNKNOWN"
+      },
+      "expected_rejection_reason": "UNKNOWN/candidate rights or unresolved translation layer"
+    },
+    {
+      "control_id": "nc-rights_translation_unknown-02",
+      "group": "rights_translation_unknown",
+      "input": {
+        "family": "story",
+        "name": "control rights_translation_unknown 2",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "UNKNOWN"
+      },
+      "expected_rejection_reason": "UNKNOWN/candidate rights or unresolved translation layer"
+    },
+    {
+      "control_id": "nc-rights_translation_unknown-03",
+      "group": "rights_translation_unknown",
+      "input": {
+        "family": "story",
+        "name": "control rights_translation_unknown 3",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "UNKNOWN"
+      },
+      "expected_rejection_reason": "UNKNOWN/candidate rights or unresolved translation layer"
+    },
+    {
+      "control_id": "nc-rights_translation_unknown-04",
+      "group": "rights_translation_unknown",
+      "input": {
+        "family": "story",
+        "name": "control rights_translation_unknown 4",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "UNKNOWN"
+      },
+      "expected_rejection_reason": "UNKNOWN/candidate rights or unresolved translation layer"
+    },
+    {
+      "control_id": "nc-rights_translation_unknown-05",
+      "group": "rights_translation_unknown",
+      "input": {
+        "family": "story",
+        "name": "control rights_translation_unknown 5",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "UNKNOWN"
+      },
+      "expected_rejection_reason": "UNKNOWN/candidate rights or unresolved translation layer"
+    },
+    {
+      "control_id": "nc-rights_translation_unknown-06",
+      "group": "rights_translation_unknown",
+      "input": {
+        "family": "story",
+        "name": "control rights_translation_unknown 6",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "UNKNOWN"
+      },
+      "expected_rejection_reason": "UNKNOWN/candidate rights or unresolved translation layer"
+    },
+    {
+      "control_id": "nc-rights_translation_unknown-07",
+      "group": "rights_translation_unknown",
+      "input": {
+        "family": "story",
+        "name": "control rights_translation_unknown 7",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "UNKNOWN"
+      },
+      "expected_rejection_reason": "UNKNOWN/candidate rights or unresolved translation layer"
+    },
+    {
+      "control_id": "nc-rights_translation_unknown-08",
+      "group": "rights_translation_unknown",
+      "input": {
+        "family": "story",
+        "name": "control rights_translation_unknown 8",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "UNKNOWN"
+      },
+      "expected_rejection_reason": "UNKNOWN/candidate rights or unresolved translation layer"
+    },
+    {
+      "control_id": "nc-rights_translation_unknown-09",
+      "group": "rights_translation_unknown",
+      "input": {
+        "family": "story",
+        "name": "control rights_translation_unknown 9",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "UNKNOWN"
+      },
+      "expected_rejection_reason": "UNKNOWN/candidate rights or unresolved translation layer"
+    },
+    {
+      "control_id": "nc-rights_translation_unknown-10",
+      "group": "rights_translation_unknown",
+      "input": {
+        "family": "story",
+        "name": "control rights_translation_unknown 10",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "UNKNOWN"
+      },
+      "expected_rejection_reason": "UNKNOWN/candidate rights or unresolved translation layer"
+    },
+    {
+      "control_id": "nc-duplicate_near_duplicate-01",
+      "group": "duplicate_near_duplicate",
+      "input": {
+        "family": "story",
+        "name": "control duplicate_near_duplicate 1",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "duplicate or near-duplicate mechanism"
+    },
+    {
+      "control_id": "nc-duplicate_near_duplicate-02",
+      "group": "duplicate_near_duplicate",
+      "input": {
+        "family": "story",
+        "name": "control duplicate_near_duplicate 2",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "duplicate or near-duplicate mechanism"
+    },
+    {
+      "control_id": "nc-duplicate_near_duplicate-03",
+      "group": "duplicate_near_duplicate",
+      "input": {
+        "family": "story",
+        "name": "control duplicate_near_duplicate 3",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "duplicate or near-duplicate mechanism"
+    },
+    {
+      "control_id": "nc-duplicate_near_duplicate-04",
+      "group": "duplicate_near_duplicate",
+      "input": {
+        "family": "story",
+        "name": "control duplicate_near_duplicate 4",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "duplicate or near-duplicate mechanism"
+    },
+    {
+      "control_id": "nc-duplicate_near_duplicate-05",
+      "group": "duplicate_near_duplicate",
+      "input": {
+        "family": "story",
+        "name": "control duplicate_near_duplicate 5",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "duplicate or near-duplicate mechanism"
+    },
+    {
+      "control_id": "nc-duplicate_near_duplicate-06",
+      "group": "duplicate_near_duplicate",
+      "input": {
+        "family": "story",
+        "name": "control duplicate_near_duplicate 6",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "duplicate or near-duplicate mechanism"
+    },
+    {
+      "control_id": "nc-duplicate_near_duplicate-07",
+      "group": "duplicate_near_duplicate",
+      "input": {
+        "family": "story",
+        "name": "control duplicate_near_duplicate 7",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "duplicate or near-duplicate mechanism"
+    },
+    {
+      "control_id": "nc-duplicate_near_duplicate-08",
+      "group": "duplicate_near_duplicate",
+      "input": {
+        "family": "story",
+        "name": "control duplicate_near_duplicate 8",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "duplicate or near-duplicate mechanism"
+    },
+    {
+      "control_id": "nc-duplicate_near_duplicate-09",
+      "group": "duplicate_near_duplicate",
+      "input": {
+        "family": "story",
+        "name": "control duplicate_near_duplicate 9",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "duplicate or near-duplicate mechanism"
+    },
+    {
+      "control_id": "nc-duplicate_near_duplicate-10",
+      "group": "duplicate_near_duplicate",
+      "input": {
+        "family": "story",
+        "name": "control duplicate_near_duplicate 10",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "A short excerpt.",
+          "excerpt_words": 3
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "duplicate or near-duplicate mechanism"
+    },
+    {
+      "control_id": "nc-evidence_policy_violation-01",
+      "group": "evidence_policy_violation",
+      "input": {
+        "family": "story",
+        "name": "control evidence_policy_violation 1",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six",
+          "excerpt_words": 26
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "evidence-policy or derivative-risk violation"
+    },
+    {
+      "control_id": "nc-evidence_policy_violation-02",
+      "group": "evidence_policy_violation",
+      "input": {
+        "family": "story",
+        "name": "control evidence_policy_violation 2",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six",
+          "excerpt_words": 26
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "evidence-policy or derivative-risk violation"
+    },
+    {
+      "control_id": "nc-evidence_policy_violation-03",
+      "group": "evidence_policy_violation",
+      "input": {
+        "family": "story",
+        "name": "control evidence_policy_violation 3",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six",
+          "excerpt_words": 26
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "evidence-policy or derivative-risk violation"
+    },
+    {
+      "control_id": "nc-evidence_policy_violation-04",
+      "group": "evidence_policy_violation",
+      "input": {
+        "family": "story",
+        "name": "control evidence_policy_violation 4",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six",
+          "excerpt_words": 26
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "evidence-policy or derivative-risk violation"
+    },
+    {
+      "control_id": "nc-evidence_policy_violation-05",
+      "group": "evidence_policy_violation",
+      "input": {
+        "family": "story",
+        "name": "control evidence_policy_violation 5",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six",
+          "excerpt_words": 26
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "evidence-policy or derivative-risk violation"
+    },
+    {
+      "control_id": "nc-evidence_policy_violation-06",
+      "group": "evidence_policy_violation",
+      "input": {
+        "family": "story",
+        "name": "control evidence_policy_violation 6",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six",
+          "excerpt_words": 26
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "evidence-policy or derivative-risk violation"
+    },
+    {
+      "control_id": "nc-evidence_policy_violation-07",
+      "group": "evidence_policy_violation",
+      "input": {
+        "family": "story",
+        "name": "control evidence_policy_violation 7",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six",
+          "excerpt_words": 26
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "evidence-policy or derivative-risk violation"
+    },
+    {
+      "control_id": "nc-evidence_policy_violation-08",
+      "group": "evidence_policy_violation",
+      "input": {
+        "family": "story",
+        "name": "control evidence_policy_violation 8",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six",
+          "excerpt_words": 26
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "evidence-policy or derivative-risk violation"
+    },
+    {
+      "control_id": "nc-evidence_policy_violation-09",
+      "group": "evidence_policy_violation",
+      "input": {
+        "family": "story",
+        "name": "control evidence_policy_violation 9",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six",
+          "excerpt_words": 26
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "evidence-policy or derivative-risk violation"
+    },
+    {
+      "control_id": "nc-evidence_policy_violation-10",
+      "group": "evidence_policy_violation",
+      "input": {
+        "family": "story",
+        "name": "control evidence_policy_violation 10",
+        "observation": "fixture observation",
+        "inference": "fixture inference",
+        "evidence": {
+          "work_id": "w01",
+          "edition_url": "https://example.invalid/edition",
+          "location": "chapter 1",
+          "short_excerpt": "one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two twenty-three twenty-four twenty-five twenty-six",
+          "excerpt_words": 26
+        },
+        "rights_basis": "PD_US_CONFIRMED"
+      },
+      "expected_rejection_reason": "evidence-policy or derivative-risk violation"
+    }
+  ]
+}
