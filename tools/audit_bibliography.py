@@ -1,57 +1,61 @@
 #!/usr/bin/env python3
-"""Fail-closed bibliography shard auditor (stdlib only)."""
-import argparse,json,re,time,urllib.request,urllib.error
+import argparse,json,re,time,urllib.request,tempfile
 from pathlib import Path
-
-def norm(s): return re.sub(r"[^a-z0-9]", "", (s or "").casefold())
-def same(a,b):
+import xml.etree.ElementTree as ET
+D="http://purl.org/dc/terms/";P="http://www.gutenberg.org/2009/pgterms/";R="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+def norm(s): return re.sub(r"[^a-z0-9]","",str(s or "").casefold())
+def eq(a,b):
  a,b=norm(a),norm(b)
  if a==b:return True
- # harmless catalog inversion: Last, First
- return norm(" ".join((b.split()[-1:],b.split()[:-1])))==a if b else False
-def load_rdf(item,cache,live):
- fn=cache/f"{item}.rdf" if cache else None
- if fn and fn.exists(): data=fn.read_bytes()
+ if ',' in str(b):
+  z=[x.strip() for x in str(b).split(',',1)];return norm(' '.join(z[::-1]))==a
+ return False
+def rdf(item,cache,live):
+ f=cache/f"{item}.rdf" if cache else None
+ if f and f.exists(): raw=f.read_bytes()
  elif live:
-  url=f"https://www.gutenberg.org/cache/epub/{item}/pg{item}.rdf"
   for n in range(3):
-   try:
-    req=urllib.request.Request(url,headers={"User-Agent":"story-brainstorm-auditor/1.0"});data=urllib.request.urlopen(req,timeout=12).read();break
+   try: raw=urllib.request.urlopen(urllib.request.Request(f"https://www.gutenberg.org/cache/epub/{item}/pg{item}.rdf",headers={"User-Agent":"story-brainstorm-auditor/1.0"}),timeout=10).read();break
    except Exception:
-    if n==2: raise
-    time.sleep(.2*(n+1))
- else: raise FileNotFoundError(f"missing RDF cache for item {item}")
- text=data.decode("utf-8","replace")
- def tag(pattern):
-  m=re.search(pattern,text,re.I|re.S);return re.sub(r"<[^>]+>"," ",m.group(1)).strip() if m else ""
- title=tag(r"<dcterms:title[^>]*>(.*?)</dcterms:title>")
- creator=tag(r"<pgterms:name[^>]*>(.*?)</pgterms:name>")
- rights=tag(r"<dcterms:rights[^>]*>(.*?)</dcterms:rights>")
- issued=tag(r"<dcterms:issued[^>]*>(.*?)</dcterms:issued>")
- lang= "en" if re.search(r"rdf:resource=[\"']http://purl.org/dc/terms/LISO-639-2/en[\"']",text) or re.search(r"rdf:resource=[\"'][^\"']*/en[\"']",text) else ""
- return {"title":title,"creator":creator,"language":lang,"copyright":rights,"digital_release_date":issued,"item_id":str(item),"rdf_url":f"https://www.gutenberg.org/cache/epub/{item}/pg{item}.rdf"}
-def audit(shard,cache=None,live=False):
- data=json.loads(Path(shard).read_text()); rows=data.get("works",[])+data.get("reserves",[]); out=[]; ids=set();titles=set();urls=set()
+    if n==2:raise
+    time.sleep(.1*(n+1))
+ else: raise FileNotFoundError(item)
+ root=ET.fromstring(raw); q=lambda tag: root.findtext('.//{'+D+'}'+tag) or ''
+ lang=''
+ for e in root.findall('.//{'+D+'}language'):
+  lang=e.get('{'+R+'}resource','').rsplit('/',1)[-1];
+  if lang:break
+ c=root.find('.//{'+D+'}creator//{'+P+'}name'); creator=c.text.strip() if c is not None and c.text else q('creator').strip()
+ return {'title':q('title').strip(),'creator':creator,'language':lang,'copyright':q('rights').strip(),'digital_release_date':q('issued').strip(),'item_id':str(item)}
+def ev_ok(u):
+ return bool(re.match(r'^https?://[^/?#]+/(?:item/[^/?#]+|details/[^/?#]+|record/[^/?#]+)(?:[/?#].*)?$',u or ''))
+def audit(path,cache=None,live=False):
+ d=json.loads(Path(path).read_text()); rows=d.get('accepted_works',d.get('works',[]))+d.get('reserves',[]); seen={};out=[]
  for w in rows:
-  e=w.get("source_edition",{}); item=str(e.get("item_id", "")); url=e.get("url",""); errs=[]
-  if not item: errs.append("missing item_id")
-  if "?" in url or "/search" in url or "/books/" in url: errs.append("publication evidence/source URL must be exact item, not search")
-  if not w.get("first_publication_evidence_url") or "?" in w.get("first_publication_evidence_url","") or "/search" in w.get("first_publication_evidence_url",""): errs.append("missing exact first-publication evidence URL")
-  if item in ids: errs.append("duplicate item_id"); ids.add(item)
-  else: ids.add(item)
-  if norm(w.get("title")) in titles: errs.append("duplicate title")
-  titles.add(norm(w.get("title"))); 
-  if url in urls: errs.append("duplicate source URL")
-  urls.add(url)
-  try: raw=load_rdf(item,cache,live)
-  except Exception as ex: raw={};errs.append("catalog fetch failed: "+type(ex).__name__)
-  checks={"title_match":same(w.get("title"),raw.get("title")),"creator_match":same(w.get("author"),raw.get("creator")),"language_en":raw.get("language")=="en","us_pd":raw.get("copyright")=="Public domain in the USA.","first_year_le_1929":isinstance(w.get("first_publication_year"),int) and w["first_publication_year"]<=1929,"source_item_match":item and bool(re.search(r"/ebooks/"+re.escape(item)+r"(?:$|[?#])",url)),"exact_pub_evidence":bool(w.get("first_publication_evidence_url")) and "?" not in w.get("first_publication_evidence_url","") and "/search" not in w.get("first_publication_evidence_url","")}
-  if e.get("translation_required") and (not e.get("translator") or e.get("translation_rights_status")!="PD_US_CONFIRMED"): errs.append("missing translator or translation rights")
-  checks["translation_identity_rights"]=not e.get("translation_required") or (bool(e.get("translator")) and e.get("translation_rights_status")=="PD_US_CONFIRMED")
-  if not all(checks.values()): errs.extend(k for k,v in checks.items() if not v)
-  out.append({"work_id":w.get("work_id"),"raw_catalog":raw,"expected":{"title":w.get("title"),"author":w.get("author"),"first_publication_year":w.get("first_publication_year"),"source_item_id":item},"checks":checks,"errors":sorted(set(errs)),"status":"PASS" if not errs else "FAIL"})
- summary={"schema_version":"1.0","records":len(out),"pass":sum(x["status"]=="PASS" for x in out),"fail":sum(x["status"]=="FAIL" for x in out),"rows":out,"state":"READY" if out and all(x["status"]=="PASS" for x in out) else "NOT_READY"}
- return summary
+  e=w.get('source_edition',{}); item=str(e.get('item_id',''));u=e.get('url',''); errs=[]
+  for k in ('work_id','title','author','first_publication_year','first_publication_evidence_url','source_edition','rights'):
+   if not w.get(k):errs.append('missing '+k)
+  if not isinstance(w.get('first_publication_year'),int) or w.get('first_publication_year',1930)>1929:errs.append('post-1929 or invalid first publication year')
+  if not ev_ok(w.get('first_publication_evidence_url')):errs.append('invalid first-publication evidence URL')
+  if not re.match(r'^https?://[^/?#]+/(?:ebooks/[^/?#]+|item/[^/?#]+|details/[^/?#]+)(?:[/?#].*)?$',u or ''):errs.append('invalid source item URL')
+  if item in seen:errs.append('duplicate item_id')
+  if u in seen.values():errs.append('duplicate source URL')
+  if norm(w.get('title')) in [norm(x.get('title')) for x in rows[:rows.index(w)]]:errs.append('duplicate title')
+  seen[item]=u
+  rw={};
+  try: rw=rdf(item,cache,live)
+  except Exception as ex: errs.append('catalog fetch failed: '+type(ex).__name__)
+  checks={'title_match':eq(e.get('raw_title'),rw.get('title')) and eq(w.get('title'),rw.get('title')),'creator_match':eq(e.get('raw_creator'),rw.get('creator')) and eq(w.get('author'),rw.get('creator')),'language_match':e.get('language')=='en' and rw.get('language')=='en','rights_match':w.get('rights',{}).get('status')=='PD_US_CONFIRMED' and w.get('rights',{}).get('jurisdiction')=='US' and bool(w.get('rights',{}).get('verification_refs')) and rw.get('copyright')=='Public domain in the USA.','first_year_ok':isinstance(w.get('first_publication_year'),int) and w['first_publication_year']<=1929,'evidence_exact':ev_ok(w.get('first_publication_evidence_url')),'item_match':bool(item) and bool(re.search(r'/ebooks/'+re.escape(item)+r'(?:$|[?#])',u)),'stored_raw_fields':e.get('raw_title')==rw.get('title') and e.get('raw_creator')==rw.get('creator') and e.get('language')=='en'}
+  derivative=bool(e.get('translator') or e.get('editor') or e.get('translation_required') or e.get('derivative'))
+  checks['translation_rights']=not derivative or (bool(e.get('translator') or e.get('editor')) and e.get('translation_rights_status')=='PD_US_CONFIRMED')
+  if not checks['translation_rights']:errs.append('missing translator/editor rights')
+  if not all(checks.values()):errs += [k for k,v in checks.items() if not v]
+  out.append({'work_id':w.get('work_id'),'raw_catalog':rw,'expected':{'title':w.get('title'),'author':w.get('author'),'first_publication_year':w.get('first_publication_year'),'source_item_id':item},'checks':checks,'errors':sorted(set(errs)),'status':'PASS' if not errs else 'FAIL'})
+ return {'schema_version':'1.0','records':len(out),'pass':sum(x['status']=='PASS' for x in out),'fail':sum(x['status']=='FAIL' for x in out),'rows':out,'state':'READY' if out and all(x['status']=='PASS' for x in out) else 'NOT_READY'}
 def main():
- p=argparse.ArgumentParser();p.add_argument("--shard",required=True);p.add_argument("--out",required=True);p.add_argument("--rdf-cache",type=Path);p.add_argument("--live",action="store_true");a=p.parse_args();r=audit(a.shard,a.rdf_cache,a.live);Path(a.out).write_text(json.dumps(r,indent=2,sort_keys=True)+"\n");print(json.dumps({k:r[k] for k in ("state","records","pass","fail")},sort_keys=True));return 0 if r["state"]=="READY" else 2
-if __name__=="__main__":raise SystemExit(main())
+ p=argparse.ArgumentParser();p.add_argument('--shard',required=True);p.add_argument('--out',required=True);p.add_argument('--rdf-cache',type=Path);p.add_argument('--live',action='store_true');a=p.parse_args();r=audit(a.shard,a.rdf_cache,a.live);dest=Path(a.out);dest.parent.mkdir(parents=True,exist_ok=True);text=json.dumps(r,indent=2,sort_keys=True)+'\n';old=dest.read_text() if dest.exists() else None
+ if old!=text:
+  with tempfile.NamedTemporaryFile('w',dir=dest.parent,delete=False,encoding='utf8') as f:f.write(text);tmp=Path(f.name)
+  tmp.replace(dest)
+ print(json.dumps({k:r[k] for k in ('state','records','pass','fail')},sort_keys=True));return 0 if r['state']=='READY' else 2
+if __name__=='__main__':raise SystemExit(main())
