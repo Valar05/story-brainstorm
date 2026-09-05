@@ -3,6 +3,12 @@ import argparse,json,re,time,urllib.parse,urllib.request,tempfile
 from pathlib import Path
 import xml.etree.ElementTree as ET
 D="http://purl.org/dc/terms/";P="http://www.gutenberg.org/2009/pgterms/";R="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+def atomic_bytes(path,raw):
+ path.parent.mkdir(parents=True,exist_ok=True)
+ if path.exists() and path.read_bytes()==raw:return False
+ with tempfile.NamedTemporaryFile('wb',dir=path.parent,delete=False) as f:f.write(raw);tmp=Path(f.name)
+ tmp.replace(path);return True
+def atomic_json(path,obj):return atomic_bytes(path,(json.dumps(obj,sort_keys=True,ensure_ascii=False)+"\n").encode())
 def norm(s): return re.sub(r"[^a-z0-9]","",str(s or "").casefold())
 def eq(a,b):
  a,b=norm(a),norm(b)
@@ -24,15 +30,20 @@ def fetch_json(url):
    if n==2:raise
    time.sleep(.2*(n+1))
 def rdf(item,cache,live):
- f=cache/f"{item}.rdf" if cache else None
- if f and f.exists(): raw=f.read_bytes()
- elif live:
+ f=cache/f"{item}.rdf" if cache else None;raw=None;fetched=False
+ if f and f.exists():
+  try: raw=f.read_bytes();ET.fromstring(raw)
+  except Exception:
+   if not live:raise
+   raw=None
+ if raw is None and live:
   for n in range(3):
-   try: raw=urllib.request.urlopen(urllib.request.Request(f"https://www.gutenberg.org/cache/epub/{item}/pg{item}.rdf",headers={"User-Agent":"story-brainstorm-auditor/1.0"}),timeout=10).read();break
+   try: raw=urllib.request.urlopen(urllib.request.Request(f"https://www.gutenberg.org/cache/epub/{item}/pg{item}.rdf",headers={"User-Agent":"story-brainstorm-auditor/1.0"}),timeout=15).read();ET.fromstring(raw);fetched=True;break
    except Exception:
     if n==2:raise
-    time.sleep(.1*(n+1))
- else: raise FileNotFoundError(item)
+    time.sleep(.2*(n+1))
+ if raw is None:raise FileNotFoundError(item)
+ if fetched and f:atomic_bytes(f,raw)
  root=ET.fromstring(raw); q=lambda tag: root.findtext('.//{'+D+'}'+tag) or ''
  lang=''
  for e in root.findall('.//{'+D+'}language'):
@@ -42,6 +53,7 @@ def rdf(item,cache,live):
   if lang:break
  c=root.find('.//{'+D+'}creator//{'+P+'}name'); creator=c.text.strip() if c is not None and c.text else q('creator').strip()
  return {'title':q('title').strip(),'creator':creator,'language':lang,'copyright':q('rights').strip(),'digital_release_date':q('issued').strip(),'item_id':str(item)}
+
 def ev_ok(u):
  return bool(re.match(r'^https?://[^/?#]+/(?:item/[^/?#]+|details/[^/?#]+|record/[^/?#]+)(?:[/?#].*)?$',u or ''))
 def evidence(url,expected_title,expected_year,cache=None,live=False):
@@ -49,19 +61,29 @@ def evidence(url,expected_title,expected_year,cache=None,live=False):
  if not m or "?" in (url or "") or "#" in (url or ""): return {"error":"invalid Open Library work URL","checks":{"url_exact":False}}
  item=m.group(1); f=cache/f"{item}.json" if cache else None
  try:
-  if f and f.exists(): raw=json.loads(f.read_text())
-  elif live:
+  raw=None
+  if f and f.exists():
+   try: raw=json.loads(f.read_text())
+   except Exception:
+    if not live:raise
+  if raw is None and live:
    raw=fetch_json(f"https://openlibrary.org/works/{item}.json")
-  else: raise FileNotFoundError(item)
+   if f:atomic_json(f,raw)
+  if raw is None:raise FileNotFoundError(item)
  except Exception as ex: return {"error":"publication catalog fetch failed: "+type(ex).__name__,"checks":{"url_exact":True,"fetch":False}}
  title=str(raw.get("title", "")); date=None;year=None;source="exact_key_search";exact_key=False
  sf=cache/f"{item}.search.json" if cache else None
  try:
-  if sf and sf.exists(): search=json.loads(sf.read_text())
-  elif live:
+  search=None
+  if sf and sf.exists():
+   try: search=json.loads(sf.read_text())
+   except Exception:
+    if not live:raise
+  if search is None and live:
    query=urllib.parse.urlencode({"q":f"key:/works/{item}","fields":"key,title,first_publish_year","limit":"2"})
    search=fetch_json("https://openlibrary.org/search.json?"+query)
-  else: raise FileNotFoundError(item+".search")
+   if sf:atomic_json(sf,search)
+  if search is None:raise FileNotFoundError(item+".search")
   docs=search.get("docs",[])
   exact_key=search.get("numFound")==1 and len(docs)==1 and docs[0].get("key")==f"/works/{item}" and title_eq(docs[0].get("title"),title)
   if exact_key:

@@ -1,5 +1,6 @@
 import json,tempfile,unittest
 from pathlib import Path
+from unittest.mock import patch
 from tools.audit_bibliography import audit
 FIX=Path(__file__).parent/'fixtures/catalog'
 PUB=Path(__file__).parent/'fixtures/publication_catalog'
@@ -53,4 +54,20 @@ class T(unittest.TestCase):
   from tools.audit_bibliography import evidence
   self.assertTrue(evidence('https://openlibrary.org/works/OL4W','Kwaidan: Stories and Studies of Strange Things',1899,PUB)['checks']['title_match'])
   self.assertFalse(evidence('https://openlibrary.org/works/OL4W','Kwaito Music',1899,PUB)['checks']['title_match'])
+ def test_live_evidence_cache_resumes_offline(self):
+  from tools.audit_bibliography import evidence
+  work={'key':'/works/OL9W','title':'Alpha'};search={'numFound':1,'docs':[{'key':'/works/OL9W','title':'Alpha','first_publish_year':1920}]}
+  with tempfile.TemporaryDirectory() as d:
+   cache=Path(d)
+   with patch('tools.audit_bibliography.fetch_json',side_effect=[work,search]) as fetch:
+    self.assertIsNone(evidence('https://openlibrary.org/works/OL9W','Alpha',1919,cache,True)['error']);self.assertEqual(fetch.call_count,2)
+   with patch('tools.audit_bibliography.fetch_json',side_effect=AssertionError('network used')):
+    self.assertIsNone(evidence('https://openlibrary.org/works/OL9W','Alpha',1919,cache,False)['error'])
+ def test_malformed_live_cache_is_recovered(self):
+  from tools.audit_bibliography import evidence
+  work={'key':'/works/OL9W','title':'Alpha'};search={'numFound':1,'docs':[{'key':'/works/OL9W','title':'Alpha','first_publish_year':1920}]}
+  with tempfile.TemporaryDirectory() as d:
+   cache=Path(d);(cache/'OL9W.json').write_text('{bad');(cache/'OL9W.search.json').write_text('{bad')
+   with patch('tools.audit_bibliography.fetch_json',side_effect=[work,search]):self.assertIsNone(evidence('https://openlibrary.org/works/OL9W','Alpha',1919,cache,True)['error'])
+   json.loads((cache/'OL9W.json').read_text());json.loads((cache/'OL9W.search.json').read_text())
 if __name__=='__main__':unittest.main()
