@@ -1,0 +1,26 @@
+{
+  "owner": "C-engine",
+  "status": "complete",
+  "commit": "PROSPECTIVE_HEAD_PACKET_C",
+  "changed": [
+    "story_brainstorm.py",
+    "tools/doc_server.py",
+    "tools/validate_schema.py",
+    "tools/validate_rights.py",
+    "tools/validate_refs.py",
+    "tests/test_engine.py",
+    "generated/receipts/C.json"
+  ],
+  "checks": [
+    "python -m py_compile story_brainstorm.py tools/*.py",
+    "python story_brainstorm.py --help",
+    "python story_brainstorm.py works validate (NOT_READY exit 2)",
+    "python -m unittest discover -s tests -v"
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "engine-ready"
+  ],
+  "proposals": []
+}
