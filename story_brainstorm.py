@@ -5,7 +5,7 @@ import argparse, hashlib, json, os, tempfile
 from pathlib import Path
 from typing import Any
 ROOT=Path(__file__).resolve().parent
-RIGHTS={"PUBLIC_DOMAIN_VERIFIED","PUBLIC_DOMAIN_CANDIDATE"}
+RIGHTS={"PD_US_CONFIRMED"}
 FAMILIES={"story","speech","character","conflict","structure","contextual"}
 def normalize_for_hash(value: Any)->Any:
     if isinstance(value,dict): return {k:normalize_for_hash(v) for k,v in value.items() if k not in {"created_at","generated_at","updated_at","retrieved_at"}}

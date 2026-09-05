@@ -5,6 +5,12 @@ from story_brainstorm import atomic_write,stable_hash,validate_works,validate_ca
 class ScaffoldTests(unittest.TestCase):
  def test_empty_data_is_honestly_not_ready(self):
   self.assertEqual(validate_works()['state'],'NOT_READY'); self.assertEqual(validate_cards()['state'],'NOT_READY')
+ def test_candidate_rights_fail_closed(self):
+  import tempfile
+  with tempfile.TemporaryDirectory() as d:
+   p=Path(d)/'works.json'; p.write_text(json.dumps({'works':[{'work_id':'candidate_work','title':'T','author':'A','publication_year':1920,'source_edition':{'edition_year':1920,'url':'https://example.test/t','locator':'p.1'},'rights':{'status':'PUBLIC_DOMAIN_CANDIDATE','jurisdiction':'US','basis':'old','verification_refs':['ref']}}]}))
+   self.assertEqual(validate_works(p)['state'],'NOT_READY')
+
  def test_timestamps_excluded(self):
   self.assertEqual(stable_hash({'x':1,'generated_at':'a'}),stable_hash({'x':1,'generated_at':'b'}))
  def test_atomic_write_noop(self):
