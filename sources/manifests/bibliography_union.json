@@ -899,7 +899,7 @@
   },
   "output_semantic_sha256": {
     "data/reserve_works.json": "62c6768f91a890677ebfd111ac752ab24355b60584876cc420ba3e2f6442f12c",
-    "data/works.json": "467711286674a2e376c12d2034bfa4abaf105598ce509f2dd1bf699987024744"
+    "data/works.json": "5b0870c9e1a73b96aaa39928b2dd51ecc9f23d349da743abbecca417624468c8"
   },
   "quotas": {
     "accepted_by_stratum": {
@@ -980,7 +980,7 @@
     "b2r-drama-09": "be530bfb70fc0339ad06a964b3336a6473c5ffd781cb17f42cbafefa74ba35e1",
     "b2r-drama-10": "19dbb86166004fdeecf49164bc9f5eaab8a9fe90874bda7c42bdbd6bf5ab2f20",
     "b2r-poetry-01": "2e98a93f56529a78147c8e7e52e4051afb95095e7935432cf0e82f64cc289e8c",
-    "b2r-poetry-02": "4cc1b5b42a7b86497ee83bc265797e27f2069cf564b9abc1c9f8b36f719fed80",
+    "b2r-poetry-02": "73b9097ade3ebc2f0067e3b8c19a19fa8e66d9ea8e8215048f3ae114028e42ba",
     "b2r-poetry-03": "c0a6197b345968e8f931d82f2a8a0bbfe74059d670fddd0444b5b06ad0bc32cd",
     "b2r-poetry-04": "c33389ae0959426d74caf09d07a9fbd8daaa477d6f73657db39122b597a69785",
     "b2r-poetry-05": "180035e00dd7d206bd192a660dfa94fc7b95e0dc711d34e01ab23c739d61c783",
@@ -1079,27 +1079,27 @@
       "accepted": 30,
       "files": {
         "audit": {
-          "commit": "7c26e21969e685a36aba810bc3c597a019786227",
+          "commit": "9d3e830f85c31104aab8e40b260930638ef50571",
           "path": "sources/manifests/audit_B2.json",
-          "sha256": "ae5844105d00bdeb2c0810702ca464fc68af1c9f9e0adc04b05ecf206b46056e"
+          "sha256": "713ddd1caf354ff60b363225e8cc5100ef42b19f5a96dbdcbcdff7e6939d26d2"
         },
         "manifest": {
-          "commit": "7c26e21969e685a36aba810bc3c597a019786227",
+          "commit": "9d3e830f85c31104aab8e40b260930638ef50571",
           "path": "sources/manifests/bibliography_B2.json",
-          "sha256": "2cd40dbe791cfac9f73b157236b65c7c34f26fed55c7d3b5f22c0c2905d55bf8"
+          "sha256": "2c82d8e1a9c34c8fbaf6a53d4a2809a1025304d409362f3d8681ed49353941e1"
         },
         "receipt": {
-          "commit": "7c26e21969e685a36aba810bc3c597a019786227",
+          "commit": "670dbb74619a1d899589e3a3b7d2b7d4cce02d25",
           "path": "generated/receipts/B2A.json",
-          "sha256": "cb0a58ff911e4029f4511f6a4d725ac991ddc6351860d98a2de533c5faa2183b"
+          "sha256": "a6201e734d44ebaedbc8d6c8fa713d95932ed6ab0b38365ab704bf251f199e4d"
         },
         "shard": {
-          "commit": "7c26e21969e685a36aba810bc3c597a019786227",
+          "commit": "9d3e830f85c31104aab8e40b260930638ef50571",
           "path": "data/bibliography_shards/B2.json",
-          "sha256": "314f2914a7536b93f32e2ddf6a9ff65e2bcf3e4afef4b1baa8274d6686bc0e88"
+          "sha256": "314333c641986daac979d4c0e805e5514275e6d58b65e3a51147f19ce87ab98f"
         }
       },
-      "receipt_commit_label": "PROSPECTIVE_HEAD_PACKET_B2R",
+      "receipt_commit_label": "HEAD",
       "reserves": 6,
       "shard": "B2"
     },
