@@ -12,3 +12,5 @@ Derivative-risk review:
 - high: long quotation, close paraphrase, scene reconstruction, or voice imitation; reject.
 
 Acceptance falsifiers are missing/unstable location, excerpt over 25 words, non-confirmed rights, merged observation and inference, unsupported generic inference, duplicate mechanism without independent distinction, invalid contextual subtype, or synthesis with fewer than three works.
+
+Publication evidence gate: first-publication evidence must be an exact Open Library work record URL (`https://openlibrary.org/works/OL...W`), never a search/category/root URL. The auditor fetches/caches that JSON and requires title equality plus a four-digit `first_publish_date` equal to the record year. Gutenberg digital release date is not used as first-publication evidence.

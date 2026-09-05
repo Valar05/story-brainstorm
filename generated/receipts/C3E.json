@@ -1,0 +1,28 @@
+{
+  "owner": "rights_sources",
+  "status": "complete",
+  "commit": "532d0a85ef8d1647793684309df295e3abe337f5",
+  "changed": [
+    "tools/audit_bibliography.py",
+    "tests/test_bibliography_audit.py",
+    "tests/fixtures/publication_catalog/OL1W.json",
+    "docs/RIGHTS_AND_EVIDENCE.md",
+    "generated/receipts/C3E.json"
+  ],
+  "checks": [
+    "python -m unittest tests.test_bibliography_audit (17 passed)",
+    "exact Open Library work URL and JSON metadata gate",
+    "title and first_publish_date equality checks",
+    "LOC/IA/search/root/edition URLs rejected",
+    "fetch and missing/ambiguous/year mismatch fail closed",
+    "publication raw metadata included in audit rows",
+    "--evidence-cache and --live supported",
+    "atomic deterministic no-op preserved"
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "publication-evidence-gate"
+  ],
+  "proposals": []
+}

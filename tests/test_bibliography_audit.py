@@ -2,12 +2,13 @@ import json,tempfile,unittest
 from pathlib import Path
 from tools.audit_bibliography import audit
 FIX=Path(__file__).parent/'fixtures/catalog'
+PUB=Path(__file__).parent/'fixtures/publication_catalog'
 class T(unittest.TestCase):
  def rec(self,**kw):
-  x={"work_id":"w1","title":"Alpha","author":"Doe, Jane","first_publication_year":1920,"first_publication_evidence_url":"https://loc.gov/item/abc/","source_edition":{"item_id":"1","url":"https://www.gutenberg.org/ebooks/1","language":"en","raw_title":"Alpha","raw_creator":"Doe, Jane"},"rights":{"status":"PD_US_CONFIRMED","jurisdiction":"US","basis":"old","verification_refs":["https://copyright.gov"]}};x.update(kw);return {"schema_version":"1","accepted_works":[x],"reserves":[]}
+  x={"work_id":"w1","title":"Alpha","author":"Doe, Jane","first_publication_year":1920,"first_publication_evidence_url":"https://openlibrary.org/works/OL1W","source_edition":{"item_id":"1","url":"https://www.gutenberg.org/ebooks/1","language":"en","raw_title":"Alpha","raw_creator":"Doe, Jane"},"rights":{"status":"PD_US_CONFIRMED","jurisdiction":"US","basis":"old","verification_refs":["https://copyright.gov"]}};x.update(kw);return {"schema_version":"1","accepted_works":[x],"reserves":[]}
  def evaluate(self,x):
   with tempfile.TemporaryDirectory() as d:
-   p=Path(d)/'s.json';p.write_text(json.dumps(x));return audit(p,FIX)
+   p=Path(d)/'s.json';p.write_text(json.dumps(x));return audit(p,FIX,False,PUB)
  def test_valid_native(self):self.assertEqual(self.evaluate(self.rec())['pass'],1)
  def test_wrong_id_title(self):self.assertEqual(self.evaluate(self.rec(source_edition={"item_id":"2","url":"https://www.gutenberg.org/ebooks/2","language":"en","raw_title":"Alpha","raw_creator":"Doe, Jane"}))['fail'],1)
  def test_wrong_language_catalog_rejected(self):
@@ -31,7 +32,13 @@ class T(unittest.TestCase):
  def test_cli_output_mtime_noop(self):
   import subprocess,time
   with tempfile.TemporaryDirectory() as d:
-   shard=Path(d)/'s.json';out=Path(d)/'o.json';shard.write_text(json.dumps(self.rec()));cmd=['python','tools/audit_bibliography.py','--shard',str(shard),'--out',str(out),'--rdf-cache',str(FIX)];subprocess.run(cmd,check=False);t=out.stat().st_mtime_ns;time.sleep(.01);subprocess.run(cmd,check=False);self.assertEqual(t,out.stat().st_mtime_ns)
+   shard=Path(d)/'s.json';out=Path(d)/'o.json';shard.write_text(json.dumps(self.rec()));cmd=['python','tools/audit_bibliography.py','--shard',str(shard),'--out',str(out),'--rdf-cache',str(FIX),'--evidence-cache',str(PUB)];subprocess.run(cmd,check=False);t=out.stat().st_mtime_ns;time.sleep(.01);subprocess.run(cmd,check=False);self.assertEqual(t,out.stat().st_mtime_ns)
 
  def test_deterministic(self):self.assertEqual(self.evaluate(self.rec()),self.evaluate(self.rec()))
+ def test_title_mismatch_publication(self):
+  e=self.rec(title='Wrong');self.assertEqual(self.evaluate(e)['fail'],1)
+ def test_year_mismatch_publication(self):
+  e=self.rec(first_publication_year=1921);self.assertEqual(self.evaluate(e)['fail'],1)
+ def test_missing_publication_date(self):
+  self.assertEqual(self.evaluate(self.rec(first_publication_evidence_url='https://openlibrary.org/works/OL404W'))['fail'],1)
 if __name__=='__main__':unittest.main()
