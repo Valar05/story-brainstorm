@@ -28,6 +28,10 @@ def atomic_write(path:Path,text:str)->bool:
 def write_json(path:Path,obj:Any)->bool:
     return atomic_write(path,json.dumps(obj,indent=2,sort_keys=True,ensure_ascii=False)+"\n")
 def load(path:Path)->dict[str,Any]: return json.loads(path.read_text(encoding="utf-8"))
+def _valid_item_url(value:Any)->bool:
+    if not isinstance(value,str) or not value.startswith(("https://","http://")): return False
+    low=value.lower()
+    return not any(x in low for x in ("/search", "?q=", "?query=", "search?") )
 def _errors_works(works:list[dict[str,Any]])->list[str]:
     errors=[]; ids=set()
     for w in works:
@@ -35,12 +39,20 @@ def _errors_works(works:list[dict[str,Any]])->list[str]:
         if not isinstance(wid,str) or not wid: errors.append("missing work_id")
         elif wid in ids: errors.append(f"duplicate work_id: {wid}")
         ids.add(wid)
-        if not isinstance(w.get("publication_year"),int) or w["publication_year"]>1929: errors.append(f"post-1929 work: {wid}")
+        first=w.get("first_publication_year",w.get("publication_year"))
+        if not isinstance(first,int) or first>1929: errors.append(f"post-1929 first publication: {wid}")
         ed=w.get("source_edition",{}); rights=w.get("rights",{})
-        for key in ("edition_year","url","locator"):
+        for key in ("item_id","url","language","raw_title","raw_creator"):
             if not ed.get(key): errors.append(f"missing edition {key}: {wid}")
+        if ed.get("language")!="en": errors.append(f"non-English edition: {wid}")
+        if not _valid_item_url(ed.get("url")): errors.append(f"unstable/search edition URL: {wid}")
+        if not w.get("first_publication_evidence_url") or not _valid_item_url(w.get("first_publication_evidence_url")):
+            errors.append(f"missing first-publication evidence: {wid}")
         if rights.get("status") not in RIGHTS: errors.append(f"unaccepted rights: {wid}")
         if rights.get("jurisdiction")!="US" or not rights.get("basis") or not rights.get("verification_refs"): errors.append(f"incomplete rights verification: {wid}")
+        if ed.get("translator") is not None or ed.get("editor") is not None:
+            if not ed.get("translator") and not ed.get("editor"): errors.append(f"unidentified translation/editor: {wid}")
+            if ed.get("translation_rights_status")!="PD_US_CONFIRMED": errors.append(f"translation/editor rights not confirmed: {wid}")
     return errors
 def validate_works(path:Path=ROOT/"data/works.json",required:int=100)->dict[str,Any]:
     try: works=load(path).get("works",[])
