@@ -1,1 +1,52 @@
-{"schema_version":"1.0","cards":[]}
+{
+  "schema_version": "1.0",
+  "cards": [
+    {
+      "name": "Causal Shadow",
+      "family": "character",
+      "summary": "A character can feel dangerous before overt violence when their unseen reach is already reorganizing other people, information, space, or command around them.",
+      "observation": "Across Treasure Island, Dracula, The Woman in White, and Moby Dick, menace precedes overt harm through disproportionate causal footprint: trusted recruitment, bodily unease inside hospitality, others' altered behavior, and invisible command.",
+      "inference": "Readers infer danger when a character's effects arrive before their acts. The environment becomes advance evidence: people defer, conceal, tremble, reorganize, or obey before the character openly threatens anyone.",
+      "pattern": {
+        "setup": "Introduce the character through ordinary or even favorable surface information.",
+        "pressure": "Reveal effects around them that are too large, too coordinated, too bodily, or too secretive for the visible behavior to explain.",
+        "turn": "Let witnesses recognize that the character's causal reach exceeds the apparent role without yet showing the feared act.",
+        "residue": "The reader begins scanning every later action for the hidden system already implied by the earlier footprint."
+      },
+      "evidence": [
+        {
+          "work_id": "b1-adventure-002",
+          "edition_url": "https://www.gutenberg.org/files/120/120-h/120-h.htm",
+          "location": "Part Two, Chapter VII, Trelawney's letter describing Silver's recruitment",
+          "short_excerpt": "I thought I had only found a cook, but it was a crew I had discovered.",
+          "excerpt_words": 16
+        },
+        {
+          "work_id": "b1-gothic-002",
+          "edition_url": "https://www.gutenberg.org/files/345/345-h/345-h.htm",
+          "location": "Chapter II, Harker's first close observation of Count Dracula",
+          "short_excerpt": "The general effect was one of extraordinary pallor.",
+          "excerpt_words": 8
+        },
+        {
+          "work_id": "b1-gothic-005",
+          "edition_url": "https://www.gutenberg.org/files/583/583-h/583-h.htm",
+          "location": "Second Epoch, Marian's diary before meeting Count Fosco",
+          "short_excerpt": "This, to my mind, looks ill for the Count.",
+          "excerpt_words": 10
+        },
+        {
+          "work_id": "b2r-american-02",
+          "edition_url": "https://www.gutenberg.org/files/2489/2489-h/2489-h.htm",
+          "location": "Chapter 28, Ahab",
+          "short_excerpt": "their supreme lord and dictator was there, though hitherto unseen",
+          "excerpt_words": 10
+        }
+      ],
+      "rights_basis": "PD_US_CONFIRMED",
+      "confidence": "accepted",
+      "schema_version": "1.0",
+      "primitive_id": "sha256:1b71d8e180b3fe704bc989b5fe8ea3793f5a1babea458b5a7088620c3f650a6e"
+    }
+  ]
+}
