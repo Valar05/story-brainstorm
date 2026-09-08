@@ -1,0 +1,38 @@
+{
+  "blockers": [],
+  "changed": [
+    "tools/audit_primitive_quality.py",
+    "tests/test_primitive_quality_audit.py",
+    "tests/fixtures/primitive_quality/positive.json",
+    "tests/fixtures/primitive_quality/rejected_E_expected.json",
+    "tests/fixtures/primitive_quality/README.md",
+    "docs/EXTRACTION_METHOD.md",
+    "generated/receipts/C9.json"
+  ],
+  "checks": [
+    "python -m unittest discover -s tests: 131 tests PASS in 30.994 seconds (46 focused quality tests plus 85 inherited tests).",
+    "Positive production quality CLI/audit: exactly 30 cards / 3 works READY; each work 3/2/2/1/1/1; 3 contextual subtypes; all PrimitiveCard schemas and native IDs/counts validated by tests.",
+    "Each gate has a focused ablation, including every text field, normalization/slot repetition, composite/cross-field patterns, evidence refs/renamed locators, quota swaps, subtype validity/diversity/70-percent boundary, word/numeric padding, input errors, and atomic/no-op recovery.",
+    "Exact rejected E source: git show f520847:data/primitive_shards/E.json materialized byte-identically at /data/data/com.termux/files/usr/tmp/C9-rejected-E-br7cw_ex/E.json; production CLI --expected-works 34 exits 1, NOT_READY, 340/340 failing cards.",
+    "Exact E error findings: placeholder/work-ID/numeric names 340 each; BOILERPLATE 656; TEMPLATE_PROSE 2040; TEMPLATE_REPETITION 2630; PATTERN_GENERIC 1360; DUPLICATE_PATTERN_COMPONENT 1360; OBSERVATION_IS_EXCERPT 340; CONTEXTUAL_DIVERSITY and CONTEXTUAL_DOMINANCE 35 each (34 card findings plus global).",
+    "Exact E audit output SHA-256 46ec68591f87155de08ce74858bbeb5208e61c40dceb4a07fd00d842a9c585eb; source blob hash/full commit and measured counters sealed in rejected_E_expected.json.",
+    "Positive READY and exact E NOT_READY reruns preserve output bytes and mtime; native atomic-write pre-replace failure preserves previous report; input/output alias refused.",
+    "docs/EXTRACTION_METHOD.md append-only prefix verified against inherited HEAD; no source extraction cards, engine, schemas, taxonomy, existing tools/tests, source texts, or remotes modified.",
+    "Semantic/source/rights/cultural/locator/voice-imitation truth is not claimed: every report explicitly requires independent semantic review and separate schema/source-evidence gates.",
+    "Bounded retrospective: one overbroad publication-credit rule and one native-return-shape test assumption were caught and corrected. Repeated fixture authoring after an early failed prewrite assertion was wasted work; improvement is preserving controlled test drafts before running the calibrator. Weakest soundness clause remains semantic truth, explicitly outside this guardrail. Exact local token delta and accepted-command elapsed time unavailable; no exact par update or all-axis improvement claimed. Three-axis par classification: INVALID for exact par accounting because exact token usage is unavailable; this does not change the verified guardrail acceptance result.",
+    "SHA-256 tools/audit_primitive_quality.py 62311d359e427fe512da9e5ca9c5e46c814c56d3c97d31152be732d95bd8cb15",
+    "SHA-256 tests/test_primitive_quality_audit.py 0a2cc173291fe80f47b3d3f6e1600df1d94333ff7bf07a3bd01c43d05620791a",
+    "SHA-256 tests/fixtures/primitive_quality/positive.json eaa26b3cd74efc4fa455d3115d0f8deea749e39b7dafd7979f4b9655d6a77875",
+    "SHA-256 tests/fixtures/primitive_quality/rejected_E_expected.json de19400816139959282ad29d6ed9926b4047a215afec40dc3cb1c8bca8ae8252",
+    "SHA-256 tests/fixtures/primitive_quality/README.md 5336446b6c1839150d6433e98e98397f305b02c9544fa6ffda053e5149f5ebae",
+    "SHA-256 docs/EXTRACTION_METHOD.md 5b1a9bffe59f1277285487ea3b8132bb051f3228191a47b5f3392030fd35142b"
+  ],
+  "commit": "PROSPECTIVE_HEAD_PACKET_C9",
+  "dependencies_unlocked": [
+    "quality-auditor-ready"
+  ],
+  "owner": "C9",
+  "proposals": [],
+  "result": "Deterministic quality guardrails READY: 30-card hand-authored synthetic positive passes; exact E false-green shape is definitively NOT_READY across all 340 cards. This is not semantic extraction approval.",
+  "status": "complete"
+}

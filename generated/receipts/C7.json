@@ -1,0 +1,31 @@
+{
+  "owner": "corpus_taxonomy/C7",
+  "status": "complete",
+  "commit": "HEAD",
+  "changed": [
+    "tools/audit_primitive_evidence.py",
+    "tests/test_primitive_evidence_audit.py",
+    "tests/fixtures/source_text/11.txt",
+    "docs/EXTRACTION_METHOD.md",
+    "generated/receipts/C7.json"
+  ],
+  "checks": [
+    "focused evidence audit tests: 13 passed",
+    "existing engine/scaffold suites: 9 passed",
+    "live PG11 external-cache check: READY",
+    "three-attempt bounded fetch with backoff tested via first-failure recovery",
+    "cache writes occur only after successful UTF-8 decode",
+    "each named falsifier isolated in its own test",
+    "repository-descendant cache rejected before row processing",
+    "deterministic no-op and atomic cache preserved",
+    "no full source text committed beyond tiny fixture"
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "evidence-auditor-ready"
+  ],
+  "proposals": [
+    "Live PG11 verification optional; fixture lane is independently green."
+  ]
+}

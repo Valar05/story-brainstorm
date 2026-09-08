@@ -1,0 +1,1136 @@
+{
+  "classification_policy": "Use sealed per-row manifest flags; B3 non-novel floor excludes both novels and novellas. Non-Anglo/diasporic/translated floor counts only B3 explicitly verified flags. No WorkRecord fields are added or changed.",
+  "classifications": [
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "adventure",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-adventure-001"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "adventure",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-adventure-002"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "adventure",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-adventure-003"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "adventure",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-adventure-004"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "adventure",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-adventure-005"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "adventure",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-adventure-006"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "adventure",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-adventure-007"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "adventure",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-adventure-008"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "adventure",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-adventure-009"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "adventure",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-adventure-010"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "fantasy",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-fantasy-001"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "fantasy",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-fantasy-002"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "fantasy",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-fantasy-003"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "fantasy",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-fantasy-004"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "fantasy",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-fantasy-005"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "fantasy",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-fantasy-006"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "fantasy",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-fantasy-007"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "fantasy",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-fantasy-008"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "fantasy",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-fantasy-009"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "fantasy",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-fantasy-010"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "gothic",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-gothic-001"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "gothic",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-gothic-002"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "gothic",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-gothic-003"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "gothic",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-gothic-004"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "gothic",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-gothic-005"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "gothic",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-gothic-006"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "gothic",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-gothic-007"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "gothic",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-gothic-008"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "gothic",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-gothic-009"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B1",
+      "stratum": "gothic",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-gothic-010"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "social",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-social-001"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "social",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-social-002"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "social",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-social-003"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "social",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-social-004"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "social",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b1-social-005"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "social",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-social-006"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "social",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-social-007"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "social",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-social-008"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "social",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-social-009"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B1",
+      "stratum": "social",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b1-social-010"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B2",
+      "stratum": "american",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-american-01"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B2",
+      "stratum": "american",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-american-02"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B2",
+      "stratum": "american",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-american-03"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B2",
+      "stratum": "american",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-american-04"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "american",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-american-05"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B2",
+      "stratum": "american",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-american-06"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B2",
+      "stratum": "american",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-american-07"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B2",
+      "stratum": "american",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-american-08"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "american",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-american-09"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B2",
+      "stratum": "american",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-american-10"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "drama",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-drama-01"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "drama",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-drama-02"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "drama",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-drama-03"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "drama",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-drama-04"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "drama",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-drama-05"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "drama",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-drama-06"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "drama",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-drama-07"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "drama",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-drama-08"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "drama",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-drama-09"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "drama",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-drama-10"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "poetry",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-poetry-01"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "poetry",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-poetry-02"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "poetry",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-poetry-03"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "poetry",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-poetry-04"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "poetry",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-poetry-05"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "poetry",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-poetry-06"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "poetry",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-poetry-07"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "poetry",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-poetry-08"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "poetry",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b2r-poetry-09"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B2",
+      "stratum": "poetry",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b2r-poetry-10"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "modernist",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-modernist-011"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "modernist",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-modernist-012"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "modernist",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-modernist-013"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "modernist",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-modernist-014"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "modernist",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b3-modernist-015"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B3",
+      "stratum": "modernist",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-modernist-016"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B3",
+      "stratum": "modernist",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-modernist-017"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B3",
+      "stratum": "modernist",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-modernist-018"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "modernist",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-modernist-019"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B3",
+      "stratum": "modernist",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b3-modernist-020"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "theory",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-theory-021"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "theory",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-theory-022"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "theory",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-theory-023"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "theory",
+      "verified_tradition_floor": true,
+      "women_authored": true,
+      "work_id": "b3-theory-024"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "theory",
+      "verified_tradition_floor": true,
+      "women_authored": true,
+      "work_id": "b3-theory-025"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "theory",
+      "verified_tradition_floor": true,
+      "women_authored": true,
+      "work_id": "b3-theory-026"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "theory",
+      "verified_tradition_floor": true,
+      "women_authored": true,
+      "work_id": "b3-theory-027"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "theory",
+      "verified_tradition_floor": true,
+      "women_authored": true,
+      "work_id": "b3-theory-028"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "theory",
+      "verified_tradition_floor": true,
+      "women_authored": true,
+      "work_id": "b3-theory-029"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "theory",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b3-theory-030"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "world",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-world-001"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "world",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-world-002"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "world",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-world-003"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "world",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b3-world-004"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "world",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b3-world-005"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "world",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b3-world-006"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "world",
+      "verified_tradition_floor": true,
+      "women_authored": true,
+      "work_id": "b3-world-007"
+    },
+    {
+      "non_novel_or_hybrid": false,
+      "shard": "B3",
+      "stratum": "world",
+      "verified_tradition_floor": false,
+      "women_authored": true,
+      "work_id": "b3-world-008"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "world",
+      "verified_tradition_floor": false,
+      "women_authored": false,
+      "work_id": "b3-world-009"
+    },
+    {
+      "non_novel_or_hybrid": true,
+      "shard": "B3",
+      "stratum": "world",
+      "verified_tradition_floor": true,
+      "women_authored": false,
+      "work_id": "b3-world-010"
+    }
+  ],
+  "counts": {
+    "accepted": 100,
+    "reserves": 20,
+    "unique_total": 120
+  },
+  "global_uniqueness": {
+    "item_id": 120,
+    "normalized_title": 120,
+    "source_url": 120,
+    "work_id": 120
+  },
+  "max_author_including_reserves": 5,
+  "merge_tool_sha256": "745e54a720ee679604da8fe44632dd2b8d7fdc49786e29186e86a744188e5a76",
+  "normalized_author_counts": {
+    "addamsjane": 1,
+    "alcottlouisamay": 1,
+    "austenjane": 3,
+    "barriejmjamesmatthew": 1,
+    "baumlfranklymanfrank": 2,
+    "birdisabellalisabellalucy": 1,
+    "braddonmemaryelizabeth": 1,
+    "brasseyannie": 1,
+    "brontcharlotte": 1,
+    "brontemily": 1,
+    "browningelizabethbarrett": 1,
+    "burnettfranceshodgson": 1,
+    "burroughsedgarrice": 1,
+    "carrolllewis": 2,
+    "catherwilla": 2,
+    "chopinkate": 1,
+    "collinswilkie": 1,
+    "conradjoseph": 1,
+    "cooperannajannajulia": 1,
+    "cooperjamesfenimore": 1,
+    "cranestephen": 1,
+    "douglassfrederick": 2,
+    "duboiswebwilliamedwardburghardt": 1,
+    "eastmancharlesa": 2,
+    "eliotgeorge": 2,
+    "fordfordmadox": 1,
+    "frostrobert": 3,
+    "gaskellelizabethcleghorn": 2,
+    "gibrankahlil": 2,
+    "gilbertolive": 1,
+    "gilmancharlotteperkins": 2,
+    "grahamekenneth": 2,
+    "greyzane": 1,
+    "griffiswilliamelliot": 1,
+    "haggardhriderhenryrider": 1,
+    "hardythomas": 1,
+    "harperfrancesellenwatkins": 1,
+    "hawthornenathaniel": 1,
+    "hdhildadoolittle": 1,
+    "hearnlafcadio": 5,
+    "hopeanthony": 1,
+    "jacobsharrietaharrietann": 1,
+    "jameshenry": 1,
+    "jewettsarahorne": 1,
+    "joycejames": 2,
+    "kingsleymaryhenrietta": 1,
+    "lefanujosephsheridan": 1,
+    "londonjack": 1,
+    "longfellowhenrywadsworth": 1,
+    "lowellamy": 1,
+    "macdonaldgeorge": 1,
+    "mannthomas": 1,
+    "mansfieldkatherine": 1,
+    "melvilleherman": 1,
+    "millayednastvincent": 2,
+    "montgomerylmlucymaud": 1,
+    "nesbiteedith": 1,
+    "ozakiyeitheodora": 1,
+    "schreinerolive": 1,
+    "shakespearewilliam": 5,
+    "shawbernard": 1,
+    "shelleymarywollstonecraft": 2,
+    "stevensonrobertlouis": 3,
+    "stokerbram": 1,
+    "stoweharrietbeecher": 1,
+    "swiftjonathan": 1,
+    "syngejmjohnmillington": 1,
+    "tagorerabindranath": 4,
+    "teasdalesara": 2,
+    "toomerjean": 1,
+    "vonarnimelizabeth": 1,
+    "walpolehorace": 1,
+    "washingtonbookert": 1,
+    "wellsbarnettidab": 2,
+    "whartonedith": 5,
+    "whitmanwalt": 1,
+    "wildeoscar": 4,
+    "woolfvirginia": 2,
+    "yeatswbwilliambutler": 1,
+    "zitkalasa": 1
+  },
+  "output_semantic_sha256": {
+    "data/reserve_works.json": "62c6768f91a890677ebfd111ac752ab24355b60584876cc420ba3e2f6442f12c",
+    "data/works.json": "5b0870c9e1a73b96aaa39928b2dd51ecc9f23d349da743abbecca417624468c8"
+  },
+  "quotas": {
+    "accepted_by_stratum": {
+      "adventure": 10,
+      "american": 10,
+      "drama": 10,
+      "fantasy": 10,
+      "gothic": 10,
+      "modernist": 10,
+      "poetry": 10,
+      "social": 10,
+      "theory": 10,
+      "world": 10
+    },
+    "non_anglo_diasporic_translated_verified_floor": 22,
+    "non_novel_hybrid_conservative": 58,
+    "women_authored_accepted": 43
+  },
+  "record_semantic_sha256": {
+    "b1-adventure-001": "a6361bf89f6b839ecbfc214b16f404307eafabb88f540186566347f918b61e9e",
+    "b1-adventure-002": "413865fcdf47efa335e65f7065971dd33b61a4675c36b77df01ad807d75e5511",
+    "b1-adventure-003": "f75e24377fe1184302d61380acddeff441c63ffe73836a18d808d17822776ad2",
+    "b1-adventure-004": "1e60a20d63ccd43204dbbabfdac64c5f2c6b25bbb1f65a201c46795a3ea324d1",
+    "b1-adventure-005": "589faed8cfa26602758f0af8e78c595926809f4218b2c29b958b1b7974eb073a",
+    "b1-adventure-006": "40957568274f9aafa5537519bd482f4947e34440102ff261dce9b9b64f290c2c",
+    "b1-adventure-007": "8ca70703781a7de399159ee6983792befd9e93fdf79c52d8f4f367a7ed247035",
+    "b1-adventure-008": "4a7b58b1695e981be4e0f6c22cbf40375d61f039b6aa1aa117645dddebc7c9cf",
+    "b1-adventure-009": "e3a1a5e0e15d8f1272ceaaf355720dbbabdaac900a906363b6c0f11c6cc3501f",
+    "b1-adventure-010": "115a09d88e11880f1f134aa4ff6579995819495a3156385e383cc00254a46033",
+    "b1-fantasy-001": "62c709824dad9ca23ec24fe8a5330098f697b9e94449225b5fcd69daf0eef191",
+    "b1-fantasy-002": "9455cc8b9b6f46c06b6be691962a515f1f08b7748afe146f56015b84af5fa8de",
+    "b1-fantasy-003": "544ae480bdf37e159d8f1a07eff0fef3a60f21a4b5b156c8a7c81998e3b10bd4",
+    "b1-fantasy-004": "85d56743bef048f3fe1e4ab02649d7c05752f106d9d9a1c2241d9a9a09538b71",
+    "b1-fantasy-005": "f7bb2982d4f3f83a8506c05cdca97e1bd2f2fbed25ee2d77c44da53d0ee12202",
+    "b1-fantasy-006": "39460ea63c5cd23aa1498cfa5862104d7963f50818d35429f95685137380c42b",
+    "b1-fantasy-007": "6a0a84f4a148744db5a95ce5cb388c13575eb5f4b9173df8d5f0905ffcabdf21",
+    "b1-fantasy-008": "58970c615be67a98b3479057038e775a42606cccad3061b716e9d8ec0ab8bae2",
+    "b1-fantasy-009": "43383ab8994d36372352d9d819d7eac786deaa5992b6b7469736689fdf1ac367",
+    "b1-fantasy-010": "e4ad446ecc8c01d444c044c1973df58c3d5a4bb174e0781fa5a266bbbbfb659f",
+    "b1-gothic-001": "732a3b9edbada82bb964b938b0456e4e8b6a125996a4dd4bb2fbc84f7eafc4c7",
+    "b1-gothic-002": "c27c0af41e73d3e1751585246cbad258f35348c2473b0044acd866b92de02f55",
+    "b1-gothic-003": "c09509a2c3d9f8ef0550fc17b051e99b848b16fc1e995ced1a203fa5bc34c7d9",
+    "b1-gothic-004": "46d3a5be7d5ba6586c36969441751481add0f6897c4d651502967ef3c6a6e7fc",
+    "b1-gothic-005": "02d723632488b58827a53d43a584b2e25904ce44c4f814aa154ace84e413b325",
+    "b1-gothic-006": "30c7ca9c27a2dc583ec344b0ce1b4b713f3bd370d96a73e5304c60bb43e046fe",
+    "b1-gothic-007": "3f1a135aa3da804fc38b284c3ed97f54284e34f319648ab630aa0eb84974df26",
+    "b1-gothic-008": "b5ede9a73f58e0eb904b81e87f48135452944b4b06c69e6c2c5121cfa03795ba",
+    "b1-gothic-009": "fd7de64a38195641e7b25fa86b4ca1c4e90ac447b7961504dd8dd94897f09db1",
+    "b1-gothic-010": "9d4841551c695b4c4125a586511e529e6ccc745450531025f87713119f4f7e3a",
+    "b1-social-001": "c86e4cd19bf4fa1df9319f3cb14498b7e70e99b24916a16afb77cdd38929ce90",
+    "b1-social-002": "5e9fe19bf5351b4fa01e998d1131746c8c8cce50780f74d82bd2042947c85c66",
+    "b1-social-003": "1a47671701a808d6ab85809ccbc36365a28afd998b969655204916ede12f82e5",
+    "b1-social-004": "9067de2a8aabed15c8938771719b3319c0f53da7d9059a04c5ef37ba59aecc47",
+    "b1-social-005": "444519c96e42dcddadd80218195000d8c93ba21703516a2b22d662550c71cbb9",
+    "b1-social-006": "c80293992475d377c7fe1ed6e2b33b391b5bd4e9a55410bf7f0183115bb13285",
+    "b1-social-007": "3041acba06c30af3be66d002afc0a35e883306288253e5b0f3db603f89793fee",
+    "b1-social-008": "eaae24e41c29098ba3a0c1d9ce4a6da9dc9518ba4895374eff86ab8aee0d3baf",
+    "b1-social-009": "a02cf6bc39a00c9ed3f30737836641f8a5609988a927f6db9ebea6646f5177b2",
+    "b1-social-010": "05fbc8530f572257c25471eee7c3f4bb749cbb7b8a34d6adc4110fa07f49db7a",
+    "b2r-american-01": "4db76822ba1ddfea0bc43a6bf4e710f7351fc031f9b19de2ff5d12892ffa29f6",
+    "b2r-american-02": "d7a4203bd0f221d173bdcafe909964034eadd3d2f3227279cc975110d338aa34",
+    "b2r-american-03": "2d6c69410d75a4bacce7a0d1abf78c91b7bb970e616b7730becd9d7dfbcef4b2",
+    "b2r-american-04": "f5386ab24df31f74c40b6af6ab427079c598ab32b23da6c0617595672032e55e",
+    "b2r-american-05": "2dd2ed0146651cc5eb1a87cc5adc7a2dd1ebfbb553f976a5d4822f2393aeaab4",
+    "b2r-american-06": "9339e46955564cdf8b9f7bae3a82ed28987e426aaf7f30f30705c954254452b8",
+    "b2r-american-07": "500d9f4e16355e2ff0c74637cfde137c12dba787ce9c70a26164b4254db85b2b",
+    "b2r-american-08": "3af6ed7ea29316f4b0d35d963c06f7d580f58feb2c754c30398d63e3f0c2dbd1",
+    "b2r-american-09": "8dd16d223a56755ad9b604d2debcdbba5435a328b94758797baaea6a6855d34a",
+    "b2r-american-10": "b2550fbd5ec36e964826937d3435c381f630a8e3394bf3209ef0b2b525f106d5",
+    "b2r-drama-01": "6727c03bc125392712e6bd3f3b28315b3997631e32ed2f3dbaa592bfded0c6f8",
+    "b2r-drama-02": "8ee11298a408cb891274f2fc063ead03d943404f2126f379c5d159d32267e9dc",
+    "b2r-drama-03": "c7ebf5c914ccc39bc7d3ee3a26dff68f85fd2a135957119f2a5cc2f4fc7d3dd9",
+    "b2r-drama-04": "5e3d255bc26695b7622106ef5f08017cc6e25722a7e13f89a78406c7c38ef95c",
+    "b2r-drama-05": "01f412b373c0dfac329868d1f00d7ab3b0f767b3ad898f778c456dcbde8b1d0d",
+    "b2r-drama-06": "15acd9a514f528dd2b3f37d53aa95359a37bb31bec4c468231ac1c1d6cc892a1",
+    "b2r-drama-07": "f997efc377959de8d9330bed53860468d3ee104ece575d07cf5673cd964e6d41",
+    "b2r-drama-08": "a9df7d6f14040593f13ad27ea0ea28cc19096c08bc6d56d168a1436cb529d0b0",
+    "b2r-drama-09": "be530bfb70fc0339ad06a964b3336a6473c5ffd781cb17f42cbafefa74ba35e1",
+    "b2r-drama-10": "19dbb86166004fdeecf49164bc9f5eaab8a9fe90874bda7c42bdbd6bf5ab2f20",
+    "b2r-poetry-01": "2e98a93f56529a78147c8e7e52e4051afb95095e7935432cf0e82f64cc289e8c",
+    "b2r-poetry-02": "73b9097ade3ebc2f0067e3b8c19a19fa8e66d9ea8e8215048f3ae114028e42ba",
+    "b2r-poetry-03": "c0a6197b345968e8f931d82f2a8a0bbfe74059d670fddd0444b5b06ad0bc32cd",
+    "b2r-poetry-04": "c33389ae0959426d74caf09d07a9fbd8daaa477d6f73657db39122b597a69785",
+    "b2r-poetry-05": "180035e00dd7d206bd192a660dfa94fc7b95e0dc711d34e01ab23c739d61c783",
+    "b2r-poetry-06": "3531c141f323c08ccfb61fd06fe59f56e4ed42a540017d320a7f471f3c5eaa1b",
+    "b2r-poetry-07": "70aa3cc69615a485f3637b5fdd729ef57a316540c4dcd83eaad039d46b6262ff",
+    "b2r-poetry-08": "ae0d763152a43c3e3a90bf70336745f3df21c5f349430625fcd675f78cb7dc12",
+    "b2r-poetry-09": "d3f2ee679a1f0e08cc8335c95b2c2c2845859eee2428823ab3d3997a5bcc0f27",
+    "b2r-poetry-10": "806d06f7ec2d02fee99a18772f08c8f96eb1224beab10b7d19bdde1fdb07347c",
+    "b2r-reserve-01": "44150ecbd19d29cb8dc670c8aed47c03764f18a0152587292951a540b9016c61",
+    "b2r-reserve-02": "0e13ce2cee9e2444f5d97d5a45caac856756e818999f0005c6b538a5aa67fbc6",
+    "b2r-reserve-03": "be599c0ec3f41710c0dc231ed5d28cb2ba28bf5aeb623f5c6d0d46caae9facd2",
+    "b2r-reserve-04": "1164eeb35e19d1e097c0a7520738483c0594010ed79ed7226801f41a71cda08f",
+    "b2r-reserve-05": "a0868a7381e88337796cdadf9623c52b218a757d258c7b5e78a91c1bcc3e3094",
+    "b2r-reserve-06": "f3c115a744d9e1b8423063c29bb3f332182eecdf7c39dcc7658cbcfe353d6f53",
+    "b3-modernist-011": "e50a303d8ccd6fb567c1944930a20b846c25c93e5bc9ee33b3945511cc574950",
+    "b3-modernist-012": "088b452893ecf6c4c48634dc8a2ef852dbcc71266508e1064e3a852d5c0f3667",
+    "b3-modernist-013": "3969fce0d88d96c7c7c9606ffd46b523dac0c470fc543ecac92a298a836f24e4",
+    "b3-modernist-014": "01d439088b714fcdb0912e83a54ce3f92051b7815ca8eaaac66faddebbf074e3",
+    "b3-modernist-015": "7c242c9c057015ee4efd4f8433fc6aefe69e6def0d590ed50c19f469116fb05b",
+    "b3-modernist-016": "8bb8eccb308d2125bc6a8259e9974477c84aa71e0dccb0fff79c84f0db9953a9",
+    "b3-modernist-017": "92d1e839732b8f4eb921b5ccc303fe7de9d3c67e029d94952d9a05dcbca0db6c",
+    "b3-modernist-018": "be78ff8bcc2ed2c855d564096e87664d4f8f5195e3cf71c6a7071b95acb2d181",
+    "b3-modernist-019": "1ca180939d5d0a9b4f74e75bb9dc9c0d669d8ab6c80e850512c2a6c864190a46",
+    "b3-modernist-020": "1739b610c32576751488e1ed1c90fe0b5093d07539250465c45d942c32ece2ed",
+    "b3-theory-021": "e7bea3ce54bd15aab1d44e977c2c149df39e8b470158036732d8d3f0557c2fc5",
+    "b3-theory-022": "04f5505660698697f03db6348816751b05a79899865674816cf4a6753d858794",
+    "b3-theory-023": "01de9f5e0dae020792af710136932ff55da8cc834458c4c32081d5d399f29d8e",
+    "b3-theory-024": "6f362c2d05d18d6df56ee5eaaa57277966f513c363a8e6266d7987bd8ddec155",
+    "b3-theory-025": "91945d91ae97e9ef0f39ce661c074c016704bd7b5fcdbda0fe9dcf1c70ab5236",
+    "b3-theory-026": "13b7ce80fc69e65a1828223f7b7373808aa0f4abba9fb4074c00420170428c31",
+    "b3-theory-027": "5f3263299a9a4d7bf03c8c2dba76c1234eb84b22d43c0210c91ad1ad02baef2a",
+    "b3-theory-028": "171d9b6bcdde21caa72e8ea56ac0aff170307225fcc8ec44ffae1f545722a5ac",
+    "b3-theory-029": "cccc1e21099e2401ee21a738391ef83f395be26b360f61ca691f9ca0594a20a5",
+    "b3-theory-030": "4adf0d501c333c703200f80ff55bf81f1f55a1a256fc3a41b6e3401a88905dd1",
+    "b3-world-001": "c492734912b0bfb2e48f1c86164c0ce3727a602ad63cbdff455ec8d1813129e9",
+    "b3-world-002": "bfb66fe7e0559b62f9e821f6d16a504554cb77c85a97017f49b18a0f6e5caae5",
+    "b3-world-003": "58fc83af7129dbb863b95c7ae7f0cf746bafe88c6c8e3b6bdfa8923f8bf8e6d3",
+    "b3-world-004": "e72d28fdc2361d2b576d7de655ada44456b3c1e9c2a5eb823813d8aef4de1399",
+    "b3-world-005": "bdc2ecf8c96a5a621f5b59d4f863ef80fa7b89f98e6c0014bae478c5390de664",
+    "b3-world-006": "2734f6cd7742bdf6b3ff056a413bdcaeec58253eb8fdb90733f2b1da17328f19",
+    "b3-world-007": "4912e222224f419e7ae5070488acd73db74a597c8c651c4552664cafba1185c7",
+    "b3-world-008": "119a5c8b386280b1d1e49f9c1e58f7b6d438207037d8f3f641e3887ed1e12ea0",
+    "b3-world-009": "e0d61a3cc9319fba6be85ffff43ca0317d0677381dd3b2409faa528aae71b321",
+    "b3-world-010": "4844ac081f290f961c0915f3c861039cf44dac9ad0c0ea19509e3ee3c8e5c0a6",
+    "reserve-b1-001": "43d1e4f353da09fb7f80dcf6130788dc9f1b1f83164849b0adb4c076e0a2f42c",
+    "reserve-b1-002": "7c8e42861e4695be70c101c9e89ac7acbae4021df96cb2c4d1102ee62ab488ed",
+    "reserve-b1-003": "6648f7c687eb68f07b1f6da8cbbfd2cfc6f3c9641f70069eaab9778c7012a6af",
+    "reserve-b1-004": "658dc571b2159072194dc4d49d0618aea5f2341e5d57406a30222ce800012227",
+    "reserve-b1-005": "89a8c09a457b7e3a3c94a181decde1dc1c6026274b4d26f771ff8c4d2f42ea7e",
+    "reserve-b1-006": "9c39f74bf968346a54ee9f5b8c9f19a94d9c9b276337a29ae522dc0b5339b23b",
+    "reserve-b1-007": "56c71905a7c4f417ce09fc7b70e5653cb03f4752d28c80aba55234bfcbccaffe",
+    "reserve-b1-008": "1286f43725390a6167004a519bed0feefdbf74e94c98daff2cc7ed9fb76f2064",
+    "reserve-b3-031": "86d8a159221454d36386a9986d03c7a110ad06f7046dc569692ffafd1e657246",
+    "reserve-b3-032": "cd8c1a6e1b39a01d4370c8e67b17e7530f984312393006f9aef9106df87eb858",
+    "reserve-b3-033": "cd256c91a190d96e4ffb3e4d13d89bd7b2f3840d2192c7b5cda6e7b5f1a5ff9e",
+    "reserve-b3-034": "d8b6ef4a9369683b0cc9b327e31886e82d90f5381419f0cfaaf5d92c6363e49e",
+    "reserve-b3-035": "80e7bf7bf09e184830fc3e7ac1625723ab5594536670706f18c0e73b81025466",
+    "reserve-b3-036": "e7ad26c4b5bd8e17298bacefe0fca16c66278ce8ffbd1e47a28061ad1a080c5c"
+  },
+  "schema_version": "1.0",
+  "source_records_preserved": true,
+  "source_schemas": {
+    "schemas/bibliography_shard.json": "e3abad45667e5fcf84c78f226eeae76f3ce4a8190cb689099ee1501709482ced",
+    "schemas/work_record.json": "a937e88af59e592d9e54dac5f3457b049439c8c3a0b1aaa114e4402a9391d5eb"
+  },
+  "sources": [
+    {
+      "accepted": 40,
+      "files": {
+        "audit": {
+          "commit": "088e509f8ec15b3bad5437624728340ed5282c1d",
+          "path": "sources/manifests/audit_B1.json",
+          "sha256": "b3cc9c9eed7e32bdeada29f9914c4f5750504b79e48f1f025b7613d049612315"
+        },
+        "manifest": {
+          "commit": "088e509f8ec15b3bad5437624728340ed5282c1d",
+          "path": "sources/manifests/bibliography_B1.json",
+          "sha256": "6c04994d27c4d0b97040b0e508620ba54ec4447be846d1a3d99b8d6dff87f706"
+        },
+        "receipt": {
+          "commit": "088e509f8ec15b3bad5437624728340ed5282c1d",
+          "path": "generated/receipts/B1A.json",
+          "sha256": "393bc651ca95ddf4e9ed5f001e6395331fbf571a7cd4e4621a07d26da8e0c73f"
+        },
+        "shard": {
+          "commit": "088e509f8ec15b3bad5437624728340ed5282c1d",
+          "path": "data/bibliography_shards/B1.json",
+          "sha256": "3b029953f10c532ee42648605a8dd5a4df6fe5380539e7018c12f4f9c01c344c"
+        }
+      },
+      "receipt_commit_label": "PROSPECTIVE_HEAD_PACKET_B1R",
+      "reserves": 8,
+      "shard": "B1"
+    },
+    {
+      "accepted": 30,
+      "files": {
+        "audit": {
+          "commit": "9d3e830f85c31104aab8e40b260930638ef50571",
+          "path": "sources/manifests/audit_B2.json",
+          "sha256": "713ddd1caf354ff60b363225e8cc5100ef42b19f5a96dbdcbcdff7e6939d26d2"
+        },
+        "manifest": {
+          "commit": "9d3e830f85c31104aab8e40b260930638ef50571",
+          "path": "sources/manifests/bibliography_B2.json",
+          "sha256": "2c82d8e1a9c34c8fbaf6a53d4a2809a1025304d409362f3d8681ed49353941e1"
+        },
+        "receipt": {
+          "commit": "670dbb74619a1d899589e3a3b7d2b7d4cce02d25",
+          "path": "generated/receipts/B2A.json",
+          "sha256": "a6201e734d44ebaedbc8d6c8fa713d95932ed6ab0b38365ab704bf251f199e4d"
+        },
+        "shard": {
+          "commit": "9d3e830f85c31104aab8e40b260930638ef50571",
+          "path": "data/bibliography_shards/B2.json",
+          "sha256": "314333c641986daac979d4c0e805e5514275e6d58b65e3a51147f19ce87ab98f"
+        }
+      },
+      "receipt_commit_label": "HEAD",
+      "reserves": 6,
+      "shard": "B2"
+    },
+    {
+      "accepted": 30,
+      "files": {
+        "audit": {
+          "commit": "0a4020adca6dcb1e0e614512b618a908f2295042",
+          "path": "sources/manifests/audit_B3.json",
+          "sha256": "307335f1f465e3d57df11032b8d14720a0a088a7cb64f438b93098ba0f94f7cf"
+        },
+        "manifest": {
+          "commit": "0a4020adca6dcb1e0e614512b618a908f2295042",
+          "path": "sources/manifests/bibliography_B3.json",
+          "sha256": "e45bf5f8f016e607dac7e6aa5b320f48d243028b0894893ca37ec4ac73798cb1"
+        },
+        "receipt": {
+          "commit": "0a4020adca6dcb1e0e614512b618a908f2295042",
+          "path": "generated/receipts/B3.json",
+          "sha256": "1df05c5e229119ab5e781252ac1b362ab8037b51921ee44359e117d2f17af13b"
+        },
+        "shard": {
+          "commit": "0a4020adca6dcb1e0e614512b618a908f2295042",
+          "path": "data/bibliography_shards/B3.json",
+          "sha256": "8a75021c92607cc4e79a70757dfcf3aaa228dcb6649980711f136371dee3c04f"
+        }
+      },
+      "receipt_commit_label": "PROSPECTIVE_HEAD_PACKET_B3",
+      "reserves": 6,
+      "shard": "B3"
+    }
+  ],
+  "state": "READY"
+}

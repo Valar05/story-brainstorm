@@ -1,0 +1,21 @@
+{
+  "accepted_evidence": "Exact Open Library work record URL anchors identity/title; a mandatory exact-key Open Library search-index result supplies the earliest catalog publication year.",
+  "checks": [
+    "normalized anchored title match",
+    "exact-key query returns exactly one document with the same key and compatible title",
+    "search-index first_publish_year is an integer <= 1929",
+    "claimed first publication year <= search-index earliest catalog year"
+  ],
+  "exact_key_fallback": "Removed: exact-key search is mandatory because direct work first_publish_date fields are frequently missing or polluted by late editions.",
+  "forbidden": [
+    "search/root/edition URLs",
+    "Gutenberg generated summaries as dates",
+    "whole raw Open Library objects in audit output",
+    "ambiguous or mismatched exact-key fallback results"
+  ],
+  "limitation": "Open Library provides an indexed first_publish_date ceiling, not certification of the exact historical first-publication year. Claimed years remain curated and independently sampled against authoritative bibliographic evidence.",
+  "resume_cache": "When --live is combined with --rdf-cache and --evidence-cache, successfully parsed Gutenberg RDF, Open Library work JSON, and exact-key search JSON are atomically cached. Reruns reuse successes; malformed cached JSON/RDF is refetched live and replaced only after successful parsing.",
+  "retrieval": "Three attempts with bounded timeout/backoff for Open Library work and exact-key JSON.",
+  "schema_version": "1.0",
+  "title_equivalence": "Exact normalized title, or exact normalized primary-title equality before a colon, semicolon, or standalone or subtitle boundary; primary title must be at least 6 characters."
+}

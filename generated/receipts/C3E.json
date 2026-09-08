@@ -1,0 +1,28 @@
+{
+  "owner": "rights_sources",
+  "status": "complete",
+  "commit": "4642008c4f936c6f05ec9e8e716c15a2db916826",
+  "changed": [
+    "tools/audit_bibliography.py",
+    "tests/test_bibliography_audit.py",
+    "tests/fixtures/publication_catalog/OL1W.json",
+    "swarm/PUBLICATION_EVIDENCE_RULE.json",
+    "docs/RIGHTS_AND_EVIDENCE.md",
+    "generated/receipts/C3E.json"
+  ],
+  "checks": [
+    "python -m unittest tests.test_bibliography_audit (17 passed)",
+    "exact Open Library work URL and live/cache JSON fetch",
+    "catalog_pre_1930 and claimed_not_after_catalog checks",
+    "raw publication output reduced to item_id/title/date/year/checks/error",
+    "PG11 + OL138052W claimed 1865 live: READY (exit 0)",
+    "same tape claimed 1870 live: NOT_READY (exit 2)",
+    "atomic deterministic no-op preserved"
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "publication-evidence-gate"
+  ],
+  "proposals": []
+}

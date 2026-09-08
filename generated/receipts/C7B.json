@@ -1,0 +1,29 @@
+{
+  "owner": "rights_sources",
+  "status": "complete",
+  "commit": "PROSPECTIVE_HEAD_PACKET_C7B",
+  "changed": [
+    "tools/audit_primitive_evidence.py",
+    "tests/test_primitive_evidence_audit.py",
+    "tests/fixtures/source_text/11.txt",
+    "docs/EXTRACTION_METHOD.md",
+    "generated/receipts/C7B.json"
+  ],
+  "checks": [
+    "python -m unittest tests.test_primitive_evidence_audit (33 passed)",
+    "python -m unittest discover -s tests (105 passed)",
+    "body-only extraction requires recognized Gutenberg START/END markers; missing and reversed markers reject",
+    "header/license/credits/produced-by/footer excerpts reject while ordinary body prose using license remains eligible",
+    "normalized excerpt occurrence must be exactly one; repeated body excerpt rejects",
+    "bare paragraph locator rejects; Chapter 1 paragraph 2 and named poem stanza 1 accept",
+    "rejected E materialized from git commit f520847 and audited cache-only: NOT_READY, cards=340, refs=340, rows with vague or missing location=340",
+    "external cache and atomic/no-op behavior preserved",
+    "Foreman integration replay: python -m unittest tests.test_primitive_evidence_audit, 33 tests PASS."
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "body-evidence-ready"
+  ],
+  "proposals": []
+}

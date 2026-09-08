@@ -1,0 +1,27 @@
+{
+  "blockers": [],
+  "changed": [
+    "tools/audit_bibliography.py",
+    "tests/test_bibliography_audit.py",
+    "tests/fixtures/publication_catalog/OL2W.json",
+    "tests/fixtures/publication_catalog/OL2W.search.json",
+    "swarm/PUBLICATION_EVIDENCE_RULE.json",
+    "generated/receipts/C3F.json"
+  ],
+  "checks": [
+    "python -m unittest tests.test_bibliography_audit (21 passed)",
+    "python -m unittest discover -s tests (29 passed)",
+    "live PG11 + OL138052W exact-key search year 1865: READY",
+    "live PG1441 + OL890573W exact-key fallback year 1883: READY",
+    "ambiguous exact-key cached ablation: NOT_READY",
+    "edition subtitle positive and unrelated-title negative controls"
+  ],
+  "commit": "pending",
+  "dependencies_unlocked": [
+    "publication-evidence-exact-key-fallback"
+  ],
+  "owner": "foreman-integration",
+  "proposals": [],
+  "result": "pass: 21 bibliography tests; 29 total tests; live Alice and African Farm exact-key tapes READY",
+  "status": "complete"
+}

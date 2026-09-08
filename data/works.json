@@ -1,0 +1,2712 @@
+{
+  "schema_version": "1.0",
+  "works": [
+    {
+      "author": "Swift, Jonathan",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL36889562W",
+      "first_publication_year": 1726,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 829 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1726 is before 1930; digital release 1997-02-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/829",
+          "https://www.gutenberg.org/cache/epub/829/pg829.rdf",
+          "https://openlibrary.org/works/OL36889562W",
+          "https://archive.org/metadata/travelsintosever01swif_0"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1997-02-01",
+        "edition_year": 1997,
+        "item_id": "829",
+        "language": "en",
+        "raw_creator": "Swift, Jonathan",
+        "raw_title": "Gulliver's Travels into Several Remote Nations of the World",
+        "url": "https://www.gutenberg.org/ebooks/829"
+      },
+      "title": "Gulliver's Travels into Several Remote Nations of the World",
+      "work_id": "b1-adventure-001"
+    },
+    {
+      "author": "Stevenson, Robert Louis",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43045916W",
+      "first_publication_year": 1881,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 120 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1881 is before 1930; digital release 2006-02-26 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/120",
+          "https://www.gutenberg.org/cache/epub/120/pg120.rdf",
+          "https://openlibrary.org/works/OL43045916W",
+          "https://archive.org/metadata/islandtreasure00stevrich",
+          "https://stevensonmuseum.org/robert-louis-stevenson/the-works/"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2006-02-26",
+        "edition_year": 2006,
+        "item_id": "120",
+        "language": "en",
+        "raw_creator": "Stevenson, Robert Louis",
+        "raw_title": "Treasure Island",
+        "url": "https://www.gutenberg.org/ebooks/120"
+      },
+      "title": "Treasure Island",
+      "work_id": "b1-adventure-002"
+    },
+    {
+      "author": "Hope, Anthony",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43029358W",
+      "first_publication_year": 1894,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 95 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1894 is before 1930; digital release 2006-01-09 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/95",
+          "https://www.gutenberg.org/cache/epub/95/pg95.rdf",
+          "https://openlibrary.org/works/OL43029358W",
+          "https://archive.org/metadata/prisonerofzendab00hope"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2006-01-09",
+        "edition_year": 2006,
+        "item_id": "95",
+        "language": "en",
+        "raw_creator": "Hope, Anthony",
+        "raw_title": "The prisoner of Zenda",
+        "url": "https://www.gutenberg.org/ebooks/95"
+      },
+      "title": "The prisoner of Zenda",
+      "work_id": "b1-adventure-003"
+    },
+    {
+      "author": "Haggard, H. Rider (Henry Rider)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL45830096W",
+      "first_publication_year": 1885,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 2166 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1885 is before 1930; digital release 2000-05-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/2166",
+          "https://www.gutenberg.org/cache/epub/2166/pg2166.rdf",
+          "https://openlibrary.org/works/OL45830096W",
+          "https://llds.phon.ox.ac.uk/llds/xmlui/handle/20.500.14106/1977?show=full"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2000-05-01",
+        "edition_year": 2000,
+        "item_id": "2166",
+        "language": "en",
+        "raw_creator": "Haggard, H. Rider (Henry Rider)",
+        "raw_title": "King Solomon's Mines",
+        "url": "https://www.gutenberg.org/ebooks/2166"
+      },
+      "title": "King Solomon's Mines",
+      "work_id": "b1-adventure-004"
+    },
+    {
+      "author": "Cooper, James Fenimore",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL77958W",
+      "first_publication_year": 1826,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 27681 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1826 is before 1930; digital release 2009-01-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/27681",
+          "https://www.gutenberg.org/cache/epub/27681/pg27681.rdf",
+          "https://openlibrary.org/works/OL77958W",
+          "https://archive.org/metadata/lastofmohicansna02cooprich"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2009-01-01",
+        "edition_year": 2009,
+        "item_id": "27681",
+        "language": "en",
+        "raw_creator": "Cooper, James Fenimore",
+        "raw_title": "The Last of the Mohicans: A Narrative of 1757",
+        "url": "https://www.gutenberg.org/ebooks/27681"
+      },
+      "title": "The Last of the Mohicans: A Narrative of 1757",
+      "work_id": "b1-adventure-005"
+    },
+    {
+      "author": "Kingsley, Mary Henrietta",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL3371494W",
+      "first_publication_year": 1897,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 5891 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1897 is before 1930; digital release 2004-06-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/5891",
+          "https://www.gutenberg.org/cache/epub/5891/pg5891.rdf",
+          "https://openlibrary.org/works/OL3371494W",
+          "https://archive.org/metadata/cu31924085660581"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-06-01",
+        "edition_year": 2004,
+        "item_id": "5891",
+        "language": "en",
+        "raw_creator": "Kingsley, Mary Henrietta",
+        "raw_title": "Travels in West Africa: Congo Français, Corisco and Cameroons",
+        "url": "https://www.gutenberg.org/ebooks/5891"
+      },
+      "title": "Travels in West Africa: Congo Français, Corisco and Cameroons",
+      "work_id": "b1-adventure-006"
+    },
+    {
+      "author": "Bird, Isabella L. (Isabella Lucy)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1077887W",
+      "first_publication_year": 1879,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 755 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1879 is before 1930; digital release 1996-12-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/755",
+          "https://www.gutenberg.org/cache/epub/755/pg755.rdf",
+          "https://openlibrary.org/works/OL1077887W",
+          "https://archive.org/metadata/india.history.resource.84923"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-12-01",
+        "edition_year": 1996,
+        "item_id": "755",
+        "language": "en",
+        "raw_creator": "Bird, Isabella L. (Isabella Lucy)",
+        "raw_title": "A Lady's Life in the Rocky Mountains",
+        "url": "https://www.gutenberg.org/ebooks/755"
+      },
+      "title": "A Lady's Life in the Rocky Mountains",
+      "work_id": "b1-adventure-007"
+    },
+    {
+      "author": "Brassey, Annie",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL7418534W",
+      "first_publication_year": 1878,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 14836 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1878 is before 1930; digital release 2005-01-31 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/14836",
+          "https://www.gutenberg.org/cache/epub/14836/pg14836.rdf",
+          "https://openlibrary.org/works/OL7418534W",
+          "https://archive.org/metadata/avoyageinsunbea00brasgoog"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-01-31",
+        "edition_year": 2005,
+        "item_id": "14836",
+        "language": "en",
+        "raw_creator": "Brassey, Annie",
+        "raw_title": "A Voyage in the 'Sunbeam', Our Home on the Ocean for Eleven Months",
+        "url": "https://www.gutenberg.org/ebooks/14836"
+      },
+      "title": "A Voyage in the 'Sunbeam': Our Home on the Ocean for Eleven Months",
+      "work_id": "b1-adventure-008"
+    },
+    {
+      "author": "Stevenson, Robert Louis",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL24153W",
+      "first_publication_year": 1879,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 535 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1879 is before 1930; digital release 1996-05-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/535",
+          "https://www.gutenberg.org/cache/epub/535/pg535.rdf",
+          "https://openlibrary.org/works/OL24153W",
+          "https://archive.org/metadata/travelswithdonke07stev"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-05-01",
+        "edition_year": 1996,
+        "item_id": "535",
+        "language": "en",
+        "raw_creator": "Stevenson, Robert Louis",
+        "raw_title": "Travels with a donkey in the Cevennes",
+        "url": "https://www.gutenberg.org/ebooks/535"
+      },
+      "title": "Travels with a donkey in the Cevennes",
+      "work_id": "b1-adventure-009"
+    },
+    {
+      "author": "Stevenson, Robert Louis",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL15923277W",
+      "first_publication_year": 1878,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 534 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1878 is before 1930; digital release 1996-05-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/534",
+          "https://www.gutenberg.org/cache/epub/534/pg534.rdf",
+          "https://openlibrary.org/works/OL15923277W",
+          "https://archive.org/metadata/inlandvoyage001878stev"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-05-01",
+        "edition_year": 1996,
+        "item_id": "534",
+        "language": "en",
+        "raw_creator": "Stevenson, Robert Louis",
+        "raw_title": "An inland voyage",
+        "url": "https://www.gutenberg.org/ebooks/534"
+      },
+      "title": "An inland voyage",
+      "work_id": "b1-adventure-010"
+    },
+    {
+      "author": "Carroll, Lewis",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL138052W",
+      "first_publication_year": 1865,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 11 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1865 is before 1930; digital release 2008-06-27 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/11",
+          "https://www.gutenberg.org/cache/epub/11/pg11.rdf",
+          "https://openlibrary.org/works/OL138052W",
+          "https://archive.org/metadata/alicesadventu00carr",
+          "https://www.themorgan.org/printed-books/246978"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-06-27",
+        "edition_year": 2008,
+        "item_id": "11",
+        "language": "en",
+        "raw_creator": "Carroll, Lewis",
+        "raw_title": "Alice's Adventures in Wonderland",
+        "url": "https://www.gutenberg.org/ebooks/11"
+      },
+      "title": "Alice's Adventures in Wonderland",
+      "work_id": "b1-fantasy-001"
+    },
+    {
+      "author": "MacDonald, George",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL15428W",
+      "first_publication_year": 1864,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 697 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1864 is before 1930; digital release 1996-10-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/697",
+          "https://www.gutenberg.org/cache/epub/697/pg697.rdf",
+          "https://openlibrary.org/works/OL15428W",
+          "https://blogs.lib.umich.edu/beyond-reading-room/fairy-tale-fridays-light-princess"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-10-01",
+        "edition_year": 1996,
+        "item_id": "697",
+        "language": "en",
+        "raw_creator": "MacDonald, George",
+        "raw_title": "The Light Princess",
+        "url": "https://www.gutenberg.org/ebooks/697"
+      },
+      "title": "The Light Princess",
+      "work_id": "b1-fantasy-002"
+    },
+    {
+      "author": "Baum, L. Frank (Lyman Frank)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43110965W",
+      "first_publication_year": 1900,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 55 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1900 is before 1930; digital release 1993-02-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/55",
+          "https://www.gutenberg.org/cache/epub/55/pg55.rdf",
+          "https://openlibrary.org/works/OL43110965W",
+          "https://www.loc.gov/item/03032405/"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1993-02-01",
+        "edition_year": 1993,
+        "item_id": "55",
+        "language": "en",
+        "raw_creator": "Baum, L. Frank (Lyman Frank)",
+        "raw_title": "The Wonderful Wizard of Oz",
+        "url": "https://www.gutenberg.org/ebooks/55"
+      },
+      "title": "The Wonderful Wizard of Oz",
+      "work_id": "b1-fantasy-003"
+    },
+    {
+      "author": "Barrie, J. M. (James Matthew)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL462007W",
+      "first_publication_year": 1911,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 16 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1911 is before 1930; digital release 2008-06-25 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/16",
+          "https://www.gutenberg.org/cache/epub/16/pg16.rdf",
+          "https://openlibrary.org/works/OL462007W",
+          "https://archive.org/metadata/peterwendy00barr"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-06-25",
+        "edition_year": 2008,
+        "item_id": "16",
+        "language": "en",
+        "raw_creator": "Barrie, J. M. (James Matthew)",
+        "raw_title": "Peter Pan : $b [Peter and Wendy]",
+        "url": "https://www.gutenberg.org/ebooks/16"
+      },
+      "title": "Peter Pan : $b [Peter and Wendy]",
+      "work_id": "b1-fantasy-004"
+    },
+    {
+      "author": "Nesbit, E. (Edith)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL99499W",
+      "first_publication_year": 1902,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 778 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1902 is before 1930; digital release 1997-01-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/778",
+          "https://www.gutenberg.org/cache/epub/778/pg778.rdf",
+          "https://openlibrary.org/works/OL99499W",
+          "https://archive.org/metadata/nesfive",
+          "https://catalog.libraries.vsc.edu/cgi-bin/koha/opac-detail.pl?biblionumber=367473&shelfbrowse_itemnumber=503928"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1997-01-01",
+        "edition_year": 1997,
+        "item_id": "778",
+        "language": "en",
+        "raw_creator": "Nesbit, E. (Edith)",
+        "raw_title": "Five Children and It",
+        "url": "https://www.gutenberg.org/ebooks/778"
+      },
+      "title": "Five Children and It",
+      "work_id": "b1-fantasy-005"
+    },
+    {
+      "author": "Burroughs, Edgar Rice",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1418187W",
+      "first_publication_year": 1912,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 62 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1912 is before 1930; digital release 1993-04-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/62",
+          "https://www.gutenberg.org/cache/epub/62/pg62.rdf",
+          "https://openlibrary.org/works/OL1418187W",
+          "https://archive.org/metadata/princessofmars00burriala",
+          "https://www.erbzine.com/mag4/0421.html"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1993-04-01",
+        "edition_year": 1993,
+        "item_id": "62",
+        "language": "en",
+        "raw_creator": "Burroughs, Edgar Rice",
+        "raw_title": "A princess of Mars",
+        "url": "https://www.gutenberg.org/ebooks/62"
+      },
+      "title": "A princess of Mars",
+      "work_id": "b1-fantasy-006"
+    },
+    {
+      "author": "Wilde, Oscar",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL8269770W",
+      "first_publication_year": 1888,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 902 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1888 is before 1930; digital release 1997-05-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/902",
+          "https://www.gutenberg.org/cache/epub/902/pg902.rdf",
+          "https://openlibrary.org/works/OL8269770W",
+          "https://archive.org/metadata/happyprinceother02wild"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1997-05-01",
+        "edition_year": 1997,
+        "item_id": "902",
+        "language": "en",
+        "raw_creator": "Wilde, Oscar",
+        "raw_title": "The Happy Prince, and Other Tales",
+        "url": "https://www.gutenberg.org/ebooks/902"
+      },
+      "title": "The Happy Prince, and Other Tales",
+      "work_id": "b1-fantasy-007"
+    },
+    {
+      "author": "Wilde, Oscar",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL14877868W",
+      "first_publication_year": 1891,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 873 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1891 is before 1930; digital release 1997-04-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/873",
+          "https://www.gutenberg.org/cache/epub/873/pg873.rdf",
+          "https://openlibrary.org/works/OL14877868W",
+          "https://archive.org/metadata/houseofpomegrana00wild"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1997-04-01",
+        "edition_year": 1997,
+        "item_id": "873",
+        "language": "en",
+        "raw_creator": "Wilde, Oscar",
+        "raw_title": "A House of Pomegranates",
+        "url": "https://www.gutenberg.org/ebooks/873"
+      },
+      "title": "A House of Pomegranates",
+      "work_id": "b1-fantasy-008"
+    },
+    {
+      "author": "Baum, L. Frank (Lyman Frank)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL18396W",
+      "first_publication_year": 1904,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 54 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1904 is before 1930; digital release 1993-02-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/54",
+          "https://www.gutenberg.org/cache/epub/54/pg54.rdf",
+          "https://openlibrary.org/works/OL18396W",
+          "https://www.cs.cmu.edu/~rgs/ozland-intro.html"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1993-02-01",
+        "edition_year": 1993,
+        "item_id": "54",
+        "language": "en",
+        "raw_creator": "Baum, L. Frank (Lyman Frank)",
+        "raw_title": "The Marvelous Land of Oz",
+        "url": "https://www.gutenberg.org/ebooks/54"
+      },
+      "title": "The Marvelous Land of Oz",
+      "work_id": "b1-fantasy-009"
+    },
+    {
+      "author": "Grahame, Kenneth",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL40434226W",
+      "first_publication_year": 1898,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 1288 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1898 is before 1930; digital release 1998-04-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1288",
+          "https://www.gutenberg.org/cache/epub/1288/pg1288.rdf",
+          "https://openlibrary.org/works/OL40434226W",
+          "https://archive.org/metadata/dreamdays00grah",
+          "https://obnb.uk/p15805514-dream-days"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-04-01",
+        "edition_year": 1998,
+        "item_id": "1288",
+        "language": "en",
+        "raw_creator": "Grahame, Kenneth",
+        "raw_title": "Dream Days",
+        "url": "https://www.gutenberg.org/ebooks/1288"
+      },
+      "title": "Dream Days",
+      "work_id": "b1-fantasy-010"
+    },
+    {
+      "author": "Shelley, Mary Wollstonecraft",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL450063W",
+      "first_publication_year": 1818,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 84 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1818 is before 1930; digital release 1993-10-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/84",
+          "https://www.gutenberg.org/cache/epub/84/pg84.rdf",
+          "https://openlibrary.org/works/OL450063W",
+          "https://archive.org/metadata/shelleyfrankenstein03"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1993-10-01",
+        "edition_year": 1993,
+        "item_id": "84",
+        "language": "en",
+        "raw_creator": "Shelley, Mary Wollstonecraft",
+        "raw_title": "Frankenstein; or, the modern prometheus",
+        "url": "https://www.gutenberg.org/ebooks/84"
+      },
+      "title": "Frankenstein; or, the modern prometheus",
+      "work_id": "b1-gothic-001"
+    },
+    {
+      "author": "Stoker, Bram",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL85892W",
+      "first_publication_year": 1897,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 345 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1897 is before 1930; digital release 1995-10-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/345",
+          "https://www.gutenberg.org/cache/epub/345/pg345.rdf",
+          "https://openlibrary.org/works/OL85892W",
+          "https://archive.org/metadata/bub_gb_k39vHp-5VeMC"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1995-10-01",
+        "edition_year": 1995,
+        "item_id": "345",
+        "language": "en",
+        "raw_creator": "Stoker, Bram",
+        "raw_title": "Dracula",
+        "url": "https://www.gutenberg.org/ebooks/345"
+      },
+      "title": "Dracula",
+      "work_id": "b1-gothic-002"
+    },
+    {
+      "author": "Brontë, Charlotte",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1095427W",
+      "first_publication_year": 1847,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 1260 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1847 is before 1930; digital release 1998-03-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1260",
+          "https://www.gutenberg.org/cache/epub/1260/pg1260.rdf",
+          "https://openlibrary.org/works/OL1095427W",
+          "https://archive.org/metadata/janeeyreautobiog03bron"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-03-01",
+        "edition_year": 1998,
+        "item_id": "1260",
+        "language": "en",
+        "raw_creator": "Brontë, Charlotte",
+        "raw_title": "Jane Eyre: An Autobiography",
+        "url": "https://www.gutenberg.org/ebooks/1260"
+      },
+      "title": "Jane Eyre: An Autobiography",
+      "work_id": "b1-gothic-003"
+    },
+    {
+      "author": "Brontë, Emily",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43008309W",
+      "first_publication_year": 1847,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 768 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1847 is before 1930; digital release 1996-12-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/768",
+          "https://www.gutenberg.org/cache/epub/768/pg768.rdf",
+          "https://openlibrary.org/works/OL43008309W",
+          "https://archive.org/metadata/wutheringheights01bron"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-12-01",
+        "edition_year": 1996,
+        "item_id": "768",
+        "language": "en",
+        "raw_creator": "Brontë, Emily",
+        "raw_title": "Wuthering Heights",
+        "url": "https://www.gutenberg.org/ebooks/768"
+      },
+      "title": "Wuthering Heights",
+      "work_id": "b1-gothic-004"
+    },
+    {
+      "author": "Collins, Wilkie",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL176045W",
+      "first_publication_year": 1859,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 583 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1859 is before 1930; digital release 1996-07-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/583",
+          "https://www.gutenberg.org/cache/epub/583/pg583.rdf",
+          "https://openlibrary.org/works/OL176045W",
+          "https://archive.org/metadata/77562750.5019.emory.edu",
+          "https://omeka.library.uvic.ca/exhibits/show/movable-type/authorship/womaninwhite.html"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-07-01",
+        "edition_year": 1996,
+        "item_id": "583",
+        "language": "en",
+        "raw_creator": "Collins, Wilkie",
+        "raw_title": "The Woman in White",
+        "url": "https://www.gutenberg.org/ebooks/583"
+      },
+      "title": "The Woman in White",
+      "work_id": "b1-gothic-005"
+    },
+    {
+      "author": "James, Henry",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL276386W",
+      "first_publication_year": 1898,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 209 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1898 is before 1930; digital release 1995-02-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/209",
+          "https://www.gutenberg.org/cache/epub/209/pg209.rdf",
+          "https://openlibrary.org/works/OL276386W",
+          "https://archive.org/metadata/twomagicsturnofs00jameuoft"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1995-02-01",
+        "edition_year": 1995,
+        "item_id": "209",
+        "language": "en",
+        "raw_creator": "James, Henry",
+        "raw_title": "The Turn of the Screw",
+        "url": "https://www.gutenberg.org/ebooks/209"
+      },
+      "title": "The Turn of the Screw",
+      "work_id": "b1-gothic-006"
+    },
+    {
+      "author": "Walpole, Horace",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL183675W",
+      "first_publication_year": 1764,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 696 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1764 is before 1930; digital release 1996-10-01 is not substituted for historical publication. Native English literary layer; no unidentified translation. Henry Morley introduction is separately evidenced in the 1901 Cassell edition including New York and covered by exact-item PD_US confirmation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/696",
+          "https://www.gutenberg.org/cache/epub/696/pg696.rdf",
+          "https://openlibrary.org/works/OL183675W",
+          "https://archive.org/metadata/bim_eighteenth-century_the-castle-of-otranto-a_walpole-horace_1765",
+          "https://news.yale.edu/2017/10/24/walpolooza-celebration-marks-horace-walpoles-300th-birthday"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-10-01",
+        "edition_year": 1996,
+        "editor": "Morley, Henry",
+        "item_id": "696",
+        "language": "en",
+        "raw_creator": "Walpole, Horace",
+        "raw_title": "The Castle of Otranto",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "url": "https://www.gutenberg.org/ebooks/696"
+      },
+      "title": "The Castle of Otranto",
+      "work_id": "b1-gothic-007"
+    },
+    {
+      "author": "Gilman, Charlotte Perkins",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL2772007W",
+      "first_publication_year": 1892,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 1952 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1892 is before 1930; digital release 1999-11-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1952",
+          "https://www.gutenberg.org/cache/epub/1952/pg1952.rdf",
+          "https://openlibrary.org/works/OL2772007W",
+          "https://archive.org/metadata/gilman1892",
+          "https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibition4.html"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1999-11-01",
+        "edition_year": 1999,
+        "item_id": "1952",
+        "language": "en",
+        "raw_creator": "Gilman, Charlotte Perkins",
+        "raw_title": "The Yellow Wallpaper",
+        "url": "https://www.gutenberg.org/ebooks/1952"
+      },
+      "title": "The Yellow Wallpaper",
+      "work_id": "b1-gothic-008"
+    },
+    {
+      "author": "Le Fanu, Joseph Sheridan",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL2895536W",
+      "first_publication_year": 1871,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 10007 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1871 is before 1930; digital release 2003-11-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/10007",
+          "https://www.gutenberg.org/cache/epub/10007/pg10007.rdf",
+          "https://openlibrary.org/works/OL2895536W",
+          "https://museums.ua.edu/carmilla-a-tale-of-monstrous-desire/"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-11-01",
+        "edition_year": 2003,
+        "item_id": "10007",
+        "language": "en",
+        "raw_creator": "Le Fanu, Joseph Sheridan",
+        "raw_title": "Carmilla",
+        "url": "https://www.gutenberg.org/ebooks/10007"
+      },
+      "title": "Carmilla",
+      "work_id": "b1-gothic-009"
+    },
+    {
+      "author": "Wharton, Edith",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL98582W",
+      "first_publication_year": 1910,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 4514 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1910 is before 1930; digital release 2003-10-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/4514",
+          "https://www.gutenberg.org/cache/epub/4514/pg4514.rdf",
+          "https://openlibrary.org/works/OL98582W",
+          "https://archive.org/metadata/cu31924075700967"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-10-01",
+        "edition_year": 2003,
+        "item_id": "4514",
+        "language": "en",
+        "raw_creator": "Wharton, Edith",
+        "raw_title": "Tales of Men and Ghosts",
+        "url": "https://www.gutenberg.org/ebooks/4514"
+      },
+      "title": "Tales of Men and Ghosts",
+      "work_id": "b1-gothic-010"
+    },
+    {
+      "author": "Austen, Jane",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL66554W",
+      "first_publication_year": 1813,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 1342 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1813 is before 1930; digital release 1998-06-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1342",
+          "https://www.gutenberg.org/cache/epub/1342/pg1342.rdf",
+          "https://openlibrary.org/works/OL66554W",
+          "https://archive.org/metadata/JaneAusten-PrideandPrejudice-1sted-1813-vol1"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-06-01",
+        "edition_year": 1998,
+        "item_id": "1342",
+        "language": "en",
+        "raw_creator": "Austen, Jane",
+        "raw_title": "Pride and Prejudice",
+        "url": "https://www.gutenberg.org/ebooks/1342"
+      },
+      "title": "Pride and Prejudice",
+      "work_id": "b1-social-001"
+    },
+    {
+      "author": "Austen, Jane",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL66562W",
+      "first_publication_year": 1811,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 161 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1811 is before 1930; digital release 1994-09-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/161",
+          "https://www.gutenberg.org/cache/epub/161/pg161.rdf",
+          "https://openlibrary.org/works/OL66562W",
+          "https://archive.org/metadata/McGillLibrary-rbsc_sense-and-sensibility_pr4034s41811_v1-25396"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1994-09-01",
+        "edition_year": 1994,
+        "item_id": "161",
+        "language": "en",
+        "raw_creator": "Austen, Jane",
+        "raw_title": "Sense and Sensibility",
+        "url": "https://www.gutenberg.org/ebooks/161"
+      },
+      "title": "Sense and Sensibility",
+      "work_id": "b1-social-002"
+    },
+    {
+      "author": "Eliot, George",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL41592638W",
+      "first_publication_year": 1871,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 145 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1871 is before 1930; digital release 1994-07-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/145",
+          "https://www.gutenberg.org/cache/epub/145/pg145.rdf",
+          "https://openlibrary.org/works/OL41592638W",
+          "https://archive.org/metadata/middlemarchstudy12elio"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1994-07-01",
+        "edition_year": 1994,
+        "item_id": "145",
+        "language": "en",
+        "raw_creator": "Eliot, George",
+        "raw_title": "Middlemarch",
+        "url": "https://www.gutenberg.org/ebooks/145"
+      },
+      "title": "Middlemarch",
+      "work_id": "b1-social-003"
+    },
+    {
+      "author": "Eliot, George",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL16882630W",
+      "first_publication_year": 1860,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 6688 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1860 is before 1930; digital release 2004-10-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/6688",
+          "https://www.gutenberg.org/cache/epub/6688/pg6688.rdf",
+          "https://openlibrary.org/works/OL16882630W",
+          "https://archive.org/metadata/flossmillon03eliorich"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-10-01",
+        "edition_year": 2004,
+        "item_id": "6688",
+        "language": "en",
+        "raw_creator": "Eliot, George",
+        "raw_title": "The Mill on the Floss",
+        "url": "https://www.gutenberg.org/ebooks/6688"
+      },
+      "title": "The Mill on the Floss",
+      "work_id": "b1-social-004"
+    },
+    {
+      "author": "Hardy, Thomas",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL40434746W",
+      "first_publication_year": 1891,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 110 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1891 is before 1930; digital release 1994-02-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/110",
+          "https://www.gutenberg.org/cache/epub/110/pg110.rdf",
+          "https://openlibrary.org/works/OL40434746W",
+          "https://archive.org/metadata/tessofdurbervill03hard"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1994-02-01",
+        "edition_year": 1994,
+        "item_id": "110",
+        "language": "en",
+        "raw_creator": "Hardy, Thomas",
+        "raw_title": "Tess of the d'Urbervilles: A Pure Woman",
+        "url": "https://www.gutenberg.org/ebooks/110"
+      },
+      "title": "Tess of the d'Urbervilles: A Pure Woman",
+      "work_id": "b1-social-005"
+    },
+    {
+      "author": "Austen, Jane",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL66513W",
+      "first_publication_year": 1815,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 158 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1815 is before 1930; digital release 1994-08-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/158",
+          "https://www.gutenberg.org/cache/epub/158/pg158.rdf",
+          "https://openlibrary.org/works/OL66513W",
+          "https://archive.org/metadata/emmanovel03aust",
+          "https://janeaustensociety.org.uk/jane-austen/the-novels/"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1994-08-01",
+        "edition_year": 1994,
+        "item_id": "158",
+        "language": "en",
+        "raw_creator": "Austen, Jane",
+        "raw_title": "Emma",
+        "url": "https://www.gutenberg.org/ebooks/158"
+      },
+      "title": "Emma",
+      "work_id": "b1-social-006"
+    },
+    {
+      "author": "Wharton, Edith",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL98587W",
+      "first_publication_year": 1905,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 284 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1905 is before 1930; digital release 1995-06-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/284",
+          "https://www.gutenberg.org/cache/epub/284/pg284.rdf",
+          "https://openlibrary.org/works/OL98587W",
+          "https://archive.org/metadata/thehouseofmirth00whar"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1995-06-01",
+        "edition_year": 1995,
+        "item_id": "284",
+        "language": "en",
+        "raw_creator": "Wharton, Edith",
+        "raw_title": "The House of Mirth",
+        "url": "https://www.gutenberg.org/ebooks/284"
+      },
+      "title": "The House of Mirth",
+      "work_id": "b1-social-007"
+    },
+    {
+      "author": "Wharton, Edith",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL98491W",
+      "first_publication_year": 1920,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 541 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1920 is before 1930; digital release 1996-05-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/541",
+          "https://www.gutenberg.org/cache/epub/541/pg541.rdf",
+          "https://openlibrary.org/works/OL98491W",
+          "https://archive.org/metadata/ageinnocence00whargoog"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-05-01",
+        "edition_year": 1996,
+        "item_id": "541",
+        "language": "en",
+        "raw_creator": "Wharton, Edith",
+        "raw_title": "The Age of Innocence",
+        "url": "https://www.gutenberg.org/ebooks/541"
+      },
+      "title": "The Age of Innocence",
+      "work_id": "b1-social-008"
+    },
+    {
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1103203W",
+      "first_publication_year": 1854,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 4276 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1854 is before 1930; digital release 2003-07-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/4276",
+          "https://www.gutenberg.org/cache/epub/4276/pg4276.rdf",
+          "https://openlibrary.org/works/OL1103203W",
+          "https://archive.org/metadata/northsouth01gask",
+          "https://elizabethgaskellhouse.co.uk/the-timeline-series-its-1854/"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-07-01",
+        "edition_year": 2003,
+        "item_id": "4276",
+        "language": "en",
+        "raw_creator": "Gaskell, Elizabeth Cleghorn",
+        "raw_title": "North and South",
+        "url": "https://www.gutenberg.org/ebooks/4276"
+      },
+      "title": "North and South",
+      "work_id": "b1-social-009"
+    },
+    {
+      "author": "Gaskell, Elizabeth Cleghorn",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1103093W",
+      "first_publication_year": 1851,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 394 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1851 is before 1930; digital release 1996-01-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/394",
+          "https://www.gutenberg.org/cache/epub/394/pg394.rdf",
+          "https://openlibrary.org/works/OL1103093W",
+          "https://archive.org/metadata/gaskellcranford1stUSed",
+          "https://elizabethgaskellhouse.co.uk/its-1851-cranford-year-for-gaskell-fans/"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-01-01",
+        "edition_year": 1996,
+        "item_id": "394",
+        "language": "en",
+        "raw_creator": "Gaskell, Elizabeth Cleghorn",
+        "raw_title": "Cranford",
+        "url": "https://www.gutenberg.org/ebooks/394"
+      },
+      "title": "Cranford",
+      "work_id": "b1-social-010"
+    },
+    {
+      "author": "Hawthorne, Nathaniel",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL45097173W",
+      "first_publication_year": 1850,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/25344",
+          "https://www.gutenberg.org/cache/epub/25344/pg25344.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-05-05",
+        "edition_year": 2008,
+        "item_id": "25344",
+        "language": "en",
+        "raw_creator": "Hawthorne, Nathaniel",
+        "raw_title": "The Scarlet Letter",
+        "url": "https://www.gutenberg.org/ebooks/25344"
+      },
+      "title": "The Scarlet Letter",
+      "work_id": "b2r-american-01"
+    },
+    {
+      "author": "Melville, Herman",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL102749W",
+      "first_publication_year": 1851,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/2701",
+          "https://www.gutenberg.org/cache/epub/2701/pg2701.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2001-07-01",
+        "edition_year": 2001,
+        "item_id": "2701",
+        "language": "en",
+        "raw_creator": "Melville, Herman",
+        "raw_title": "Moby Dick; Or, The Whale",
+        "url": "https://www.gutenberg.org/ebooks/2701"
+      },
+      "title": "Moby Dick; Or, The Whale",
+      "work_id": "b2r-american-02"
+    },
+    {
+      "author": "Stowe, Harriet Beecher",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL45323531W",
+      "first_publication_year": 1851,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/203",
+          "https://www.gutenberg.org/cache/epub/203/pg203.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2006-01-13",
+        "edition_year": 2006,
+        "item_id": "203",
+        "language": "en",
+        "raw_creator": "Stowe, Harriet Beecher",
+        "raw_title": "Uncle Tom's Cabin",
+        "url": "https://www.gutenberg.org/ebooks/203"
+      },
+      "title": "Uncle Tom's Cabin",
+      "work_id": "b2r-american-03"
+    },
+    {
+      "author": "Alcott, Louisa May",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43265041W",
+      "first_publication_year": 1868,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/514",
+          "https://www.gutenberg.org/cache/epub/514/pg514.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-05-01",
+        "edition_year": 1996,
+        "item_id": "514",
+        "language": "en",
+        "raw_creator": "Alcott, Louisa May",
+        "raw_title": "Little Women",
+        "url": "https://www.gutenberg.org/ebooks/514"
+      },
+      "title": "Little Women",
+      "work_id": "b2r-american-04"
+    },
+    {
+      "author": "Chopin, Kate",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL65441W",
+      "first_publication_year": 1894,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/46650",
+          "https://www.gutenberg.org/cache/epub/46650/pg46650.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2014-08-22",
+        "edition_year": 2014,
+        "item_id": "46650",
+        "language": "en",
+        "raw_creator": "Chopin, Kate",
+        "raw_title": "Bayou Folk",
+        "url": "https://www.gutenberg.org/ebooks/46650"
+      },
+      "title": "Bayou Folk",
+      "work_id": "b2r-american-05"
+    },
+    {
+      "author": "Gilman, Charlotte Perkins",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL2771987W",
+      "first_publication_year": 1915,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/32",
+          "https://www.gutenberg.org/cache/epub/32/pg32.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-06-27",
+        "edition_year": 2008,
+        "item_id": "32",
+        "language": "en",
+        "raw_creator": "Gilman, Charlotte Perkins",
+        "raw_title": "Herland",
+        "url": "https://www.gutenberg.org/ebooks/32"
+      },
+      "title": "Herland",
+      "work_id": "b2r-american-06"
+    },
+    {
+      "author": "Harper, Frances Ellen Watkins",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL2019796W",
+      "first_publication_year": 1892,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/12352",
+          "https://www.gutenberg.org/cache/epub/12352/pg12352.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-05-01",
+        "edition_year": 2004,
+        "item_id": "12352",
+        "language": "en",
+        "raw_creator": "Harper, Frances Ellen Watkins",
+        "raw_title": "Iola Leroy; Or, Shadows Uplifted",
+        "url": "https://www.gutenberg.org/ebooks/12352"
+      },
+      "title": "Iola Leroy; Or, Shadows Uplifted",
+      "work_id": "b2r-american-07"
+    },
+    {
+      "author": "Cather, Willa",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL12795W",
+      "first_publication_year": 1913,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/24",
+          "https://www.gutenberg.org/cache/epub/24/pg24.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-06-27",
+        "edition_year": 2008,
+        "item_id": "24",
+        "language": "en",
+        "raw_creator": "Cather, Willa",
+        "raw_title": "O Pioneers!",
+        "url": "https://www.gutenberg.org/ebooks/24"
+      },
+      "title": "O Pioneers!",
+      "work_id": "b2r-american-08"
+    },
+    {
+      "author": "Jewett, Sarah Orne",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL67238W",
+      "first_publication_year": 1896,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/367",
+          "https://www.gutenberg.org/cache/epub/367/pg367.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-07-11",
+        "edition_year": 2008,
+        "item_id": "367",
+        "language": "en",
+        "raw_creator": "Jewett, Sarah Orne",
+        "raw_title": "The Country of the Pointed Firs",
+        "url": "https://www.gutenberg.org/ebooks/367"
+      },
+      "title": "The Country of the Pointed Firs",
+      "work_id": "b2r-american-09"
+    },
+    {
+      "author": "London, Jack",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL14942956W",
+      "first_publication_year": 1903,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/215",
+          "https://www.gutenberg.org/cache/epub/215/pg215.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-07-02",
+        "edition_year": 2008,
+        "item_id": "215",
+        "language": "en",
+        "raw_creator": "London, Jack",
+        "raw_title": "The call of the wild",
+        "url": "https://www.gutenberg.org/ebooks/215"
+      },
+      "title": "The call of the wild",
+      "work_id": "b2r-american-10"
+    },
+    {
+      "author": "Shakespeare, William",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL9170454W",
+      "first_publication_year": 1603,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1524",
+          "https://www.gutenberg.org/cache/epub/1524/pg1524.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-11-01",
+        "edition_year": 1998,
+        "item_id": "1524",
+        "language": "en",
+        "raw_creator": "Shakespeare, William",
+        "raw_title": "Hamlet",
+        "url": "https://www.gutenberg.org/ebooks/1524"
+      },
+      "title": "Hamlet",
+      "work_id": "b2r-drama-01"
+    },
+    {
+      "author": "Shakespeare, William",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL25927868W",
+      "first_publication_year": 1623,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1533",
+          "https://www.gutenberg.org/cache/epub/1533/pg1533.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-11-01",
+        "edition_year": 1998,
+        "item_id": "1533",
+        "language": "en",
+        "raw_creator": "Shakespeare, William",
+        "raw_title": "Macbeth",
+        "url": "https://www.gutenberg.org/ebooks/1533"
+      },
+      "title": "Macbeth",
+      "work_id": "b2r-drama-02"
+    },
+    {
+      "author": "Shakespeare, William",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL362427W",
+      "first_publication_year": 1597,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1513",
+          "https://www.gutenberg.org/cache/epub/1513/pg1513.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-11-01",
+        "edition_year": 1998,
+        "item_id": "1513",
+        "language": "en",
+        "raw_creator": "Shakespeare, William",
+        "raw_title": "Romeo and Juliet",
+        "url": "https://www.gutenberg.org/ebooks/1513"
+      },
+      "title": "Romeo and Juliet",
+      "work_id": "b2r-drama-03"
+    },
+    {
+      "author": "Wilde, Oscar",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL44233629W",
+      "first_publication_year": 1899,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/844",
+          "https://www.gutenberg.org/cache/epub/844/pg844.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1997-03-01",
+        "edition_year": 1997,
+        "item_id": "844",
+        "language": "en",
+        "raw_creator": "Wilde, Oscar",
+        "raw_title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+        "url": "https://www.gutenberg.org/ebooks/844"
+      },
+      "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+      "work_id": "b2r-drama-04"
+    },
+    {
+      "author": "Wilde, Oscar",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL44397849W",
+      "first_publication_year": 1894,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/854",
+          "https://www.gutenberg.org/cache/epub/854/pg854.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1997-03-01",
+        "edition_year": 1997,
+        "item_id": "854",
+        "language": "en",
+        "raw_creator": "Wilde, Oscar",
+        "raw_title": "A Woman of No Importance",
+        "url": "https://www.gutenberg.org/ebooks/854"
+      },
+      "title": "A Woman of No Importance",
+      "work_id": "b2r-drama-05"
+    },
+    {
+      "author": "Synge, J. M. (John Millington)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL27933W",
+      "first_publication_year": 1907,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1240",
+          "https://www.gutenberg.org/cache/epub/1240/pg1240.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-03-01",
+        "edition_year": 1998,
+        "item_id": "1240",
+        "language": "en",
+        "raw_creator": "Synge, J. M. (John Millington)",
+        "raw_title": "The Playboy of the Western World: A Comedy in Three Acts",
+        "url": "https://www.gutenberg.org/ebooks/1240"
+      },
+      "title": "The Playboy of the Western World: A Comedy in Three Acts",
+      "work_id": "b2r-drama-06"
+    },
+    {
+      "author": "Yeats, W. B. (William Butler)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL38840W",
+      "first_publication_year": 1894,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/15153",
+          "https://www.gutenberg.org/cache/epub/15153/pg15153.rdf",
+          "https://www.gutenberg.org/cache/epub/15153/pg15153-images.html"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-02-23",
+        "edition_year": 2005,
+        "editor": "E. Haldeman-Julius",
+        "item_id": "15153",
+        "language": "en",
+        "raw_creator": "Yeats, W. B. (William Butler)",
+        "raw_title": "The Land of Heart's Desire",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "url": "https://www.gutenberg.org/ebooks/15153"
+      },
+      "title": "The Land of Heart's Desire",
+      "work_id": "b2r-drama-07"
+    },
+    {
+      "author": "Shaw, Bernard",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL32055344W",
+      "first_publication_year": 1913,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/3825",
+          "https://www.gutenberg.org/cache/epub/3825/pg3825.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-03-01",
+        "edition_year": 2003,
+        "item_id": "3825",
+        "language": "en",
+        "raw_creator": "Shaw, Bernard",
+        "raw_title": "Pygmalion",
+        "url": "https://www.gutenberg.org/ebooks/3825"
+      },
+      "title": "Pygmalion",
+      "work_id": "b2r-drama-08"
+    },
+    {
+      "author": "Millay, Edna St. Vincent",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL482387W",
+      "first_publication_year": 1920,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/5790",
+          "https://www.gutenberg.org/cache/epub/5790/pg5790.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-05-01",
+        "edition_year": 2004,
+        "item_id": "5790",
+        "language": "en",
+        "raw_creator": "Millay, Edna St. Vincent",
+        "raw_title": "Aria da Capo",
+        "url": "https://www.gutenberg.org/ebooks/5790"
+      },
+      "title": "Aria da Capo",
+      "work_id": "b2r-drama-09"
+    },
+    {
+      "author": "Shakespeare, William",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL259026W",
+      "first_publication_year": 1608,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1532",
+          "https://www.gutenberg.org/cache/epub/1532/pg1532.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-11-01",
+        "edition_year": 1998,
+        "item_id": "1532",
+        "language": "en",
+        "raw_creator": "Shakespeare, William",
+        "raw_title": "King Lear",
+        "url": "https://www.gutenberg.org/ebooks/1532"
+      },
+      "title": "King Lear",
+      "work_id": "b2r-drama-10"
+    },
+    {
+      "author": "Whitman, Walt",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL16333W",
+      "first_publication_year": 1855,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1322",
+          "https://www.gutenberg.org/cache/epub/1322/pg1322.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-05-01",
+        "edition_year": 1998,
+        "item_id": "1322",
+        "language": "en",
+        "raw_creator": "Whitman, Walt",
+        "raw_title": "Leaves of Grass",
+        "url": "https://www.gutenberg.org/ebooks/1322"
+      },
+      "title": "Leaves of Grass",
+      "work_id": "b2r-poetry-01"
+    },
+    {
+      "author": "Frost, Robert",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL44185294W",
+      "first_publication_year": 1914,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/3026",
+          "https://www.gutenberg.org/cache/epub/3026/pg3026.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2002-01-01",
+        "edition_year": 2002,
+        "item_id": "3026",
+        "language": "en",
+        "raw_creator": "Frost, Robert",
+        "raw_title": "North of Boston",
+        "url": "https://www.gutenberg.org/ebooks/3026"
+      },
+      "title": "North of Boston",
+      "work_id": "b2r-poetry-02"
+    },
+    {
+      "author": "Longfellow, Henry Wadsworth",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL31589527W",
+      "first_publication_year": 1855,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/19",
+          "https://www.gutenberg.org/cache/epub/19/pg19.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-06-01",
+        "edition_year": 2004,
+        "editor": "Morris, Woodrow W.",
+        "item_id": "19",
+        "language": "en",
+        "raw_creator": "Longfellow, Henry Wadsworth",
+        "raw_title": "The Song of Hiawatha",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "url": "https://www.gutenberg.org/ebooks/19"
+      },
+      "title": "The Song of Hiawatha",
+      "work_id": "b2r-poetry-03"
+    },
+    {
+      "author": "Millay, Edna St. Vincent",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL482390W",
+      "first_publication_year": 1917,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/109",
+          "https://www.gutenberg.org/cache/epub/109/pg109.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1994-02-01",
+        "edition_year": 1994,
+        "item_id": "109",
+        "language": "en",
+        "raw_creator": "Millay, Edna St. Vincent",
+        "raw_title": "Renascence, and Other Poems",
+        "url": "https://www.gutenberg.org/ebooks/109"
+      },
+      "title": "Renascence, and Other Poems",
+      "work_id": "b2r-poetry-04"
+    },
+    {
+      "author": "Teasdale, Sara",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL15515028W",
+      "first_publication_year": 1915,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/596",
+          "https://www.gutenberg.org/cache/epub/596/pg596.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-07-01",
+        "edition_year": 1996,
+        "item_id": "596",
+        "language": "en",
+        "raw_creator": "Teasdale, Sara",
+        "raw_title": "Rivers to the Sea",
+        "url": "https://www.gutenberg.org/ebooks/596"
+      },
+      "title": "Rivers to the Sea",
+      "work_id": "b2r-poetry-05"
+    },
+    {
+      "author": "Teasdale, Sara",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1516275W",
+      "first_publication_year": 1917,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/442",
+          "https://www.gutenberg.org/cache/epub/442/pg442.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-02-01",
+        "edition_year": 1996,
+        "item_id": "442",
+        "language": "en",
+        "raw_creator": "Teasdale, Sara",
+        "raw_title": "Love Songs",
+        "url": "https://www.gutenberg.org/ebooks/442"
+      },
+      "title": "Love Songs",
+      "work_id": "b2r-poetry-06"
+    },
+    {
+      "author": "Lowell, Amy",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL2249097W",
+      "first_publication_year": 1916,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/841",
+          "https://www.gutenberg.org/cache/epub/841/pg841.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1997-03-01",
+        "edition_year": 1997,
+        "item_id": "841",
+        "language": "en",
+        "raw_creator": "Lowell, Amy",
+        "raw_title": "Men, Women and Ghosts",
+        "url": "https://www.gutenberg.org/ebooks/841"
+      },
+      "title": "Men, Women and Ghosts",
+      "work_id": "b2r-poetry-07"
+    },
+    {
+      "author": "H. D. (Hilda Doolittle)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL52820W",
+      "first_publication_year": 1916,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/28665",
+          "https://www.gutenberg.org/cache/epub/28665/pg28665.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2009-05-02",
+        "edition_year": 2009,
+        "item_id": "28665",
+        "language": "en",
+        "raw_creator": "H. D. (Hilda Doolittle)",
+        "raw_title": "Sea Garden",
+        "url": "https://www.gutenberg.org/ebooks/28665"
+      },
+      "title": "Sea Garden",
+      "work_id": "b2r-poetry-08"
+    },
+    {
+      "author": "Browning, Elizabeth Barrett",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1198482W",
+      "first_publication_year": 1850,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/2002",
+          "https://www.gutenberg.org/cache/epub/2002/pg2002.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1999-12-01",
+        "edition_year": 1999,
+        "item_id": "2002",
+        "language": "en",
+        "raw_creator": "Browning, Elizabeth Barrett",
+        "raw_title": "Sonnets from the Portuguese",
+        "url": "https://www.gutenberg.org/ebooks/2002"
+      },
+      "title": "Sonnets from the Portuguese",
+      "work_id": "b2r-poetry-09"
+    },
+    {
+      "author": "Frost, Robert",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL42480804W",
+      "first_publication_year": 1913,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/3021",
+          "https://www.gutenberg.org/cache/epub/3021/pg3021.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2002-01-01",
+        "edition_year": 2002,
+        "item_id": "3021",
+        "language": "en",
+        "raw_creator": "Frost, Robert",
+        "raw_title": "A Boy's Will",
+        "url": "https://www.gutenberg.org/ebooks/3021"
+      },
+      "title": "A Boy's Will",
+      "work_id": "b2r-poetry-10"
+    },
+    {
+      "author": "Toomer, Jean",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL49843W",
+      "first_publication_year": 1923,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/60093",
+          "https://www.gutenberg.org/cache/epub/60093/pg60093.rdf",
+          "https://www.gutenberg.org/cache/epub/60093/pg60093.txt",
+          "https://archive.org/details/cane01toom",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2019-08-12",
+        "edition_year": 2019,
+        "item_id": "60093",
+        "language": "en",
+        "raw_creator": "Toomer, Jean",
+        "raw_title": "Cane",
+        "url": "https://www.gutenberg.org/ebooks/60093"
+      },
+      "title": "Cane",
+      "work_id": "b3-modernist-011"
+    },
+    {
+      "author": "Du Bois, W. E. B. (William Edward Burghardt)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL28571W",
+      "first_publication_year": 1920,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/15210",
+          "https://www.gutenberg.org/cache/epub/15210/pg15210.rdf",
+          "https://www.gutenberg.org/cache/epub/15210/pg15210.txt",
+          "https://archive.org/details/darkwatervoicesf00dubo",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-02-28",
+        "edition_year": 2005,
+        "item_id": "15210",
+        "language": "en",
+        "raw_creator": "Du Bois, W. E. B. (William Edward Burghardt)",
+        "raw_title": "Darkwater: Voices from Within the Veil",
+        "url": "https://www.gutenberg.org/ebooks/15210"
+      },
+      "title": "Darkwater: Voices from Within the Veil",
+      "work_id": "b3-modernist-012"
+    },
+    {
+      "author": "Gibran, Kahlil",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL318863W",
+      "first_publication_year": 1918,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/5616",
+          "https://www.gutenberg.org/cache/epub/5616/pg5616.rdf",
+          "https://www.gutenberg.org/cache/epub/5616/pg5616.txt",
+          "https://archive.org/details/madmanhisparable00gibr",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-05-01",
+        "edition_year": 2004,
+        "item_id": "5616",
+        "language": "en",
+        "raw_creator": "Gibran, Kahlil",
+        "raw_title": "The Madman: His Parables and Poems",
+        "url": "https://www.gutenberg.org/ebooks/5616"
+      },
+      "title": "The Madman: His Parables and Poems",
+      "work_id": "b3-modernist-013"
+    },
+    {
+      "author": "Gibran, Kahlil",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43081250W",
+      "first_publication_year": 1923,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/58585",
+          "https://www.gutenberg.org/cache/epub/58585/pg58585.rdf",
+          "https://www.gutenberg.org/cache/epub/58585/pg58585.txt",
+          "https://archive.org/details/prophet00kahi",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2019-01-01",
+        "edition_year": 2019,
+        "item_id": "58585",
+        "language": "en",
+        "raw_creator": "Gibran, Kahlil",
+        "raw_title": "The Prophet",
+        "url": "https://www.gutenberg.org/ebooks/58585"
+      },
+      "title": "The Prophet",
+      "work_id": "b3-modernist-014"
+    },
+    {
+      "author": "Mansfield, Katherine",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL788054W",
+      "first_publication_year": 1922,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1429",
+          "https://www.gutenberg.org/cache/epub/1429/pg1429.rdf",
+          "https://www.gutenberg.org/cache/epub/1429/pg1429.txt",
+          "https://archive.org/details/gardenpartyothermansrich",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-08-01",
+        "edition_year": 1998,
+        "item_id": "1429",
+        "language": "en",
+        "raw_creator": "Mansfield, Katherine",
+        "raw_title": "The Garden Party, and Other Stories",
+        "url": "https://www.gutenberg.org/ebooks/1429"
+      },
+      "title": "The Garden Party, and Other Stories",
+      "work_id": "b3-modernist-015"
+    },
+    {
+      "author": "Conrad, Joseph",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL38827W",
+      "first_publication_year": 1916,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/451",
+          "https://www.gutenberg.org/cache/epub/451/pg451.rdf",
+          "https://www.gutenberg.org/cache/epub/451/pg451.txt",
+          "https://archive.org/details/shadowlineaconf00conrgoog",
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.josephconradsociety.org/catalogues/steeger_L13415_1.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2006-01-09",
+        "edition_year": 2006,
+        "item_id": "451",
+        "language": "en",
+        "raw_creator": "Conrad, Joseph",
+        "raw_title": "The Shadow Line: A Confession",
+        "url": "https://www.gutenberg.org/ebooks/451"
+      },
+      "title": "The Shadow Line: A Confession",
+      "work_id": "b3-modernist-016"
+    },
+    {
+      "author": "Mann, Thomas",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43171605W",
+      "first_publication_year": 1912,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/66073",
+          "https://www.gutenberg.org/cache/epub/66073/pg66073.rdf",
+          "https://www.gutenberg.org/cache/epub/66073/pg66073.txt",
+          "https://www.gutenberg.org/cache/epub/12108/pg12108.txt",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2021-08-16",
+        "edition_year": 2021,
+        "item_id": "66073",
+        "language": "en",
+        "raw_creator": "Mann, Thomas",
+        "raw_title": "Death in Venice",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Burke, Kenneth",
+        "url": "https://www.gutenberg.org/ebooks/66073"
+      },
+      "title": "Death in Venice",
+      "work_id": "b3-modernist-017"
+    },
+    {
+      "author": "Joyce, James",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL33122325W",
+      "first_publication_year": 1914,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/4217",
+          "https://www.gutenberg.org/cache/epub/4217/pg4217.rdf",
+          "https://www.gutenberg.org/cache/epub/4217/pg4217.txt",
+          "https://joycetower.ie/collection/artefacts/jtaa_0015-a-portrait-of-the-artist-as-a-young-man",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-07-01",
+        "edition_year": 2003,
+        "item_id": "4217",
+        "language": "en",
+        "raw_creator": "Joyce, James",
+        "raw_title": "A Portrait of the Artist as a Young Man",
+        "url": "https://www.gutenberg.org/ebooks/4217"
+      },
+      "title": "A Portrait of the Artist as a Young Man",
+      "work_id": "b3-modernist-018"
+    },
+    {
+      "author": "Joyce, James",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL86320W",
+      "first_publication_year": 1914,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/2814",
+          "https://www.gutenberg.org/cache/epub/2814/pg2814.rdf",
+          "https://www.gutenberg.org/cache/epub/2814/pg2814.txt",
+          "https://archive.org/details/dubliners00joyc_8",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2001-09-01",
+        "edition_year": 2001,
+        "item_id": "2814",
+        "language": "en",
+        "raw_creator": "Joyce, James",
+        "raw_title": "Dubliners",
+        "url": "https://www.gutenberg.org/ebooks/2814"
+      },
+      "title": "Dubliners",
+      "work_id": "b3-modernist-019"
+    },
+    {
+      "author": "Woolf, Virginia",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL39349W",
+      "first_publication_year": 1925,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/71865",
+          "https://www.gutenberg.org/cache/epub/71865/pg71865.rdf",
+          "https://www.gutenberg.org/cache/epub/71865/pg71865.txt",
+          "https://blogs.loc.gov/copyright/2021/01/the-lifecycle-of-copyright-1925-works-enter-the-public-domain/",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2023-10-13",
+        "edition_year": 2023,
+        "item_id": "71865",
+        "language": "en",
+        "raw_creator": "Woolf, Virginia",
+        "raw_title": "Mrs. Dalloway",
+        "url": "https://www.gutenberg.org/ebooks/71865"
+      },
+      "title": "Mrs. Dalloway",
+      "work_id": "b3-modernist-020"
+    },
+    {
+      "author": "Washington, Booker T.",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL357501W",
+      "first_publication_year": 1900,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/2376",
+          "https://www.gutenberg.org/cache/epub/2376/pg2376.rdf",
+          "https://www.gutenberg.org/cache/epub/2376/pg2376.txt",
+          "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha012502850",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2000-10-01",
+        "edition_year": 2000,
+        "item_id": "2376",
+        "language": "en",
+        "raw_creator": "Washington, Booker T.",
+        "raw_title": "Up from Slavery: An Autobiography",
+        "url": "https://www.gutenberg.org/ebooks/2376"
+      },
+      "title": "Up from Slavery: An Autobiography",
+      "work_id": "b3-theory-021"
+    },
+    {
+      "author": "Douglass, Frederick",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL69178W",
+      "first_publication_year": 1845,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/23",
+          "https://www.gutenberg.org/cache/epub/23/pg23.rdf",
+          "https://www.gutenberg.org/cache/epub/23/pg23.txt",
+          "https://archive.org/details/narrativeoflifeo1845doug",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2006-01-12",
+        "edition_year": 2006,
+        "item_id": "23",
+        "language": "en",
+        "raw_creator": "Douglass, Frederick",
+        "raw_title": "Narrative of the Life of Frederick Douglass, an American Slave",
+        "url": "https://www.gutenberg.org/ebooks/23"
+      },
+      "title": "Narrative of the Life of Frederick Douglass: an American Slave",
+      "work_id": "b3-theory-022"
+    },
+    {
+      "author": "Douglass, Frederick",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL69176W",
+      "first_publication_year": 1881,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/71893",
+          "https://www.gutenberg.org/cache/epub/71893/pg71893.rdf",
+          "https://www.gutenberg.org/cache/epub/71893/pg71893.txt",
+          "https://archive.org/details/lifetimesoffrede1881doug",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2023-10-16",
+        "edition_year": 2023,
+        "item_id": "71893",
+        "language": "en",
+        "raw_creator": "Douglass, Frederick",
+        "raw_title": "Life and times of Frederick Douglass : $b His early life as a slave, his escape from bondage, and his complete history",
+        "url": "https://www.gutenberg.org/ebooks/71893"
+      },
+      "title": "Life and times of Frederick Douglass : $b His early life as a slave, his escape from bondage, and his complete history",
+      "work_id": "b3-theory-023"
+    },
+    {
+      "author": "Jacobs, Harriet A. (Harriet Ann)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL28623W",
+      "first_publication_year": 1861,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/11030",
+          "https://www.gutenberg.org/cache/epub/11030/pg11030.rdf",
+          "https://www.gutenberg.org/cache/epub/11030/pg11030.txt",
+          "https://archive.org/details/incidentsinlifeo1861jaco",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-02-01",
+        "edition_year": 2004,
+        "editor": "Child, Lydia Maria",
+        "item_id": "11030",
+        "language": "en",
+        "raw_creator": "Jacobs, Harriet A. (Harriet Ann)",
+        "raw_title": "Incidents in the Life of a Slave Girl, Written by Herself",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "url": "https://www.gutenberg.org/ebooks/11030"
+      },
+      "title": "Incidents in the Life of a Slave Girl: Written by Herself",
+      "work_id": "b3-theory-024"
+    },
+    {
+      "author": "Gilbert, Olive",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL20577473W",
+      "first_publication_year": 1850,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1674",
+          "https://www.gutenberg.org/cache/epub/1674/pg1674.rdf",
+          "https://www.gutenberg.org/cache/epub/1674/pg1674.txt",
+          "https://archive.org/details/narrativeofsojou1850gilb",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1999-03-01",
+        "edition_year": 1999,
+        "editor": "Gilbert, Olive",
+        "item_id": "1674",
+        "language": "en",
+        "raw_creator": "Gilbert, Olive",
+        "raw_title": "The Narrative of Sojourner Truth",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "url": "https://www.gutenberg.org/ebooks/1674"
+      },
+      "title": "The Narrative of Sojourner Truth",
+      "work_id": "b3-theory-025"
+    },
+    {
+      "author": "Wells-Barnett, Ida B.",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL2481244W",
+      "first_publication_year": 1899,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/64426",
+          "https://www.gutenberg.org/cache/epub/64426/pg64426.rdf",
+          "https://www.gutenberg.org/cache/epub/64426/pg64426.txt",
+          "https://archive.org/details/lynchlawingeorgi00well",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2021-01-31",
+        "edition_year": 2021,
+        "item_id": "64426",
+        "language": "en",
+        "raw_creator": "Wells-Barnett, Ida B.",
+        "raw_title": "Lynch Law in Georgia",
+        "url": "https://www.gutenberg.org/ebooks/64426"
+      },
+      "title": "Lynch Law in Georgia",
+      "work_id": "b3-theory-026"
+    },
+    {
+      "author": "Wells-Barnett, Ida B.",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL21963355W",
+      "first_publication_year": 1892,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/14975",
+          "https://www.gutenberg.org/cache/epub/14975/pg14975.rdf",
+          "https://www.gutenberg.org/cache/epub/14975/pg14975.txt",
+          "https://www.nypl.org/events/exhibitions/galleries/archiving-against-censorship-and-white-supremacy/item/17480",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-02-08",
+        "edition_year": 2005,
+        "item_id": "14975",
+        "language": "en",
+        "raw_creator": "Wells-Barnett, Ida B.",
+        "raw_title": "Southern Horrors: Lynch Law in All Its Phases",
+        "url": "https://www.gutenberg.org/ebooks/14975"
+      },
+      "title": "Southern Horrors: Lynch Law in All Its Phases",
+      "work_id": "b3-theory-027"
+    },
+    {
+      "author": "Cooper, Anna J. (Anna Julia)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL2721707W",
+      "first_publication_year": 1892,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/61741",
+          "https://www.gutenberg.org/cache/epub/61741/pg61741.rdf",
+          "https://www.gutenberg.org/cache/epub/61741/pg61741.txt",
+          "https://archive.org/details/voicefromsouth00coop",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2020-04-02",
+        "edition_year": 2020,
+        "item_id": "61741",
+        "language": "en",
+        "raw_creator": "Cooper, Anna J. (Anna Julia)",
+        "raw_title": "A Voice from the South\r\nBy a Black Woman of the South",
+        "url": "https://www.gutenberg.org/ebooks/61741"
+      },
+      "title": "A Voice from the South: By a Black Woman of the South",
+      "work_id": "b3-theory-028"
+    },
+    {
+      "author": "Zitkala-Sa",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL5478557W",
+      "first_publication_year": 1921,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/10376",
+          "https://www.gutenberg.org/cache/epub/10376/pg10376.rdf",
+          "https://www.gutenberg.org/cache/epub/10376/pg10376.txt",
+          "https://archive.org/details/americanindianst1921zitk",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-12-01",
+        "edition_year": 2003,
+        "item_id": "10376",
+        "language": "en",
+        "raw_creator": "Zitkala-Sa",
+        "raw_title": "American Indian Stories",
+        "url": "https://www.gutenberg.org/ebooks/10376"
+      },
+      "title": "American Indian Stories",
+      "work_id": "b3-theory-029"
+    },
+    {
+      "author": "Addams, Jane",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL36956502W",
+      "first_publication_year": 1910,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1325",
+          "https://www.gutenberg.org/cache/epub/1325/pg1325.rdf",
+          "https://www.gutenberg.org/cache/epub/1325/pg1325.txt",
+          "https://archive.org/details/twentyyearsathul00addauoft",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-05-01",
+        "edition_year": 1998,
+        "item_id": "1325",
+        "language": "en",
+        "raw_creator": "Addams, Jane",
+        "raw_title": "Twenty Years at Hull House; with Autobiographical Notes",
+        "url": "https://www.gutenberg.org/ebooks/1325"
+      },
+      "title": "Twenty Years at Hull House; with Autobiographical Notes",
+      "work_id": "b3-theory-030"
+    },
+    {
+      "author": "Tagore, Rabindranath",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL19666208W",
+      "first_publication_year": 1912,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/7164",
+          "https://www.gutenberg.org/cache/epub/7164/pg7164.rdf",
+          "https://www.gutenberg.org/cache/epub/7164/pg7164.txt",
+          "https://archive.org/details/gitanjalisongoff00tago_0",
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://archive.org/details/gitanjalifruitga00tago"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-12-01",
+        "edition_year": 2004,
+        "item_id": "7164",
+        "language": "en",
+        "raw_creator": "Tagore, Rabindranath",
+        "raw_title": "Gitanjali",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Tagore, Rabindranath",
+        "url": "https://www.gutenberg.org/ebooks/7164"
+      },
+      "title": "Gitanjali",
+      "work_id": "b3-world-001"
+    },
+    {
+      "author": "Tagore, Rabindranath",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL308957W",
+      "first_publication_year": 1913,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/6686",
+          "https://www.gutenberg.org/cache/epub/6686/pg6686.rdf",
+          "https://www.gutenberg.org/cache/epub/6686/pg6686.txt",
+          "https://archive.org/details/gardener00tagogoog",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-10-01",
+        "edition_year": 2004,
+        "item_id": "6686",
+        "language": "en",
+        "raw_creator": "Tagore, Rabindranath",
+        "raw_title": "The gardener",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Tagore, Rabindranath",
+        "url": "https://www.gutenberg.org/ebooks/6686"
+      },
+      "title": "The gardener",
+      "work_id": "b3-world-002"
+    },
+    {
+      "author": "Tagore, Rabindranath",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL308951W",
+      "first_publication_year": 1916,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/6522",
+          "https://www.gutenberg.org/cache/epub/6522/pg6522.rdf",
+          "https://www.gutenberg.org/cache/epub/6522/pg6522.txt",
+          "https://archive.org/details/fruitgathering00tagouoft",
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://archive.org/details/gitanjalifruitga00tago"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-09-01",
+        "edition_year": 2004,
+        "item_id": "6522",
+        "language": "en",
+        "raw_creator": "Tagore, Rabindranath",
+        "raw_title": "Fruit-Gathering",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Tagore, Rabindranath",
+        "url": "https://www.gutenberg.org/ebooks/6522"
+      },
+      "title": "Fruit-Gathering",
+      "work_id": "b3-world-003"
+    },
+    {
+      "author": "Hearn, Lafcadio",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL859613W",
+      "first_publication_year": 1904,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1210",
+          "https://www.gutenberg.org/cache/epub/1210/pg1210.rdf",
+          "https://www.gutenberg.org/cache/epub/1210/pg1210.txt",
+          "https://archive.org/details/kwaidanstories00hearrich",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-02-01",
+        "edition_year": 1998,
+        "item_id": "1210",
+        "language": "en",
+        "raw_creator": "Hearn, Lafcadio",
+        "raw_title": "Kwaidan: Stories and Studies of Strange Things",
+        "url": "https://www.gutenberg.org/ebooks/1210"
+      },
+      "title": "Kwaidan: Stories and Studies of Strange Things",
+      "work_id": "b3-world-004"
+    },
+    {
+      "author": "Hearn, Lafcadio",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL859566W",
+      "first_publication_year": 1896,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/8882",
+          "https://www.gutenberg.org/cache/epub/8882/pg8882.rdf",
+          "https://www.gutenberg.org/cache/epub/8882/pg8882.txt",
+          "https://archive.org/details/kokorohintsechoe00hearuoft",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-09-01",
+        "edition_year": 2005,
+        "item_id": "8882",
+        "language": "en",
+        "raw_creator": "Hearn, Lafcadio",
+        "raw_title": "Kokoro: Hints and Echoes of Japanese Inner Life",
+        "url": "https://www.gutenberg.org/ebooks/8882"
+      },
+      "title": "Kokoro: Hints and Echoes of Japanese Inner Life",
+      "work_id": "b3-world-005"
+    },
+    {
+      "author": "Hearn, Lafcadio",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL859451W",
+      "first_publication_year": 1899,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/8128",
+          "https://www.gutenberg.org/cache/epub/8128/pg8128.rdf",
+          "https://www.gutenberg.org/cache/epub/8128/pg8128.txt",
+          "https://archive.org/details/cu31924014202687",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-05-01",
+        "edition_year": 2005,
+        "item_id": "8128",
+        "language": "en",
+        "raw_creator": "Hearn, Lafcadio",
+        "raw_title": "In Ghostly Japan",
+        "url": "https://www.gutenberg.org/ebooks/8128"
+      },
+      "title": "In Ghostly Japan",
+      "work_id": "b3-world-006"
+    },
+    {
+      "author": "Ozaki, Yei Theodora",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL7305984W",
+      "first_publication_year": 1903,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/4018",
+          "https://www.gutenberg.org/cache/epub/4018/pg4018.rdf",
+          "https://www.gutenberg.org/cache/epub/4018/pg4018.txt",
+          "https://archive.org/details/japanesefairyboo00oza",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-05-01",
+        "edition_year": 2003,
+        "item_id": "4018",
+        "language": "en",
+        "raw_creator": "Ozaki, Yei Theodora",
+        "raw_title": "Japanese Fairy Tales",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Ozaki, Yei Theodora",
+        "url": "https://www.gutenberg.org/ebooks/4018"
+      },
+      "title": "Japanese Fairy Tales",
+      "work_id": "b3-world-007"
+    },
+    {
+      "author": "Schreiner, Olive",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL890573W",
+      "first_publication_year": 1883,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1441",
+          "https://www.gutenberg.org/cache/epub/1441/pg1441.rdf",
+          "https://www.gutenberg.org/cache/epub/1441/pg1441.txt",
+          "https://webapp1.dlib.indiana.edu/vwwp/view?docId=VAB7167",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-09-01",
+        "edition_year": 1998,
+        "item_id": "1441",
+        "language": "en",
+        "raw_creator": "Schreiner, Olive",
+        "raw_title": "The Story of an African Farm",
+        "url": "https://www.gutenberg.org/ebooks/1441"
+      },
+      "title": "The Story of an African Farm",
+      "work_id": "b3-world-008"
+    },
+    {
+      "author": "Griffis, William Elliot",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1501066W",
+      "first_publication_year": 1880,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/29337",
+          "https://www.gutenberg.org/cache/epub/29337/pg29337.rdf",
+          "https://www.gutenberg.org/cache/epub/29337/pg29337.txt",
+          "https://archive.org/details/japanesefairywor00grifrich",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2009-07-06",
+        "edition_year": 2009,
+        "item_id": "29337",
+        "language": "en",
+        "raw_creator": "Griffis, William Elliot",
+        "raw_title": "Japanese Fairy World\nStories from the Wonder-Lore of Japan",
+        "url": "https://www.gutenberg.org/ebooks/29337"
+      },
+      "title": "Japanese Fairy World: Stories from the Wonder-Lore of Japan",
+      "work_id": "b3-world-009"
+    },
+    {
+      "author": "Tagore, Rabindranath",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL308656W",
+      "first_publication_year": 1916,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/6524",
+          "https://www.gutenberg.org/cache/epub/6524/pg6524.rdf",
+          "https://www.gutenberg.org/cache/epub/6524/pg6524.txt",
+          "https://archive.org/details/straybirds00tago",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-09-01",
+        "edition_year": 2004,
+        "item_id": "6524",
+        "language": "en",
+        "raw_creator": "Tagore, Rabindranath",
+        "raw_title": "Stray Birds",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Tagore, Rabindranath",
+        "url": "https://www.gutenberg.org/ebooks/6524"
+      },
+      "title": "Stray Birds",
+      "work_id": "b3-world-010"
+    }
+  ]
+}

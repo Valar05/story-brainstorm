@@ -1,0 +1,19 @@
+{
+  "owner": "driver-advance",
+  "status": "complete",
+  "commit": "SELF",
+  "changed": [
+    "data/primitive_cards.json",
+    "generated/receipts/driver_advance_causal_shadow_2026-09-05.json"
+  ],
+  "checks": [
+    "primitive_card fields checked against schemas/primitive_card.json",
+    "all four work_ids verified in data/works.json",
+    "all evidence excerpts are 25 words or fewer",
+    "all four evidence texts inspected in the cited Project Gutenberg editions"
+  ],
+  "result": "Added one accepted multi-source character primitive, Causal Shadow, synthesized from Treasure Island, Dracula, The Woman in White, and Moby Dick.",
+  "blockers": [],
+  "dependencies_unlocked": [],
+  "proposals": []
+}

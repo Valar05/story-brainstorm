@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "parent_plan_hash": "sha256:60e75e8e7b10fa95a3998df51cc38ceddd43b3f759e873e1c68b6c700a5c6bf5",
+  "correction": "The <=1929 cutoff applies to work first publication, not the release date of a pinned digital transcription.",
+  "accepted_digital_item": [
+    "stable item URL and identifier",
+    "raw catalog title and creator match after punctuation/name-order normalization",
+    "English language",
+    "explicit Public domain in the USA item status",
+    "first-publication year <=1929 supported separately",
+    "translator/editor identified and rights-cleared when applicable"
+  ],
+  "audit_required": [
+    "raw title",
+    "raw creator",
+    "language",
+    "copyright statement",
+    "digital release date",
+    "normalized comparison results",
+    "first-publication evidence URL",
+    "translation/editor evidence",
+    "duplicate check"
+  ],
+  "forbidden": [
+    "PASS-only audit rows",
+    "generated-summary years as sole evidence",
+    "wrong item IDs",
+    "unidentified translations",
+    "search-result URLs",
+    "full source text"
+  ],
+  "rule_hash": "sha256:00e7403f0f325549ccbc3e60cd7b9bb1a39b8ecb2cc2d51c5efbc80f87306197"
+}
