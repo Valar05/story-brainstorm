@@ -1,0 +1,269 @@
+{
+  "cards": [
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/84",
+          "excerpt_words": 19,
+          "location": "Chapter 5",
+          "short_excerpt": "now that I had finished, the beauty of the dream vanished, and breathless horror and disgust filled my heart",
+          "work_id": "b1-gothic-001"
+        }
+      ],
+      "family": "story",
+      "inference": "A story can make culmination itself the reversal: the goal is technically achieved, yet its completion destroys the meaning that justified the pursuit and creates the real conflict.",
+      "name": "Completion Reversal After Obsessive Pursuit",
+      "observation": "Victor spends nearly two years pursuing animation of lifeless matter, but the moment the creature lives, the anticipated beauty of success collapses into horror and disgust.",
+      "pattern": {
+        "pressure": "Show escalating sacrifice and narrowed attention so completion appears to be the only meaningful exit from the effort.",
+        "residue": "The character must now live inside the consequences of success rather than simply recover from failure.",
+        "setup": "Bind a character to a difficult objective whose imagined completion promises relief, glory, or mastery.",
+        "turn": "At the instant the objective succeeds, reveal a consequence that makes the achieved state emotionally or morally intolerable."
+      },
+      "primitive_id": "sha256:1d4aa3abe79068701371c137d2ef96016d092780ec4eec58207dbc3c1c8f09bc",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A long-sought achievement can invert its emotional value at the instant of completion, turning desire into immediate rejection and forcing consequence before celebration."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/84",
+          "excerpt_words": 16,
+          "location": "Chapter 10",
+          "short_excerpt": "For the first time, also, I felt what the duties of a creator towards his creature were",
+          "work_id": "b1-gothic-001"
+        }
+      ],
+      "family": "story",
+      "inference": "Creation can function as a binding event: once an agent brings a dependent or designed being into existence, later conflict carries obligations created by that first act.",
+      "name": "Creation Generates Reciprocal Obligation",
+      "observation": "After hearing the creature's case, Victor explicitly recognizes that creation itself imposed duties toward the being before he could simply condemn its later behavior.",
+      "pattern": {
+        "pressure": "Allow the maker to treat the new being as a result, tool, mistake, or problem rather than as a relationship with claims.",
+        "residue": "Every later judgment is complicated by the fact that the maker helped create the conditions now being judged.",
+        "setup": "Let a character create, rescue, awaken, recruit, or otherwise cause a dependent being to enter the story.",
+        "turn": "Force the maker to confront evidence that their initiating act created reciprocal duties they cannot erase by withdrawal."
+      },
+      "primitive_id": "sha256:f05760d9ec0db9b59e85ae3a673b048e657eb05e628f60932dc15a7a3b71e830",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "An act of making can create duties that the maker did not intend to accept, converting technical success into an enduring moral and practical relationship."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/84",
+          "excerpt_words": 8,
+          "location": "Chapter 17",
+          "short_excerpt": "if I cannot inspire love, I will cause fear",
+          "work_id": "b1-gothic-001"
+        }
+      ],
+      "family": "story",
+      "inference": "A narrative can pivot an antagonist from petition to retaliation when a desired social route is repeatedly closed, preserving causal continuity across a major behavioral change.",
+      "name": "Refused Belonging Converts Into Retaliation",
+      "observation": "The creature argues that kindness would answer acceptance, but after concluding human association is impossible, he explicitly converts the failed desire for love into fear and revenge.",
+      "pattern": {
+        "pressure": "Close that route repeatedly through rejection, fear, prejudice, or incompatible conditions while preserving the character's awareness of the alternative.",
+        "residue": "Later harm remains connected to the lost possibility of belonging, making the antagonist's trajectory intelligible without excusing it.",
+        "setup": "Give an isolated character a concrete route toward belonging, recognition, companionship, or lawful participation.",
+        "turn": "Let the character consciously replace the failed social objective with coercion, vengeance, or fear as a new strategy."
+      },
+      "primitive_id": "sha256:b5372620a3c39d9f948e7c2849ed8f18a2d9f98de40b12081bcc89d68a649239",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Repeated exclusion can transform a request for belonging into a retaliatory program, making later violence causally legible without making it morally innocent."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/84",
+          "excerpt_words": 12,
+          "location": "Chapter 20",
+          "short_excerpt": "I go; but remember, I shall be with you on your wedding-night",
+          "work_id": "b1-gothic-001"
+        }
+      ],
+      "family": "speech",
+      "inference": "Speech can weaponize a future event by attaching danger to its timing while withholding operational details, allowing anticipation and misinterpretation to do narrative work.",
+      "name": "Scheduled Threat Anchors Future Dread",
+      "observation": "The creature does not explain the method or victim of his revenge; he names Victor's wedding night, causing Victor to organize later expectations around that date.",
+      "pattern": {
+        "pressure": "Let conflict escalate without resolving exactly how retaliation will occur.",
+        "residue": "Subsequent scenes inherit dread because preparation for the milestone also becomes preparation for an unknown attack.",
+        "setup": "Establish a future event that already carries practical or emotional significance for the target.",
+        "turn": "Deliver a brief threat that names the future occasion but withholds method, target, or mechanism."
+      },
+      "primitive_id": "sha256:f089e2b952d1ab863a530d53a8e0b63dba170f2c696080c624ebd0070c4df769",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A threat becomes structurally powerful when it names a future occasion instead of describing immediate harm, turning an ordinary milestone into a countdown."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/84",
+          "excerpt_words": 10,
+          "location": "Chapter 20",
+          "short_excerpt": "You are my creator, but I am your master; obey!",
+          "work_id": "b1-gothic-001"
+        }
+      ],
+      "family": "speech",
+      "inference": "Dialogue can make a power reversal legible without exposition when the speaker explicitly juxtaposes inherited status with present control and ends on an imperative.",
+      "name": "Role Reversal Compressed Into Command",
+      "observation": "The creature acknowledges Victor's status as creator and then reverses the practical hierarchy by calling himself master and issuing a direct command.",
+      "pattern": {
+        "pressure": "Accumulate evidence that practical leverage has drifted away from the formally superior party.",
+        "residue": "Future exchanges are read through the new power balance even if the formal titles remain unchanged.",
+        "setup": "Establish a relationship whose formal hierarchy appears obvious from origin, title, ownership, or institutional role.",
+        "turn": "Let the subordinate speaker name the old relation, reverse its operative meaning, and issue a concise command."
+      },
+      "primitive_id": "sha256:f828a30a5ccc23ec0a8667ae51fde13c61b697b35bcd22268478e8c896934d40",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A short declaration can invert a relationship by naming the old hierarchy and immediately replacing it with a new one in the same breath."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/84",
+          "excerpt_words": 16,
+          "location": "Chapter 13",
+          "short_excerpt": "the possessions most esteemed by your fellow creatures were high and unsullied descent united with riches",
+          "work_id": "b1-gothic-001"
+        }
+      ],
+      "family": "character",
+      "inference": "Worldbuilding becomes character pressure when institutional categories are not merely explained but immediately become tools the outsider uses to measure their own position.",
+      "name": "Social Taxonomy Becomes Self-Diagnosis",
+      "observation": "The creature learns that descent and riches structure human respect, then compares those standards against his lack of money, friends, property, and recognized kinship.",
+      "pattern": {
+        "pressure": "Teach the character which inherited, economic, legal, or symbolic traits the society rewards and punishes.",
+        "residue": "Later choices carry the weight of knowing not just that exclusion exists, but how the system classifies and reproduces it.",
+        "setup": "Introduce an outsider who observes a society before fully understanding its status categories.",
+        "turn": "Have the outsider apply the newly learned taxonomy to themselves and discover a structural absence or disadvantage."
+      },
+      "primitive_id": "sha256:4fd15b1676fdeda6602ee6cda0a205e272353cc3234c3464b622d5dbafbceb1d",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A character can learn a society by discovering which categories it rewards, then turn that knowledge inward and recognize their own exclusion from the system."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/84",
+          "excerpt_words": 12,
+          "location": "Chapter 13",
+          "short_excerpt": "I was more agile than they and could subsist upon coarser diet",
+          "work_id": "b1-gothic-001"
+        }
+      ],
+      "family": "character",
+      "inference": "Competence does not automatically solve belonging; stories can sharpen an outsider by giving them advantages that improve survival while making difference more visible.",
+      "name": "Capability Without Membership",
+      "observation": "The creature recognizes that he is more agile and more physically resilient than humans while simultaneously concluding that he has no accepted place among them.",
+      "pattern": {
+        "pressure": "Show that the advantage solves bodily or practical problems without granting legitimacy, kinship, status, or trust.",
+        "residue": "Power and alienation become linked, preventing advancement from functioning as a simple cure for exclusion.",
+        "setup": "Give an outsider a capability that materially outperforms the surrounding population in a relevant environment.",
+        "turn": "Let the character understand that the same difference producing competence also marks them as outside the recognized category."
+      },
+      "primitive_id": "sha256:f3983ea29448f0427eb9b2667febb455024ce00c18b4a0e75c280c2b4d006383",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Exceptional physical or practical capability can intensify alienation when competence makes a character more survivable but does not grant social membership or recognized identity."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/84",
+          "excerpt_words": 21,
+          "location": "Chapter 17",
+          "short_excerpt": "This you alone can do, and I demand it of you as a right which you must not refuse to concede",
+          "work_id": "b1-gothic-001"
+        }
+      ],
+      "family": "conflict",
+      "inference": "A deadlock gains force when scarcity of capability makes negotiation personal: the only available provider is also the party most convinced that provision is dangerous.",
+      "name": "Exclusive Capacity Creates Obligation Deadlock",
+      "observation": "The creature insists that Victor alone can create a companion and frames that capacity as a right, while Victor sees the same act as potentially catastrophic.",
+      "pattern": {
+        "pressure": "Make the requester frame access as justice while the gatekeeper frames denial as prevention of larger harm.",
+        "residue": "Neither side can bypass the other, so every later move becomes coercion, evasion, bargaining, or retaliation around the same bottleneck.",
+        "setup": "Give one character a need that only a specific opposing character has the capacity or authority to satisfy.",
+        "turn": "Force an explicit demand that converts exclusive capability into an asserted obligation the gatekeeper refuses."
+      },
+      "primitive_id": "sha256:311e0d651cf6db6dbfb1ee4d96754a4156e0fe5331bde44ddd9377b62a060f9d",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Conflict hardens when one party alone can satisfy a need while also believing that satisfying it would create unacceptable risk, leaving both sides with incompatible claims."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/84",
+          "excerpt_words": 11,
+          "location": "Chapter 10",
+          "short_excerpt": "But I consented to listen, and seating myself by the fire",
+          "work_id": "b1-gothic-001"
+        }
+      ],
+      "family": "structure",
+      "inference": "Withholding an antagonist's interior account until after a strong hostile frame creates a controlled reclassification point: new testimony does not erase prior harm but changes causal interpretation.",
+      "name": "Delayed Counter-Narrative Reclassifies The Antagonist",
+      "observation": "Victor approaches the creature expecting combat and murder confirmation, but Chapter 10 ends with Victor agreeing to listen before the creature's extended first-person history begins.",
+      "pattern": {
+        "pressure": "Build a coherent but incomplete model of guilt before allowing the feared figure meaningful explanatory space.",
+        "residue": "Earlier scenes remain factually intact but acquire competing explanations, and later judgment must hold both records at once.",
+        "setup": "Let the audience know a feared character primarily through consequences, accusations, pursuit, or hostile interpretation.",
+        "turn": "Create a formal listening threshold where the dominant viewpoint yields enough narrative control for the accused figure to tell an extended account."
+      },
+      "primitive_id": "sha256:9874c9e7bc2dcf8a6af55fadfcd3154aef1a2fa3b29fc70ca5cd424d0b46af36",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A story can first establish a feared figure through another character's accusations, then grant the feared figure a long account that forces earlier events to be re-evaluated."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/84",
+          "excerpt_words": 13,
+          "location": "Chapter 13",
+          "short_excerpt": "I knew that I possessed no money, no friends, no kind of property",
+          "work_id": "b1-gothic-001"
+        }
+      ],
+      "family": "contextual",
+      "inference": "A setting's social rules can function like physical terrain: characters without the required credentials encounter predictable resistance even before any individual antagonist acts.",
+      "name": "Status Rules Operate As Environmental Pressure",
+      "observation": "The creature learns that human society organizes respect around property, rank, descent, and wealth, then recognizes that he lacks all of the accepted credentials.",
+      "pattern": {
+        "pressure": "Place a character in the system who lacks several required credentials despite possessing other useful capacities.",
+        "residue": "Social navigation becomes environmental gameplay because every encounter is shaped by rules that pre-exist the immediate participants.",
+        "setup": "Define a local institution through concrete categories that distribute respect, access, property, legitimacy, or protection.",
+        "turn": "Show the character discovering that the institution itself predicts exclusion before any single person's choice is known."
+      },
+      "primitive_id": "sha256:5d0c6258ee6aa020efea2340cd0aa8732caf70e8342ef79f167f914f65df546a",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "subtype": "institution",
+      "summary": "Institutions become story-active when categories such as wealth, descent, property, and rank directly determine who can belong, bargain, move safely, or be recognized."
+    }
+  ],
+  "schema_version": "1.0",
+  "source_title": "Frankenstein; or, the modern prometheus",
+  "source_work_id": "b1-gothic-001",
+  "state": "SEMANTIC_REVIEW_REQUIRED"
+}
