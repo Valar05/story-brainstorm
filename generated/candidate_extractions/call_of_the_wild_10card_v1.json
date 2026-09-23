@@ -1,0 +1,269 @@
+{
+  "cards": [
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/215",
+          "excerpt_words": 10,
+          "location": "Chapter I",
+          "short_excerpt": "He was beaten (he knew that); but he was not broken",
+          "work_id": "b2r-american-10"
+        }
+      ],
+      "family": "story",
+      "inference": "A loss can advance character competence when it establishes a nonnegotiable rule and redirects future strategy, preserving agency through adaptation instead of victory.",
+      "name": "Defeat Teaches Rule Without Erasing Defiance",
+      "observation": "After repeated attacks on the man in the red sweater fail, Buck recognizes the club's supremacy, remembers the lesson, and adapts without becoming submissive in spirit.",
+      "pattern": {
+        "pressure": "Let repeated resistance fail clearly enough that the character cannot explain the outcome away as chance.",
+        "residue": "Future competence includes knowledge of when not to contest a force directly, making restraint read as learned strategy rather than fear.",
+        "setup": "Place a capable character against an unfamiliar form of power they initially challenge using their usual methods.",
+        "turn": "Have the character recognize the governing constraint and alter behavior without surrendering their deeper objective or identity."
+      },
+      "primitive_id": "sha256:4224a57f3bea4b3629df05d7cda2c45e36110b22f4bb47ef1f2f86e8479b0231",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A protagonist can lose decisively without becoming passive when the defeat teaches a boundary that changes tactics rather than extinguishing will."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/215",
+          "excerpt_words": 14,
+          "location": "Chapter II",
+          "short_excerpt": "This first theft marked Buck as fit to survive in the hostile Northland environment",
+          "work_id": "b2r-american-10"
+        }
+      ],
+      "family": "story",
+      "inference": "Environmental change becomes narrative transformation when old virtues acquire new costs, forcing behavior to update before the character has a fully articulated philosophy.",
+      "name": "Survival Pressure Rewrites The Moral Rulebook",
+      "observation": "Buck's first theft is framed as evidence of adaptability because Northland survival punishes the Southland norms of property and personal feeling he previously inhabited.",
+      "pattern": {
+        "pressure": "Move them into conditions where following the old code repeatedly carries immediate material penalties.",
+        "residue": "The old code remains available as memory or contrast, but behavior is now governed by the environment that actually answers back.",
+        "setup": "Establish a character under a familiar moral and practical code that works in their original environment.",
+        "turn": "Let the character violate an earlier norm for survival and succeed because of that violation."
+      },
+      "primitive_id": "sha256:d7d468178b5ee46b821b12a70e95792f81037e890ce5e70878333fe8e9a96789",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A new environment can force a character to abandon rules that once signaled decency when those rules become liabilities under altered survival conditions."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/215",
+          "excerpt_words": 11,
+          "location": "Chapter VI",
+          "short_excerpt": "the love for John Thornton drew him back to the fire again",
+          "work_id": "b2r-american-10"
+        }
+      ],
+      "family": "story",
+      "inference": "A relationship can function as a counterforce to transformation without stopping it, creating a recurring choice between emerging identity and retained attachment.",
+      "name": "Attachment Pulls Against Environmental Transformation",
+      "observation": "The forest call repeatedly draws Buck away from human settlement, but his love for John Thornton repeatedly draws him back to the fire.",
+      "pattern": {
+        "pressure": "Preserve one relationship that still feels uniquely binding even as broader social ties weaken.",
+        "residue": "The eventual break or loss of that bond can release accumulated transformation with much greater force.",
+        "setup": "Let environment and experience steadily pull a character toward a new identity, habitat, or mode of life.",
+        "turn": "Repeat moments where the character physically or behaviorally moves toward transformation and then returns because of the relationship."
+      },
+      "primitive_id": "sha256:2c02387e17e7b0c05c2ee0e9b435d5fc5913965d250de731bdbb7bdf9babdb3b",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A transforming character can be held in productive tension when one relationship draws them back from the path their environment otherwise makes increasingly inevitable."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/215",
+          "excerpt_words": 8,
+          "location": "Chapter I",
+          "short_excerpt": "You've learned your place, and I know mine",
+          "work_id": "b2r-american-10"
+        }
+      ],
+      "family": "speech",
+      "inference": "Dialogue lands harder when it labels a power relation the action has already proven, converting demonstration into a concise operating rule.",
+      "name": "Hierarchy Named After Demonstrated Force",
+      "observation": "After defeating Buck with the club, the man in the red sweater summarizes the encounter as a settled hierarchy rather than continuing to threaten or explain.",
+      "pattern": {
+        "pressure": "Allow the defeated party enough awareness to understand that the demonstrated advantage is repeatable.",
+        "residue": "Later compliance or resistance is measured against a rule whose enforcement has already been witnessed.",
+        "setup": "Resolve a contest physically or materially before either side fully explains what the result means.",
+        "turn": "Have the winner state the hierarchy in short relational terms instead of giving a long speech."
+      },
+      "primitive_id": "sha256:3082bf0b270921132bfac244afe67bd4db3e62578449f5ba89e36ed3843b81d0",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A speaker can make a violent lesson feel final by naming the new relationship only after the target has already experienced the force that enforces it."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/215",
+          "excerpt_words": 9,
+          "location": "Chapter V",
+          "short_excerpt": "If you strike that dog again, I'll kill you",
+          "work_id": "b2r-american-10"
+        }
+      ],
+      "family": "speech",
+      "inference": "Protective dialogue gains force from sequencing: stop the harmful act first with a concrete consequence, then let any argument about rights or ownership occur afterward.",
+      "name": "Protective Threat Establishes Immediate Boundary",
+      "observation": "Thornton interrupts Hal's beating of Buck with a direct conditional death threat, refusing to debate ownership before establishing the boundary.",
+      "pattern": {
+        "pressure": "Let bystanders hesitate, rationalize, or remain trapped in ownership and procedure questions.",
+        "residue": "The scene's moral and practical center shifts from who claims authority to who can stop the harm.",
+        "setup": "Show one character exercising claimed authority in a way that is actively harming a weaker party.",
+        "turn": "Have a protector state one prohibited action and one immediate consequence in a single sentence."
+      },
+      "primitive_id": "sha256:d1faf92a0ea24996f73736b8136a48432c06f0b2ed9769832f4924d2c98bad52",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A terse threat can function as protection when it names a prohibited action and an immediate consequence without negotiating the abuser's claimed authority."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/215",
+          "excerpt_words": 6,
+          "location": "Chapter II",
+          "short_excerpt": "instincts long dead became alive again",
+          "work_id": "b2r-american-10"
+        }
+      ],
+      "family": "character",
+      "inference": "Transformation can combine learning with reactivation: the setting does not simply teach new skills but reveals capacities that seem to have been waiting for the correct pressure.",
+      "name": "Dormant Capacity Returns Under Matching Conditions",
+      "observation": "Buck learns through experience while older instincts simultaneously revive, making adaptation feel partly acquired and partly recovered from buried inheritance.",
+      "pattern": {
+        "pressure": "Require repeated responses that their learned routines cannot fully supply.",
+        "residue": "The character begins to experience growth as both acquisition and recognition, complicating any simple return to the former self.",
+        "setup": "Place a character in conditions that differ radically from the environment in which their current habits formed.",
+        "turn": "Let effective behavior emerge faster or more intuitively than deliberate instruction alone would explain."
+      },
+      "primitive_id": "sha256:7a982a03f9d2c2fac5bef25f731a1fd0d3081bc7c171e8a9f0266eb5a672cd51",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A character can discover abilities that feel older than conscious learning when a new environment activates capacities that prior circumstances never demanded."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/215",
+          "excerpt_words": 12,
+          "location": "Chapter VI",
+          "short_excerpt": "Because of his very great love, he could not steal from this man",
+          "work_id": "b2r-american-10"
+        }
+      ],
+      "family": "character",
+      "inference": "Specific loyalty can coexist with broad behavioral hardening, producing a character whose tenderness is relationally narrow rather than evidence of incomplete transformation.",
+      "name": "Selective Attachment Survives Broader Wilding",
+      "observation": "Buck retains wildness, theft, and combat ruthlessness toward others while his attachment to Thornton uniquely constrains what he will do to or take from that man.",
+      "pattern": {
+        "pressure": "Preserve one relationship that repeatedly earns different treatment from the increasingly hardened character.",
+        "residue": "The exception becomes more meaningful because it survives a transformation that erases similar obligations elsewhere.",
+        "setup": "Let a character undergo sustained pressure that strips away broad trust, softness, or compliance.",
+        "turn": "Show the character applying harsh rules generally while making a consistent exception for that bond."
+      },
+      "primitive_id": "sha256:26ba15271c7d25782074a3ac7d15e19bcd7cb29024a9aa8e7891719a393f018b",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A character can become harsher toward the world while preserving one intense bond, preventing transformation from flattening into universal hostility or detachment."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/215",
+          "excerpt_words": 6,
+          "location": "Chapter VI",
+          "short_excerpt": "He must master or be mastered",
+          "work_id": "b2r-american-10"
+        }
+      ],
+      "family": "conflict",
+      "inference": "A setting can compress social conflict into a binary when every local consequence reinforces the same status logic, making neutrality unstable rather than merely difficult.",
+      "name": "Environment Enforces A Dominance Binary",
+      "observation": "Buck's accumulated experience with Spitz, fighting dogs, and Northland conditions produces an explicit rule that hesitation between dominance and submission carries lethal risk.",
+      "pattern": {
+        "pressure": "Show intermediate or merciful positions being misread, exploited, or punished by the local system.",
+        "residue": "Every encounter becomes a status test until another institution, relationship, or rule system interrupts the binary.",
+        "setup": "Build an environment where control over food, safety, movement, or group position repeatedly depends on recognized dominance.",
+        "turn": "Let the character internalize the environment's binary as an operating rule rather than a temporary tactic."
+      },
+      "primitive_id": "sha256:4781244d270cb84096639b8e86c2645f81e9d6f7821b1bb19960ed00594fb416",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Conflict becomes brutally simple when local conditions punish ambiguous status and repeatedly force actors into master-or-mastered relationships."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/215",
+          "excerpt_words": 18,
+          "location": "Chapter II",
+          "short_excerpt": "It is true, it was a vicarious experience, else he would not have lived to profit by it",
+          "work_id": "b2r-american-10"
+        }
+      ],
+      "family": "structure",
+      "inference": "A secondary character's irreversible mistake can function as a tutorial with real stakes, giving the protagonist knowledge without requiring them to survive the first demonstration personally.",
+      "name": "Witnessed Failure Teaches Before Personal Trial",
+      "observation": "Buck witnesses Curly's friendly approach end in a fatal pack attack, and the narration explicitly calls the event a vicarious lesson that he survives to use later.",
+      "pattern": {
+        "pressure": "Let another character engage the danger using assumptions imported from a safer context.",
+        "residue": "When the protagonist later encounters the same danger, informed behavior feels earned by witnessed consequence rather than exposition.",
+        "setup": "Introduce an unfamiliar danger whose operating rule the protagonist does not yet understand.",
+        "turn": "Make the other character's failure reveal the rule clearly while the protagonist remains able to observe."
+      },
+      "primitive_id": "sha256:565c3255ce63099d7d486b6d4da7b21c4d6b1cdfedbd1d4e6e62d75dcc9a9b50",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A story can teach a protagonist a lethal rule through another character's failure, allowing the audience and protagonist to learn together before the protagonist faces the same class of danger."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/215",
+          "excerpt_words": 13,
+          "location": "Chapter I",
+          "short_excerpt": "a man with a club was a lawgiver, a master to be obeyed",
+          "work_id": "b2r-american-10"
+        }
+      ],
+      "family": "contextual",
+      "inference": "Institutions can emerge from consistent enforcement rather than formal bureaucracy: repeated consequence teaches what counts as law before anyone names a statute.",
+      "name": "Primitive Law Is Taught Through Repeated Enforcement",
+      "observation": "Buck watches multiple dogs pass under the red-sweater man's club and concludes that a man with a club is a lawgiver whose authority must be obeyed.",
+      "pattern": {
+        "pressure": "Repeat the same consequence across several actors so enforcement appears systemic rather than personal.",
+        "residue": "Future actions are shaped by anticipated enforcement even when the original enforcer is absent.",
+        "setup": "Place newcomers in a setting with no trusted explanation of its governing rules.",
+        "turn": "Let the observer infer a stable law from the pattern and adjust behavior accordingly."
+      },
+      "primitive_id": "sha256:473ec6846c7f0f53e83004e5e7959a6c570e92be251ff9acb32101be0b53023f",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "subtype": "institution",
+      "summary": "A local order feels institutional even without courts or written rules when the same consequence is repeatedly enforced by bodies, tools, and observers."
+    }
+  ],
+  "schema_version": "1.0",
+  "source_title": "The call of the wild",
+  "source_work_id": "b2r-american-10",
+  "state": "SEMANTIC_REVIEW_REQUIRED"
+}
