@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "work_id": "first-party-vanguard-of-glory",
+  "title": "Vanguard of Glory",
+  "owner": "Drew Clarke",
+  "status": "ACTIVE_FIRST_PARTY_FOUNDATION",
+  "source_policy": "Analyze in high detail. Do not silently promote source-world biography/events into downstream canon.",
+  "sources": [
+    {
+      "source_id": "vog-rpg",
+      "name": "Vanguard Of Glory RPG",
+      "kind": "google_doc",
+      "drive_id": "1SelAaQcfZe4Hiw1r_Cfy3fpRe2r228XhSDscHTQ4rus",
+      "role": ["combat_system", "action_economy", "spare_slaughter", "ability_grammar"]
+    },
+    {
+      "source_id": "vog-ch4",
+      "name": "Vanguard of Glory Ch 4",
+      "kind": "google_doc",
+      "drive_id": "1LdgPzZ7bajHLjx5Vz35CjQtsQdRMKrLUCHdIh0_eu1A",
+      "role": ["social_world", "guild_law", "trade", "travel", "food", "repair", "combat"]
+    },
+    {
+      "source_id": "vog-ch5",
+      "name": "Vanguard of Glory Ch 5",
+      "kind": "google_doc",
+      "drive_id": "11hRLEsL3m4XFS7Wy3QPSLUaF061VIBcl6dWkoI0sFv0",
+      "role": ["combat", "aether_rend", "monster_ecology", "companion_contrast", "material_force"]
+    },
+    {
+      "source_id": "vog-public-malfeasance",
+      "name": "The Malfeasance of Squirrels",
+      "kind": "royal_road",
+      "url": "https://www.royalroad.com/fiction/77395/vanguard-of-glory/chapter/1416789/the-malfeasance-of-squirrels",
+      "role": ["published_source", "combat", "voice"]
+    },
+    {
+      "source_id": "vog-provenance",
+      "name": "PROVENANCE — Fleshpunk Vanguard — Vanguard of Glory Ancestry",
+      "kind": "google_doc",
+      "drive_id": "1bPjMxMHnDaG6oads1BVyMK1HoJdq_yg_e3qnbXpIfSg",
+      "role": ["provenance_boundary", "mechanism_lineage", "do_not_cross"]
+    }
+  ],
+  "known_foundation_mechanisms": [
+    "materially legible force",
+    "Mass + Sharpness = Wedge",
+    "armor as margin for error rather than strategy",
+    "dirty geometry: footing, angles, redirection, feints, hostile equipment, terrain",
+    "read the source of an attack rather than merely absorb it",
+    "combat cost in body, equipment, energy, and future advancement",
+    "competence shaped by instruction, labor, survival, and error",
+    "practical fighter voice: food, repair, exhaustion, drink, equipment, payment",
+    "predator ecology where organizing intelligence may differ from visible monster",
+    "settlement-scale travel, guild law, rank, trade, lodging, baths, repairs, and rumor"
+  ]
+}
