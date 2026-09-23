@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FirstPartySceneAnalysis",
+  "type": "object",
+  "required": [
+    "analysis_id",
+    "work_id",
+    "source_ids",
+    "scene_name",
+    "scene_function",
+    "character_state",
+    "world_state",
+    "beats",
+    "combat",
+    "social",
+    "material_economy",
+    "voice",
+    "transferable_mechanisms",
+    "downstream_boundary"
+  ],
+  "properties": {
+    "analysis_id": {"type": "string"},
+    "work_id": {"type": "string"},
+    "source_ids": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "scene_name": {"type": "string"},
+    "scene_function": {"type": "string"},
+    "character_state": {"type": "object"},
+    "world_state": {"type": "object"},
+    "beats": {"type": "array", "items": {"type": "object"}},
+    "combat": {
+      "type": "object",
+      "properties": {
+        "exchange_sequence": {"type": "array", "items": {"type": "object"}},
+        "force_paths": {"type": "array", "items": {"type": "object"}},
+        "footing_and_geometry": {"type": "array", "items": {"type": "object"}},
+        "resource_spend": {"type": "array", "items": {"type": "object"}},
+        "mistakes": {"type": "array", "items": {"type": "object"}},
+        "adaptations": {"type": "array", "items": {"type": "object"}},
+        "damage_and_recovery": {"type": "array", "items": {"type": "object"}},
+        "readability_rules": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "social": {"type": "object"},
+    "material_economy": {"type": "object"},
+    "voice": {"type": "object"},
+    "transferable_mechanisms": {"type": "array", "items": {"type": "object"}},
+    "downstream_boundary": {
+      "type": "object",
+      "required": ["mechanism_may_cross", "events_do_not_cross_by_default"],
+      "properties": {
+        "mechanism_may_cross": {"type": "boolean"},
+        "events_do_not_cross_by_default": {"type": "boolean"},
+        "notes": {"type": "string"}
+      }
+    }
+  },
+  "additionalProperties": true
+}
