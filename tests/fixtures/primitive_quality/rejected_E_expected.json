@@ -1,0 +1,39 @@
+{
+  "input_sha256": "e227dcd6e530d7e4e004d42e878577ce8bedc2d136c6aee78dd339d23a1e5034",
+  "minimum_error_counts": {
+    "BOILERPLATE": 500,
+    "CONTEXTUAL_DIVERSITY": 34,
+    "CONTEXTUAL_DOMINANCE": 34,
+    "DUPLICATE_INFERENCE": 300,
+    "DUPLICATE_PATTERN_COMPONENT": 1000,
+    "DUPLICATE_SUMMARY": 300,
+    "NAME_NUMERIC_SUFFIX": 340,
+    "NAME_PLACEHOLDER": 340,
+    "NAME_WORK_ID": 340,
+    "OBSERVATION_IS_EXCERPT": 340,
+    "PATTERN_GENERIC": 1000,
+    "TEMPLATE_PROSE": 1000,
+    "TEMPLATE_REPETITION": 1000
+  },
+  "observed_error_counts": {
+    "BOILERPLATE": 656,
+    "CONTEXTUAL_DIVERSITY": 35,
+    "CONTEXTUAL_DOMINANCE": 35,
+    "DUPLICATE_INFERENCE": 340,
+    "DUPLICATE_OBSERVATION": 192,
+    "DUPLICATE_PATTERN_COMPONENT": 1360,
+    "DUPLICATE_PATTERN_COMPOSITE": 238,
+    "DUPLICATE_SUMMARY": 340,
+    "NAME_NUMERIC_SUFFIX": 340,
+    "NAME_PLACEHOLDER": 340,
+    "NAME_WORK_ID": 340,
+    "OBSERVATION_IS_EXCERPT": 340,
+    "PATTERN_GENERIC": 1360,
+    "SHORT_TEXT": 256,
+    "TEMPLATE_PROSE": 2040,
+    "TEMPLATE_REPETITION": 2630
+  },
+  "scope": "Sealed rejected commit as a negative control; guardrails do not certify semantic truth.",
+  "source_commit": "f5208472430b913ce796dae31f1a664184f48d89",
+  "source_path": "data/primitive_shards/E.json"
+}

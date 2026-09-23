@@ -1,0 +1,24 @@
+{
+  "owner": "rights_sources",
+  "status": "complete",
+  "commit": "2320f0becfc09fa17651d464c2311ded049613e6",
+  "changed": [
+    "tools/resolve_openlibrary.py",
+    "tests/test_openlibrary_resolver.py",
+    "tests/fixtures/openlibrary_search/",
+    "generated/receipts/C4.json"
+  ],
+  "checks": [
+    "python -m unittest tests.test_openlibrary_resolver (9 passed)",
+    "hash-only path-safe cache filenames prevent traversal",
+    "malicious work_id cannot create files outside cache",
+    "atomic identical write preserves mtime/content",
+    "live Alice OL138052W resolves"
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "ol-resolver-ready"
+  ],
+  "proposals": []
+}

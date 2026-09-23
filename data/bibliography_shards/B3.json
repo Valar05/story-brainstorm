@@ -1,0 +1,1034 @@
+{
+  "reserves": [
+    {
+      "author": "Hearn, Lafcadio",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL859604W",
+      "first_publication_year": 1894,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/8130",
+          "https://www.gutenberg.org/cache/epub/8130/pg8130.rdf",
+          "https://www.gutenberg.org/cache/epub/8130/pg8130.txt",
+          "https://archive.org/details/glimpsesofunfami01hear",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-05-01",
+        "edition_year": 2005,
+        "item_id": "8130",
+        "language": "en",
+        "raw_creator": "Hearn, Lafcadio",
+        "raw_title": "Glimpses of Unfamiliar Japan: First Series",
+        "url": "https://www.gutenberg.org/ebooks/8130"
+      },
+      "title": "Glimpses of Unfamiliar Japan: First Series",
+      "work_id": "reserve-b3-031"
+    },
+    {
+      "author": "Hearn, Lafcadio",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL13095215W",
+      "first_publication_year": 1897,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/55681",
+          "https://www.gutenberg.org/cache/epub/55681/pg55681.rdf",
+          "https://www.gutenberg.org/cache/epub/55681/pg55681.txt",
+          "https://archive.org/details/gleaningsinbuddh00hearrich",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2017-10-05",
+        "edition_year": 2017,
+        "item_id": "55681",
+        "language": "en",
+        "raw_creator": "Hearn, Lafcadio",
+        "raw_title": "Gleanings in Buddha-Fields: Studies of Hand and Soul in the Far East",
+        "url": "https://www.gutenberg.org/ebooks/55681"
+      },
+      "title": "Gleanings in Buddha-Fields: Studies of Hand and Soul in the Far East",
+      "work_id": "reserve-b3-032"
+    },
+    {
+      "author": "Ford, Ford Madox",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL509889W",
+      "first_publication_year": 1915,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/2775",
+          "https://www.gutenberg.org/cache/epub/2775/pg2775.rdf",
+          "https://www.gutenberg.org/cache/epub/2775/pg2775.txt",
+          "https://fordmadoxford.org/fords-biography",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2001-08-01",
+        "edition_year": 2001,
+        "item_id": "2775",
+        "language": "en",
+        "raw_creator": "Ford, Ford Madox",
+        "raw_title": "The Good Soldier",
+        "url": "https://www.gutenberg.org/ebooks/2775"
+      },
+      "title": "The Good Soldier",
+      "work_id": "reserve-b3-033"
+    },
+    {
+      "author": "Woolf, Virginia",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL39520W",
+      "first_publication_year": 1921,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/29220",
+          "https://www.gutenberg.org/cache/epub/29220/pg29220.rdf",
+          "https://www.gutenberg.org/cache/epub/29220/pg29220.txt",
+          "https://archive.org/details/cu31924013241066",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2009-06-25",
+        "edition_year": 2009,
+        "item_id": "29220",
+        "language": "en",
+        "raw_creator": "Woolf, Virginia",
+        "raw_title": "Monday or Tuesday",
+        "url": "https://www.gutenberg.org/ebooks/29220"
+      },
+      "title": "Monday or Tuesday",
+      "work_id": "reserve-b3-034"
+    },
+    {
+      "author": "Eastman, Charles A.",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL544783W",
+      "first_publication_year": 1902,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/337",
+          "https://www.gutenberg.org/cache/epub/337/pg337.rdf",
+          "https://www.gutenberg.org/cache/epub/337/pg337.txt",
+          "https://archive.org/details/indianboyhood00blumgoog",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-07-05",
+        "edition_year": 2008,
+        "item_id": "337",
+        "language": "en",
+        "raw_creator": "Eastman, Charles A.",
+        "raw_title": "Indian Boyhood",
+        "url": "https://www.gutenberg.org/ebooks/337"
+      },
+      "title": "Indian Boyhood",
+      "work_id": "reserve-b3-035"
+    },
+    {
+      "author": "Eastman, Charles A.",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL544782W",
+      "first_publication_year": 1911,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/340",
+          "https://www.gutenberg.org/cache/epub/340/pg340.rdf",
+          "https://www.gutenberg.org/cache/epub/340/pg340.txt",
+          "https://archive.org/details/soulofindian00east",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-07-05",
+        "edition_year": 2008,
+        "item_id": "340",
+        "language": "en",
+        "raw_creator": "Eastman, Charles A.",
+        "raw_title": "The Soul of the Indian: An Interpretation",
+        "url": "https://www.gutenberg.org/ebooks/340"
+      },
+      "title": "The Soul of the Indian: An Interpretation",
+      "work_id": "reserve-b3-036"
+    }
+  ],
+  "schema_version": "1.0",
+  "works": [
+    {
+      "author": "Tagore, Rabindranath",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL19666208W",
+      "first_publication_year": 1912,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/7164",
+          "https://www.gutenberg.org/cache/epub/7164/pg7164.rdf",
+          "https://www.gutenberg.org/cache/epub/7164/pg7164.txt",
+          "https://archive.org/details/gitanjalisongoff00tago_0",
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://archive.org/details/gitanjalifruitga00tago"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-12-01",
+        "edition_year": 2004,
+        "item_id": "7164",
+        "language": "en",
+        "raw_creator": "Tagore, Rabindranath",
+        "raw_title": "Gitanjali",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Tagore, Rabindranath",
+        "url": "https://www.gutenberg.org/ebooks/7164"
+      },
+      "title": "Gitanjali",
+      "work_id": "b3-world-001"
+    },
+    {
+      "author": "Tagore, Rabindranath",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL308957W",
+      "first_publication_year": 1913,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/6686",
+          "https://www.gutenberg.org/cache/epub/6686/pg6686.rdf",
+          "https://www.gutenberg.org/cache/epub/6686/pg6686.txt",
+          "https://archive.org/details/gardener00tagogoog",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-10-01",
+        "edition_year": 2004,
+        "item_id": "6686",
+        "language": "en",
+        "raw_creator": "Tagore, Rabindranath",
+        "raw_title": "The gardener",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Tagore, Rabindranath",
+        "url": "https://www.gutenberg.org/ebooks/6686"
+      },
+      "title": "The gardener",
+      "work_id": "b3-world-002"
+    },
+    {
+      "author": "Tagore, Rabindranath",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL308951W",
+      "first_publication_year": 1916,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/6522",
+          "https://www.gutenberg.org/cache/epub/6522/pg6522.rdf",
+          "https://www.gutenberg.org/cache/epub/6522/pg6522.txt",
+          "https://archive.org/details/fruitgathering00tagouoft",
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://archive.org/details/gitanjalifruitga00tago"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-09-01",
+        "edition_year": 2004,
+        "item_id": "6522",
+        "language": "en",
+        "raw_creator": "Tagore, Rabindranath",
+        "raw_title": "Fruit-Gathering",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Tagore, Rabindranath",
+        "url": "https://www.gutenberg.org/ebooks/6522"
+      },
+      "title": "Fruit-Gathering",
+      "work_id": "b3-world-003"
+    },
+    {
+      "author": "Hearn, Lafcadio",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL859613W",
+      "first_publication_year": 1904,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1210",
+          "https://www.gutenberg.org/cache/epub/1210/pg1210.rdf",
+          "https://www.gutenberg.org/cache/epub/1210/pg1210.txt",
+          "https://archive.org/details/kwaidanstories00hearrich",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-02-01",
+        "edition_year": 1998,
+        "item_id": "1210",
+        "language": "en",
+        "raw_creator": "Hearn, Lafcadio",
+        "raw_title": "Kwaidan: Stories and Studies of Strange Things",
+        "url": "https://www.gutenberg.org/ebooks/1210"
+      },
+      "title": "Kwaidan: Stories and Studies of Strange Things",
+      "work_id": "b3-world-004"
+    },
+    {
+      "author": "Hearn, Lafcadio",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL859566W",
+      "first_publication_year": 1896,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/8882",
+          "https://www.gutenberg.org/cache/epub/8882/pg8882.rdf",
+          "https://www.gutenberg.org/cache/epub/8882/pg8882.txt",
+          "https://archive.org/details/kokorohintsechoe00hearuoft",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-09-01",
+        "edition_year": 2005,
+        "item_id": "8882",
+        "language": "en",
+        "raw_creator": "Hearn, Lafcadio",
+        "raw_title": "Kokoro: Hints and Echoes of Japanese Inner Life",
+        "url": "https://www.gutenberg.org/ebooks/8882"
+      },
+      "title": "Kokoro: Hints and Echoes of Japanese Inner Life",
+      "work_id": "b3-world-005"
+    },
+    {
+      "author": "Hearn, Lafcadio",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL859451W",
+      "first_publication_year": 1899,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/8128",
+          "https://www.gutenberg.org/cache/epub/8128/pg8128.rdf",
+          "https://www.gutenberg.org/cache/epub/8128/pg8128.txt",
+          "https://archive.org/details/cu31924014202687",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-05-01",
+        "edition_year": 2005,
+        "item_id": "8128",
+        "language": "en",
+        "raw_creator": "Hearn, Lafcadio",
+        "raw_title": "In Ghostly Japan",
+        "url": "https://www.gutenberg.org/ebooks/8128"
+      },
+      "title": "In Ghostly Japan",
+      "work_id": "b3-world-006"
+    },
+    {
+      "author": "Ozaki, Yei Theodora",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL7305984W",
+      "first_publication_year": 1903,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/4018",
+          "https://www.gutenberg.org/cache/epub/4018/pg4018.rdf",
+          "https://www.gutenberg.org/cache/epub/4018/pg4018.txt",
+          "https://archive.org/details/japanesefairyboo00oza",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-05-01",
+        "edition_year": 2003,
+        "item_id": "4018",
+        "language": "en",
+        "raw_creator": "Ozaki, Yei Theodora",
+        "raw_title": "Japanese Fairy Tales",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Ozaki, Yei Theodora",
+        "url": "https://www.gutenberg.org/ebooks/4018"
+      },
+      "title": "Japanese Fairy Tales",
+      "work_id": "b3-world-007"
+    },
+    {
+      "author": "Schreiner, Olive",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL890573W",
+      "first_publication_year": 1883,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1441",
+          "https://www.gutenberg.org/cache/epub/1441/pg1441.rdf",
+          "https://www.gutenberg.org/cache/epub/1441/pg1441.txt",
+          "https://webapp1.dlib.indiana.edu/vwwp/view?docId=VAB7167",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-09-01",
+        "edition_year": 1998,
+        "item_id": "1441",
+        "language": "en",
+        "raw_creator": "Schreiner, Olive",
+        "raw_title": "The Story of an African Farm",
+        "url": "https://www.gutenberg.org/ebooks/1441"
+      },
+      "title": "The Story of an African Farm",
+      "work_id": "b3-world-008"
+    },
+    {
+      "author": "Griffis, William Elliot",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1501066W",
+      "first_publication_year": 1880,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/29337",
+          "https://www.gutenberg.org/cache/epub/29337/pg29337.rdf",
+          "https://www.gutenberg.org/cache/epub/29337/pg29337.txt",
+          "https://archive.org/details/japanesefairywor00grifrich",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2009-07-06",
+        "edition_year": 2009,
+        "item_id": "29337",
+        "language": "en",
+        "raw_creator": "Griffis, William Elliot",
+        "raw_title": "Japanese Fairy World\nStories from the Wonder-Lore of Japan",
+        "url": "https://www.gutenberg.org/ebooks/29337"
+      },
+      "title": "Japanese Fairy World: Stories from the Wonder-Lore of Japan",
+      "work_id": "b3-world-009"
+    },
+    {
+      "author": "Tagore, Rabindranath",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL308656W",
+      "first_publication_year": 1916,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/6524",
+          "https://www.gutenberg.org/cache/epub/6524/pg6524.rdf",
+          "https://www.gutenberg.org/cache/epub/6524/pg6524.txt",
+          "https://archive.org/details/straybirds00tago",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-09-01",
+        "edition_year": 2004,
+        "item_id": "6524",
+        "language": "en",
+        "raw_creator": "Tagore, Rabindranath",
+        "raw_title": "Stray Birds",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Tagore, Rabindranath",
+        "url": "https://www.gutenberg.org/ebooks/6524"
+      },
+      "title": "Stray Birds",
+      "work_id": "b3-world-010"
+    },
+    {
+      "author": "Toomer, Jean",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL49843W",
+      "first_publication_year": 1923,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/60093",
+          "https://www.gutenberg.org/cache/epub/60093/pg60093.rdf",
+          "https://www.gutenberg.org/cache/epub/60093/pg60093.txt",
+          "https://archive.org/details/cane01toom",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2019-08-12",
+        "edition_year": 2019,
+        "item_id": "60093",
+        "language": "en",
+        "raw_creator": "Toomer, Jean",
+        "raw_title": "Cane",
+        "url": "https://www.gutenberg.org/ebooks/60093"
+      },
+      "title": "Cane",
+      "work_id": "b3-modernist-011"
+    },
+    {
+      "author": "Du Bois, W. E. B. (William Edward Burghardt)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL28571W",
+      "first_publication_year": 1920,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/15210",
+          "https://www.gutenberg.org/cache/epub/15210/pg15210.rdf",
+          "https://www.gutenberg.org/cache/epub/15210/pg15210.txt",
+          "https://archive.org/details/darkwatervoicesf00dubo",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-02-28",
+        "edition_year": 2005,
+        "item_id": "15210",
+        "language": "en",
+        "raw_creator": "Du Bois, W. E. B. (William Edward Burghardt)",
+        "raw_title": "Darkwater: Voices from Within the Veil",
+        "url": "https://www.gutenberg.org/ebooks/15210"
+      },
+      "title": "Darkwater: Voices from Within the Veil",
+      "work_id": "b3-modernist-012"
+    },
+    {
+      "author": "Gibran, Kahlil",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL318863W",
+      "first_publication_year": 1918,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/5616",
+          "https://www.gutenberg.org/cache/epub/5616/pg5616.rdf",
+          "https://www.gutenberg.org/cache/epub/5616/pg5616.txt",
+          "https://archive.org/details/madmanhisparable00gibr",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-05-01",
+        "edition_year": 2004,
+        "item_id": "5616",
+        "language": "en",
+        "raw_creator": "Gibran, Kahlil",
+        "raw_title": "The Madman: His Parables and Poems",
+        "url": "https://www.gutenberg.org/ebooks/5616"
+      },
+      "title": "The Madman: His Parables and Poems",
+      "work_id": "b3-modernist-013"
+    },
+    {
+      "author": "Gibran, Kahlil",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43081250W",
+      "first_publication_year": 1923,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/58585",
+          "https://www.gutenberg.org/cache/epub/58585/pg58585.rdf",
+          "https://www.gutenberg.org/cache/epub/58585/pg58585.txt",
+          "https://archive.org/details/prophet00kahi",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2019-01-01",
+        "edition_year": 2019,
+        "item_id": "58585",
+        "language": "en",
+        "raw_creator": "Gibran, Kahlil",
+        "raw_title": "The Prophet",
+        "url": "https://www.gutenberg.org/ebooks/58585"
+      },
+      "title": "The Prophet",
+      "work_id": "b3-modernist-014"
+    },
+    {
+      "author": "Mansfield, Katherine",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL788054W",
+      "first_publication_year": 1922,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1429",
+          "https://www.gutenberg.org/cache/epub/1429/pg1429.rdf",
+          "https://www.gutenberg.org/cache/epub/1429/pg1429.txt",
+          "https://archive.org/details/gardenpartyothermansrich",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-08-01",
+        "edition_year": 1998,
+        "item_id": "1429",
+        "language": "en",
+        "raw_creator": "Mansfield, Katherine",
+        "raw_title": "The Garden Party, and Other Stories",
+        "url": "https://www.gutenberg.org/ebooks/1429"
+      },
+      "title": "The Garden Party, and Other Stories",
+      "work_id": "b3-modernist-015"
+    },
+    {
+      "author": "Conrad, Joseph",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL38827W",
+      "first_publication_year": 1916,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/451",
+          "https://www.gutenberg.org/cache/epub/451/pg451.rdf",
+          "https://www.gutenberg.org/cache/epub/451/pg451.txt",
+          "https://archive.org/details/shadowlineaconf00conrgoog",
+          "https://www.copyright.gov/circs/circ15a.pdf",
+          "https://www.josephconradsociety.org/catalogues/steeger_L13415_1.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2006-01-09",
+        "edition_year": 2006,
+        "item_id": "451",
+        "language": "en",
+        "raw_creator": "Conrad, Joseph",
+        "raw_title": "The Shadow Line: A Confession",
+        "url": "https://www.gutenberg.org/ebooks/451"
+      },
+      "title": "The Shadow Line: A Confession",
+      "work_id": "b3-modernist-016"
+    },
+    {
+      "author": "Mann, Thomas",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43171605W",
+      "first_publication_year": 1912,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/66073",
+          "https://www.gutenberg.org/cache/epub/66073/pg66073.rdf",
+          "https://www.gutenberg.org/cache/epub/66073/pg66073.txt",
+          "https://www.gutenberg.org/cache/epub/12108/pg12108.txt",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2021-08-16",
+        "edition_year": 2021,
+        "item_id": "66073",
+        "language": "en",
+        "raw_creator": "Mann, Thomas",
+        "raw_title": "Death in Venice",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "translator": "Burke, Kenneth",
+        "url": "https://www.gutenberg.org/ebooks/66073"
+      },
+      "title": "Death in Venice",
+      "work_id": "b3-modernist-017"
+    },
+    {
+      "author": "Joyce, James",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL33122325W",
+      "first_publication_year": 1914,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/4217",
+          "https://www.gutenberg.org/cache/epub/4217/pg4217.rdf",
+          "https://www.gutenberg.org/cache/epub/4217/pg4217.txt",
+          "https://joycetower.ie/collection/artefacts/jtaa_0015-a-portrait-of-the-artist-as-a-young-man",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-07-01",
+        "edition_year": 2003,
+        "item_id": "4217",
+        "language": "en",
+        "raw_creator": "Joyce, James",
+        "raw_title": "A Portrait of the Artist as a Young Man",
+        "url": "https://www.gutenberg.org/ebooks/4217"
+      },
+      "title": "A Portrait of the Artist as a Young Man",
+      "work_id": "b3-modernist-018"
+    },
+    {
+      "author": "Joyce, James",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL86320W",
+      "first_publication_year": 1914,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/2814",
+          "https://www.gutenberg.org/cache/epub/2814/pg2814.rdf",
+          "https://www.gutenberg.org/cache/epub/2814/pg2814.txt",
+          "https://archive.org/details/dubliners00joyc_8",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2001-09-01",
+        "edition_year": 2001,
+        "item_id": "2814",
+        "language": "en",
+        "raw_creator": "Joyce, James",
+        "raw_title": "Dubliners",
+        "url": "https://www.gutenberg.org/ebooks/2814"
+      },
+      "title": "Dubliners",
+      "work_id": "b3-modernist-019"
+    },
+    {
+      "author": "Woolf, Virginia",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL39349W",
+      "first_publication_year": 1925,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/71865",
+          "https://www.gutenberg.org/cache/epub/71865/pg71865.rdf",
+          "https://www.gutenberg.org/cache/epub/71865/pg71865.txt",
+          "https://blogs.loc.gov/copyright/2021/01/the-lifecycle-of-copyright-1925-works-enter-the-public-domain/",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2023-10-13",
+        "edition_year": 2023,
+        "item_id": "71865",
+        "language": "en",
+        "raw_creator": "Woolf, Virginia",
+        "raw_title": "Mrs. Dalloway",
+        "url": "https://www.gutenberg.org/ebooks/71865"
+      },
+      "title": "Mrs. Dalloway",
+      "work_id": "b3-modernist-020"
+    },
+    {
+      "author": "Washington, Booker T.",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL357501W",
+      "first_publication_year": 1900,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/2376",
+          "https://www.gutenberg.org/cache/epub/2376/pg2376.rdf",
+          "https://www.gutenberg.org/cache/epub/2376/pg2376.txt",
+          "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha012502850",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2000-10-01",
+        "edition_year": 2000,
+        "item_id": "2376",
+        "language": "en",
+        "raw_creator": "Washington, Booker T.",
+        "raw_title": "Up from Slavery: An Autobiography",
+        "url": "https://www.gutenberg.org/ebooks/2376"
+      },
+      "title": "Up from Slavery: An Autobiography",
+      "work_id": "b3-theory-021"
+    },
+    {
+      "author": "Douglass, Frederick",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL69178W",
+      "first_publication_year": 1845,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/23",
+          "https://www.gutenberg.org/cache/epub/23/pg23.rdf",
+          "https://www.gutenberg.org/cache/epub/23/pg23.txt",
+          "https://archive.org/details/narrativeoflifeo1845doug",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2006-01-12",
+        "edition_year": 2006,
+        "item_id": "23",
+        "language": "en",
+        "raw_creator": "Douglass, Frederick",
+        "raw_title": "Narrative of the Life of Frederick Douglass, an American Slave",
+        "url": "https://www.gutenberg.org/ebooks/23"
+      },
+      "title": "Narrative of the Life of Frederick Douglass: an American Slave",
+      "work_id": "b3-theory-022"
+    },
+    {
+      "author": "Douglass, Frederick",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL69176W",
+      "first_publication_year": 1881,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/71893",
+          "https://www.gutenberg.org/cache/epub/71893/pg71893.rdf",
+          "https://www.gutenberg.org/cache/epub/71893/pg71893.txt",
+          "https://archive.org/details/lifetimesoffrede1881doug",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2023-10-16",
+        "edition_year": 2023,
+        "item_id": "71893",
+        "language": "en",
+        "raw_creator": "Douglass, Frederick",
+        "raw_title": "Life and times of Frederick Douglass : $b His early life as a slave, his escape from bondage, and his complete history",
+        "url": "https://www.gutenberg.org/ebooks/71893"
+      },
+      "title": "Life and times of Frederick Douglass : $b His early life as a slave, his escape from bondage, and his complete history",
+      "work_id": "b3-theory-023"
+    },
+    {
+      "author": "Jacobs, Harriet A. (Harriet Ann)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL28623W",
+      "first_publication_year": 1861,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/11030",
+          "https://www.gutenberg.org/cache/epub/11030/pg11030.rdf",
+          "https://www.gutenberg.org/cache/epub/11030/pg11030.txt",
+          "https://archive.org/details/incidentsinlifeo1861jaco",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2004-02-01",
+        "edition_year": 2004,
+        "editor": "Child, Lydia Maria",
+        "item_id": "11030",
+        "language": "en",
+        "raw_creator": "Jacobs, Harriet A. (Harriet Ann)",
+        "raw_title": "Incidents in the Life of a Slave Girl, Written by Herself",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "url": "https://www.gutenberg.org/ebooks/11030"
+      },
+      "title": "Incidents in the Life of a Slave Girl: Written by Herself",
+      "work_id": "b3-theory-024"
+    },
+    {
+      "author": "Gilbert, Olive",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL20577473W",
+      "first_publication_year": 1850,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1674",
+          "https://www.gutenberg.org/cache/epub/1674/pg1674.rdf",
+          "https://www.gutenberg.org/cache/epub/1674/pg1674.txt",
+          "https://archive.org/details/narrativeofsojou1850gilb",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1999-03-01",
+        "edition_year": 1999,
+        "editor": "Gilbert, Olive",
+        "item_id": "1674",
+        "language": "en",
+        "raw_creator": "Gilbert, Olive",
+        "raw_title": "The Narrative of Sojourner Truth",
+        "translation_rights_status": "PD_US_CONFIRMED",
+        "url": "https://www.gutenberg.org/ebooks/1674"
+      },
+      "title": "The Narrative of Sojourner Truth",
+      "work_id": "b3-theory-025"
+    },
+    {
+      "author": "Wells-Barnett, Ida B.",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL2481244W",
+      "first_publication_year": 1899,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/64426",
+          "https://www.gutenberg.org/cache/epub/64426/pg64426.rdf",
+          "https://www.gutenberg.org/cache/epub/64426/pg64426.txt",
+          "https://archive.org/details/lynchlawingeorgi00well",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2021-01-31",
+        "edition_year": 2021,
+        "item_id": "64426",
+        "language": "en",
+        "raw_creator": "Wells-Barnett, Ida B.",
+        "raw_title": "Lynch Law in Georgia",
+        "url": "https://www.gutenberg.org/ebooks/64426"
+      },
+      "title": "Lynch Law in Georgia",
+      "work_id": "b3-theory-026"
+    },
+    {
+      "author": "Wells-Barnett, Ida B.",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL21963355W",
+      "first_publication_year": 1892,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/14975",
+          "https://www.gutenberg.org/cache/epub/14975/pg14975.rdf",
+          "https://www.gutenberg.org/cache/epub/14975/pg14975.txt",
+          "https://www.nypl.org/events/exhibitions/galleries/archiving-against-censorship-and-white-supremacy/item/17480",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-02-08",
+        "edition_year": 2005,
+        "item_id": "14975",
+        "language": "en",
+        "raw_creator": "Wells-Barnett, Ida B.",
+        "raw_title": "Southern Horrors: Lynch Law in All Its Phases",
+        "url": "https://www.gutenberg.org/ebooks/14975"
+      },
+      "title": "Southern Horrors: Lynch Law in All Its Phases",
+      "work_id": "b3-theory-027"
+    },
+    {
+      "author": "Cooper, Anna J. (Anna Julia)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL2721707W",
+      "first_publication_year": 1892,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/61741",
+          "https://www.gutenberg.org/cache/epub/61741/pg61741.rdf",
+          "https://www.gutenberg.org/cache/epub/61741/pg61741.txt",
+          "https://archive.org/details/voicefromsouth00coop",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2020-04-02",
+        "edition_year": 2020,
+        "item_id": "61741",
+        "language": "en",
+        "raw_creator": "Cooper, Anna J. (Anna Julia)",
+        "raw_title": "A Voice from the South\r\nBy a Black Woman of the South",
+        "url": "https://www.gutenberg.org/ebooks/61741"
+      },
+      "title": "A Voice from the South: By a Black Woman of the South",
+      "work_id": "b3-theory-028"
+    },
+    {
+      "author": "Zitkala-Sa",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL5478557W",
+      "first_publication_year": 1921,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/10376",
+          "https://www.gutenberg.org/cache/epub/10376/pg10376.rdf",
+          "https://www.gutenberg.org/cache/epub/10376/pg10376.txt",
+          "https://archive.org/details/americanindianst1921zitk",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-12-01",
+        "edition_year": 2003,
+        "item_id": "10376",
+        "language": "en",
+        "raw_creator": "Zitkala-Sa",
+        "raw_title": "American Indian Stories",
+        "url": "https://www.gutenberg.org/ebooks/10376"
+      },
+      "title": "American Indian Stories",
+      "work_id": "b3-theory-029"
+    },
+    {
+      "author": "Addams, Jane",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL36956502W",
+      "first_publication_year": 1910,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1325",
+          "https://www.gutenberg.org/cache/epub/1325/pg1325.rdf",
+          "https://www.gutenberg.org/cache/epub/1325/pg1325.txt",
+          "https://archive.org/details/twentyyearsathul00addauoft",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-05-01",
+        "edition_year": 1998,
+        "item_id": "1325",
+        "language": "en",
+        "raw_creator": "Addams, Jane",
+        "raw_title": "Twenty Years at Hull House; with Autobiographical Notes",
+        "url": "https://www.gutenberg.org/ebooks/1325"
+      },
+      "title": "Twenty Years at Hull House; with Autobiographical Notes",
+      "work_id": "b3-theory-030"
+    }
+  ]
+}

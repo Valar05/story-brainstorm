@@ -1,0 +1,789 @@
+{
+  "cards": [
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-harbor",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 1 — Floodgate Bargain Reversed",
+          "short_excerpt": "She tore the berth receipt across its red seal.",
+          "work_id": "fixture-harbor"
+        }
+      ],
+      "family": "story",
+      "inference": "Destroying private leverage can credibly demonstrate commitment before a collective rescue negotiation.",
+      "name": "Floodgate Bargain Reversed",
+      "observation": "Mira tears her berth receipt before the keeper agrees to release the gate.",
+      "pattern": {
+        "pressure": "Rising water traps fishing families beyond the locked sluice.",
+        "residue": "The keeper now owes passage to those without receipts.",
+        "setup": "The keeper reserves the dry quay for paying vessels.",
+        "turn": "Mira destroys the receipt that secures her own berth."
+      },
+      "primitive_id": "sha256:45881b2dca17b70cb233d80ae7faddc215e951e9ea72938bc5bbf1bc557e8e78",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A pilot sacrifices her paid berth to reopen the common floodgate."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-harbor",
+          "excerpt_words": 8,
+          "location": "Synthetic scene 2 — Cargo Becomes Ballast",
+          "short_excerpt": "Cinnamon filled the hollow spaces beneath the passengers.",
+          "work_id": "fixture-harbor"
+        }
+      ],
+      "family": "story",
+      "inference": "An emergency can invert an asset's value from exchange potential to physical usefulness.",
+      "name": "Cargo Becomes Ballast",
+      "observation": "The crew cuts open saleable sacks and packs their contents beneath the benches.",
+      "pattern": {
+        "pressure": "Rescued children crowd one gunwale and threaten its balance.",
+        "residue": "Survivors reach shore carrying a debt nobody can invoice.",
+        "setup": "Spice merchants have loaded the narrow boat for market.",
+        "turn": "The crew redistributes expensive cargo as stabilizing weight below."
+      },
+      "primitive_id": "sha256:ce458774ac8b61d4a36fbe9b63eb2f16465b695343caa06cd409050806ae9757",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Valuable spice sacks become ballast when passengers crowd the rescue boat."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-harbor",
+          "excerpt_words": 7,
+          "location": "Synthetic scene 3 — Delayed Warning Returns",
+          "short_excerpt": "At midnight the fourth stroke never came.",
+          "work_id": "fixture-harbor"
+        }
+      ],
+      "family": "story",
+      "inference": "Removing a familiar signal can communicate danger when repeated warnings have become background.",
+      "name": "Delayed Warning Returns",
+      "observation": "Mira recognizes the missing bell stroke and turns back toward the submerged watchtower.",
+      "pattern": {
+        "pressure": "Dockworkers have learned to discount those frequent alarm strokes.",
+        "residue": "Mira trusts absence enough to abandon her safe route.",
+        "setup": "Watchmen ring the same river warning throughout ordinary storms.",
+        "turn": "Silence replaces the expected stroke while floodwater keeps rising."
+      },
+      "primitive_id": "sha256:484932520274868f8f8fa749c65044fdeb04c8a2c9e71026369f288aadca94a0",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "An ignored bell warning becomes actionable after the warning bell falls silent."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-harbor",
+          "excerpt_words": 7,
+          "location": "Synthetic scene 4 — Debt Named Publicly",
+          "short_excerpt": "Whose supper did my mother's fare buy?",
+          "work_id": "fixture-harbor"
+        }
+      ],
+      "family": "speech",
+      "inference": "A concrete beneficiary question can make evasion costlier than acknowledging a public debt.",
+      "name": "Debt Named Publicly",
+      "observation": "The child asks the keeper to identify who received her mother's last ferry fare.",
+      "pattern": {
+        "pressure": "Families lack receipts proving their payments financed the gate.",
+        "residue": "Listeners begin tracing responsibility through relationships rather than ledgers.",
+        "setup": "The keeper dismisses complaints as disagreements over accounting columns.",
+        "turn": "A child requests a person's name instead of another total."
+      },
+      "primitive_id": "sha256:c67a974900bf51846bdc7d83feb5573382ee268e2983de2a6a0545022f4a81cc",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A keeper's private obligation becomes public when a child names its beneficiary."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-harbor",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 5 — Conditional Promise Broken",
+          "short_excerpt": "You said you would sail when the chapel drowned.",
+          "work_id": "fixture-harbor"
+        }
+      ],
+      "family": "speech",
+      "inference": "Quoting a condition beside visible evidence can close a speaker's escape through ambiguity.",
+      "name": "Conditional Promise Broken",
+      "observation": "Mira repeats the captain's words after showing him the water inside the chapel.",
+      "pattern": {
+        "pressure": "His crew keeps arguing that streets do not qualify.",
+        "residue": "The captain must either launch boats or disown his promise.",
+        "setup": "The captain promises help only if sacred ground floods.",
+        "turn": "Mira opens the chapel door and repeats his condition."
+      },
+      "primitive_id": "sha256:5b057ddbf6820eaa1650b180d2b35e05495606ba377e710df9045c89e8ade54d",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "The pilot recasts a captain's conditional promise as an obligation already activated."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-harbor",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 6 — Pride Relinquishes Rank",
+          "short_excerpt": "He folded the cap and handed her the pole.",
+          "work_id": "fixture-harbor"
+        }
+      ],
+      "family": "character",
+      "inference": "Giving up a status emblem can make correction acceptable without requiring verbal confession.",
+      "name": "Pride Relinquishes Rank",
+      "observation": "Arlen removes his uniform cap and follows the child's chalk marks through flooded lanes.",
+      "pattern": {
+        "pressure": "His chosen shortcut leads the rescue boat toward submerged ironwork.",
+        "residue": "Command survives as responsibility while expertise changes its owner.",
+        "setup": "Arlen treats unfamiliar streets as channels he already understands.",
+        "turn": "He removes his cap before requesting the child's marked route."
+      },
+      "primitive_id": "sha256:0ed63c389344d72ec65045e4062fcddee6b97a5cb8556f7a85852e5900650c1d",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A former officer accepts a child's navigational correction during the rescue crossing."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-harbor",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 7 — Grief Keeps Count",
+          "short_excerpt": "One space stayed clean beneath the wet chalk marks.",
+          "work_id": "fixture-harbor"
+        }
+      ],
+      "family": "character",
+      "inference": "A deliberately preserved vacancy can let private grief coexist with reliable collective service.",
+      "name": "Grief Keeps Count",
+      "observation": "Sera leaves one chalk space empty while recording every rescued passenger beside it.",
+      "pattern": {
+        "pressure": "Neighbors urge her to include an unconfirmed rescue rumor.",
+        "residue": "The landing retains trustworthy numbers alongside an acknowledged absence.",
+        "setup": "Sera tracks arrivals on a board beside the landing.",
+        "turn": "She keeps her son's space blank until someone brings evidence."
+      },
+      "primitive_id": "sha256:adab61402d3be9a0b34144099f04d7c1963d2d80d8a6e2624864ca2dc5b6d764",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A bereaved tally keeper continues counting survivors without counting her missing son twice."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-harbor",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 8 — Rival Routes Collide",
+          "short_excerpt": "They knotted the rival ropes above the flooded wheel.",
+          "work_id": "fixture-harbor"
+        }
+      ],
+      "family": "conflict",
+      "inference": "A shared physical bottleneck can force enemies to coordinate before resolving their grievance.",
+      "name": "Rival Routes Collide",
+      "observation": "Rival pilots lash their boats together after their separate poles jam the narrow passage.",
+      "pattern": {
+        "pressure": "Their passengers panic as the boats wedge against stone.",
+        "residue": "Each crew's escape remains dependent on its rival's balance.",
+        "setup": "Competing crews enter the mill channel from opposite ends.",
+        "turn": "Both pilots bind their hulls into a single movable platform."
+      },
+      "primitive_id": "sha256:8e3bee3d1ccb5499c4ed382d204fbaeff9a953cb0ce18c6ea6d2d9ef3bd85e78",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Two rescue crews fight over a channel that cannot safely carry both boats."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-harbor",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 9 — Ledger Frames Rescue",
+          "short_excerpt": "Missing property: six sacks, one berth, no compensable lives.",
+          "work_id": "fixture-harbor"
+        }
+      ],
+      "family": "structure",
+      "inference": "Juxtaposing administrative categories with witnessed actions can reveal what institutional records cannot value.",
+      "name": "Ledger Frames Rescue",
+      "observation": "The account lists unclaimed cargo immediately after a scene shows its owner saving strangers.",
+      "pattern": {
+        "pressure": "A terse ledger interrupts with losses arranged by property class.",
+        "residue": "Readers learn to question later totals before seeing their causes.",
+        "setup": "Each river episode ends before its consequences become certain.",
+        "turn": "The next scene identifies a listed loss as voluntary sacrifice."
+      },
+      "primitive_id": "sha256:c8de46acec612f06bdecfff04c45622f29d37fba6e3da55839b52ce26ef7ec53",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Alternating ledger entries and river scenes expose costs missing from official rescue accounts."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-harbor",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 10 — Sluice Key Custody",
+          "short_excerpt": "The key passed from kitchen to kitchen each Sunday.",
+          "work_id": "fixture-harbor"
+        }
+      ],
+      "family": "contextual",
+      "inference": "Distributing custody can transform access rules without pretending the physical hazard has disappeared.",
+      "name": "Sluice Key Custody",
+      "observation": "Three households take turns holding the gate key after the keeper leaves the quay.",
+      "pattern": {
+        "pressure": "His departure threatens to restore arbitrary closure during floods.",
+        "residue": "The gate remains dangerous but no longer answers one owner.",
+        "setup": "A single keeper controls access through one iron gate.",
+        "turn": "Households establish rotating custody with a publicly witnessed handover."
+      },
+      "primitive_id": "sha256:5cdb784b56148b54ed71bb7e82651d2487c549eaaccd92a40a42a046a9879f9a",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "subtype": "institution",
+      "summary": "A shared key changes the floodgate from private property into a rotating civic duty."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-orchard",
+          "excerpt_words": 10,
+          "location": "Synthetic scene 1 — Witness Harvest Deferred",
+          "short_excerpt": "Leave those pears hanging until the judges see the graft.",
+          "work_id": "fixture-orchard"
+        }
+      ],
+      "family": "story",
+      "inference": "Delaying an irreversible action can preserve evidence even when delay carries an immediate cost.",
+      "name": "Witness Harvest Deferred",
+      "observation": "The workers protect one tree's fruit while harvesting every neighboring row before frost arrives.",
+      "pattern": {
+        "pressure": "Early frost threatens to destroy the disputed harvest overnight.",
+        "residue": "Unpicked fruit becomes testimony that neither estate can sell.",
+        "setup": "Two estates claim the tree beside a buried boundary stone.",
+        "turn": "Workers reserve that tree so the tribunal can inspect its graft."
+      },
+      "primitive_id": "sha256:052462a79c463475c9147bb334715da5f747c9fff51f2976f9ad43b0573e38f2",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Orchard workers leave a disputed tree unpicked until its fruit can prove a boundary claim."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-orchard",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 2 — Inheritance Changes Hands",
+          "short_excerpt": "The bequest stood beside a sketch of cankered bark.",
+          "work_id": "fixture-orchard"
+        }
+      ],
+      "family": "story",
+      "inference": "Embedding authority in routine maintenance can let overlooked expertise carry a succession claim.",
+      "name": "Inheritance Changes Hands",
+      "observation": "An apprentice finds the heir's signed direction among dated sketches of diseased branches.",
+      "pattern": {
+        "pressure": "Meanwhile the orchard sickens under competing orders from rival claimants.",
+        "residue": "Practical stewardship gains legal force through a neglected working record.",
+        "setup": "Relatives search the manor for a ceremonial sealed testament.",
+        "turn": "An apprentice recognizes a signed instruction inside the pruning register."
+      },
+      "primitive_id": "sha256:e98ba14b0cdccaeaa3928ec7ebcaf0a7b3a95ac97262259d0196d9cfea8b15b3",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A missing heir transfers orchard control through an instruction hidden inside ordinary pruning records."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-orchard",
+          "excerpt_words": 10,
+          "location": "Synthetic scene 3 — Repaid Theft Exposed",
+          "short_excerpt": "Their roots were still wet with water from our spring.",
+          "work_id": "fixture-orchard"
+        }
+      ],
+      "family": "story",
+      "inference": "Restitution can disclose a larger concealed wrong when objects lead investigators back to origin.",
+      "name": "Repaid Theft Exposed",
+      "observation": "The courier follows the returned seedlings to a fenced spring marked on older village maps.",
+      "pattern": {
+        "pressure": "The owner demands punishment and offers a reward for recovery.",
+        "residue": "The nursery complaint now requires inquiry into the owner's title.",
+        "setup": "Seedlings vanish from the manor nursery before the hearing.",
+        "turn": "Their return route reveals his fence enclosing the common spring."
+      },
+      "primitive_id": "sha256:f21d2d2710fccbbee5f4cc8a0234b5b340df844a82983c675c549aff0efafdba",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Returning stolen seedlings exposes a landowner's earlier theft of the village water supply."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-orchard",
+          "excerpt_words": 11,
+          "location": "Synthetic scene 4 — Question Splits Authority",
+          "short_excerpt": "Tell us how old that scar is before naming its owner.",
+          "work_id": "fixture-orchard"
+        }
+      ],
+      "family": "speech",
+      "inference": "A competence question can interrupt status claims without directly denying established legal authority.",
+      "name": "Question Splits Authority",
+      "observation": "Lio asks each claimant to date the graft before allowing arguments about the inheritance.",
+      "pattern": {
+        "pressure": "Workers cannot choose a pruning order without harming one claim.",
+        "residue": "The hearing admits expertise that rank alone could not provide.",
+        "setup": "Two heirs insist their names settle every orchard decision.",
+        "turn": "Lio asks the heirs to read the tree itself."
+      },
+      "primitive_id": "sha256:498b88631b2f7803626e97f51720304bab7c60579f9c038e3da60b17f65ede21",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A worker distinguishes ownership from cultivation by asking who can recognize a graft's age."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-orchard",
+          "excerpt_words": 10,
+          "location": "Synthetic scene 5 — Silence Records Refusal",
+          "short_excerpt": "Her lowered hand refused the bargain without a spoken name.",
+          "work_id": "fixture-orchard"
+        }
+      ],
+      "family": "speech",
+      "inference": "Explicitly presenting alternatives can distinguish deliberate silence from exclusion or inability to answer.",
+      "name": "Silence Records Refusal",
+      "observation": "The clerk reads both choices aloud and writes refusal only after the tenant lowers her hand.",
+      "pattern": {
+        "pressure": "A tenant cannot speak safely while her employer watches.",
+        "residue": "The record preserves dissent without inventing words for its author.",
+        "setup": "The tribunal normally treats unanswered questions as signs of guilt.",
+        "turn": "The clerk offers a hand signal and waits for withdrawal."
+      },
+      "primitive_id": "sha256:29f4067a51875da49e97d8be738c510c8d2a5a84e900fc27cd5175045ce194ed",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A clerk records a tenant's silence as refusal after offering a clearly stated alternative."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-orchard",
+          "excerpt_words": 8,
+          "location": "Synthetic scene 6 — Loyalty Corrects Patron",
+          "short_excerpt": "I owe you my place, not their spring.",
+          "work_id": "fixture-orchard"
+        }
+      ],
+      "family": "character",
+      "inference": "A character can honor an earlier kindness while refusing the new deception it is used to demand.",
+      "name": "Loyalty Corrects Patron",
+      "observation": "The steward places the original water map beside his patron's altered copy during testimony.",
+      "pattern": {
+        "pressure": "An altered map would dispossess workers the steward now supervises.",
+        "residue": "Their bond persists as history but loses power to command falsehood.",
+        "setup": "The patron reminds his steward who saved his position.",
+        "turn": "He produces the older map and acknowledges the debt aloud."
+      },
+      "primitive_id": "sha256:f0df37b9fd0fe1808f661c04d655838585273fe71c4df56b5263b3f08674950b",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A steward publicly corrects the patron who once protected him from dismissal."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-orchard",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 7 — Ambition Accepts Apprenticeship",
+          "short_excerpt": "Mark the wrong cuts before I give another order.",
+          "work_id": "fixture-orchard"
+        }
+      ],
+      "family": "character",
+      "inference": "A visible request for correction can redirect ambition toward competence rather than inherited command.",
+      "name": "Ambition Accepts Apprenticeship",
+      "observation": "Nera asks the youngest pruner to inspect her cuts before she signs another orchard order.",
+      "pattern": {
+        "pressure": "Her first order damages trees that should have remained untouched.",
+        "residue": "Future orders must carry knowledge acquired through accountable participation.",
+        "setup": "Nera inherits authority before learning the seasonal pruning practice.",
+        "turn": "She asks a junior worker to review her next cut."
+      },
+      "primitive_id": "sha256:2024a9eede0630c4d78696fcb4a0cf7cc618c97c7ee0f206e73c8bf8d4a29492",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "An heir chooses apprenticeship after discovering that ownership does not confer practical judgment."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-orchard",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 8 — Common Water Divided",
+          "short_excerpt": "No household shall own the hour before dawn forever.",
+          "work_id": "fixture-orchard"
+        }
+      ],
+      "family": "conflict",
+      "inference": "Rotating access windows can redistribute leverage when equal shares still depend on unequal control.",
+      "name": "Common Water Divided",
+      "observation": "The judges assign changing opening times instead of granting one household possession of the channel.",
+      "pattern": {
+        "pressure": "A dry season makes fixed ownership of the gate politically decisive.",
+        "residue": "Every household receives access and an obligation to verify another's turn.",
+        "setup": "Upstream residents can block every downstream irrigation channel at will.",
+        "turn": "Judges assign rotating hours and witnesses from both channel ends."
+      },
+      "primitive_id": "sha256:18da8272333abc39a515c811096ec6747b36007f408aa13f315b83d7add266a0",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "The tribunal must divide scarce water without making upstream households perpetual gatekeepers."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-orchard",
+          "excerpt_words": 10,
+          "location": "Synthetic scene 9 — Testimony Circles Tree",
+          "short_excerpt": "To him a wound; to her a season of work.",
+          "work_id": "fixture-orchard"
+        }
+      ],
+      "family": "structure",
+      "inference": "Revisiting one material detail through conflicting accounts can structure disagreement without an omniscient verdict.",
+      "name": "Testimony Circles Tree",
+      "observation": "Three testimonies describe the graft as injury, skill, and boundary without changing its visible shape.",
+      "pattern": {
+        "pressure": "Each witness makes that unchanged scar support a different claim.",
+        "residue": "Readers retain competing histories rather than a single resolved symbol.",
+        "setup": "The hearing begins with a close description of bark.",
+        "turn": "Later testimony exposes which earlier account omitted the tree's caretaker."
+      },
+      "primitive_id": "sha256:8dd8263df01fef833e774579216050deaf41f2aecbc34b2ac8f4a59685490fbc",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Repeated visits to the same graft reveal how each witness selects a different history."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-orchard",
+          "excerpt_words": 8,
+          "location": "Synthetic scene 10 — Graft Preserves Difference",
+          "short_excerpt": "Both pears ripened, and neither became the other.",
+          "work_id": "fixture-orchard"
+        }
+      ],
+      "family": "contextual",
+      "inference": "An object can model cooperation through maintained difference instead of requiring assimilation into sameness.",
+      "name": "Graft Preserves Difference",
+      "observation": "The caretaker shows children two kinds of pears growing from one joined trunk.",
+      "pattern": {
+        "pressure": "Competing families claim its mixed fruit proves defective cultivation.",
+        "residue": "The tree makes coexistence tangible without erasing distinct inherited qualities.",
+        "setup": "Children expect the joined tree to produce one uniform crop.",
+        "turn": "The caretaker identifies each variety and demonstrates their shared support."
+      },
+      "primitive_id": "sha256:5cec16c62bfcdbb52263f676c4b70c680615207a3b690918f91f0c1e09caacfd",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "subtype": "object",
+      "summary": "A graft joins two varieties while retaining visibly different fruit on neighboring branches."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-observatory",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 1 — Observation Outlasts Siege",
+          "short_excerpt": "The angle survived beneath a broken tile's red dust.",
+          "work_id": "fixture-observatory"
+        }
+      ],
+      "family": "story",
+      "inference": "Separating knowledge from its vulnerable apparatus can preserve agency during forced dispossession.",
+      "name": "Observation Outlasts Siege",
+      "observation": "Iven scratches the angle into a roof tile before soldiers remove the telescope.",
+      "pattern": {
+        "pressure": "Soldiers demand the instrument before the next alignment can occur.",
+        "residue": "Reconstruction remains possible even after the machinery changes hands.",
+        "setup": "The observatory stores its measurements beside a valuable brass telescope.",
+        "turn": "Iven transfers the crucial angle onto an overlooked roof tile."
+      },
+      "primitive_id": "sha256:a1ffbd10abe54f8281449bc1e51db07cd7554e1ff63932036ba06776e6f41c4a",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "An observer preserves a measurement by surrendering the instrument that originally produced it."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-observatory",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 2 — False Eclipse Revealed",
+          "short_excerpt": "The shadow disagreed with every clock in the square.",
+          "work_id": "fixture-observatory"
+        }
+      ],
+      "family": "story",
+      "inference": "A failed public forecast can redirect suspicion from the model toward a shared hidden input.",
+      "name": "False Eclipse Revealed",
+      "observation": "The sun stays bright while the clock rings the hour copied into every prediction.",
+      "pattern": {
+        "pressure": "The announced darkness never arrives despite agreement among the charts.",
+        "residue": "Confidence returns only after separating calculation from corrupted timing.",
+        "setup": "Residents arrange their shelter around the observatory's eclipse notice.",
+        "turn": "An apprentice compares the clock against an independent shadow mark."
+      },
+      "primitive_id": "sha256:34134eea06e6b487d9eb2158c97308cbcf14c9bdf7bdd42acb3118ee64851bf0",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A predicted eclipse fails and exposes sabotage in the observatory's time signal."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-observatory",
+          "excerpt_words": 10,
+          "location": "Synthetic scene 3 — Safe Message Misread",
+          "short_excerpt": "North stair, according to the chart we no longer use.",
+          "work_id": "fixture-observatory"
+        }
+      ],
+      "family": "story",
+      "inference": "A shared code can fail through version drift even when both parties act in good faith.",
+      "name": "Safe Message Misread",
+      "observation": "The courier reaches the abandoned north stair after reading a constellation label from last winter's chart.",
+      "pattern": {
+        "pressure": "A courier carries an older chart across the closed city.",
+        "residue": "Later messages must identify their reference frame before their destination.",
+        "setup": "Observers encode meeting places using familiar seasonal constellation labels.",
+        "turn": "The wrong stair reveals that the mapping changed with spring."
+      },
+      "primitive_id": "sha256:089a986cf85438f5a9305e4435f00cb497befbd5278440f4bfeb653a62a26f20",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A rescue code becomes dangerous when its recipient applies an obsolete star chart."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-observatory",
+          "excerpt_words": 11,
+          "location": "Synthetic scene 4 — Witness Qualifies Certainty",
+          "short_excerpt": "Three lights I saw; the hand behind them I did not.",
+          "work_id": "fixture-observatory"
+        }
+      ],
+      "family": "speech",
+      "inference": "Separating sensory certainty from attribution can resist pressure to turn accurate observation into accusation.",
+      "name": "Witness Qualifies Certainty",
+      "observation": "Ada repeats that she saw three flashes but refuses to name their sender without corroboration.",
+      "pattern": {
+        "pressure": "Their questions make any hesitation appear like support for sabotage.",
+        "residue": "The inquiry gains a reliable event but loses its convenient culprit.",
+        "setup": "Officers demand a suspect's name after hearing about the flashes.",
+        "turn": "Ada states the count again and rejects the proposed identity."
+      },
+      "primitive_id": "sha256:1d8e8c157bcb0c816416b118356c20a74b82a4dea90a0d10a45f2cddf6d18aab",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "An astronomer distinguishes seeing a light from knowing who sent its signal."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-observatory",
+          "excerpt_words": 9,
+          "location": "Synthetic scene 5 — Shared Metaphor Corrected",
+          "short_excerpt": "Keep the question; discard the river I gave you.",
+          "work_id": "fixture-observatory"
+        }
+      ],
+      "family": "speech",
+      "inference": "Revising a trusted analogy can protect learning when familiarity conceals a systematic misunderstanding.",
+      "name": "Shared Metaphor Corrected",
+      "observation": "The teacher replaces her river comparison with a turning bowl after students reverse the star motion.",
+      "pattern": {
+        "pressure": "The river comparison makes them predict the wrong direction consistently.",
+        "residue": "Students gain permission to test explanations rather than memorize reassurance.",
+        "setup": "Pupils understand watercourses better than the motion of night skies.",
+        "turn": "Their teacher uses a rotating bowl and names the earlier mismatch."
+      },
+      "primitive_id": "sha256:943ee99255393073a4f2bbfcc0faf774f83a335ef5f76a489136cc1956bd1c34",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A teacher abandons a familiar navigation metaphor when it gives pupils a false direction."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-observatory",
+          "excerpt_words": 10,
+          "location": "Synthetic scene 6 — Fear Sustains Vigil",
+          "short_excerpt": "Latch first, then shutter, then the cloth around the lens.",
+          "work_id": "fixture-observatory"
+        }
+      ],
+      "family": "character",
+      "inference": "Breaking danger into concrete actions can sustain commitment without making fear disappear.",
+      "name": "Fear Sustains Vigil",
+      "observation": "Toma names the shutter, the latch, and the lens while crossing the exposed observation platform.",
+      "pattern": {
+        "pressure": "Imagining the whole crossing leaves him unable to move.",
+        "residue": "His fear remains present while a sequence of small commitments advances.",
+        "setup": "Toma must inspect the roof while shots echo nearby.",
+        "turn": "He names one reachable object and completes that action first."
+      },
+      "primitive_id": "sha256:46a95ca98a56af50645f54516f310e76abc83e8089f39fed0d019628cd42c213",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A frightened observer stays on duty by describing each manageable action before performing it."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-observatory",
+          "excerpt_words": 10,
+          "location": "Synthetic scene 7 — Rivalry Shares Credit",
+          "short_excerpt": "Beside the new angle she wrote the other woman's name.",
+          "work_id": "fixture-observatory"
+        }
+      ],
+      "family": "character",
+      "inference": "Publicly assigning credit can change a rivalry's future incentives without erasing its earlier injury.",
+      "name": "Rivalry Shares Credit",
+      "observation": "Ada enters her rival's name beside the corrected measurement in the permanent public register.",
+      "pattern": {
+        "pressure": "Her rival discovers an error that would invalidate the announced result.",
+        "residue": "Their disagreement becomes inspectable work rather than a private contest.",
+        "setup": "Ada's reputation rests on defending her original alignment calculation.",
+        "turn": "Ada records the correction with its discoverer's name attached."
+      },
+      "primitive_id": "sha256:37bc5dafca9184d843eb392ee13997458a10a2f0c2256119f040498ae012e0e4",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A senior observer attributes a correction to the rival whose appointment she opposed."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-observatory",
+          "excerpt_words": 10,
+          "location": "Synthetic scene 8 — Shelter Competes With Sight",
+          "short_excerpt": "The stars were visible, and so were the wet blankets.",
+          "work_id": "fixture-observatory"
+        }
+      ],
+      "family": "conflict",
+      "inference": "A technically successful procedure can become unacceptable when its enabling conditions harm dependent bystanders.",
+      "name": "Shelter Competes With Sight",
+      "observation": "Observers suspend their measurement when rain reaches the families sleeping beneath the dome's open seam.",
+      "pattern": {
+        "pressure": "A rare alignment requires opening the roof during heavy rain.",
+        "residue": "The missing result records a chosen duty toward those sharing the site.",
+        "setup": "The dome protects displaced families between scheduled observation periods.",
+        "turn": "Observers close the seam before completing their prized measurement."
+      },
+      "primitive_id": "sha256:4da2739c627b9e80fbaec88a465dc0bb1afea95d6f393f31a290a246b232ccea",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Opening the dome for observation exposes refugees who depend on its closed roof for shelter."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-observatory",
+          "excerpt_words": 11,
+          "location": "Synthetic scene 9 — Margins Reorder Discovery",
+          "short_excerpt": "Return to the margin of the night we called a failure.",
+          "work_id": "fixture-observatory"
+        }
+      ],
+      "family": "structure",
+      "inference": "A document's reading order can expose discovery as revision rather than a linear accumulation of certainty.",
+      "name": "Margins Reorder Discovery",
+      "observation": "Readers encounter an early calculation only after a later entry directs them to an overlooked margin.",
+      "pattern": {
+        "pressure": "Several later results depend on a correction absent from the main lines.",
+        "residue": "Chronology remains intact while the story of understanding changes shape.",
+        "setup": "The notebook initially presents dated entries as a straightforward sequence.",
+        "turn": "A marginal direction sends readers back to an earlier rejected value."
+      },
+      "primitive_id": "sha256:7c725bcbdb84b41fe634f70ce9b6ab4f4dbe414635b3999dc31e4d0def931bfd",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Marginal corrections make a later notebook entry overturn the apparent chronology of discovery."
+    },
+    {
+      "confidence": "accepted",
+      "evidence": [
+        {
+          "edition_url": "https://example.invalid/quality/fixture-observatory",
+          "excerpt_words": 10,
+          "location": "Synthetic scene 10 — Darkness Changes Citizenship",
+          "short_excerpt": "From every roof a different portion of the sky arrived.",
+          "work_id": "fixture-observatory"
+        }
+      ],
+      "family": "contextual",
+      "inference": "Losing a central institution's visibility can distribute expertise when participants retain ways to compare observations.",
+      "name": "Darkness Changes Citizenship",
+      "observation": "Residents share sky sightings from their roofs after the central dome's lamps go dark.",
+      "pattern": {
+        "pressure": "A blackout cuts the observatory off from its usual public signals.",
+        "residue": "Knowledge gains more custodians while disagreements still require public comparison.",
+        "setup": "Residents depend on the illuminated dome for authoritative sky reports.",
+        "turn": "Neighbors exchange roof sightings using agreed directions and intervals."
+      },
+      "primitive_id": "sha256:1d6ffb7c2b339478aae39b329e41c4529c2c21c66b9ec754fe29576667c16553",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "subtype": "transformation",
+      "summary": "The observatory's blackout turns neighboring rooftops into a distributed network of observation posts."
+    }
+  ],
+  "fixture_notice": "Original synthetic calibration scenarios and snippets; no real source attribution or source/rights certification. Not eligible for corpus integration.",
+  "schema_version": "1.0"
+}

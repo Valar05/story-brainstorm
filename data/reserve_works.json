@@ -1,0 +1,542 @@
+{
+  "schema_version": "1.0",
+  "works": [
+    {
+      "author": "Cather, Willa",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL12831W",
+      "first_publication_year": 1915,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/44",
+          "https://www.gutenberg.org/cache/epub/44/pg44.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-06-27",
+        "edition_year": 2008,
+        "item_id": "44",
+        "language": "en",
+        "raw_creator": "Cather, Willa",
+        "raw_title": "The Song of the Lark",
+        "url": "https://www.gutenberg.org/ebooks/44"
+      },
+      "title": "The Song of the Lark",
+      "work_id": "b2r-reserve-01"
+    },
+    {
+      "author": "Frost, Robert",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1108078W",
+      "first_publication_year": 1916,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/29345",
+          "https://www.gutenberg.org/cache/epub/29345/pg29345.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2009-07-07",
+        "edition_year": 2009,
+        "item_id": "29345",
+        "language": "en",
+        "raw_creator": "Frost, Robert",
+        "raw_title": "Mountain Interval",
+        "url": "https://www.gutenberg.org/ebooks/29345"
+      },
+      "title": "Mountain Interval",
+      "work_id": "b2r-reserve-02"
+    },
+    {
+      "author": "Carroll, Lewis",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL151447W",
+      "first_publication_year": 1876,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/13",
+          "https://www.gutenberg.org/cache/epub/13/pg13.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-06-25",
+        "edition_year": 2008,
+        "item_id": "13",
+        "language": "en",
+        "raw_creator": "Carroll, Lewis",
+        "raw_title": "The Hunting of the Snark: An Agony in Eight Fits",
+        "url": "https://www.gutenberg.org/ebooks/13"
+      },
+      "title": "The Hunting of the Snark: An Agony in Eight Fits",
+      "work_id": "b2r-reserve-03"
+    },
+    {
+      "author": "Shakespeare, William",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL362691W",
+      "first_publication_year": 1600,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/1520",
+          "https://www.gutenberg.org/cache/epub/1520/pg1520.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1998-11-01",
+        "edition_year": 1998,
+        "item_id": "1520",
+        "language": "en",
+        "raw_creator": "Shakespeare, William",
+        "raw_title": "Much Ado about Nothing",
+        "url": "https://www.gutenberg.org/ebooks/1520"
+      },
+      "title": "Much Ado about Nothing",
+      "work_id": "b2r-reserve-04"
+    },
+    {
+      "author": "Wharton, Edith",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL98586W",
+      "first_publication_year": 1917,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/166",
+          "https://www.gutenberg.org/cache/epub/166/pg166.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2006-03-12",
+        "edition_year": 2006,
+        "item_id": "166",
+        "language": "en",
+        "raw_creator": "Wharton, Edith",
+        "raw_title": "Summer",
+        "url": "https://www.gutenberg.org/ebooks/166"
+      },
+      "title": "Summer",
+      "work_id": "b2r-reserve-05"
+    },
+    {
+      "author": "Wharton, Edith",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43195139W",
+      "first_publication_year": 1911,
+      "rights": {
+        "basis": "Exact English Project Gutenberg item metadata states Public domain in the USA.; item-wide clearance applies to the identified text and any explicitly named editorial layer. Work first publication is separately evidenced; digital/carrier release dates are not substituted for it.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/4517",
+          "https://www.gutenberg.org/cache/epub/4517/pg4517.rdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2003-10-01",
+        "edition_year": 2003,
+        "item_id": "4517",
+        "language": "en",
+        "raw_creator": "Wharton, Edith",
+        "raw_title": "Ethan Frome",
+        "url": "https://www.gutenberg.org/ebooks/4517"
+      },
+      "title": "Ethan Frome",
+      "work_id": "b2r-reserve-06"
+    },
+    {
+      "author": "Crane, Stephen",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL43326141W",
+      "first_publication_year": 1894,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 73 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1894 is before 1930; digital release 1993-07-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/73",
+          "https://www.gutenberg.org/cache/epub/73/pg73.rdf",
+          "https://openlibrary.org/works/OL43326141W",
+          "https://archive.org/metadata/redbadgeofcourag1895cran",
+          "https://libres.uncg.edu/ir/uncg/f/butler_judith_1966.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1993-07-01",
+        "edition_year": 1993,
+        "item_id": "73",
+        "language": "en",
+        "raw_creator": "Crane, Stephen",
+        "raw_title": "The Red Badge of Courage: An Episode of the American Civil War",
+        "url": "https://www.gutenberg.org/ebooks/73"
+      },
+      "title": "The Red Badge of Courage: An Episode of the American Civil War",
+      "work_id": "reserve-b1-001"
+    },
+    {
+      "author": "Shelley, Mary Wollstonecraft",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL450124W",
+      "first_publication_year": 1826,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 18247 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1826 is before 1930; digital release 2006-04-24 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/18247",
+          "https://www.gutenberg.org/cache/epub/18247/pg18247.rdf",
+          "https://openlibrary.org/works/OL450124W",
+          "https://archive.org/metadata/lastman01shell"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2006-04-24",
+        "edition_year": 2006,
+        "item_id": "18247",
+        "language": "en",
+        "raw_creator": "Shelley, Mary Wollstonecraft",
+        "raw_title": "The Last Man",
+        "url": "https://www.gutenberg.org/ebooks/18247"
+      },
+      "title": "The Last Man",
+      "work_id": "reserve-b1-002"
+    },
+    {
+      "author": "Grey, Zane",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL485420W",
+      "first_publication_year": 1913,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 502 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1913 is before 1930; digital release 1996-04-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/502",
+          "https://www.gutenberg.org/cache/epub/502/pg502.rdf",
+          "https://openlibrary.org/works/OL485420W",
+          "https://archive.org/metadata/desertgold00grey"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1996-04-01",
+        "edition_year": 1996,
+        "item_id": "502",
+        "language": "en",
+        "raw_creator": "Grey, Zane",
+        "raw_title": "Desert Gold",
+        "url": "https://www.gutenberg.org/ebooks/502"
+      },
+      "title": "Desert Gold",
+      "work_id": "reserve-b1-003"
+    },
+    {
+      "author": "Burnett, Frances Hodgson",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL69612W",
+      "first_publication_year": 1910,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 17396 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1910 is before 1930; digital release 2005-12-26 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/17396",
+          "https://www.gutenberg.org/cache/epub/17396/pg17396.rdf",
+          "https://openlibrary.org/works/OL69612W",
+          "https://archive.org/metadata/secretgarden00burngoog",
+          "https://digicoll.lib.berkeley.edu/nanna/record/265286/files/1910_11.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-12-26",
+        "edition_year": 2005,
+        "item_id": "17396",
+        "language": "en",
+        "raw_creator": "Burnett, Frances Hodgson",
+        "raw_title": "The Secret Garden",
+        "url": "https://www.gutenberg.org/ebooks/17396"
+      },
+      "title": "The Secret Garden",
+      "work_id": "reserve-b1-004"
+    },
+    {
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL77775W",
+      "first_publication_year": 1926,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 67979 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1926 is before 1930; digital release 2022-05-03 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/67979",
+          "https://www.gutenberg.org/cache/epub/67979/pg67979.rdf",
+          "https://openlibrary.org/works/OL77775W",
+          "https://www.gutenberg.org/ebooks/67979"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2022-05-03",
+        "edition_year": 2022,
+        "item_id": "67979",
+        "language": "en",
+        "raw_creator": "Montgomery, L. M. (Lucy Maud)",
+        "raw_title": "The Blue Castle: a novel",
+        "url": "https://www.gutenberg.org/ebooks/67979"
+      },
+      "title": "The Blue Castle: a novel",
+      "work_id": "reserve-b1-005"
+    },
+    {
+      "author": "Braddon, M. E. (Mary Elizabeth)",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL1490133W",
+      "first_publication_year": 1861,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 8954 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1861 is before 1930; digital release 2005-09-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/8954",
+          "https://www.gutenberg.org/cache/epub/8954/pg8954.rdf",
+          "https://openlibrary.org/works/OL1490133W",
+          "https://archive.org/metadata/10744938bsb",
+          "https://www.victorianresearch.org/atcl/show_title.php?aid=37&tid=2978"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-09-01",
+        "edition_year": 2005,
+        "item_id": "8954",
+        "language": "en",
+        "raw_creator": "Braddon, M. E. (Mary Elizabeth)",
+        "raw_title": "Lady Audley's Secret",
+        "url": "https://www.gutenberg.org/ebooks/8954"
+      },
+      "title": "Lady Audley's Secret",
+      "work_id": "reserve-b1-006"
+    },
+    {
+      "author": "Von Arnim, Elizabeth",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL8202750W",
+      "first_publication_year": 1922,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 16389 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1922 is before 1930; digital release 2005-07-29 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/16389",
+          "https://www.gutenberg.org/cache/epub/16389/pg16389.rdf",
+          "https://openlibrary.org/works/OL8202750W",
+          "https://digital.library.upenn.edu/women/arnim/april/april.html"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-07-29",
+        "edition_year": 2005,
+        "item_id": "16389",
+        "language": "en",
+        "raw_creator": "Von Arnim, Elizabeth",
+        "raw_title": "The Enchanted April",
+        "url": "https://www.gutenberg.org/ebooks/16389"
+      },
+      "title": "The Enchanted April",
+      "work_id": "reserve-b1-007"
+    },
+    {
+      "author": "Grahame, Kenneth",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL38891874W",
+      "first_publication_year": 1908,
+      "rights": {
+        "basis": "Exact Project Gutenberg item 289 explicitly declares Public domain in the USA and English language. Independently evidenced work publication 1908 is before 1930; digital release 1995-07-01 is not substituted for historical publication. Native English literary layer; no unidentified translation.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/289",
+          "https://www.gutenberg.org/cache/epub/289/pg289.rdf",
+          "https://openlibrary.org/works/OL38891874W",
+          "https://archive.org/metadata/windinwillows00grah2"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "1995-07-01",
+        "edition_year": 1995,
+        "item_id": "289",
+        "language": "en",
+        "raw_creator": "Grahame, Kenneth",
+        "raw_title": "The Wind in the Willows",
+        "url": "https://www.gutenberg.org/ebooks/289"
+      },
+      "title": "The Wind in the Willows",
+      "work_id": "reserve-b1-008"
+    },
+    {
+      "author": "Hearn, Lafcadio",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL859604W",
+      "first_publication_year": 1894,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/8130",
+          "https://www.gutenberg.org/cache/epub/8130/pg8130.rdf",
+          "https://www.gutenberg.org/cache/epub/8130/pg8130.txt",
+          "https://archive.org/details/glimpsesofunfami01hear",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2005-05-01",
+        "edition_year": 2005,
+        "item_id": "8130",
+        "language": "en",
+        "raw_creator": "Hearn, Lafcadio",
+        "raw_title": "Glimpses of Unfamiliar Japan: First Series",
+        "url": "https://www.gutenberg.org/ebooks/8130"
+      },
+      "title": "Glimpses of Unfamiliar Japan: First Series",
+      "work_id": "reserve-b3-031"
+    },
+    {
+      "author": "Hearn, Lafcadio",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL13095215W",
+      "first_publication_year": 1897,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/55681",
+          "https://www.gutenberg.org/cache/epub/55681/pg55681.rdf",
+          "https://www.gutenberg.org/cache/epub/55681/pg55681.txt",
+          "https://archive.org/details/gleaningsinbuddh00hearrich",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2017-10-05",
+        "edition_year": 2017,
+        "item_id": "55681",
+        "language": "en",
+        "raw_creator": "Hearn, Lafcadio",
+        "raw_title": "Gleanings in Buddha-Fields: Studies of Hand and Soul in the Far East",
+        "url": "https://www.gutenberg.org/ebooks/55681"
+      },
+      "title": "Gleanings in Buddha-Fields: Studies of Hand and Soul in the Far East",
+      "work_id": "reserve-b3-032"
+    },
+    {
+      "author": "Ford, Ford Madox",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL509889W",
+      "first_publication_year": 1915,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/2775",
+          "https://www.gutenberg.org/cache/epub/2775/pg2775.rdf",
+          "https://www.gutenberg.org/cache/epub/2775/pg2775.txt",
+          "https://fordmadoxford.org/fords-biography",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2001-08-01",
+        "edition_year": 2001,
+        "item_id": "2775",
+        "language": "en",
+        "raw_creator": "Ford, Ford Madox",
+        "raw_title": "The Good Soldier",
+        "url": "https://www.gutenberg.org/ebooks/2775"
+      },
+      "title": "The Good Soldier",
+      "work_id": "reserve-b3-033"
+    },
+    {
+      "author": "Woolf, Virginia",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL39520W",
+      "first_publication_year": 1921,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/29220",
+          "https://www.gutenberg.org/cache/epub/29220/pg29220.rdf",
+          "https://www.gutenberg.org/cache/epub/29220/pg29220.txt",
+          "https://archive.org/details/cu31924013241066",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2009-06-25",
+        "edition_year": 2009,
+        "item_id": "29220",
+        "language": "en",
+        "raw_creator": "Woolf, Virginia",
+        "raw_title": "Monday or Tuesday",
+        "url": "https://www.gutenberg.org/ebooks/29220"
+      },
+      "title": "Monday or Tuesday",
+      "work_id": "reserve-b3-034"
+    },
+    {
+      "author": "Eastman, Charles A.",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL544783W",
+      "first_publication_year": 1902,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/337",
+          "https://www.gutenberg.org/cache/epub/337/pg337.rdf",
+          "https://www.gutenberg.org/cache/epub/337/pg337.txt",
+          "https://archive.org/details/indianboyhood00blumgoog",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-07-05",
+        "edition_year": 2008,
+        "item_id": "337",
+        "language": "en",
+        "raw_creator": "Eastman, Charles A.",
+        "raw_title": "Indian Boyhood",
+        "url": "https://www.gutenberg.org/ebooks/337"
+      },
+      "title": "Indian Boyhood",
+      "work_id": "reserve-b3-035"
+    },
+    {
+      "author": "Eastman, Charles A.",
+      "first_publication_evidence_url": "https://openlibrary.org/works/OL544782W",
+      "first_publication_year": 1911,
+      "rights": {
+        "basis": "Exact pinned Gutenberg digital item explicitly states Public domain in the USA. Independent historical evidence dates the work and identified English textual layers before1930. Digital release is not relabeled as a historic print edition. US-only literary text extraction excludes modern apparatus and illustrations.",
+        "jurisdiction": "US",
+        "status": "PD_US_CONFIRMED",
+        "verification_refs": [
+          "https://www.gutenberg.org/ebooks/340",
+          "https://www.gutenberg.org/cache/epub/340/pg340.rdf",
+          "https://www.gutenberg.org/cache/epub/340/pg340.txt",
+          "https://archive.org/details/soulofindian00east",
+          "https://www.copyright.gov/circs/circ15a.pdf"
+        ]
+      },
+      "source_edition": {
+        "digital_release_date": "2008-07-05",
+        "edition_year": 2008,
+        "item_id": "340",
+        "language": "en",
+        "raw_creator": "Eastman, Charles A.",
+        "raw_title": "The Soul of the Indian: An Interpretation",
+        "url": "https://www.gutenberg.org/ebooks/340"
+      },
+      "title": "The Soul of the Indian: An Interpretation",
+      "work_id": "reserve-b3-036"
+    }
+  ]
+}

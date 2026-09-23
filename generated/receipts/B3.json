@@ -1,0 +1,97 @@
+{
+  "artifact_sha256": {
+    "data/bibliography_shards/B3.json": "8a75021c92607cc4e79a70757dfcf3aaa228dcb6649980711f136371dee3c04f",
+    "sources/manifests/audit_B3.json": "307335f1f465e3d57df11032b8d14720a0a088a7cb64f438b93098ba0f94f7cf",
+    "sources/manifests/bibliography_B3.json": "e45bf5f8f016e607dac7e6aa5b320f48d243028b0894893ca37ec4ac73798cb1"
+  },
+  "audit_command": "python tools/audit_bibliography.py --shard data/bibliography_shards/B3.json --out sources/manifests/audit_B3.json --rdf-cache /data/data/com.termux/files/usr/tmp/B3-rdf-cache --evidence-cache /data/data/com.termux/files/usr/tmp/B3-evidence-cache --live",
+  "blockers": [],
+  "changed": [
+    "data/bibliography_shards/B3.json",
+    "sources/manifests/bibliography_B3.json",
+    "sources/manifests/audit_B3.json",
+    "generated/receipts/B3.json"
+  ],
+  "checks": [
+    "Canonical live C5 audit: READY, 36 records, 36 PASS, 0 FAIL",
+    "python -m unittest discover -s tests: 31 passed",
+    "C2 WorkRecord schema: 36/36; bibliography shard schema valid",
+    "Exactly 30 accepted plus 6 reserves; 10 each world/modernist/theory",
+    "22 non-Anglo/diasporic/verified-translated accepted works, conservatively classified",
+    "11 women-authored accepted works; 27 non-novel/hybrid accepted works",
+    "Maximum 5 works per author including reserves",
+    "Zero duplicate IDs, normalized titles, source item IDs or source URLs",
+    "Shard/manifest/audit one-to-one join: 36/36",
+    "36 complete source-content fingerprints; no full source texts stored",
+    "All 108 live catalog responses cached and content-hashed",
+    "Inherited auditor/schema/runtime files unchanged",
+    "JSON parsing and immediate readback passed"
+  ],
+  "commit": "PROSPECTIVE_HEAD_PACKET_B3",
+  "dependencies_consumed": [
+    "C2:510a807",
+    "C3F:c2d6bda",
+    "C5:682ac2d"
+  ],
+  "dependencies_unlocked": [
+    "B3-ready"
+  ],
+  "owner": "bibliography_recovery",
+  "packet": "B3",
+  "parent_plan_hash": "sha256:60e75e8e7b10fa95a3998df51cc38ceddd43b3f759e873e1c68b6c700a5c6bf5",
+  "quotas": {
+    "accepted": 30,
+    "author_counts_including_reserves": {
+      "Addams, Jane": 1,
+      "Conrad, Joseph": 1,
+      "Cooper, Anna J. (Anna Julia)": 1,
+      "Douglass, Frederick": 2,
+      "Du Bois, W. E. B. (William Edward Burghardt)": 1,
+      "Eastman, Charles A.": 2,
+      "Ford, Ford Madox": 1,
+      "Gibran, Kahlil": 2,
+      "Gilbert, Olive": 1,
+      "Griffis, William Elliot": 1,
+      "Hearn, Lafcadio": 5,
+      "Jacobs, Harriet A. (Harriet Ann)": 1,
+      "Joyce, James": 2,
+      "Mann, Thomas": 1,
+      "Mansfield, Katherine": 1,
+      "Ozaki, Yei Theodora": 1,
+      "Schreiner, Olive": 1,
+      "Tagore, Rabindranath": 4,
+      "Toomer, Jean": 1,
+      "Washington, Booker T.": 1,
+      "Wells-Barnett, Ida B.": 2,
+      "Woolf, Virginia": 2,
+      "Zitkala-Sa": 1
+    },
+    "max_works_per_author_including_reserves": 5,
+    "non_anglo_diasporic_translated_accepted": 22,
+    "non_novel_hybrid_accepted": 27,
+    "reserves": 6,
+    "strata": {
+      "modernist": 10,
+      "theory": 10,
+      "world": 10
+    },
+    "women_authored_accepted": 11
+  },
+  "result": "pass",
+  "retrospective": {
+    "classification_scope": "Exact three-axis par measurement only; token telemetry unavailable. This does not change the green bibliography acceptance result.",
+    "concrete_improvement": "Validate all record classes including reserves before projection and use persistent verified metadata caches from the first live audit.",
+    "exact_local_codex_token_delta": "UNKNOWN",
+    "frontier_measurement_classification": "INVALID",
+    "par_history_updated": false,
+    "wasted_time": "Repeated all-record requests were invalidated by unrelated transient network failures; C5 persistent caches resolved the recovery problem.",
+    "wasted_tokens": "An initial projection script omitted reserve mechanism entries and failed before any write; all-or-nothing guards preserved state.",
+    "weakest_evidence_clause": "Catalog year is a ceiling and can be noisy; separate historic print/serialization evidence is retained for every selected row."
+  },
+  "schema_version": "1.0",
+  "scope_limitations": [
+    "B3-ready is not the global sources-ready milestone; B4 must merge and recheck all shards",
+    "Public-domain confirmation is US-only and applies to the scoped literary text"
+  ],
+  "status": "complete"
+}

@@ -1,0 +1,23 @@
+{
+  "blockers": [],
+  "changed": [
+    "tools/audit_bibliography.py",
+    "tests/test_bibliography_audit.py",
+    "swarm/PUBLICATION_EVIDENCE_RULE.json",
+    "generated/receipts/C5.json"
+  ],
+  "checks": [
+    "python -m unittest tests.test_bibliography_audit (23 passed)",
+    "python -m unittest discover -s tests (40 passed)",
+    "live-evidence cache resumes with network ablated",
+    "malformed live cache refetched and atomically repaired"
+  ],
+  "commit": "pending",
+  "dependencies_unlocked": [
+    "resumable-live-audit"
+  ],
+  "owner": "foreman-integration",
+  "proposals": [],
+  "result": "pass",
+  "status": "complete"
+}

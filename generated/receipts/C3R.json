@@ -1,0 +1,24 @@
+{
+  "blockers": [],
+  "changed": [
+    "tools/audit_bibliography.py",
+    "tests/fixtures/catalog/1.rdf",
+    "tests/fixtures/catalog/2.rdf",
+    "generated/receipts/C3R.json"
+  ],
+  "checks": [
+    "python -m unittest tests.test_bibliography_audit",
+    "python -m unittest discover -s tests",
+    "python - <<PY: rdf('11',None,True)"
+  ],
+  "dependencies_unlocked": [
+    "B1A-live-audit",
+    "B2A-live-audit"
+  ],
+  "objective": "Correct canonical Gutenberg RDF nested-language parsing without weakening any bibliography gate.",
+  "owner": "foreman-integration",
+  "packet": "C3R",
+  "proposals": [],
+  "result": "pass: 14 auditor tests; 22 total tests; live PG 11 language=en",
+  "status": "complete"
+}

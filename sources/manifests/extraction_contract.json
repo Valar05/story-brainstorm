@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "name": "story-brainstorm-extraction-contract",
+  "targets": {
+    "works": 100,
+    "cards": 1000,
+    "max_excerpt_words": 25
+  },
+  "family_counts": {
+    "story": 300,
+    "speech": 200,
+    "character": 200,
+    "conflict": 100,
+    "structure": 100,
+    "contextual": 100
+  },
+  "per_work_quota": {
+    "story": 3,
+    "speech": 2,
+    "character": 2,
+    "conflict": 1,
+    "structure": 1,
+    "contextual": 1
+  },
+  "contextual_subtypes": {
+    "setting": "Place or environmental constraint that changes action.",
+    "institution": "Rule-bearing social organization.",
+    "object": "Material or symbolic thing whose handling changes stakes.",
+    "transformation": "Identity, status, body, allegiance, or worldview change.",
+    "tone_pressure": "Reusable emotional or tonal pressure, not a vague mood label."
+  },
+  "rights": {
+    "accepted": [
+      "PD_US_CONFIRMED"
+    ],
+    "fail_closed": [
+      "UNKNOWN",
+      "PUBLIC_DOMAIN_CANDIDATE",
+      "translation_unverified",
+      "edition_unresolved"
+    ]
+  },
+  "evidence": {
+    "max_excerpt_words": 25,
+    "exact_locator_required": true,
+    "observation_required": true,
+    "inference_required": true,
+    "full_text_storage": false
+  },
+  "review": {
+    "synthesis_min_distinct_works": 3,
+    "culturally_specific_distinct": true,
+    "negative_controls_file": "tests/fixtures/negative_controls.json"
+  },
+  "falsifiers": [
+    "missing exact locator",
+    "evidence excerpt over 25 words",
+    "rights_basis not PD_US_CONFIRMED",
+    "observation merged with inference",
+    "generic claim without source-specific mechanism",
+    "contextual card missing valid subtype",
+    "cross-source synthesis citing fewer than 3 distinct works",
+    "full source text or long quotation present"
+  ]
+}

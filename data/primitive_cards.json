@@ -1,0 +1,92 @@
+{
+  "schema_version": "1.0",
+  "cards": [
+    {
+      "name": "Causal Shadow",
+      "family": "character",
+      "summary": "A character can feel dangerous before overt violence when their unseen reach is already reorganizing other people, information, space, or command around them.",
+      "observation": "Across Treasure Island, Dracula, The Woman in White, and Moby Dick, menace precedes overt harm through disproportionate causal footprint: trusted recruitment, bodily unease inside hospitality, others' altered behavior, and invisible command.",
+      "inference": "Readers infer danger when a character's effects arrive before their acts. The environment becomes advance evidence: people defer, conceal, tremble, reorganize, or obey before the character openly threatens anyone.",
+      "pattern": {"setup":"Introduce the character through ordinary or even favorable surface information.","pressure":"Reveal effects around them that are too large, too coordinated, too bodily, or too secretive for the visible behavior to explain.","turn":"Let witnesses recognize that the character's causal reach exceeds the apparent role without yet showing the feared act.","residue":"The reader begins scanning every later action for the hidden system already implied by the earlier footprint."},
+      "evidence": [
+        {"work_id":"b1-adventure-002","edition_url":"https://www.gutenberg.org/files/120/120-h/120-h.htm","location":"Part Two, Chapter VII, Trelawney's letter describing Silver's recruitment","short_excerpt":"I thought I had only found a cook, but it was a crew I had discovered.","excerpt_words":16},
+        {"work_id":"b1-gothic-002","edition_url":"https://www.gutenberg.org/files/345/345-h/345-h.htm","location":"Chapter II, Harker's first close observation of Count Dracula","short_excerpt":"The general effect was one of extraordinary pallor.","excerpt_words":8},
+        {"work_id":"b1-gothic-005","edition_url":"https://www.gutenberg.org/files/583/583-h/583-h.htm","location":"Second Epoch, Marian's diary before meeting Count Fosco","short_excerpt":"This, to my mind, looks ill for the Count.","excerpt_words":10},
+        {"work_id":"b2r-american-02","edition_url":"https://www.gutenberg.org/files/2489/2489-h/2489-h.htm","location":"Chapter 28, Ahab","short_excerpt":"their supreme lord and dictator was there, though hitherto unseen","excerpt_words":10}
+      ],
+      "rights_basis":"PD_US_CONFIRMED","confidence":"accepted","schema_version":"1.0","primitive_id":"sha256:1b71d8e180b3fe704bc989b5fe8ea3793f5a1babea458b5a7088620c3f650a6e"
+    },
+    {
+      "name":"Counter-Mask",
+      "family":"character",
+      "summary":"Make the dangerous character's most reassuring behavior intensify suspicion because the reassurance is conspicuously well-timed, over-capable, or contradicted by another channel.",
+      "observation":"Silver becomes most civil exactly when mutiny is ripening; Dracula's courtly welcome is paired with corpse-cold, painful strength; Fosco's charming delicacy coexists with visible mastery over animals and people.",
+      "inference":"A mask becomes kinetic when it does double duty: it plausibly reassures characters while simultaneously giving the reader evidence that the wearer is actively managing perception. Charm is no longer absence of danger; it is labor performed by danger.",
+      "pattern":{"setup":"Give the threatening character a socially reassuring behavior that could sincerely belong to a harmless person.","pressure":"Time or juxtapose that behavior against evidence of concealed disorder, impossible capacity, or control.","turn":"Let the audience realize the reassurance itself is adaptive behavior rather than neutral personality.","residue":"Every later kindness carries two possible readings at once, compressing charm and threat into the same action."},
+      "evidence":[
+        {"work_id":"b1-adventure-002","edition_url":"https://www.gutenberg.org/files/120/120-h/120-h.htm","location":"Chapter XIII, Silver suppressing visible mutiny","short_excerpt":"this obvious anxiety on the part of Long John appeared the worst","excerpt_words":11},
+        {"work_id":"b1-gothic-002","edition_url":"https://www.gutenberg.org/files/345/345-h/345-h.htm","location":"Chapter II, Dracula welcomes Harker","short_excerpt":"Enter freely and of your own will!","excerpt_words":7},
+        {"work_id":"b1-gothic-005","edition_url":"https://www.gutenberg.org/files/583/583-h/583-h.htm","location":"Second Epoch, Marian describes Fosco's pets and intellect","short_excerpt":"This trainer of canary-birds, this architect of a pagoda for white mice","excerpt_words":12}
+      ],
+      "rights_basis":"PD_US_CONFIRMED","confidence":"accepted","schema_version":"1.0","primitive_id":"sha256:99515b3b6758564ddf160c6e3d23a3f1a7b5482cce875e1fe18b6d3f6fdc1e52"
+    },
+    {
+      "name":"Distributed Command",
+      "family":"character",
+      "summary":"Show power by making other people behave as extensions of a character's will, so command is visible even when the commander is absent, silent, or apparently passive.",
+      "observation":"Ahab's mates issue abrupt orders while merely commanding vicariously; Madame Fosco repeatedly checks her husband's eye for instructions; Silver's crew-wide influence makes the nominal cook function as captain before titles catch up.",
+      "inference":"Authority feels larger when it is encoded in other bodies. The character does not need to occupy every scene because compliance, anticipation, and delegated action keep them causally present.",
+      "pattern":{"setup":"Place formal action in the hands of subordinates, peers, or apparently autonomous associates.","pressure":"Introduce choices where those people repeatedly orient toward an absent or quiet figure.","turn":"Reveal that visible decision-makers are relays for a deeper command structure.","residue":"The commanding character remains present in scenes they do not physically occupy because other people carry their vector."},
+      "evidence":[
+        {"work_id":"b2r-american-02","edition_url":"https://www.gutenberg.org/files/2489/2489-h/2489-h.htm","location":"Chapter 28, Ahab","short_excerpt":"it was plain they but commanded vicariously","excerpt_words":7},
+        {"work_id":"b1-gothic-005","edition_url":"https://www.gutenberg.org/files/583/583-h/583-h.htm","location":"Second Epoch, Madame Fosco leaving the signature room","short_excerpt":"She had caught her husband's eye, and had evidently received her orders","excerpt_words":12},
+        {"work_id":"b1-adventure-002","edition_url":"https://www.gutenberg.org/files/120/120-h/120-h.htm","location":"Chapter XIII, command structure aboard Hispaniola","short_excerpt":"It was as plain as day. Silver was the captain","excerpt_words":10}
+      ],
+      "rights_basis":"PD_US_CONFIRMED","confidence":"accepted","schema_version":"1.0","primitive_id":"sha256:cdef31258cdf050fc6529ed8e7a89b6db3d5216030129846dc8a3eb5a2fcc51c"
+    },
+    {
+      "name":"Domain Capture",
+      "family":"conflict",
+      "summary":"Compress a power struggle by showing that the antagonist has quietly converted neutral space, routine, or social procedure into their domain before the protagonist recognizes the contest.",
+      "observation":"Dracula's hospitality becomes a locked prison; Fosco's influence converts domestic gestures and witnesses into controlled relays; Silver's supposed service role becomes operational command of ship and crew.",
+      "inference":"Threat accelerates when the protagonist discovers that the battlefield was captured before they knew there was a battle. Ordinary infrastructure becomes evidence of prior moves, eliminating the need for explanatory conspiracy scenes.",
+      "pattern":{"setup":"Let the protagonist enter or continue using an apparently ordinary social or physical system.","pressure":"Accumulate small constraints, dependencies, or altered routines that can each be rationalized alone.","turn":"Reveal that the environment's ordinary functions already answer to the antagonist.","residue":"Future neutral actions become strategically charged because the protagonist can no longer assume the surrounding system is unowned."},
+      "evidence":[
+        {"work_id":"b1-gothic-002","edition_url":"https://www.gutenberg.org/files/345/345-h/345-h.htm","location":"Chapter II, Harker explores Dracula's castle","short_excerpt":"doors, doors, doors everywhere, and all locked and bolted","excerpt_words":9},
+        {"work_id":"b1-gothic-005","edition_url":"https://www.gutenberg.org/files/583/583-h/583-h.htm","location":"Second Epoch, signature-room confrontation","short_excerpt":"Madame Fosco looked for her orders again, got them again","excerpt_words":10},
+        {"work_id":"b1-adventure-002","edition_url":"https://www.gutenberg.org/files/120/120-h/120-h.htm","location":"Chapter XIII, Silver's effective command revealed","short_excerpt":"Silver was the captain, and a mighty rebellious crew he had of it","excerpt_words":12}
+      ],
+      "rights_basis":"PD_US_CONFIRMED","confidence":"accepted","schema_version":"1.0","primitive_id":"sha256:48c7d9d562e73df39418b00ea1917888e828e0a5ffc90b45abecb782e92f08ac"
+    },
+    {
+      "name":"Economy of Proof",
+      "family":"character",
+      "summary":"Prove competence or dominance through the smallest controlled action that makes a larger action unnecessary.",
+      "observation":"Dr. Livesey defeats an armed threat without moving; Queequeg demonstrates lethal accuracy with one harpoon cast and immediately returns to quiet composure; Fosco can move another person with a glance instead of an instruction.",
+      "inference":"Kinetic authority increases when visible effort decreases. A precise, sufficient action tells the reader that the character has surplus control: they do not need noise, repetition, or escalation because the first motion already changes the state.",
+      "pattern":{"setup":"Present a situation that appears to demand force, speed, explanation, or repeated action.","pressure":"Let others spend motion, noise, or emotional energy trying to control the situation.","turn":"Have the competent character use one restrained action, or deliberate stillness, that resolves the relevant state change.","residue":"Future restraint reads as stored capability rather than passivity; the audience expects that small motions may carry large consequences."},
+      "evidence":[
+        {"work_id":"b1-adventure-002","edition_url":"https://www.gutenberg.org/files/120/120-h/120-h.htm","location":"Part One, Chapter I, Dr. Livesey facing Billy Bones's knife","short_excerpt":"The doctor never so much as moved.","excerpt_words":7},
+        {"work_id":"b2r-american-02","edition_url":"https://www.gutenberg.org/files/2489/2489-h/2489-h.htm","location":"Chapter 18, Queequeg demonstrates harpoon accuracy to Bildad","short_excerpt":"Now, said Queequeg, quietly, hauling in the line","excerpt_words":8},
+        {"work_id":"b1-gothic-005","edition_url":"https://www.gutenberg.org/files/583/583-h/583-h.htm","location":"Second Epoch, Madame Fosco leaves the signature room","short_excerpt":"She had caught her husband's eye, and had evidently received her orders","excerpt_words":12}
+      ],
+      "rights_basis":"PD_US_CONFIRMED","confidence":"accepted","schema_version":"1.0","primitive_id":"sha256:6642bdb5c5b00542bb655a50e80cc62c900cecd834ab8ece4291b4b649fdfbc0"
+    },
+    {
+      "name":"Object State Compression",
+      "family":"contextual",
+      "subtype":"object",
+      "summary":"Let one physical object carry several story states across time so that use, damage, ownership, and repurposing preserve causality without repeated explanation.",
+      "observation":"Treasure Island leaves a sword-cut in the inn sign as durable evidence of violence; Dracula turns an ordinary door into proof of captivity; The Woman in White turns folded parchment into concealed legal coercion; Moby-Dick turns Queequeg's coffin into a life-buoy.",
+      "inference":"A prop becomes kinetically compressed when its physical state is also story state. The object remembers prior action, constrains present choices, and can acquire a new function without losing the old meaning. This lets consequence remain visible after the actor leaves.",
+      "pattern":{"setup":"Introduce an ordinary object with a practical function.","pressure":"Let consequential action alter, restrict, mark, conceal, transfer, or repurpose it.","turn":"Make the changed object perform a new practical job while still carrying evidence of the earlier event.","residue":"Later appearances of the object reactivate history, ownership, threat, relationship, or consequence without a recap."},
+      "evidence":[
+        {"work_id":"b1-adventure-002","edition_url":"https://www.gutenberg.org/files/120/120-h/120-h.htm","location":"Part One, Chapter II, aftermath of Billy Bones and Black Dog's fight","short_excerpt":"You may see the notch on the lower side of the frame to this day.","excerpt_words":14},
+        {"work_id":"b1-gothic-002","edition_url":"https://www.gutenberg.org/files/345/345-h/345-h.htm","location":"Chapter IV, Harker tests the castle door","short_excerpt":"But the door would not move.","excerpt_words":6},
+        {"work_id":"b1-gothic-005","edition_url":"https://www.gutenberg.org/files/583/583-h/583-h.htm","location":"Second Epoch, concealed signature document","short_excerpt":"Every line of the writing was hidden","excerpt_words":7},
+        {"work_id":"b2r-american-02","edition_url":"https://www.gutenberg.org/files/2489/2489-h/2489-h.htm","location":"Chapter 126, Queequeg's coffin is repurposed","short_excerpt":"A life-buoy of a coffin!","excerpt_words":5}
+      ],
+      "rights_basis":"PD_US_CONFIRMED","confidence":"accepted","schema_version":"1.0","primitive_id":"sha256:2cd8e369dc6bd9e3c1ff361d45acb698f1840ac4c5106612a7119deccabb2e66"
+    }
+  ]
+}

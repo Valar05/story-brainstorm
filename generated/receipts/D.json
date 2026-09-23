@@ -1,0 +1,27 @@
+{
+  "owner": "corpus_taxonomy",
+  "status": "complete",
+  "commit": "HEAD",
+  "changed": [
+    "data/taxonomy.json",
+    "docs/EXTRACTION_METHOD.md",
+    "docs/RIGHTS_AND_EVIDENCE.md",
+    "tests/fixtures/negative_controls.json",
+    "sources/manifests/extraction_contract.json",
+    "generated/receipts/D.json"
+  ],
+  "checks": [
+    "python JSON parse for taxonomy, negative_controls, extraction_contract",
+    "family totals == 1000",
+    "per-work quota == 10",
+    "negative controls == 50 and IDs unique",
+    "docs and machine contract aligned",
+    "no source prose or full text added"
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "policy-ready"
+  ],
+  "proposals": []
+}

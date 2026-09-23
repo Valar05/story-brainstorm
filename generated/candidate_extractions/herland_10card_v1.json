@@ -1,0 +1,269 @@
+{
+  "cards": [
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/32",
+          "excerpt_words": 10,
+          "location": "Chapter 3",
+          "short_excerpt": "there was simply nothing to do but go forward—or fight",
+          "work_id": "b2r-american-06"
+        }
+      ],
+      "family": "story",
+      "inference": "Collective social alignment can become physical force when many ordinary people act toward one shared boundary, making coercion feel civic rather than militarized.",
+      "name": "Collective Constraint Without Militarized Display",
+      "observation": "When the three men resist entering the building, the women close every path except one, acting together without the rigid discipline of soldiers.",
+      "pattern": {
+        "pressure": "Let the outsiders test the community's boundaries while assuming control requires formal troops or weapons.",
+        "residue": "The outsiders learn that diffuse social unity can be more constraining than a visible chain of command.",
+        "setup": "Introduce outsiders whose presence creates uncertainty or risk for a settled community.",
+        "turn": "Have ordinary residents coordinate so completely that only one safe course remains."
+      },
+      "primitive_id": "sha256:8fa74e3ea342dffb4ad709db09fd7556b81b9196210fb361d8c56691592f4f01",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A community can control dangerous outsiders through coordinated numbers and shared purpose without relying on visible soldierly hierarchy."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/32",
+          "excerpt_words": 14,
+          "location": "Chapter 5",
+          "short_excerpt": "There was no way up or down or out—they simply had to stay there",
+          "work_id": "b2r-american-06"
+        }
+      ],
+      "family": "story",
+      "inference": "When exit is impossible, a setting can become an experimental pressure vessel in which every durable custom must justify itself against survival over generations.",
+      "name": "Isolation Forces Society To Become Its Own Experiment",
+      "observation": "After catastrophe leaves the women enclosed by mountains with no route out, they decide to live and eventually reorganize society around that permanent condition.",
+      "pattern": {
+        "pressure": "Let despair and inherited assumptions fail to solve the closed-system problem.",
+        "residue": "Later customs carry the authority of long adaptation rather than tradition alone.",
+        "setup": "Trap a community inside a stable boundary that removes ordinary escape or outside rescue.",
+        "turn": "Have the population choose continuity and begin redesigning institutions around the permanent constraint."
+      },
+      "primitive_id": "sha256:b6c0d2d70334caab7fdf523e46de0c1358549e142c8e358114fe2b5943ef481c",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A sealed population can turn survival pressure inward, making long-term institutional invention the only alternative to collapse or escape."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/32",
+          "excerpt_words": 9,
+          "location": "Chapter 5",
+          "short_excerpt": "they grew together—not by competition, but by united action",
+          "work_id": "b2r-american-06"
+        }
+      ],
+      "family": "story",
+      "inference": "A world can feel genuinely alien when its progress model rests on cooperation as infrastructure, changing what counts as ambition, conflict, and prestige.",
+      "name": "Shared Purpose Replaces Competitive Growth",
+      "observation": "Herland's history is explicitly described as growth without wars, kings, priests, or aristocracies, advancing by united action rather than competition.",
+      "pattern": {
+        "pressure": "Show practical problems that still require invention, allocation, and discipline.",
+        "residue": "Visitors misread the society when they assume competition must be hiding underneath cooperation.",
+        "setup": "Establish a society with a long period of internal continuity and little external competition.",
+        "turn": "Make coordinated improvement, rather than factional victory, the accepted route to advancement."
+      },
+      "primitive_id": "sha256:9846e492a7e99dd18ec365f1db9664b1788c0c5984dd1cccae16a76c582bd4e2",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A society can develop by treating collective improvement as the default engine of progress rather than rivalry between internal factions."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/32",
+          "excerpt_words": 9,
+          "location": "Chapter 6",
+          "short_excerpt": "What is ‘the home’? asked Somel a little wistfully",
+          "work_id": "b2r-american-06"
+        }
+      ],
+      "family": "speech",
+      "inference": "Dialogue can reveal cultural difference most efficiently when the local speaker asks for the definition of an imported term the outsider thought was self-evident.",
+      "name": "Question Exposes Imported Assumption",
+      "observation": "When Terry describes women being kept in the home, Somel asks what 'the home' is, forcing an explanation of a concept he assumed needed none.",
+      "pattern": {
+        "pressure": "Allow locals to understand the words but not the social package hidden inside them.",
+        "residue": "The outsider must now explain assumptions that had previously remained invisible even to themselves.",
+        "setup": "Let an outsider explain their culture using a category they assume is universal.",
+        "turn": "Have one local ask a plain definitional question about the supposedly obvious category."
+      },
+      "primitive_id": "sha256:fb5ed67a4906218060a74be4c2668d33dc169b879d104228b010dcbe4451c9ad",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A simple local question can destabilize an outsider's worldview by treating one of their supposedly universal categories as unfamiliar."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/32",
+          "excerpt_words": 4,
+          "location": "Chapter 6",
+          "short_excerpt": "Are ‘gentlemen’ always safe?",
+          "work_id": "b2r-american-06"
+        }
+      ],
+      "family": "speech",
+      "inference": "A society can expose imported privilege by evaluating a status claim as an empirical safety claim rather than an honorific deserving deference.",
+      "name": "Safety Claim Answered With Institutional Skepticism",
+      "observation": "Terry claims the women should trust them because they are gentlemen; the response asks whether gentlemen are always safe.",
+      "pattern": {
+        "pressure": "Let the local community have concrete reasons to manage risk independently of the outsider's self-description.",
+        "residue": "Status becomes evidence to be tested rather than authority to be obeyed.",
+        "setup": "Have an outsider invoke title, class, profession, or identity as proof they deserve trust.",
+        "turn": "Answer the prestige claim with a question about actual behavioral reliability."
+      },
+      "primitive_id": "sha256:3cb91cb0e68ec36435bebd0caed6f178da8754773a624dd44de9f582b1f8e0a9",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "An outsider's status label can be punctured when locals ask whether the label reliably predicts safe behavior instead of accepting its prestige."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/32",
+          "excerpt_words": 11,
+          "location": "Chapter 8",
+          "short_excerpt": "We like you the best, because you seem more like us",
+          "work_id": "b2r-american-06"
+        }
+      ],
+      "family": "character",
+      "inference": "Social preference can function as character diagnosis: acceptance is not merely reward but evidence about which traits the host culture recognizes as compatible.",
+      "name": "Outsider Preference Reveals Host Values",
+      "observation": "Somel tells Van that the women like him best because he seems more like them, after observing the men's contrasting attitudes and behavior.",
+      "pattern": {
+        "pressure": "Let locals observe them over time under the same conditions.",
+        "residue": "The favored outsider learns both about themselves and about the society doing the judging.",
+        "setup": "Introduce several outsiders who share origin but differ in behavior and assumptions.",
+        "turn": "Have the hosts express differential comfort or trust toward one outsider."
+      },
+      "primitive_id": "sha256:6cd0a1c8e76f91ec4ce5feece48bc2d63271e54235c0b965c2ea1596976b761c",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Which outsider a community prefers can reveal the community's own values more clearly than direct exposition about those values."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/32",
+          "excerpt_words": 11,
+          "location": "Chapter 7",
+          "short_excerpt": "Those of us who are the most highly competent fulfill that office",
+          "work_id": "b2r-american-06"
+        }
+      ],
+      "family": "character",
+      "inference": "Worldbuilding can alter character expectations by separating biological or social identity from professional authority, making competence its own institution.",
+      "name": "Competence Is Specialized Rather Than Assumed",
+      "observation": "When Van assumes baby care is naturally open to any mother, Somel says only the most competent fulfill that office and many compete for it.",
+      "pattern": {
+        "pressure": "Show the host culture treating the task as consequential enough to demand training and selection.",
+        "residue": "The outsider's category-based assumptions become visibly inadequate for reading local status.",
+        "setup": "Let an outsider assume a socially valued task belongs automatically to a familiar category of person.",
+        "turn": "State that only the most competent are entrusted with the role."
+      },
+      "primitive_id": "sha256:8333b27e7f4319645cf876b8059b854e728699b66792f44df45cf72bad8ae6a1",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "A culture can make care work feel serious by assigning it through demonstrated competence instead of treating identity alone as qualification."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/32",
+          "excerpt_words": 14,
+          "location": "Chapter 4",
+          "short_excerpt": "if we would agree to do no violence they would withdraw their constant attendance",
+          "work_id": "b2r-american-06"
+        }
+      ],
+      "family": "conflict",
+      "inference": "Conflict can be organized around conditional trust, where liberty expands through observable conduct and contracts again when safety evidence changes.",
+      "name": "Behavioral Trust Is Conditional And Revocable",
+      "observation": "The men are told that constant attendants will be withdrawn if they agree to do no violence, and their later freedom depends on that behavior.",
+      "pattern": {
+        "pressure": "Let the outsiders resent control and argue from identity or intention.",
+        "residue": "Trust becomes a mutable state produced by conduct rather than a moral label assigned once.",
+        "setup": "Place outsiders under restrictive supervision because the host community lacks evidence they are safe.",
+        "turn": "Offer a concrete behavior-based condition under which supervision will be reduced."
+      },
+      "primitive_id": "sha256:0cb1944fa64070017328bb8bc7d98b50ead86b7224e2909aeac8e2dcd3c1fcd6",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "Freedom can become a negotiated social state when a community reduces control in response to demonstrated restraint rather than declarations of good intent."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/32",
+          "excerpt_words": 11,
+          "location": "Chapter 8",
+          "short_excerpt": "Not a girl in that country had not been learning for months",
+          "work_id": "b2r-american-06"
+        }
+      ],
+      "family": "structure",
+      "inference": "A story can invert ethnographic authority by making the observer legible to the observed, turning exploration into reciprocal scrutiny.",
+      "name": "Visitors Are Studied While They Study",
+      "observation": "The men arrive expecting to investigate Herland, but the women systematically study their country, culture, and individual characters before broader social contact.",
+      "pattern": {
+        "pressure": "Let the hosts ask precise questions, collect information, and compare the newcomers' claims against behavior.",
+        "residue": "Every later judgment is doubled because neither side retains monopoly over interpretation.",
+        "setup": "Frame newcomers as investigators entering a society they believe they will interpret.",
+        "turn": "Reveal that the hosts have been building their own model of the visitors all along."
+      },
+      "primitive_id": "sha256:a4cfc7d6492d7dcb5ba96d6c873b2cea6b8bcf1764518ce2266b725625e663a8",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "summary": "An encounter narrative gains depth when observation runs both directions and the supposed explorers gradually discover they are also the object of organized inquiry."
+    },
+    {
+      "confidence": "uncertain",
+      "evidence": [
+        {
+          "edition_url": "https://www.gutenberg.org/ebooks/32",
+          "excerpt_words": 16,
+          "location": "Chapter 6",
+          "short_excerpt": "We have no laws over a hundred years old, and most of them are under twenty",
+          "work_id": "b2r-american-06"
+        }
+      ],
+      "family": "contextual",
+      "inference": "Institutions feel distinct when legitimacy comes from continued usefulness and revision rather than age, inheritance, or sacred precedent.",
+      "name": "Law Is Designed For Revision Instead Of Ancestry",
+      "observation": "Moadine says Herland has no laws older than one hundred years and that most are under twenty, contrasting with Terry's pride in ancient legal systems.",
+      "pattern": {
+        "pressure": "Show locals evaluating institutions by present function instead of historical prestige.",
+        "residue": "Political disagreement shifts from fidelity to tradition toward evidence about whether a rule still serves the community.",
+        "setup": "Let visitors boast about the age and continuity of their institutions.",
+        "turn": "Reveal that rules are routinely replaced before antiquity can become authority by itself."
+      },
+      "primitive_id": "sha256:3bfb75a4b2a3bf212de6aa490220c27b1856130413906645c19d2c8ad22483dc",
+      "rights_basis": "PD_US_CONFIRMED",
+      "schema_version": "1.0",
+      "subtype": "institution",
+      "summary": "A legal system can signal its values through planned obsolescence, treating old rules as suspect rather than venerable simply because they survived."
+    }
+  ],
+  "schema_version": "1.0",
+  "source_title": "Herland",
+  "source_work_id": "b2r-american-06",
+  "state": "SEMANTIC_REVIEW_REQUIRED"
+}

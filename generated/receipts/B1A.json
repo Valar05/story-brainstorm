@@ -1,0 +1,30 @@
+{
+  "blockers": [],
+  "changed": [
+    "data/bibliography_shards/B1.json",
+    "sources/manifests/bibliography_B1.json",
+    "sources/manifests/audit_B1.json",
+    "generated/receipts/B1A.json"
+  ],
+  "checks": [
+    "Canonical C5 cached live audit: READY, 48/48 PASS, 0 FAIL; unchanged-byte/mtime rerun PASS.",
+    "Exact C2 WorkRecord schema: 48/48 PASS; shard schema PASS; core validator required=40 READY and all 8 reserves valid.",
+    "Full inherited suite: 40 tests PASS after byte-identical C3E fixture restoration in separate dependency commit b29830d.",
+    "Breadth recomputed: 40 accepted + 8 reserves; 10 each adventure/fantasy/gothic/social; 18 women accepted; 11 conservative travel/short-story works; max 3 per author including reserves.",
+    "Uniqueness: 48 distinct IDs, normalized titles, PG items and source URLs; zero collisions with committed B3 on main.",
+    "Five production-path negative controls reject wrong title, UNKNOWN rights, post-cutoff year, duplicate source and uncleared editor; cache-only replay 48 PASS with network calls forbidden.",
+    "Every row preserves raw PG/OL metadata and independent historical notes; known later-reprint/catalogue-date discrepancies explicit; no full texts stored.",
+    "All four JSON files parse/read back.",
+    "SHA256 data/bibliography_shards/B1.json: 3b029953f10c532ee42648605a8dd5a4df6fe5380539e7018c12f4f9c01c344c",
+    "SHA256 sources/manifests/bibliography_B1.json: 6c04994d27c4d0b97040b0e508620ba54ec4447be846d1a3d99b8d6dff87f706",
+    "SHA256 sources/manifests/audit_B1.json: b3cc9c9eed7e32bdeada29f9914c4f5750504b79e48f1f025b7613d049612315"
+  ],
+  "commit": "PROSPECTIVE_HEAD_PACKET_B1R",
+  "dependencies_unlocked": [
+    "B1-ready"
+  ],
+  "owner": "B1R-specialist",
+  "proposals": [],
+  "result": "B1 bibliography source-ready: 40 accepted plus 8 reserves. Foreman can integrate this authored artifact commit; full 100-work/20-reserve merge and B2 uniqueness remain integration gates.",
+  "status": "complete"
+}

@@ -1,0 +1,2265 @@
+{
+  "fail": 0,
+  "pass": 48,
+  "records": 48,
+  "rows": [
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Swift, Jonathan",
+        "first_publication_year": 1726,
+        "source_item_id": "829",
+        "title": "Gulliver's Travels into Several Remote Nations of the World"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1826,
+        "first_publish_date": 1826,
+        "item_id": "OL36889562W",
+        "title": "Gulliver's Travels into Several Remote Nations of the World"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Swift, Jonathan",
+        "digital_release_date": "1997-02-01",
+        "item_id": "829",
+        "language": "en",
+        "title": "Gulliver's Travels into Several Remote Nations of the World"
+      },
+      "status": "PASS",
+      "work_id": "b1-adventure-001"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Stevenson, Robert Louis",
+        "first_publication_year": 1881,
+        "source_item_id": "120",
+        "title": "Treasure Island"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1896,
+        "first_publish_date": 1896,
+        "item_id": "OL43045916W",
+        "title": "Treasure Island"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Stevenson, Robert Louis",
+        "digital_release_date": "2006-02-26",
+        "item_id": "120",
+        "language": "en",
+        "title": "Treasure Island"
+      },
+      "status": "PASS",
+      "work_id": "b1-adventure-002"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Hope, Anthony",
+        "first_publication_year": 1894,
+        "source_item_id": "95",
+        "title": "The prisoner of Zenda"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1894,
+        "first_publish_date": 1894,
+        "item_id": "OL43029358W",
+        "title": "the prisoner of zenda"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Hope, Anthony",
+        "digital_release_date": "2006-01-09",
+        "item_id": "95",
+        "language": "en",
+        "title": "The prisoner of Zenda"
+      },
+      "status": "PASS",
+      "work_id": "b1-adventure-003"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Haggard, H. Rider (Henry Rider)",
+        "first_publication_year": 1885,
+        "source_item_id": "2166",
+        "title": "King Solomon's Mines"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1887,
+        "first_publish_date": 1887,
+        "item_id": "OL45830096W",
+        "title": "King Solomon's mines"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Haggard, H. Rider (Henry Rider)",
+        "digital_release_date": "2000-05-01",
+        "item_id": "2166",
+        "language": "en",
+        "title": "King Solomon's Mines"
+      },
+      "status": "PASS",
+      "work_id": "b1-adventure-004"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Cooper, James Fenimore",
+        "first_publication_year": 1826,
+        "source_item_id": "27681",
+        "title": "The Last of the Mohicans: A Narrative of 1757"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1826,
+        "first_publish_date": 1826,
+        "item_id": "OL77958W",
+        "title": "The Last of the Mohicans"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Cooper, James Fenimore",
+        "digital_release_date": "2009-01-01",
+        "item_id": "27681",
+        "language": "en",
+        "title": "The Last of the Mohicans: A Narrative of 1757"
+      },
+      "status": "PASS",
+      "work_id": "b1-adventure-005"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Kingsley, Mary Henrietta",
+        "first_publication_year": 1897,
+        "source_item_id": "5891",
+        "title": "Travels in West Africa: Congo Fran\u00e7ais, Corisco and Cameroons"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1897,
+        "first_publish_date": 1897,
+        "item_id": "OL3371494W",
+        "title": "Travels in West Africa"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Kingsley, Mary Henrietta",
+        "digital_release_date": "2004-06-01",
+        "item_id": "5891",
+        "language": "en",
+        "title": "Travels in West Africa: Congo Fran\u00e7ais, Corisco and Cameroons"
+      },
+      "status": "PASS",
+      "work_id": "b1-adventure-006"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Bird, Isabella L. (Isabella Lucy)",
+        "first_publication_year": 1879,
+        "source_item_id": "755",
+        "title": "A Lady's Life in the Rocky Mountains"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1879,
+        "first_publish_date": 1879,
+        "item_id": "OL1077887W",
+        "title": "A lady's life in the Rocky Mountains"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Bird, Isabella L. (Isabella Lucy)",
+        "digital_release_date": "1996-12-01",
+        "item_id": "755",
+        "language": "en",
+        "title": "A Lady's Life in the Rocky Mountains"
+      },
+      "status": "PASS",
+      "work_id": "b1-adventure-007"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Brassey, Annie",
+        "first_publication_year": 1878,
+        "source_item_id": "14836",
+        "title": "A Voyage in the 'Sunbeam': Our Home on the Ocean for Eleven Months"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1878,
+        "first_publish_date": 1878,
+        "item_id": "OL7418534W",
+        "title": "A voyage in the 'Sunbeam'"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Brassey, Annie",
+        "digital_release_date": "2005-01-31",
+        "item_id": "14836",
+        "language": "en",
+        "title": "A Voyage in the 'Sunbeam', Our Home on the Ocean for Eleven Months"
+      },
+      "status": "PASS",
+      "work_id": "b1-adventure-008"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Stevenson, Robert Louis",
+        "first_publication_year": 1879,
+        "source_item_id": "535",
+        "title": "Travels with a donkey in the Cevennes"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1879,
+        "first_publish_date": 1879,
+        "item_id": "OL24153W",
+        "title": "Travels with a donkey in the Cevennes"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Stevenson, Robert Louis",
+        "digital_release_date": "1996-05-01",
+        "item_id": "535",
+        "language": "en",
+        "title": "Travels with a donkey in the Cevennes"
+      },
+      "status": "PASS",
+      "work_id": "b1-adventure-009"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Stevenson, Robert Louis",
+        "first_publication_year": 1878,
+        "source_item_id": "534",
+        "title": "An inland voyage"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1878,
+        "first_publish_date": 1878,
+        "item_id": "OL15923277W",
+        "title": "An Inland voyage"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Stevenson, Robert Louis",
+        "digital_release_date": "1996-05-01",
+        "item_id": "534",
+        "language": "en",
+        "title": "An inland voyage"
+      },
+      "status": "PASS",
+      "work_id": "b1-adventure-010"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Carroll, Lewis",
+        "first_publication_year": 1865,
+        "source_item_id": "11",
+        "title": "Alice's Adventures in Wonderland"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1865,
+        "first_publish_date": 1865,
+        "item_id": "OL138052W",
+        "title": "Alice's Adventures in Wonderland"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Carroll, Lewis",
+        "digital_release_date": "2008-06-27",
+        "item_id": "11",
+        "language": "en",
+        "title": "Alice's Adventures in Wonderland"
+      },
+      "status": "PASS",
+      "work_id": "b1-fantasy-001"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "MacDonald, George",
+        "first_publication_year": 1864,
+        "source_item_id": "697",
+        "title": "The Light Princess"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1926,
+        "first_publish_date": 1926,
+        "item_id": "OL15428W",
+        "title": "The light princess"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "MacDonald, George",
+        "digital_release_date": "1996-10-01",
+        "item_id": "697",
+        "language": "en",
+        "title": "The Light Princess"
+      },
+      "status": "PASS",
+      "work_id": "b1-fantasy-002"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Baum, L. Frank (Lyman Frank)",
+        "first_publication_year": 1900,
+        "source_item_id": "55",
+        "title": "The Wonderful Wizard of Oz"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1900,
+        "first_publish_date": 1900,
+        "item_id": "OL43110965W",
+        "title": "The Wonderful Wizard of Oz"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Baum, L. Frank (Lyman Frank)",
+        "digital_release_date": "1993-02-01",
+        "item_id": "55",
+        "language": "en",
+        "title": "The Wonderful Wizard of Oz"
+      },
+      "status": "PASS",
+      "work_id": "b1-fantasy-003"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Barrie, J. M. (James Matthew)",
+        "first_publication_year": 1911,
+        "source_item_id": "16",
+        "title": "Peter Pan : $b [Peter and Wendy]"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1911,
+        "first_publish_date": 1911,
+        "item_id": "OL462007W",
+        "title": "Peter Pan"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Barrie, J. M. (James Matthew)",
+        "digital_release_date": "2008-06-25",
+        "item_id": "16",
+        "language": "en",
+        "title": "Peter Pan : $b [Peter and Wendy]"
+      },
+      "status": "PASS",
+      "work_id": "b1-fantasy-004"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Nesbit, E. (Edith)",
+        "first_publication_year": 1902,
+        "source_item_id": "778",
+        "title": "Five Children and It"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1905,
+        "first_publish_date": 1905,
+        "item_id": "OL99499W",
+        "title": "Five Children and It"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Nesbit, E. (Edith)",
+        "digital_release_date": "1997-01-01",
+        "item_id": "778",
+        "language": "en",
+        "title": "Five Children and It"
+      },
+      "status": "PASS",
+      "work_id": "b1-fantasy-005"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Burroughs, Edgar Rice",
+        "first_publication_year": 1912,
+        "source_item_id": "62",
+        "title": "A princess of Mars"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1912,
+        "first_publish_date": 1912,
+        "item_id": "OL1418187W",
+        "title": "A Princess of Mars"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Burroughs, Edgar Rice",
+        "digital_release_date": "1993-04-01",
+        "item_id": "62",
+        "language": "en",
+        "title": "A princess of Mars"
+      },
+      "status": "PASS",
+      "work_id": "b1-fantasy-006"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wilde, Oscar",
+        "first_publication_year": 1888,
+        "source_item_id": "902",
+        "title": "The Happy Prince, and Other Tales"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1888,
+        "first_publish_date": 1888,
+        "item_id": "OL8269770W",
+        "title": "The Happy Prince and other tales"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wilde, Oscar",
+        "digital_release_date": "1997-05-01",
+        "item_id": "902",
+        "language": "en",
+        "title": "The Happy Prince, and Other Tales"
+      },
+      "status": "PASS",
+      "work_id": "b1-fantasy-007"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wilde, Oscar",
+        "first_publication_year": 1891,
+        "source_item_id": "873",
+        "title": "A House of Pomegranates"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1891,
+        "first_publish_date": 1891,
+        "item_id": "OL14877868W",
+        "title": "A House of Pomegranates"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wilde, Oscar",
+        "digital_release_date": "1997-04-01",
+        "item_id": "873",
+        "language": "en",
+        "title": "A House of Pomegranates"
+      },
+      "status": "PASS",
+      "work_id": "b1-fantasy-008"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Baum, L. Frank (Lyman Frank)",
+        "first_publication_year": 1904,
+        "source_item_id": "54",
+        "title": "The Marvelous Land of Oz"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1904,
+        "first_publish_date": 1904,
+        "item_id": "OL18396W",
+        "title": "The Marvelous Land of Oz"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Baum, L. Frank (Lyman Frank)",
+        "digital_release_date": "1993-02-01",
+        "item_id": "54",
+        "language": "en",
+        "title": "The Marvelous Land of Oz"
+      },
+      "status": "PASS",
+      "work_id": "b1-fantasy-009"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Grahame, Kenneth",
+        "first_publication_year": 1898,
+        "source_item_id": "1288",
+        "title": "Dream Days"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1898,
+        "first_publish_date": 1898,
+        "item_id": "OL40434226W",
+        "title": "Dream Days"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Grahame, Kenneth",
+        "digital_release_date": "1998-04-01",
+        "item_id": "1288",
+        "language": "en",
+        "title": "Dream Days"
+      },
+      "status": "PASS",
+      "work_id": "b1-fantasy-010"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Shelley, Mary Wollstonecraft",
+        "first_publication_year": 1818,
+        "source_item_id": "84",
+        "title": "Frankenstein; or, the modern prometheus"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1818,
+        "first_publish_date": 1818,
+        "item_id": "OL450063W",
+        "title": "Frankenstein; or, The Modern Prometheus"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Shelley, Mary Wollstonecraft",
+        "digital_release_date": "1993-10-01",
+        "item_id": "84",
+        "language": "en",
+        "title": "Frankenstein; or, the modern prometheus"
+      },
+      "status": "PASS",
+      "work_id": "b1-gothic-001"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Stoker, Bram",
+        "first_publication_year": 1897,
+        "source_item_id": "345",
+        "title": "Dracula"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1897,
+        "first_publish_date": 1897,
+        "item_id": "OL85892W",
+        "title": "Dracula"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Stoker, Bram",
+        "digital_release_date": "1995-10-01",
+        "item_id": "345",
+        "language": "en",
+        "title": "Dracula"
+      },
+      "status": "PASS",
+      "work_id": "b1-gothic-002"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Bront\u00eb, Charlotte",
+        "first_publication_year": 1847,
+        "source_item_id": "1260",
+        "title": "Jane Eyre: An Autobiography"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1847,
+        "first_publish_date": 1847,
+        "item_id": "OL1095427W",
+        "title": "Jane Eyre"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Bront\u00eb, Charlotte",
+        "digital_release_date": "1998-03-01",
+        "item_id": "1260",
+        "language": "en",
+        "title": "Jane Eyre: An Autobiography"
+      },
+      "status": "PASS",
+      "work_id": "b1-gothic-003"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Bront\u00eb, Emily",
+        "first_publication_year": 1847,
+        "source_item_id": "768",
+        "title": "Wuthering Heights"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1848,
+        "first_publish_date": 1848,
+        "item_id": "OL43008309W",
+        "title": "Wuthering heights"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Bront\u00eb, Emily",
+        "digital_release_date": "1996-12-01",
+        "item_id": "768",
+        "language": "en",
+        "title": "Wuthering Heights"
+      },
+      "status": "PASS",
+      "work_id": "b1-gothic-004"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Collins, Wilkie",
+        "first_publication_year": 1859,
+        "source_item_id": "583",
+        "title": "The Woman in White"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1859,
+        "first_publish_date": 1859,
+        "item_id": "OL176045W",
+        "title": "The Woman in White"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Collins, Wilkie",
+        "digital_release_date": "1996-07-01",
+        "item_id": "583",
+        "language": "en",
+        "title": "The Woman in White"
+      },
+      "status": "PASS",
+      "work_id": "b1-gothic-005"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "James, Henry",
+        "first_publication_year": 1898,
+        "source_item_id": "209",
+        "title": "The Turn of the Screw"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1898,
+        "first_publish_date": 1898,
+        "item_id": "OL276386W",
+        "title": "The Turn of the Screw"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "James, Henry",
+        "digital_release_date": "1995-02-01",
+        "item_id": "209",
+        "language": "en",
+        "title": "The Turn of the Screw"
+      },
+      "status": "PASS",
+      "work_id": "b1-gothic-006"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Walpole, Horace",
+        "first_publication_year": 1764,
+        "source_item_id": "696",
+        "title": "The Castle of Otranto"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1764,
+        "first_publish_date": 1764,
+        "item_id": "OL183675W",
+        "title": "The Castle of Otranto"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Walpole, Horace",
+        "digital_release_date": "1996-10-01",
+        "item_id": "696",
+        "language": "en",
+        "title": "The Castle of Otranto"
+      },
+      "status": "PASS",
+      "work_id": "b1-gothic-007"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Gilman, Charlotte Perkins",
+        "first_publication_year": 1892,
+        "source_item_id": "1952",
+        "title": "The Yellow Wallpaper"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1892,
+        "first_publish_date": 1892,
+        "item_id": "OL2772007W",
+        "title": "The Yellow Wallpaper"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Gilman, Charlotte Perkins",
+        "digital_release_date": "1999-11-01",
+        "item_id": "1952",
+        "language": "en",
+        "title": "The Yellow Wallpaper"
+      },
+      "status": "PASS",
+      "work_id": "b1-gothic-008"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Le Fanu, Joseph Sheridan",
+        "first_publication_year": 1871,
+        "source_item_id": "10007",
+        "title": "Carmilla"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1871,
+        "first_publish_date": 1871,
+        "item_id": "OL2895536W",
+        "title": "Carmilla"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Le Fanu, Joseph Sheridan",
+        "digital_release_date": "2003-11-01",
+        "item_id": "10007",
+        "language": "en",
+        "title": "Carmilla"
+      },
+      "status": "PASS",
+      "work_id": "b1-gothic-009"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wharton, Edith",
+        "first_publication_year": 1910,
+        "source_item_id": "4514",
+        "title": "Tales of Men and Ghosts"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1910,
+        "first_publish_date": 1910,
+        "item_id": "OL98582W",
+        "title": "Tales of Men and Ghosts"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wharton, Edith",
+        "digital_release_date": "2003-10-01",
+        "item_id": "4514",
+        "language": "en",
+        "title": "Tales of Men and Ghosts"
+      },
+      "status": "PASS",
+      "work_id": "b1-gothic-010"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Austen, Jane",
+        "first_publication_year": 1813,
+        "source_item_id": "1342",
+        "title": "Pride and Prejudice"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1813,
+        "first_publish_date": 1813,
+        "item_id": "OL66554W",
+        "title": "Pride and Prejudice"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Austen, Jane",
+        "digital_release_date": "1998-06-01",
+        "item_id": "1342",
+        "language": "en",
+        "title": "Pride and Prejudice"
+      },
+      "status": "PASS",
+      "work_id": "b1-social-001"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Austen, Jane",
+        "first_publication_year": 1811,
+        "source_item_id": "161",
+        "title": "Sense and Sensibility"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1811,
+        "first_publish_date": 1811,
+        "item_id": "OL66562W",
+        "title": "Sense and Sensibility"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Austen, Jane",
+        "digital_release_date": "1994-09-01",
+        "item_id": "161",
+        "language": "en",
+        "title": "Sense and Sensibility"
+      },
+      "status": "PASS",
+      "work_id": "b1-social-002"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Eliot, George",
+        "first_publication_year": 1871,
+        "source_item_id": "145",
+        "title": "Middlemarch"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1871,
+        "first_publish_date": 1871,
+        "item_id": "OL41592638W",
+        "title": "Middlemarch"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Eliot, George",
+        "digital_release_date": "1994-07-01",
+        "item_id": "145",
+        "language": "en",
+        "title": "Middlemarch"
+      },
+      "status": "PASS",
+      "work_id": "b1-social-003"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Eliot, George",
+        "first_publication_year": 1860,
+        "source_item_id": "6688",
+        "title": "The Mill on the Floss"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1902,
+        "first_publish_date": 1902,
+        "item_id": "OL16882630W",
+        "title": "The mill on the Floss"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Eliot, George",
+        "digital_release_date": "2004-10-01",
+        "item_id": "6688",
+        "language": "en",
+        "title": "The Mill on the Floss"
+      },
+      "status": "PASS",
+      "work_id": "b1-social-004"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Hardy, Thomas",
+        "first_publication_year": 1891,
+        "source_item_id": "110",
+        "title": "Tess of the d'Urbervilles: A Pure Woman"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1891,
+        "first_publish_date": 1891,
+        "item_id": "OL40434746W",
+        "title": "Tess of the D'Urbervilles"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Hardy, Thomas",
+        "digital_release_date": "1994-02-01",
+        "item_id": "110",
+        "language": "en",
+        "title": "Tess of the d'Urbervilles: A Pure Woman"
+      },
+      "status": "PASS",
+      "work_id": "b1-social-005"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Austen, Jane",
+        "first_publication_year": 1815,
+        "source_item_id": "158",
+        "title": "Emma"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1815,
+        "first_publish_date": 1815,
+        "item_id": "OL66513W",
+        "title": "Emma"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Austen, Jane",
+        "digital_release_date": "1994-08-01",
+        "item_id": "158",
+        "language": "en",
+        "title": "Emma"
+      },
+      "status": "PASS",
+      "work_id": "b1-social-006"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wharton, Edith",
+        "first_publication_year": 1905,
+        "source_item_id": "284",
+        "title": "The House of Mirth"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1905,
+        "first_publish_date": 1905,
+        "item_id": "OL98587W",
+        "title": "The House of Mirth"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wharton, Edith",
+        "digital_release_date": "1995-06-01",
+        "item_id": "284",
+        "language": "en",
+        "title": "The House of Mirth"
+      },
+      "status": "PASS",
+      "work_id": "b1-social-007"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Wharton, Edith",
+        "first_publication_year": 1920,
+        "source_item_id": "541",
+        "title": "The Age of Innocence"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1920,
+        "first_publish_date": 1920,
+        "item_id": "OL98491W",
+        "title": "The Age of Innocence"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Wharton, Edith",
+        "digital_release_date": "1996-05-01",
+        "item_id": "541",
+        "language": "en",
+        "title": "The Age of Innocence"
+      },
+      "status": "PASS",
+      "work_id": "b1-social-008"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Gaskell, Elizabeth Cleghorn",
+        "first_publication_year": 1854,
+        "source_item_id": "4276",
+        "title": "North and South"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1855,
+        "first_publish_date": 1855,
+        "item_id": "OL1103203W",
+        "title": "North and South"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Gaskell, Elizabeth Cleghorn",
+        "digital_release_date": "2003-07-01",
+        "item_id": "4276",
+        "language": "en",
+        "title": "North and South"
+      },
+      "status": "PASS",
+      "work_id": "b1-social-009"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Gaskell, Elizabeth Cleghorn",
+        "first_publication_year": 1851,
+        "source_item_id": "394",
+        "title": "Cranford"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1853,
+        "first_publish_date": 1853,
+        "item_id": "OL1103093W",
+        "title": "Cranford"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Gaskell, Elizabeth Cleghorn",
+        "digital_release_date": "1996-01-01",
+        "item_id": "394",
+        "language": "en",
+        "title": "Cranford"
+      },
+      "status": "PASS",
+      "work_id": "b1-social-010"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Crane, Stephen",
+        "first_publication_year": 1894,
+        "source_item_id": "73",
+        "title": "The Red Badge of Courage: An Episode of the American Civil War"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1894,
+        "first_publish_date": 1894,
+        "item_id": "OL43326141W",
+        "title": "the red badge of courage"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Crane, Stephen",
+        "digital_release_date": "1993-07-01",
+        "item_id": "73",
+        "language": "en",
+        "title": "The Red Badge of Courage: An Episode of the American Civil War"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b1-001"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Shelley, Mary Wollstonecraft",
+        "first_publication_year": 1826,
+        "source_item_id": "18247",
+        "title": "The Last Man"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1826,
+        "first_publish_date": 1826,
+        "item_id": "OL450124W",
+        "title": "The Last Man"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Shelley, Mary Wollstonecraft",
+        "digital_release_date": "2006-04-24",
+        "item_id": "18247",
+        "language": "en",
+        "title": "The Last Man"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b1-002"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Grey, Zane",
+        "first_publication_year": 1913,
+        "source_item_id": "502",
+        "title": "Desert Gold"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1913,
+        "first_publish_date": 1913,
+        "item_id": "OL485420W",
+        "title": "Desert Gold"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Grey, Zane",
+        "digital_release_date": "1996-04-01",
+        "item_id": "502",
+        "language": "en",
+        "title": "Desert Gold"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b1-003"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Burnett, Frances Hodgson",
+        "first_publication_year": 1910,
+        "source_item_id": "17396",
+        "title": "The Secret Garden"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1911,
+        "first_publish_date": 1911,
+        "item_id": "OL69612W",
+        "title": "The Secret Garden"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Burnett, Frances Hodgson",
+        "digital_release_date": "2005-12-26",
+        "item_id": "17396",
+        "language": "en",
+        "title": "The Secret Garden"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b1-004"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Montgomery, L. M. (Lucy Maud)",
+        "first_publication_year": 1926,
+        "source_item_id": "67979",
+        "title": "The Blue Castle: a novel"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1926,
+        "first_publish_date": 1926,
+        "item_id": "OL77775W",
+        "title": "The blue castle"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Montgomery, L. M. (Lucy Maud)",
+        "digital_release_date": "2022-05-03",
+        "item_id": "67979",
+        "language": "en",
+        "title": "The Blue Castle: a novel"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b1-005"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Braddon, M. E. (Mary Elizabeth)",
+        "first_publication_year": 1861,
+        "source_item_id": "8954",
+        "title": "Lady Audley's Secret"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1862,
+        "first_publish_date": 1862,
+        "item_id": "OL1490133W",
+        "title": "Lady Audley's secret"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Braddon, M. E. (Mary Elizabeth)",
+        "digital_release_date": "2005-09-01",
+        "item_id": "8954",
+        "language": "en",
+        "title": "Lady Audley's Secret"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b1-006"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Von Arnim, Elizabeth",
+        "first_publication_year": 1922,
+        "source_item_id": "16389",
+        "title": "The Enchanted April"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1922,
+        "first_publish_date": 1922,
+        "item_id": "OL8202750W",
+        "title": "The Enchanted April"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Von Arnim, Elizabeth",
+        "digital_release_date": "2005-07-29",
+        "item_id": "16389",
+        "language": "en",
+        "title": "The Enchanted April"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b1-007"
+    },
+    {
+      "checks": {
+        "creator_match": true,
+        "evidence_exact": true,
+        "first_year_ok": true,
+        "item_match": true,
+        "language_match": true,
+        "rights_match": true,
+        "stored_raw_fields": true,
+        "title_match": true,
+        "translation_rights": true
+      },
+      "errors": [],
+      "expected": {
+        "author": "Grahame, Kenneth",
+        "first_publication_year": 1908,
+        "source_item_id": "289",
+        "title": "The Wind in the Willows"
+      },
+      "publication_catalog": {
+        "checks": {
+          "catalog_date_source_exact": true,
+          "catalog_pre_1930": true,
+          "claimed_not_after_catalog": true,
+          "fetch": true,
+          "first_publish_date_present": true,
+          "title_match": true,
+          "url_exact": true
+        },
+        "date_source": "exact_key_search",
+        "error": null,
+        "first_publication_year": 1908,
+        "first_publish_date": 1908,
+        "item_id": "OL38891874W",
+        "title": "The Wind in the Willows"
+      },
+      "raw_catalog": {
+        "copyright": "Public domain in the USA.",
+        "creator": "Grahame, Kenneth",
+        "digital_release_date": "1995-07-01",
+        "item_id": "289",
+        "language": "en",
+        "title": "The Wind in the Willows"
+      },
+      "status": "PASS",
+      "work_id": "reserve-b1-008"
+    }
+  ],
+  "schema_version": "1.0",
+  "state": "READY"
+}

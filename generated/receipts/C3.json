@@ -1,0 +1,27 @@
+{
+  "owner": "rights_sources",
+  "status": "complete",
+  "commit": "c9139710b30ed2af7f6309f7df3518aebbf66dc3",
+  "changed": [
+    "tools/audit_bibliography.py",
+    "schemas/bibliography_shard.json",
+    "tests/test_bibliography_audit.py",
+    "generated/receipts/C3.json"
+  ],
+  "checks": [
+    "python -m py_compile tools/audit_bibliography.py",
+    "python -m unittest tests/test_bibliography_audit.py (14 tests)",
+    "wrong-language RDF rejects",
+    "stored raw title/creator mismatch rejects",
+    "historical translation with named translator and PD_US_CONFIRMED passes",
+    "duplicate ID/title/source row fails",
+    "atomic CLI output preserves mtime on identical rerun",
+    "deterministic sorted audit"
+  ],
+  "result": "pass",
+  "blockers": [],
+  "dependencies_unlocked": [
+    "bibliography-auditor-ready"
+  ],
+  "proposals": []
+}
